@@ -2800,4 +2800,3 @@ Transcendent Mind	1			100					2	Transcendent Mind	imrn,qty=1						Transcendent M
 Empowered Spirit	1			100					2	Empowered Spirit	imrn,qty=1						Empowered Spirit			100																																																																																				0
 Tempered Flesh	1			100					2	Tempered Flesh	imrn,qty=1						Tempered Flesh			100																																																																																				0
 One With Nothing	1			100					2	One With Nothing	imrn,qty=1						One With Nothing			100																																																																																				0
-Test	1			100					1	key,qty=1							Glacial Mist																																																																																							0
