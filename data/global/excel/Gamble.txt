@@ -163,5 +163,7 @@ reflex bow	am2
 maiden spear	am3
 maiden pike	am4
 maiden javelin	am5
-amulet	amu
+rustic belt	mrb
+Splendid Round Shield	srs
 ring	rin
+amulet	amu

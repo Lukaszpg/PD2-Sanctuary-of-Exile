@@ -354,7 +354,7 @@ Ravenlore	100	1		1	1	82	74	dre	sky spirit			3	5000	dgld	dgld						ac%		120	150	r
 Boneshade	100	1		1	1	84	79	7bw	lich wand			3	5000	dgry	dgry		invbwnu				nec		2	2	cast2		25	25	skill	Teeth	4	5	skill	Bone Armor	4	5	skill	Bone Spear	2	3	skill	Bone Spirit	2	2	skill	Bone Wall	2	3																					0
 Nethercrow	100			1							 	3	5000	cblu	cblu																																																						0
 Flamebellow	100	1		1	1	79	71	7gs	balrog blade			3	5000	cred	cred		invgisu				dmg%		170	240	dmg-fire		233	482	fireskill		3	3	swing2		40	40	hit-skill	Firestorm	16	22	str		10	20	vit		5	10	aura	102	24	28													splash	358	100	1	0
-Fathom	100	1		1	1	81	73	obf	dimensional shard			3	5000	lblu							allskills		3	3	extra-cold		20	30	cast2		20	20	res-fire		25	40	res-ltng		25	40	heal-kill		2	5																									0
+Fathom	100	1		3	1	81	73	obf	dimensional shard			3	5000	lblu							allskills		3	3	extra-cold		20	30	cast2		20	20	res-fire		25	40	res-ltng		25	40	heal-kill		2	5																									0
 Wolfhowl	100	1		1	1	85	79	bac	fury visor			3	5000	cred	cred						ac%		120	150	skilltab	14	2	3	str		10	15	dex		10	15	oskill	223	4	6	oskill	237	12	15	oskill	232	4	6																					0
 Spirit Ward	100	1		1	1	76	68	uts	ward			3	5000	dblu	dblu		invgtsu				ac%		130	180	abs-cold		6	11	res-all		20	30	block		20	30	block2		25	25	gethit-skill	Lesser Fade	35	10	randclassskill2		0	6																					0
 Kira's Guardian	100	1		1	1	85	77	ci2	tiara			3	5000	blac	blac						ac		50	120	res-all		25	40	nofreeze		1	1	balance2		20	20	pierce-ltng		10	15	pierce-cold		10	15	pierce-fire		10	15																					0
@@ -455,10 +455,10 @@ Sacred Totem	100	1		1	1	72	64	neg	Hellspawn Skull			5	5000	lblu			invgoblinhead	
 Imperial Palace Map	100	1		0	1	80	80	t54	t54			5	5000				invmap_imppalace				map-glob-density		200	225	map-play-addxp		10	20	map-play-mag-gold%		100	150	map-mon-hp%		15	25	map-glob-monsterrarity		50	50	map-mon-phys-as-extra-mag		10	15	map-mon-curseresist-hp%		50	50	map-play-ac%		-40	-50	map-glob-arealevel		1	1	map-mon-deadlystrike		4	6	map-glob-boss-droppuzzlebox		1	1	map-glob-add-mon-fetish		785	785	0
 Outer Void Map	100	1		0	1	80	80	t55	t55			5	5000				invmap_outervoid				map-glob-density		80	100	map-play-addxp		30	40	map-play-mag-gold%		200	300	map-mon-phys-as-extra-pois	125	20	30	map-mon-phys-as-extra-cold	25	20	30	map-play-speed-all		40	60	map-play-ac%		-50	-50	map-mon-regen		80	120	map-mon-att-pierce		50	50	map-glob-boss-dropubermats		1	1									0
 Cains	100	1		0	1	99	85	cm1	charm			3	5000			flpmss	invcnws	item_gem	12	item_gem	addxp		200	250																																													0
-Original Sin	100	1		0	0	131	90	rin	Ring	1	1	5	5000				invsin				all-ele-pierce		40	50	item-extramasteryfrompierce	594	1	1	pierce-mag		40	50	state	dcloneset	1	1																																	0
-Kratos Fury	100	1		15	1	87	75	mgb	Mythic Belt	1		5	5000				invlrzg				ac%		100	120	hp%		5	10	swing1		20	25	deadly		20	25	lifesteal		6	8	hit-skill	234	50	25																									0
-Mageblood Base	100	1		5	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				allskills		1	1	ac%		150	200	res-all-max		3	3	res-all		25	25	red-mag		15	15	red-dmg%		15	15	red-dmg		15	15																					0
-Mageblood 3	100	1		3	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				allskills		1	1	ac%		150	200	res-all-max		3	3	res-all		25	25	red-mag		15	15	red-dmg%		15	15	red-dmg		15	15	curse-effectiveness		25	25	curse-res		25	25													0
+Original Sin	100	1		0	0	131	90	rin	Ring	1	1	5	5000				invsin				all-ele-pierce		40	50	item-extramasteryfrompierce	594	1	1	pierce-mag		40	50	state	dcloneset	1	1	pierce-phys		40	50																													0
+Kratos Fury	100	1		34	1	87	75	mgb	Mythic Belt	1		5	5000				invlrzg				ac%		100	120	hp%		5	10	swing1		20	25	deadly		20	25	hit-skill	51	50	35																													0
+Mageblood Base	100	1		3	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				allskills		1	1	ac%		150	200	res-all-max		3	3	res-all		25	25	red-mag		15	15	red-dmg%		15	15	red-dmg		15	15																					0
+Mageblood 3	100	1		2	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				allskills		1	1	ac%		150	200	res-all-max		3	3	res-all		25	25	red-mag		15	15	red-dmg%		15	15	red-dmg		15	15	curse-effectiveness		25	25	curse-res		25	25													0
 Mageblood 4	100	1		1	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				allskills		1	1	ac%		150	200	res-all-max		3	3	res-all		25	25	red-mag		15	15	red-dmg%		15	15	red-dmg		15	15	curse-effectiveness		25	25	curse-res		25	25	res-pois-len		100	100	nofreeze		1	1					0
 Voices 1	100	1		0	1	131	90	cm1	charm	1		3	5000				invvcs				allskills		1	1	corrupt		1	1																																									0
 Voices 2	100	1		0	1	131	90	cm1	charm	1		3	5000				invvcs				allskills		2	2	corrupt		1	1																																									0
@@ -467,7 +467,14 @@ Voices 4	100	1		0	1	131	90	cm1	charm	1		3	5000				invvcs				allskills		4	4	corru
 Defiance of Destiny	100	1		1	1	87	90	amu	amulet	1		3	5000				invdefd				abs-fire%		10	15	abs-ltng%		10	15	abs-cold%		10	15	abs-mag%		10	15	hp		80	100	res-all		15	25	gethit-skill	Bone Armor	10	25																					0
 Nihlathaks Malice	100	1		1	1	87	80	7wd	mythical sword	1		5	5000	dpur			invnhml				dmg%		280	320	dmg-cold	250	250	500	swing2		30	30	allskills		2	2	hit-skill	Frost Nova	50	50	pierce-cold		10	15	extra-cold		15	15																	splash	358	100	1	0
 Transcendent Mind	100	1		1	1	87	90	mjw	mythic jewel	1		3	5000				invtrmn				item-elemasterypermana	595	1	1	mana%		10	15																																									0
-Empowered Spirit	100	1		1	1	87	90	mjw	mythic jewel	1		3	5000				invemsp				item-msiasfromar	596	1	1	dex		30	45																																									0
-Tempered Flesh	100	1		1	1	87	90	mjw	mythic jewel	1		3	5000				invtrfl				item-edfromstr	597	1	1	str		30	45																																									0
-One With Nothing	100	1		1	1	87	90	mjw	mythic jewel	1		3	5000				invown				item-csfromattr	598	1	1	dex		40	50	str		40	50																																					0
+Empowered Spirit	100	1		1	1	87	90	mjw	mythic jewel	1		3	5000				invemsp				item-msiasfromar	596	1	1	dex		30	60																																									0
+Tempered Flesh	100	1		1	1	87	90	mjw	mythic jewel	1		3	5000				invtrfl				item-edfromstr	597	1	1	str		40	50																																									0
+One With Nothing	100	1		1	1	87	90	mjw	mythic jewel	1		3	5000				invown				item-csfromattr	598	1	1	dex		30	90																																									0
 Astramentis	100	1		1	1	87	80	amu	amulet	1		3	5000				invastr				str		50	75	dex		50	75	enr		50	75	vit		50	75	item-increaseattr	599	1	1																													0
+Akarats Rage	100	1		1	1	85	80	jew	jewel			3	5000				invakrg				dmg%		40	40	swing3		15	15	deadly		5	8																																					0
+The Squire	100	1		1	1	87	85	ers	elegant round shield	1		5	5000				invsqre				ac%		100	150	block2		25	25	allskills		2	2	block		25	25	dmg%		180	200	sock		4	4	item-physperstrattr	600	1	1																					0
+The Oppressor	100	1		8	1	82	70	ers	elegant round shield	1		5	5000				invoppr				ac%		150	200	block2		35	35	block		35	35	block-skill	Weaken	35	10	slow		25	25	res-all		20	25	red-mag		12	15																					0
+Manastorm	100	1		1	1	55	50	bqs	baroque round shield			5	5000				invmnst				mana-kill		2	4	regen-mana		15	20	mana%		15	20	mana		50	75	item-lightmasterymanaconvert	601	1	1	ac%		100	150																									0
+Rathmas Hand	100	1		0	1	131	80	7gw	Unearthed Wand	1		3	5000	dgry			invrthn				allskills		2	2	cast2		25	25	skill	Bone Spear	3	4	extra-bonespear-teeth		3	4	pierce-mag		10	20																													0
+Glacial Mist	100	1		1	1	87	85	obf	dimensional shard			3	5000	dblu	dblu						allskills		2	2	extra-cold		20	30	cast2		25	25	blizzard-reduction		12	12	skill	Blizzard	3	4	mana%		15	20																									0
+Blaze of Glory	100	1		1	1	87	85	obf	dimensional shard			3	5000	dred	dred						allskills		2	2	pierce-fire		15	20	cast2		25	25	combustion-reduction		50	50	skill	Combustion	3	4																													0

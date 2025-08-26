@@ -245,5 +245,7 @@ originalsinaura	242									1																																																			
 transcendent_mind	243									1																																																													0
 empowered_spirit	244					1				1																																																													0
 tempered_flesh	245					1				1																																																													0
-one_with_nothing	245									1																																																													0
-increase_attr_state	245									1																																																													0
+one_with_nothing	246									1																																																													0
+increase_attr_state	247									1																																																													0
+physperstraura	248									1																																																													0
+manastorm_passive	249									1																																																													0

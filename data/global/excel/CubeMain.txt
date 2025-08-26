@@ -2156,9 +2156,9 @@ Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor,eli	"divo,q
 Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
 Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
 Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
-Divine Orb + 15 jewel fragments = random rainbow facet	1			100					2	"divo,qty=1"	"jewf,qty=15"						jew,uni	85																																																																																						0
-3x Divine Orb + magic mythical jewel = random unique mythical jewel	1			100					2	"divo,qty=3"	mjw,mag						mjw,uni	87																																																																																						0
-3x Divine Orb + rare mythical jewel = random unique mythical jewel	1			100					2	"divo,qty=3"	mjw,rar						mjw,uni	87																																																																																						0
+Divine Orb + 5 jewel fragments = random unique regular jewel	1			100					2	"divo,qty=1"	"jewf,qty=5"						jew,uni	85																																																																																						0
+5x Divine Orb + magic mythical jewel = random unique mythical jewel	1			100					2	"divo,qty=5"	mjw,mag						mjw,uni	87																																																																																						0
+5x Divine Orb + rare mythical jewel = random unique mythical jewel	1			100					2	"divo,qty=5"	mjw,rar						mjw,uni	87																																																																																						0
 																																																																																																								0
 DIVINE ORB RINGS ROLLING																																																																																																								0
 																																																																																																								0
@@ -2358,16 +2358,6 @@ Remove socket contents Shield	1			100					2	"shld"	"lmal,qty=1"						useitem,rem
 Remove socket contents Amulet	1			100					2	amul	"lmal,qty=1"						useitem,rem			100																																																																																				0
 Remove socket contents Belt	1			100					2	belt	"lmal,qty=1"						useitem,rem			100																																																																																				0
 																																																																																																								0
-LARZUK'S MALUS CHEAT UNSOCKET RECIPES																																																																																																								0
-Remove socket contents 2H	1			100					2	"2han"	key,qty=1						useitem,rem			100																																																																																				0
-Remove socket contents Bow	1			100					2	"bow"	key,qty=1						useitem,rem			100																																																																																				0
-Remove socket contents Xbow	1			100					2	"xbow"	key,qty=1						useitem,rem			100																																																																																				0
-Remove socket contents Weapon	1			100					2	"weap"	key,qty=1						useitem,rem			100																																																																																				0
-Remove socket contents Helmet	1			100					2	"helm"	key,qty=1						useitem,rem			100																																																																																				0
-Remove socket contents Torso	1			100					2	"tors"	key,qty=1						useitem,rem			100																																																																																				0
-Remove socket contents Shield	1			100					2	"shld"	key,qty=1						useitem,rem			100																																																																																				0
-Remove socket contents Amulet	1			100					2	amul	key,qty=1						useitem,rem			100																																																																																				0
-Remove socket contents Belt	1			100					2	belt	key,qty=1						useitem,rem			100																																																																																				0
 																																																																																																								0
 UNIQUE MIRRORING RECIPES																																																																																																								0
 Mirror unique non-corrupted armor	1			100	18	361	0		2	armo,uni	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
@@ -2741,73 +2731,73 @@ Pandemonium key - PD2	1		2	100	28	1			1	"pk1,qty=1"							useitem															
 Pandemonium key - PD2	1		2	100	28	1			1	"pk2,qty=1"							useitem																																																																																							0
 Pandemonium key - PD2	1		2	100	28	1			1	"pk3,qty=1"							useitem																																																																																							0
 																																																																																																								0
-RESHAPING ORB																																																																																																								0
-Reshape 2H	1			100	18	361	0		2	2han,uni	reso,qty=1						usetype,uni	99																																																																																						0
-Reshape 2H Eth	1			100	18	361	0		2	2han,uni,eth	reso,qty=1						usetype,uni	99			ethereal	100		1	1																																																																															0
-Reshape Bow	1			100	18	361	0		2	bow,uni	reso,qty=1						usetype,uni	99																																																																																						0
-Reshape Bow Eth	1			100	18	361	0		2	bow,uni	reso,qty=1						usetype,uni	99			ethereal	100		1	1																																																																															0
-Reshape Xbow	1			100	18	361	0		2	xbow,uni	reso,qty=1						usetype,uni	99																																																																																						0
-Reshape Xbow Eth	1			100	18	361	0		2	xbow,uni	reso,qty=1						usetype,uni	99			ethereal	100		1	1																																																																															0
-Reshape Weapon	1			100	18	361	0		2	weap,uni	reso,qty=1						usetype,uni	99																																																																																						0
-Reshape Weapon Eth	1			100	18	361	0		2	weap,uni	reso,qty=1						usetype,uni	99			ethereal	100		1	1																																																																															0
-Reshape Helmet	1			100	18	361	0		2	helm,uni	reso,qty=1						usetype,uni	99																																																																																						0
-Reshape Helmet Eth	1			100	18	361	0		2	helm,uni	reso,qty=1						usetype,uni	99			ethereal	100		1	1																																																																															0
-Reshape Body Armour	1			100	18	361	0		2	tors,uni	reso,qty=1						usetype,uni	99																																																																																						0
-Reshape Body Armour Eth	1			100	18	361	0		2	tors,uni	reso,qty=1						usetype,uni	99			ethereal	100		1	1																																																																															0
-Reshape Shield	1			100	18	361	0		2	shld,uni	reso,qty=1						usetype,uni	99																																																																																						0
-Reshape Shield Eth	1			100	18	361	0		2	shld,uni	reso,qty=1						usetype,uni	99			ethereal	100		1	1																																																																															0
-Reshape Belt	1			100	18	361	0		2	belt,uni	reso,qty=1						usetype,uni	99																																																																																						0
-Reshape Mythical Jewel	1			100	18	361	0		2	jew,uni	reso,qty=1						jew,uni	99																																																																																						0
-Reshape Regular Jewel	1			100	18	361	0		2	mjw,uni	reso,qty=1						mjw,uni	99																																																																																						0
+ETERNAL ORB RE-ROLLING																																																																																																								0
+Reroll unique Mythical Jewel	0			100	18	361	0		2	jew,uni	reso,qty=1						jew,uni	99																																																																																						0
+Reroll unique Regular Jewel	0			100	18	361	0		2	mjw,uni	reso,qty=1						mjw,uni	99																																																																																						0
+Mageblood Base	0			100	18	361	0		2	Mageblood Base	reso,qty=1						mgb,uni			100																																																																																				0
+Mageblood 3	0			100	18	361	0		2	Mageblood 3	reso,qty=1						mgb,uni			100																																																																																				0
+Mageblood 4	0			100	18	361	0		2	Mageblood 4	reso,qty=1						mgb,uni			100																																																																																				0
+Kratos Fury	0			100	18	361	0		2	Kratos Fury	reso,qty=1						mgb,uni			100																																																																																				0
+Templar's Might	0			100	18	361	0		2	Templar's Might	reso,qty=1						uar,uni			100																																																																																				0
+Tyrael's Might	0			100	18	361	0		2	Tyrael's Might	reso,qty=1						uar,uni			100																																																																																				0
+Nightwing's Veil	0			100	18	361	0		2	Nightwing's Veil	reso,qty=1						uhm,uni			100																																																																																				0
+Veil of Steel	0			100	18	361	0		2	Veil of Steel	reso,qty=1						uhm,uni			100																																																																																				0
+Schaefer's Hammer	0			100	18	361	0		2	Schaefer's Hammer	reso,qty=1						7wh,uni			100																																																																																				0
+Stone Crusher	0			100	18	361	0		2	Stone Crusher	reso,qty=1						7wh,uni			100																																																																																				0
+Heaven's Light	0			100	18	361	0		2	Heaven's Light	reso,qty=1						7sc,uni			100																																																																																				0
+The Reedeemer	0			100	18	361	0		2	The Reedeemer	reso,qty=1						7sc,uni			100																																																																																				0
+Lightsabre	0			100	18	361	0		2	Lightsabre	reso,qty=1						7cr,uni			100																																																																																				0
+Azurewrath	0			100	18	361	0		2	Azurewrath	reso,qty=1						7cr,uni			100																																																																																				0
+Horizon's Tornado	0			100	18	361	0		2	Horizon's Tornado	reso,qty=1						7fl,uni			100																																																																																				0
+Stormlash	0			100	18	361	0		2	Stormlash	reso,qty=1						7fl,uni			100																																																																																				0
+Earthshifter	0			100	18	361	0		2	Earthshifter	reso,qty=1						7gm,uni			100																																																																																				0
+The Cranium Basher	0			100	18	361	0		2	The Cranium Basher	reso,qty=1						7gm,uni			100																																																																																				0
 																																																																																																								0
-RESHAPING ORB AMULET ROLLING - PHASE 1																																																																																																								0
-Reshaping Orb + Unique amulet roll	1	2		100	18	361	0		2	amu,uni	reso,qty=1						useitem	99			corruptnum	100		7000	7021																					reso,qty=1																																																										0
+ETERNAL ORB AMULET ROLLING - PHASE 1																																																																																																								0
+Reshaping Orb + Unique amulet roll	0	2		100	18	361	0		2	amu,uni	reso,qty=1						useitem	99			corruptnum	100		7000	7021																					reso,qty=1																																																										0
 																																																																																																								0
-RESHAPING ORB AMULET ROLLING - OUTCOME																																																																																																								0
-The Rising Sun	1			100	16	361	7004		2	amu,uni	reso,qty=1						The Rising Sun	99																																																																																						0
-Highlord's Wrath	1			100	16	361	7009		2	amu,uni	reso,qty=1						Highlord's Wrath	99																																																																																						0
-Mara's Kaleidoscope	1			100	16	361	7014		2	amu,uni	reso,qty=1						Mara's Kaleidoscope	99																																																																																						0
-Seraph's Hymn	1			100	16	361	7017		2	amu,uni	reso,qty=1						Seraph's Hymn	99																																																																																						0
-Metalgrid	1			100	16	361	7019		2	amu,uni	reso,qty=1						Metalgrid	99																																																																																						0
-Defiance of Destiny	1			100	16	361	7020		2	amu,uni	reso,qty=1						Defiance of Destiny	99																																																																																						0
-Astramentis	1			100	16	361	7021		2	amu,uni	reso,qty=1						Astramentis	99																																																																																						0
+ETERNAL ORB AMULET ROLLING - OUTCOME																																																																																																								0
+The Rising Sun	0			100	16	361	7004		2	amu,uni	reso,qty=1						The Rising Sun	99																																																																																						0
+Highlord's Wrath	0			100	16	361	7009		2	amu,uni	reso,qty=1						Highlord's Wrath	99																																																																																						0
+Mara's Kaleidoscope	0			100	16	361	7014		2	amu,uni	reso,qty=1						Mara's Kaleidoscope	99																																																																																						0
+Seraph's Hymn	0			100	16	361	7017		2	amu,uni	reso,qty=1						Seraph's Hymn	99																																																																																						0
+Metalgrid	0			100	16	361	7019		2	amu,uni	reso,qty=1						Metalgrid	99																																																																																						0
+Defiance of Destiny	0			100	16	361	7020		2	amu,uni	reso,qty=1						Defiance of Destiny	99																																																																																						0
+Astramentis	0			100	16	361	7021		2	amu,uni	reso,qty=1						Astramentis	99																																																																																						0
 																																																																																																								0
-RESHAPING ORB RING  ROLLING - PHASE 1																																																																																																								0
-Reshaping Orb + Unique Ring roll	1	2		100	18	361	0		2	ring,uni	reso,qty=1						useitem	99			corruptnum	100		7000	7006																					reso,qty=1																																																										0
+ETERNAL ORB RING ROLLING																																																																																																								0
+Reshaping Orb + Unique Ring roll	0	2		100	18	361	0		2	ring,uni	reso,qty=1						useitem	99			corruptnum	100		7000	7006																					reso,qty=1																																																										0
 																																																																																																								0
-RESHAPING ORB RING ROLLING - OUTCOME																																																																																																								0
-The Stone of Jordan	1			100	16	361	7000		2	ring,uni	reso,qty=1						The Stone of Jordan	99																																																																																						0
-Bul Katho's Wedding Band	1			100	16	361	7001		2	ring,uni	reso,qty=1						Bul Katho's Wedding Band	99																																																																																						0
-Nature's Peace	1			100	16	361	7004		2	ring,uni	reso,qty=1						Nature's Peace	99																																																																																						0
-Constricting Loop	1			100	16	361	7005		2	ring,uni	reso,qty=1						Constricting Ring	99																																																																																						0
-Wisp Projector	1			100	16	361	7006		2	ring,uni	reso,qty=1						Wisp	99																																																																																						0
+ETERNAL ORB RING ROLLING - OUTCOME																																																																																																								0
+The Stone of Jordan	0			100	16	361	7000		2	ring,uni	reso,qty=1						The Stone of Jordan	99																																																																																						0
+Bul Katho's Wedding Band	0			100	16	361	7001		2	ring,uni	reso,qty=1						Bul Katho's Wedding Band	99																																																																																						0
+Nature's Peace	0			100	16	361	7004		2	ring,uni	reso,qty=1						Nature's Peace	99																																																																																						0
+Constricting Loop	0			100	16	361	7005		2	ring,uni	reso,qty=1						Constricting Ring	99																																																																																						0
+Wisp Projector	0			100	16	361	7006		2	ring,uni	reso,qty=1						Wisp	99																																																																																						0
 																																																																																																								0
-JEWELLER'S ORB																																																																																																								0
+JEWELLER'S PRISM																																																																																																								0
 Upgrade magic regular jewel to rare	1			100					2	jew,mag	jewp,qty=1						jew,rar			100																																																																																				0
 Upgrade magic mythical jewel to rare	1			100					2	mjw,mag	jewp,qty=1						mjw,rar			100																																																																																				0
 																																																																																																								0
 MYTHICAL JEWEL RE-ROLL																																																																																																								0
-Perfect Amethysts + Magic	1								2	mjw,mag	"gpvs,qty=3"						mjw,mag,reg			100																																																																																				0
-Perfets Topazes + Magic	1								2	mjw,mag	"gpys,qty=3"						mjw,mag,reg			100																																																																																				0
-Perfect Skulls + Magic	1								2	mjw,mag	"skzs,qty=3"						mjw,mag,reg			100																																																																																				0
-Perfect Rubys + Magic	1								2	mjw,mag	"gprs,qty=3"						mjw,mag,reg			100																																																																																				0
-Perfect Diamonds + Magic	1								2	mjw,mag	"gpws,qty=3"						mjw,mag,reg			100																																																																																				0
-Perfect Sapphires + Magic	1								2	mjw,mag	"gpbs,qty=3"						mjw,mag,reg			100																																																																																				0
-Perfect Emeralds + Magic	1								2	mjw,mag	"gpgs,qty=3"						mjw,mag,reg			100																																																																																				0
-Perfect Amethysts + Rare	1								2	mjw,rar	"gpvs,qty=3"						mjw,rar,reg			100																																																																																				0
-Perfets Topazes + Rare	1								2	mjw,rar	"gpys,qty=3"						mjw,rar,reg			100																																																																																				0
-Perfect Skulls + Rare	1								2	mjw,rar	"skzs,qty=3"						mjw,rar,reg			100																																																																																				0
-Perfect Rubys + Rare	1								2	mjw,rar	"gprs,qty=3"						mjw,rar,reg			100																																																																																				0
-Perfect Diamonds + Rare	1								2	mjw,rar	"gpws,qty=3"						mjw,rar,reg			100																																																																																				0
-Perfect Sapphires + Rare	1								2	mjw,rar	"gpbs,qty=3"						mjw,rar,reg			100																																																																																				0
-Perfect Emeralds + Rare	1								2	mjw,rar	"gpgs,qty=3"						mjw,rar,reg			100																																																																																				0
+Perfect Amethysts + Magic	1			100					2	mjw,mag	"gpvs,qty=3"						mjw,mag,reg			100																																																																																				0
+Perfets Topazes + Magic	1			100					2	mjw,mag	"gpys,qty=3"						mjw,mag,reg			100																																																																																				0
+Perfect Skulls + Magic	1			100					2	mjw,mag	"skzs,qty=3"						mjw,mag,reg			100																																																																																				0
+Perfect Rubys + Magic	1			100					2	mjw,mag	"gprs,qty=3"						mjw,mag,reg			100																																																																																				0
+Perfect Diamonds + Magic	1			100					2	mjw,mag	"gpws,qty=3"						mjw,mag,reg			100																																																																																				0
+Perfect Sapphires + Magic	1			100					2	mjw,mag	"gpbs,qty=3"						mjw,mag,reg			100																																																																																				0
+Perfect Emeralds + Magic	1			100					2	mjw,mag	"gpgs,qty=3"						mjw,mag,reg			100																																																																																				0
+Perfect Amethysts + Rare	1			100					2	mjw,rar	"gpvs,qty=3"						mjw,rar,reg			100																																																																																				0
+Perfets Topazes + Rare	1			100					2	mjw,rar	"gpys,qty=3"						mjw,rar,reg			100																																																																																				0
+Perfect Skulls + Rare	1			100					2	mjw,rar	"skzs,qty=3"						mjw,rar,reg			100																																																																																				0
+Perfect Rubys + Rare	1			100					2	mjw,rar	"gprs,qty=3"						mjw,rar,reg			100																																																																																				0
+Perfect Diamonds + Rare	1			100					2	mjw,rar	"gpws,qty=3"						mjw,rar,reg			100																																																																																				0
+Perfect Sapphires + Rare	1			100					2	mjw,rar	"gpbs,qty=3"						mjw,rar,reg			100																																																																																				0
+Perfect Emeralds + Rare	1			100					2	mjw,rar	"gpgs,qty=3"						mjw,rar,reg			100																																																																																				0
 																																																																																																								0
-																																																																																																								0
-Test	1			100					1	key,qty=1							mjw,mag	86																												mjw,rar	86																																																									0
-Test	1			100					2	key,qty=1	tbk						jew,rar	86																												mjw,mag	85																												mjw,rar	85																												0
-Test	1			100					2	key,qty=1	ibk						mjw,rar	86																												mjw,mag	86																																																									0
-Test1	1			100					2	mjw,rar	tbk						usetype,rar			100																										tbk																																																										0
-Test1	1			100					2	jew,mag	tbk						usetype,mag			100																										tbk																																																										0
-Test1	1			100					2	jew,rar	tbk						usetype,rar			100																										tbk																																																										0
-Test1	1			100					2	mjw,mag	tbk						usetype,mag			100																										tbk																																																										0
-																																																																																																								0
+MYTHICAL UNIQUE JEWEL RE-ROLL																																																																																																								0
+Transcendent Mind	1			100					2	Transcendent Mind	imrn,qty=1						Transcendent Mind			100																																																																																				0
+Empowered Spirit	1			100					2	Empowered Spirit	imrn,qty=1						Empowered Spirit			100																																																																																				0
+Tempered Flesh	1			100					2	Tempered Flesh	imrn,qty=1						Tempered Flesh			100																																																																																				0
+One With Nothing	1			100					2	One With Nothing	imrn,qty=1						One With Nothing			100																																																																																				0
+Test	1			100					1	key,qty=1							Glacial Mist																																																																																							0

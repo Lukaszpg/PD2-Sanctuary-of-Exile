@@ -293,11 +293,11 @@ item_absorb_ltng_bytime	290		1	22										4		0	1024		22	0	22	0			6			item_absor
 item_absorb_pois_bytime	291		1	22										4		0	1024		22	0	22	0			6			item_absorbmagic																								0
 item_find_gold_bytime	292		1	22										4		0	1024		22	0	22	0			6			item_goldbonus											180	18	2	ModStr1w	ModStr1w									0
 item_find_magic_bytime	293		1	22										4		0	1024		22	0	22	0			6			item_magicbonus											180	18	1	ModStr1x	ModStr1x									0
-item_regenstamina_bytime	294		1	22										4		0	1024		22	0	22	0			6			staminarecoverybonus											180	18	2	ModStr3v	ModStr3v									0
-item_stamina_bytime	295		1	22										4		0	1024		22	0	22	0			6			maxstamina											180	17	1	ModStr5d	ModStr5d									0
-item_damage_demon_bytime	296		1	22										4		0	1024		22	0	22	0			6			item_demondamage_percent						1					180	18	1	ModStr4e	ModStr4e									0
-item_damage_undead_bytime	297		1	22										4		0	1024		22	0	22	0			6			item_undeaddamage_percent						1					180	18	1	ModStr4f	ModStr4f									0
-item_tohit_demon_bytime	298		1	22										4		0	1024		22	0	22	0			6			item_demon_tohit						1					180	17	1	ModStr4j	ModStr4j									0
+combustionreduction	294		1	5													1024		6		6																		150	3	0	StrCombustionCdReduction	StrCombustionCdReduction									0
+blizzardreduction	295		1	5													1024		6		6																		150	3	0	StrBlizzardCdReduction	StrBlizzardCdReduction									0
+extra_bonespear_teeth	296		1	5													1024		6		5																		240	9	2	StrBoneSpearFork	StrBoneSpearFork	ExtraSpears								0
+item_lightmasterymanaconvert	297		1								1						1024		7	0	10	0												1					180	3	0	StrLightMasteryManaConvert	StrLightMasteryManaConvert									0
+item_physperstrattr	298		1								1						1024		7	0	10	0												1					180	3	0	StrPhysPerStrAttr	StrPhysPerStrAttr									0
 item_increaseattr	299		1								1						1024		7	0	10	0	12																204	3	0	StrIncAllAttr	StrIncAllAttr									0
 item_csfromattr	300		1								1						1024		7	0	10	0	12																204	3	0	StrCsFromAttr	StrCsFromAttr									0
 item_edfromstr	301		1								1						1024		7	0	10	0	12																204	3	0	StrEdFromStrength	StrEdFromStrength									0
