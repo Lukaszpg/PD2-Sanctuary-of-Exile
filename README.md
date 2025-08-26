@@ -17,7 +17,7 @@ This mod is an extension to my another project, [Project Diablo 2: Single Player
 
 ## Multiplayer
 
-Most likely will not work properly even in TCP/IP.
+This mod was not made with multiplayer games in mind and was not tested. Most likely will not work properly in TCP/IP.
 
 ## How to install
 
