@@ -3,9 +3,9 @@
 
 Discord: https://discord.gg/CwN2s6AHSZ
 
-Newest release download: https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/tag/v11.0.0
+Newest release download: https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/tag/v11.0.1
 
-Version 11.0.0 major release patch notes: 
+Version 11.0.0 major release patch notes: https://docs.google.com/document/d/1-VGTFIX8nkiNZibouLa1EBEZHzze7bje6_Pm9eps_ck/edit?tab=t.0
 
 ## Known bugs
 
