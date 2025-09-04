@@ -1039,9 +1039,8 @@ LucionChestHigh		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Run
 Demonic Cube N				20000	100																											
 Demonic Cube NM				10000	100																											
 Demonic Cube H				1000	1																											
-UberDiablo			-1						UberDiabloRareUniques	1																						
-UberDiabloRareUniques			1						Overlords Helm	1	Dark Abyss	1	Aidans Scar	1	Itheraels Path	1	Hadriels Hand	1	dcma	15												
-RathmaNew			1						The Third Eye	1	Band of Skulls	1	Cage of the Unsullied	1	Rathmas Hand	1	rtma	16														
-UberLucion			-2						UberLucionUniques	1	UberLucionVoices	1																				
-UberLucionUniques			1						Original Sin	1	luca	49																				
+UberDiablo			1					0	Overlords Helm	1	Dark Abyss	1	Aidans Scar	1	Itheraels Path	1	Hadriels Hand	1	dcma	15												
+RathmaNew			1					0	The Third Eye	1	Band of Skulls	1	Cage of the Unsullied	1	Rathmas Hand	1	rtma	16														
+UberLucionUniques			1					0	Original Sin	1	luca	49																				
 UberLucionVoices			1					45	Voices 1	33	Voices 2	15	Voices 3	5	Voices 4	2																
+UberLucion			-2					0	UberLucionUniques	1	UberLucionVoices	1																				
