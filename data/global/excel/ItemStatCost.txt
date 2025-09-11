@@ -96,7 +96,7 @@ item_fasterattackrate	93	1	1	9											1042	156	1024		7	20	7	20												1		
 item_levelreqpct	94																1024		7	20	7	64			13			item_levelreq																								0
 lastblockframe	95																1024		6	20																																0
 item_fastermovevelocity	96	1	1	9											4083	156	1024		7	20	7	20																	148	4	1	ModStr4s	ModStr4s									0
-item_nonclassskill	97		1	15	9						1			1	181	327	1024		7	20	6	0	9																81	28												0
+item_nonclassskill	97		1	16	9						1			1	181	327	1024		7	20	6	0	12																81	28												0
 state	98	1		1	8						1				415	64	1024		6	20	1		8																													0
 item_fastergethitrate	99	1	1	9											1065	72	1024		7	20	7	20																	139	4	1	ModStr4p	ModStr4p									0
 monster_playercount	100																1024		7	20																																0
@@ -106,7 +106,7 @@ skill_bypass_undead	103			1													1024		7	20																														
 skill_bypass_demons	104			1													1024		6	20																																0
 item_fastercastrate	105	1	1	9											3876	156	1024		7	20	7	20																	142	4	1	ModStr4v	ModStr4v									0
 skill_bypass_beasts	106			1													1024		7	20																																0
-item_singleskill	107		1	15	9						1			1	181	256	1024		14	0	3	0	9																81	27												0
+item_singleskill	107		1	16	9						1			1	181	256	1024		14	0	3	0	12																81	27												0
 item_restinpeace	108			1							1				1987	0	1024		14	0	1	0												1	kill	29			81	3	0	ModitemSMRIP	ModitemSMRIP									0
 curse_resistance	109			9											159	33	1024		14	0	9	0																	100	2	1	ModReduceCurseDuration	ModReduceCurseDuration									0
 item_poisonlengthresist	110		1	9											27	10	1024		8	20	8	20																	18	2	2	ModStr3r	ModStr3r									0
@@ -150,7 +150,7 @@ item_absorbmagic	147		1	7											1739	204	1024		7	0	7	0																	33	1	
 item_absorbcold_percent	148		1	7											5486	102	1024		7	0	7	0																	25	2	2	ModStr5m	ModStr5m									0
 item_absorbcold	149		1	7											1739	204	1024		7	0	7	0																	31	1	1	ModStr5n	ModStr5n									0
 item_slow	150		1	7							1				101	40	1024		7	0	7	0												1	domeleedamage	19	domissiledamage	19	77	2	2	ModStr5r	ModStr5r									0
-item_aura	151		1								1						1024		7	0	5	0	9																159	16	0	ModitemAura	ModitemAura									0
+item_aura	151		1								1						1024		7	0	5	0	12																159	16	0	ModitemAura	ModitemAura									0
 item_indesctructible	152		1	1													1024		7	0	1																		160	3	0	ModStre9s	ModStre9s									0
 item_cannotbefrozen	153		1	2											15011	2048	1024		1		1																		20	3	0	ModStr5z	ModStr5z									0
 item_staminadrainpct	154		1	7											102	20	1024		7	20	7	20												1					49	2	1	ModStr6e	ModStr6e									0
