@@ -12,6 +12,7 @@ Version 11.0.0 major release patch notes: https://docs.google.com/document/d/1-V
 ## Known bugs
 
 * Eternal Coin does not have a name in the inventory
+* Making corrupted items sacred can sometimes crash the game
 
 ## About this mod
 
