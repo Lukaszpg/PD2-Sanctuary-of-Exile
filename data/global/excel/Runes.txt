@@ -176,9 +176,9 @@ Runeword17	Crescent Moon	1		pole	spea								ShaelUmTir	r13	r22	r03				pierce-lt
 Ferocity	Ferocity	1		helm									ZodChamShael	r33	r32	r13				hit-skill	Taunt	12	10	lifesteal		10	12	oskill	Zeal	18	18	ac%		150	200	red-mag		6	12	Thorns		200	250					0
 Runeword171	Dominion	1		wand									ChamOhm	r32	r27					skill	Golem Mastery	2	3	cast2		25	25	red-dmg		5	7	res-cold		30	30	nec		2	2	ac		300	450	extra-golem		1	1	0
 Zenith	Zenith	1		miss	spea	pole	staf	2hsw					JahZodOrtThulRal	r31	r33	r09	r10	r08		dmg%		225	300	aura	Salvation	10	12	swing2		40	40	move2		20	20	allskills		2	2	dmg-elem	100	360	420					0
-Rampage	Rampage	1		staf	spea	pole							ShaelElIthEth	r13	r01	r06	r05			dmg%		120	145	swing2		45	45	res-fire		25	25	balance2		20	20													
-Neophyte	Neophyte	1		scep	club	sorc	h2h	h2h2					ThulTir	r10	r03					half-freeze		1	1	red-dmg		2	4	cast2		30	30	res-pois-len		25	25													
-Neophyte2	Neophyte	1		staf									ThulTir	r10	r03					half-freeze		1	1	red-dmg		4	6	cast2		40	40	res-pois-len		25	25													
+Rampage	Rampage	1		staf	spea	pole							ShaelElIthEth	r13	r01	r06	r05			dmg%		120	145	swing2		45	45	res-fire		25	25	balance2		20	20													0
+Neophyte	Neophyte	1		scep	club	sorc	h2h	h2h2					ThulTir	r10	r03					half-freeze		1	1	red-dmg		2	4	cast2		30	30	res-pois-len		25	25													0
+Neophyte2	Neophyte	1		staf									ThulTir	r10	r03					half-freeze		1	1	red-dmg		4	6	cast2		40	40	res-pois-len		25	25													0
 Wind Staff	Wind	1		staf						mele	thro		SurEl	r29	r01					dmg%		320	380	swing2		40	40	move2		20	30	reduce-ac		50	50	cast-skill	245	18	35	cast-skill	240	18	35	cast-skill	Cyclone Armor	5	9	0
 Phoenix Staff	Phoenix	1		staf									VexVexLoJah	r26	r26	r28	r31			dmg%		400	450	ac-miss		350	400	cast-skill	Firestorm	20	40	levelup-skill	Blaze	100	40	pierce-fire		28	28	aura	Redemption	10	12	abs-fire		15	21	0
 Shattered Wall	Shattered Wall	1		pala									ZodJahRalCham	r33	r31	r08	r32			ac%		160	200	aura	Holy Freeze	16	16	block2		60	60	mana-kill		5	5	dmg-cold	50	200	250	hp		50	100					0
@@ -193,3 +193,5 @@ Rapture	Rapture	1		hamm									VexJahLoTirKoMal	r26	r31	r28	r08	r18	r23	dmg%		2
 Epiphany	Epiphany	1		shld									LoIthLoIst	r28	r06	r28	r24			equipped-skill	Energy Shield SelfAura	18	18	all-stats		10	15	cast2		20	20	gethit-skill	Static Field	25	27	mana%		28	35	res-pois		40	55	dmg-ltng		1	750	0
 Loyalty Bow	Loyalty	1		miss									PulTirDol	r21	r03	r14				dmg%		200	245	skill	strafe	2	3	skill	dopplezon	2	3	cast2		60	60	pierce		20	20	skilltab	1	2	2	mana-kill		2	2	0
 Wind Throwable	Wind	1		thro									SurEl	r29	r01					dmg%		220	280	swing2		40	40	move2		20	30	reduce-ac		50	50	hit-skill	245	18	35	hit-skill	240	18	35	gethit-skill	Cyclone Armor	5	9	0
+Desolation	Desolation	1		weap									BerVexBer	r30	r26	r30				dmg%		250	300	pierce-phys		20	30	swing2		30	30	aura	Frailty	18	18	deadly		25	25									0
+Tailwind	Tailwind	1		boot									TalIstSur	r07	r24	r29				swing2		25	25	cast2		25	25	move2		25	25	gethit-skill	Blaze	20	30	ac%		80	100									0

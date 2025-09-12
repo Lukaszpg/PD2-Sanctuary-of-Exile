@@ -249,3 +249,4 @@ one_with_nothing	246									1																																																		
 increase_attr_state	247									1																																																													0
 physperstraura	248									1																																																													0
 manastorm_passive	249									1																																																													0
+frailty	250					1																																						dclone_aura	dclone_t8_aura																		paladin_aura_purification								0
