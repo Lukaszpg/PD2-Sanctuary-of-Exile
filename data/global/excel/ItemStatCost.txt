@@ -290,9 +290,9 @@ item_resist_pois_bytime	287		1	22										4		0	1024		22	0	22	0			6			poisonresi
 item_absorb_cold_bytime	288		1	22										4		0	1024		22	0	22	0			6			item_absorbcold											180	18	1	ModStre9p	ModStre9p									0
 item_absorb_fire_bytime	289		1	22										4		0	1024		22	0	22	0			6			item_absorbfire											180	18	1	ModStre9o	ModStre9o									0
 item_absorb_ltng_bytime	290		1	22										4		0	1024		22	0	22	0			6			item_absorblight											180	18	1	ModStre9q	ModStre9q									0
-item_absorb_pois_bytime	291		1	22										4		0	1024		22	0	22	0			6			item_absorbmagic																								0
-item_find_gold_bytime	292		1	22										4		0	1024		22	0	22	0			6			item_goldbonus											180	18	2	ModStr1w	ModStr1w									0
-item_find_magic_bytime	293		1	22										4		0	1024		22	0	22	0			6			item_magicbonus											180	18	1	ModStr1x	ModStr1x									0
+item_nonclassskill_hidden	291		1	15	9						1			1	181	327	1024		7	20	6	0	16																													0
+item_sacred	292		1	5													1024		6		6																		250	3	0	StrSacred	StrSacred									0
+chiseled_hidden	293		1	5													1024		6		6																		250	3	0	StrChiseled	StrChiseled									0
 combustionreduction	294		1	5													1024		6		6																		150	3	0	StrCombustionCdReduction	StrCombustionCdReduction									0
 blizzardreduction	295		1	5													1024		6		6																		150	3	0	StrBlizzardCdReduction	StrBlizzardCdReduction									0
 extra_bonespear_teeth	296		1	5													1024		6		5																		240	9	2	StrBoneSpearFork	StrBoneSpearFork	ExtraSpears								0
