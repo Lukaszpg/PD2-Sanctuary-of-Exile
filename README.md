@@ -11,8 +11,12 @@ Version 11.0.0 major release patch notes: https://docs.google.com/document/d/1-V
 
 ## Known bugs
 
-* Eternal Coin does not have a name in the inventory
-* Making corrupted items sacred can sometimes crash the game
+- Eternal Coin does not have a name in the inventory
+    - No known solution for now
+- Making corrupted items sacred can sometimes crash the game
+    - No know solution for now. Make item's sacred before corrupting
+- Using catalyst shard on a map before chiseling it will make map unable to be chiseled
+    - Always chisel the map as last step 
 
 ## About this mod
 
