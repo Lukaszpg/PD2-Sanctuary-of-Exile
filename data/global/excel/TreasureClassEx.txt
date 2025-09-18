@@ -1054,6 +1054,7 @@ Runes 16 dungeon			1						r31s	3	r32s	2	Runes 15 dungeon	632
 Runes 17 dungeon			1						r33s	1	Runes 16 dungeon	827																				
 Dungeon Cpot		85	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																
 Dungeon Chisels		87	1					0	ccsa	45	ccpl	30	ccpr	25																		
+Dungeon Orb of Intention		87	1					2	ooin	1																						
 Dungeon Sacred Orb		87	1					0	sror	1																						0
 Dungeon Orbs		87	1					1	divo	3	Dungeon Sacred Orb	1																				0
 Dungeon Good		87	1						Jewelry C	120	Perfect Gem	6	Runes 17 dungeon	28	T3 Map Drop	8	Dungeon Orbs	5	Boxes	7	scrb	3	Dungeon Chisels	6								0
