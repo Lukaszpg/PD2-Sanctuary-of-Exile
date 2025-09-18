@@ -2362,7 +2362,7 @@ Remove socket contents Torso	1			100					2	"tors"	"lmal,qty=1"						useitem,rem	
 Remove socket contents Shield	1			100					2	"shld"	"lmal,qty=1"						useitem,rem			100																																																																																				0
 Remove socket contents Amulet	1			100					2	amul	"lmal,qty=1"						useitem,rem			100																																																																																				0
 Remove socket contents Belt	1			100					2	belt	"lmal,qty=1"						useitem,rem			100																																																																																				0
-																																																																																																								0
+Remove socket contents Boots	1			100					2	boot	"lmal,qty=1"						useitem,rem			100																																																																																				0
 																																																																																																								0
 UNIQUE MIRRORING RECIPES																																																																																																								0
 Mirror unique non-corrupted armor	1			100	18	361	0		2	armo,uni	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
@@ -2877,8 +2877,8 @@ Sacred Orb of Stone	1			100	18	292	0		2	tors,uni	sr07,qty=1						useitem			100	r
 Sacred Orb of Stone - Crafted	1			100	18	292	0		2	tors,crf	sr07,qty=1						useitem			100	res-all	100		15	15	str-and-vit	100		10	16	balance3	100		60	60	ac%	100		250	340	sacred	100		1	1																																																											0
 Sacred Orb of Gloom	1			100	18	292	0		2	tors,uni	sr08,qty=1						useitem			100	res-all	100		45	45	gethit-skill	100	71	15	9	ac%	100		170	230	curse-effectiveness	100		20	20	sacred	100		1	1																																																											0
 Sacred Orb of Gloom - Crafted	1			100	18	292	0		2	tors,crf	sr08,qty=1						useitem			100	res-all	100		45	45	gethit-skill	100	71	15	9	ac%	100		170	230	curse-effectiveness	100		20	20	sacred	100		1	1																																																											0
-Sacred Orb of Bone	1			100	18	292	0		2	tors,uni	sr09,qty=1						useitem			100	res-all	100		30	30	red-dmg	100		7	7	hit-skill	100	84	30	25	nec	100		2	2	sacred	100		1	1																																																											0
-Sacred Orb of Bone - Crafted	1			100	18	292	0		2	tors,crf	sr09,qty=1						useitem			100	res-all	100		30	30	red-dmg	100		7	7	hit-skill	100	84	30	25	nec	100		2	2	sacred	100		1	1																																																											0
+Sacred Orb of Bone	1			100	18	292	0		2	tors,uni	sr09,qty=1						useitem			100	res-all	100		30	30	red-dmg	100		7	7	hit-skill	100	603	30	25	nec	100		2	2	sacred	100		1	1																																																											0
+Sacred Orb of Bone - Crafted	1			100	18	292	0		2	tors,crf	sr09,qty=1						useitem			100	res-all	100		30	30	red-dmg	100		7	7	hit-skill	100	603	30	25	nec	100		2	2	sacred	100		1	1																																																											0
 Sacred Orb of Prudence	1			100	18	292	0		2	tors,uni	sr10,qty=1						useitem			100	res-all	100		25	35	red-dmg	100		5	13	red-mag	100		6	10	cast2	100		40	40	sacred	100		1	1																																																											0
 Sacred Orb of Prudence - Crafted	1			100	18	292	0		2	tors,crf	sr10,qty=1						useitem			100	res-all	100		25	35	red-dmg	100		5	13	red-mag	100		6	10	cast2	100		40	40	sacred	100		1	1																																																											0
 Sacred Orb of Rain	1			100	18	292	0		2	tors,uni	sr11,qty=1						useitem			100	hit-skill	100	240	20	25	gethit-skill	100	235	8	15	red-mag	100		7	7	dru	100		2	2	sacred	100		1	1																																																											0
@@ -3089,6 +3089,11 @@ Sacred Orb of Kingslayer	1			100	18	292	0		2	swor,uni	sr57,qty=1						useitem			
 Sacred Orb of Kingslayer - Crafted	1			100	18	292	0		2	swor,crf	sr57,qty=1						useitem			100	dmg-cold	100	50	250	500	swing2	100		30	30	oskill	100	111	10	10	dmg%	100		230	270	sacred	100		1	1																																																											0
 Sacred Orb of Kingslayer	1			100	18	292	0		2	axe,uni	sr57,qty=1						useitem			100	dmg-cold	100	50	250	500	swing2	100		30	30	oskill	100	111	10	10	dmg%	100		230	270	sacred	100		1	1																																																											0
 Sacred Orb of Kingslayer - Crafted	1			100	18	292	0		2	axe,crf	sr57,qty=1						useitem			100	dmg-cold	100	50	250	500	swing2	100		30	30	oskill	100	111	10	10	dmg%	100		230	270	sacred	100		1	1																																																											0
+Sacred Orb of White	1			100	18	292	0		2	wand,uni	sr74,qty=1						useitem			100	red-mag	100		4	4	mana	100		13	13	skill	60	68	2	3	skilltab	40	7	2	2	sacred	100		1	1																																																											0
+Sacred Orb of White - Crafted	1			100	18	292	0		2	wand,crf	sr74,qty=1						useitem			100	red-mag	100		4	4	mana	100		13	13	skill	60	68	2	3	skilltab	40	7	2	2	sacred	100		1	1																																																											0
+Sacred Orb of Desolation	1			100	18	292	0		2	weap,uni	sr75,qty=1						useitem			100	pierce-phys	100		20	30	aura	100	602	18	18	dmg%	100		250	300	deadly	100		25	25	sacred	100		1	1																																																											0
+Sacred Orb of Desoltion - Crafted	1			100	18	292	0		2	weap,crf	sr75,qty=1						useitem			100	pierce-phys	100		20	30	aura	100	602	18	18	dmg%	100		250	300	deadly	100		25	25	sacred	100		1	1																																																											0
+																																																																																																								0
 ### NOT IMPLEMENTED YET ###																																																																																																								0
 Sacred Orb of Rift	0			100	18	292	0		2	weap,uni	sr58,qty=1						useitem			100																																																																																				0
 Sacred Orb of Oath	0			100	18	292	0		2	weap,uni	sr59,qty=1						useitem			100																																																																																				0
@@ -3106,13 +3111,6 @@ Sacred Orb of Purity	0			100	18	292	0		2	weap,uni	sr70,qty=1						useitem			100	
 Sacred Orb of Spirit (weapon)	0			100	18	292	0		2	weap,uni	sr71,qty=1						useitem			100																																																																																				0
 Sacred Orb of Zephyr	0			100	18	292	0		2	weap,uni	sr72,qty=1						useitem			100																																																																																				0
 ### NOT IMPLEMENTED YET ###																																																																																																								0
-Sacred Orb of White	1			100	18	292	0		2	wand,uni	sr74,qty=1						useitem			100	red-mag	100		4	4	mana	100		13	13	skill	60	68	2	3	skilltab	40	7	2	2	sacred	100		1	1																																																											0
-Sacred Orb of White - Crafted	1			100	18	292	0		2	wand,crf	sr74,qty=1						useitem			100	red-mag	100		4	4	mana	100		13	13	skill	60	68	2	3	skilltab	40	7	2	2	sacred	100		1	1																																																											0
-Sacred Orb of Desolation	1			100	18	292	0		2	weap,uni	sr75,qty=1						useitem			100	pierce-phys	100		20	30	aura	100	602	18	18	dmg%	100		250	300	deadly	100		25	25	sacred	100		1	1																																																											0
-Sacred Orb of Desoltion - Crafted	1			100	18	292	0		2	weap,crf	sr75,qty=1						useitem			100	pierce-phys	100		20	30	aura	100	602	18	18	dmg%	100		250	300	deadly	100		25	25	sacred	100		1	1																																																											0
-																																																																																																								0
-ADDITIONAL MAP RECIPES																																																																																																								0
-Reroll T4 Dungeon with Infused Horadrim Orb	1			100	18	361	0		2	"t4me,rar"	"rrra,qty=1"						"usetype,rar"			100																																																																																				0
 																																																																																																								0
 CARTOGRAPHER'S CHISEL																																																																																																								0
 																																																																																																								0
@@ -3167,8 +3165,45 @@ Cartohrapher's Chisel - Tier 3	1	4		100	18	293	0		2	t3me,rar	ccpl,qty=1						use
 Cartohrapher's Chisel - Tier 4	1	4		100	18	293	0		2	t4me,rar	ccpl,qty=1						useitem			100	map-play-mag-gold%	100		100	100	chiseled-hidden	100		1	1																																																																										0
 																																																																																																								0
 PUZZLEBOX ADDITIONAL RECIPES																																																																																																								0
-Puzzlebox boots	1			100					2	boot,eli	lbox,qty=1						useitem,uns			100	sock			1	2																																																																															0
 																																																																																																								0
-PUZZLEPIECES ADDITIONAL RECIPES																																																																																																								0
-Puzzlepiece boots	1			100					2	boot,eli	lpp,qty=1						useitem,uns			100	sock			1	2																																																																															0
+Puzzlebox normal boots	1			100					2	boot,bas	lbox,qty=1						useitem,uns			100	sock			1	1																																																																															0
+Puzzlebox exceptional boots	1			100					2	boot,exc	lbox,qty=1						useitem,uns			100	sock			1	1																																																																															0
+Puzzlebox elite boots	1			100					2	boot,eli	lbox,qty=1						useitem,uns			100	sock			1	2																																																																															0
 																																																																																																								0
+PUZZLEPIECE ADDITIONAL RECIPES																																																																																																								0
+																																																																																																								0
+Puzzlepiece normal boots	1			100					2	boot,bas	lpp,qty=1						useitem,uns			100	sock			1	1																																																																															0
+Puzzlepiece exceptional boots	1			100					2	boot,exc	lpp,qty=1						useitem,uns			100	sock			1	1																																																																															0
+Puzzlepiece elite boots	1			100					2	boot,eli	lpp,qty=1						useitem,uns			100	sock			1	2																																																																															0
+																																																																																																								0
+ORB OF INTENTION																																																																																																								0
+																																																																																																								0
+Magic small charm	0			100					2	cm1,mag	ooin,qty=1						usetype,mag			105																																																																																				0
+Magic large charm	0			100					2	cm2,mag	ooin,qty=1						usetype,mag			105																																																																																				0
+Magic grand charm	0			100					2	cm3,mag	ooin,qty=1						usetype,mag			105																																																																																				0
+Armor - magic	0			100					2	armo,mag	ooin,qty=1						usetype,mag			105																																																																																				0
+Armor - rare	0			100					2	armo,rar	ooin,qty=1						usetype,rar			105																																																																																				0
+Armor - crafted	0			100					2	armo,crf	ooin,qty=1						usetype,crf			105																																																																																				0
+Weapon - magic	0			100					2	weap,mag	ooin,qty=1						usetype,mag			105																																																																																				0
+Weapon - rare	0			100					2	weap,rar	ooin,qty=1						usetype,rar			105																																																																																				0
+Weapon - crafted	0			100					2	weap,crf	ooin,qty=1						usetype,crf			105																																																																																				0
+Ring - magic	0			100					2	rin,mag	ooin,qty=1						usetype,mag			105																																																																																				0
+Ring - rare	0			100					2	rin,rar	ooin,qty=1						usetype,rar			105																																																																																				0
+Ring - crafted	0			100					2	rin,crf	ooin,qty=1						usetype,crf			105																																																																																				0
+Amulet - magic	0			100					2	amul,mag	ooin,qty=1						usetype,mag			105																																																																																				0
+Amulet - rare	0			100					2	amul,rar	ooin,qty=1						usetype,rar			105																																																																																				0
+Amulet - crafted	0			100					2	amul,crf	ooin,qty=1						usetype,crf			105																																																																																				0
+Shields - magic	0			100					2	shld,mag	ooin,qty=1						usetype,mag			105																																																																																				0
+Shields - rare	0			100					2	shld,rar	ooin,qty=1						usetype,rar			105																																																																																				0
+Shields - crafted	0			100					2	shld,crf	ooin,qty=1						usetype,crf			105																																																																																				0
+Jewels - magic	0			100					2	jwl,mag	ooin,qty=1						usetype,mag			105																																																																																				0
+Jewels - rare	0			100					2	jwl,rar	ooin,qty=1						usetype,rar			105																																																																																				0
+Mythic Jewels - magic	0			100					2	mjw,mag	ooin,qty=1						usetype,mag			105																																																																																				0
+Mythic Jewels - rare	0			100					2	mjw,rar	ooin,qty=1						usetype,rar			105																																																																																				0
+Arrows - magic	0			100					2	aqv,mag	ooin,qty=1						usetype,mag			105																																																																																				0
+Arrows - rare	0			100					2	aqv,rar	ooin,qty=1						usetype,rar			105																																																																																				0
+Arrows - crafted	0			100					2	aqv,crf	ooin,qty=1						usetype,crf			105																																																																																				0
+Bolts - magic	0			100					2	cqv,mag	ooin,qty=1						usetype,mag			105																																																																																				0
+Bolts - rare	0			100					2	cqv,rar	ooin,qty=1						usetype,rar			105																																																																																				0
+Bolts - crafted	0			100					2	cqv,crf	ooin,qty=1						usetype,crf			105																																																																																				0
+Test	1			100					1	key,qty=1							lbt	99																												wss,qty=2																													xlb	99																												0
