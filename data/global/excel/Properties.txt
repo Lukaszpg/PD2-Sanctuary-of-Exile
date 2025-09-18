@@ -452,3 +452,5 @@ combustion-reduction	1			1	combustionreduction																														0
 oskill-hidden	1			22	item_nonclassskill_hidden																										Skill	min level	max level		0
 sacred	1			1	item_sacred																														0
 chiseled-hidden	1			1	chiseled_hidden																														0
+youre-worthy	1			1	item_worthy																														0
+pierce-light-mastery-per-str	1			22	item_skillonequip			22	item_piercelightmaspierstr																										0
