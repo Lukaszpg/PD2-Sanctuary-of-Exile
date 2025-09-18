@@ -1,8 +1,8 @@
 {
-  "date": "Sep 12 2025",
-  "version": "11.1.0",
-  "latestPatchNotes": "https://docs.google.com/document/d/1Yr5Xt6PaQ-p2xt49UL-pk0baLCidpfd1eAAGGzl2lxE/edit?usp=sharing",
-  "dataChecksum":"28674ce22d7fc73db82b4a3dc19e7bd0a4005b1e9fa957905bb4fc6da628d599",
+  "date": "Sep 18 2025",
+  "version": "11.1.1",
+  "latestPatchNotes": "https://docs.google.com/document/d/1fHHlUw3oHrRP7gIEcs49nZDvsX4IkT5paqTMKynBXYI/edit?usp=sharing",
+  "dataChecksum":"779719d035150bc0a6233ffa78a41a73c743c5adfa2dd578f54ca4d568dcdef3",
   "dataBhChecksum":"812b667744accd451062a0bc241c56efc237cecf56958d925bfe127de4fec3df",
   "dataPDDllChecksum":"a53501ba638de2fb976da69ba1b372f3166893e8fdb172b66eed5deade5effcb"
 }
