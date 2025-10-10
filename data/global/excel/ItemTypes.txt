@@ -239,4 +239,4 @@ Heavy Shield	hshi			1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		0							arm
 Medium Shield	mshi			1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		0							armo	0
 Light Shield	lshi			1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		0							armo	0
 New Orbs	norb			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0							misc	0
-Mythic Jewel	mjwg	jewl	sock	0	0					0	0	0	0	1	1	0	0	1	0	0	0	0	0	1		0		4	invpjwl	invpjwl2	invpjwl3	invpjwl4			misc	0
+Mythic Jewel	mjwg	jewl	sock	0	0					0	0	0	0	1	1	0	0	1	0	0	0	0	0	1		0		3	invpjwl	invpjwl2	invpjwl3				misc	0
