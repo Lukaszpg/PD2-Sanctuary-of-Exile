@@ -252,3 +252,5 @@ manastorm_passive	249					1				1																																																
 frailty	250					1				1																																		desolation_front	desolation_back																		paladin_aura_purification								0
 mjolneraura	251					1				1																																																													0
 reinforce	252																																											shrine_armor	shrine_shimmer01																										0
+crush_to_deadly	253					1				1																																																													0
+divinejudgement	254															1																																			hpregen																				0

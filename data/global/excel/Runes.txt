@@ -193,7 +193,7 @@ Rapture	Rapture	1		hamm									VexJahLoTirKoMal	r26	r31	r28	r08	r18	r23	dmg%		2
 Epiphany	Epiphany	1		shld									LoIthLoIst	r28	r06	r28	r24			equipped-skill	Energy Shield SelfAura	18	18	all-stats		10	15	cast2		20	20	gethit-skill	Static Field	25	27	mana%		28	35	res-pois		40	55	dmg-ltng		1	750	0
 Loyalty Bow	Loyalty	1		miss									PulTirDol	r21	r03	r14				dmg%		200	245	skill	strafe	2	3	skill	dopplezon	2	3	cast2		60	60	pierce		20	20	skilltab	1	2	2	mana-kill		2	2	0
 Wind Throwable	Wind	1		thro									SurEl	r29	r01					dmg%		220	280	swing2		40	40	move2		20	30	reduce-ac		50	50	hit-skill	245	18	35	hit-skill	240	18	35	gethit-skill	Cyclone Armor	5	9	0
-Desolation	Desolation	1		weap									BerVexBer	r30	r26	r30				dmg%		250	280	pierce-phys		20	25	swing2		30	30	aura	Frailty	16	16	deadly		25	25									0
+Desolation	Desolation	1		weap									BerVexBer	r30	r26	r30				dmg%		250	280	pierce-phys		15	20	swing2		30	30	aura	Frailty	10	14	deadly		25	25									0
 Tailwind	Tailwind	1		boot									TalIstSur	r07	r24	r29				swing2		25	25	cast2		25	25	move2		25	25	gethit-skill	Blaze	20	30	ac%		80	100									0
 Visions	Visions	1		helm									ChamOhmBer	r32	r27	r30				hp		80	100	hp%		5	7	aura	Conviction	8	10	dmg%		40	50	heal-kill		3	5	crush		15	20					0
 Penance	Penance	1		helm									LoJahOhm	r28	r31	r27				hit-skill	76	6	30	ac-miss		200	200	balance2		20	30	ac%		200	300													0

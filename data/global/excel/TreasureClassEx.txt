@@ -3,7 +3,7 @@ Gold			1						gld	1																						0
 Jewelry A			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
 Jewelry B			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
 Jewelry C			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
-Map currency			1						ccsa	40	ccpl	30	ccpr	15	scrb	15																0
+Map currency			1						ccsa	45	ccpr	33	scrb	22																		0
 Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	2										0
 Flawless Gem			1						gzvs	3	glys	3	glbs	3	glgs	3	glrs	3	glws	3	skls	2										0
 Perfect Gem			1						gpvs	3	gpys	3	gpbs	3	gpgs	3	gprs	3	gpws	3	skzs	2										0
@@ -29,7 +29,7 @@ New orbs T2			1					0	divo	1	mfo	4																				0
 New orbs T3			1					0	divo	1	mfo	3																				
 New orbs fallen			1					0	mfo	9	divo	1																				0
 Boxes			1					0	ccbx	1	gcbx	1																				0
-Runes 2			1						r03s	3	r04s	2																				0
+Mythic or Charms			1					0	mjw	1	cm4	2																				0
 Runes 3			1						r05s	3	r06s	2	Runes 2	1																		0
 Runes 4			1						r07s	3	r08s	2	Runes 3	1																		0
 Runes 5			1						r09s	3	r10s	2	Runes 4	4																		0
@@ -239,9 +239,9 @@ Act 2 (H) Good	29	72	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect 
 Act 3 (H) Good	29	78	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
 Act 4 (H) Good	29	82	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
 Act 5 (H) Good	29	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
-Map Good t1	20	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	T1 Map Drop	8	New orbs T1	4	Boxes	7	Map currency	6	mjw	5				0
-Map Good t2	20	86	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	T2 Map Drop	8	New orbs T2	4	Boxes	7	Map currency	6	mjw	5				0
-Map Good t3	20	87	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	T3 Map Drop	8	New orbs T3	4	Boxes	7	Map currency	6	mjw	5				0
+Map Good t1	20	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	T1 Map Drop	8	New orbs T1	4	Boxes	7	Map currency	6						0
+Map Good t2	20	86	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	T2 Map Drop	8	New orbs T2	4	Boxes	7	Map currency	6	Mythic or Charms	5				0
+Map Good t3	20	87	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	T3 Map Drop	8	New orbs T3	4	Boxes	7	Map currency	6	Mythic or Charms	5				0
 Act 1 Chest A	6	0	4					173	gld	295	Act 1 Junk	295	Act 1 Equip A	196	Act 1 Good	39																0
 Act 1 Chest B	6	5	4					173	gld	295	Act 1 Junk	295	Act 1 Equip B	196	Act 1 Good	39																0
 Act 1 Chest C	6	9	4					145	gld	272	Act 1 Junk	218	Act 2 Junk	54	Act 1 Equip C	272	Act 1 Good	36														0
@@ -947,7 +947,7 @@ BR Arena Bodies H		90	1	1000	850	1400	800	0	Act 5 (H) Equip C	48	BR Arena misc	5
 BR Arena Zomb N		30	3	9000	9000	1	1	0	Act 5 Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb NM		60	3	9000	9000	1	1	0	Act 5 (N) Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb H		90	3	9000	9000	1	1	0	Act 5 (H) Uitem C	30	BR Arena jewerly	8																				0
-UberAncients		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	T3 Map Drop	10	T2 Map Drop	10	divo	5	scrb	12	umbx	7								0
+UberAncients		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	T3 Map Drop	10	T2 Map Drop	10	divo	5	scrb	10	umbx	7								0
 ShadowOfMendeln		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	787	Act 5 (H) Good	45	Act 5 (H) Junk	75	Runes 17 equiv	10	wss	15	Jewelry C	30	rtmv	30	divo	6								0
 Act 1 (H) Weap A	1	68	1						weap54	2	armo54	0	weap57	6	armo57	0	weap60	14	armo60	0	weap63	6	armo63	3	Act 5 (N) Weap C	1785			28	1813	0.977	0
 Act 1 (H) Weap B	1	70	1						weap57	2	armo57	0	weap60	6	armo60	0	weap63	14	armo63	0	weap66	2	armo66	1	Act 1 (H) Weap A	1530			24	1554	0.977	0
@@ -1033,40 +1033,91 @@ lucdN				0	150																											0
 lucdNM				0	10																											0
 lucdH				800	1																											0
 T4MidMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	divo	12								0
-T4FinalMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	divo	15								0
+T4FinalMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	divo	12								0
 LucionChestLow		90	6	800	900	990	1024	0	Act 5 (H) Equip C	200	Act 5 (H) Good	100	Runes 15 equiv	30	wss	25																0
-LucionChestHigh		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	divo	8	scrb	10														0
+LucionChestHigh		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	divo	8	scrb	8	cm4	10												0
 Demonic Cube N				20000	100																											0
 Demonic Cube NM				10000	100																											0
 Demonic Cube H				1000	1																											0
 UberDiablo			1					11	Overlords Helm	1	Dark Abyss	1	Aidans Scar	1	Itheraels Path	1	Hadriels Hand	1														0
-RathmaNew			1					12	The Third Eye	1	Band of Skulls	1	Cage of the Unsullied	1	Rathmas Hand	1																0
+RathmaNew			1					9	The Third Eye	1	Band of Skulls	1	Cage of the Unsullied	1	Rathmas Hand	2																0
 UberLucion			1					92	Original Sin	3	Voices New	5																				0
-Runes 10 dungeon			1						r20s	1																						
-Runes 11 dungeon			1						r21s	3	r22s	2	Runes 10 dungeon	115																		
-Runes 12 dungeon			1						r23s	3	r24s	2	Runes 11 dungeon	169																		
-Runes 13 dungeon			1						r25s	3	r26s	2	Runes 12 dungeon	241																		
-Runes 14 dungeon			1						r27s	3	r28s	2	Runes 13 dungeon	347																		
-Runes 15 dungeon			1						r29s	3	r30s	2	Runes 14 dungeon	470																		
-Runes 16 dungeon			1						r31s	3	r32s	2	Runes 15 dungeon	632																		
-Runes 17 dungeon			1						r33s	1	Runes 16 dungeon	827																				
-Dungeon Cpot		85	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																
-Dungeon Mythic Jewel		85	1					0	mjw	1																						
-Dungeon Chisels		87	1					0	ccsa	45	ccpl	30	ccpr	25																		
+Runes 10 dungeon			1						r20s	1																						0
+Runes 11 dungeon			1						r21s	3	r22s	2	Runes 10 dungeon	115																		0
+Runes 12 dungeon			1						r23s	3	r24s	2	Runes 11 dungeon	169																		0
+Runes 13 dungeon			1						r25s	3	r26s	2	Runes 12 dungeon	241																		0
+Runes 14 dungeon			1						r27s	3	r28s	2	Runes 13 dungeon	347																		0
+Runes 15 dungeon			1						r29s	3	r30s	2	Runes 14 dungeon	470																		0
+Runes 16 dungeon			1						r31s	3	r32s	2	Runes 15 dungeon	632																		0
+Runes 17 dungeon			1						r33s	1	Runes 16 dungeon	827																				0
+Dungeon 1 (N) Bow A	3	38	1						bow12	1	bow15	2	bow18	5	bow21	7	bow24	8	bow27	7	bow30	4	bow33	2	Act 1 (H) Junk	630						0
+Dungeon 1 (N) Bow B	3	40	1						bow15	1	bow18	2	bow21	5	bow24	7	bow27	8	bow30	7	bow33	4	bow36	2	Dungeon 1 (N) Bow A	770						0
+Dungeon 2 (N) Bow A	3	42	1						bow18	1	bow21	2	bow24	5	bow27	7	bow30	8	bow33	7	bow36	4	bow39	2	Dungeon 1 (N) Bow B	920						0
+Dungeon 2 (N) Bow B	3	44	1						bow21	1	bow24	2	bow27	5	bow30	7	bow33	8	bow36	7	bow39	4	bow42	2	Dungeon 2 (N) Bow A	1070						0
+Dungeon 3 (N) Bow A	3	46	1						bow24	1	bow27	2	bow30	5	bow33	7	bow36	8	bow39	7	bow42	4	bow45	2	Dungeon 2 (N) Bow B	1220						0
+Dungeon 3 (N) Bow B	3	48	1						bow27	1	bow30	2	bow33	5	bow36	7	bow39	8	bow42	7	bow45	4	bow48	2	Dungeon 3 (N) Bow A	1370						0
+Dungeon 4 (N) Bow A	3	51	1						bow30	1	bow33	2	bow36	5	bow39	7	bow42	8	bow45	7	bow48	4	bow51	2	Dungeon 3 (N) Bow B	1520						0
+Dungeon 4 (N) Bow B	3	54	1						bow33	1	bow36	2	bow39	5	bow42	7	bow45	8	bow48	7	bow51	4	bow54	2	Dungeon 4 (N) Bow A	1670						0
+Dungeon 5 (N) Bow A	3	57	1						bow36	1	bow39	2	bow42	5	bow45	7	bow48	8	bow51	7	bow54	4	bow57	2	Dungeon 4 (N) Bow B	1820						0
+Dungeon 5 (N) Bow B	3	60	1						bow39	1	bow42	2	bow45	5	bow48	7	bow51	8	bow54	7	bow57	4	bow60	2	Dungeon 5 (N) Bow A	1970						0
+Dungeon 5 (N) Bow C	3	63	1						bow42	1	bow45	2	bow48	5	bow51	7	bow54	8	bow57	7	bow60	4	bow63	2	Dungeon 5 (N) Bow B	2120						0
+Dungeon 1 (H) Bow A	3	66	1						bow45	1	bow48	2	bow51	5	bow54	7	bow57	8	bow60	7	bow63	4	bow66	2	Dungeon 5 (N) Bow C	2270						0
+Dungeon 1 (H) Bow B	3	69	1						bow48	1	bow51	2	bow54	5	bow57	7	bow60	8	bow63	7	bow66	4	bow69	2	Dungeon 1 (H) Bow A	2270						0
+Dungeon 2 (H) Bow A	3	71	1						bow51	1	bow54	2	bow57	5	bow60	7	bow63	8	bow66	7	bow69	4	bow72	2	Dungeon 1 (H) Bow B	2270						0
+Dungeon 2 (H) Bow B	3	73	1						bow54	1	bow57	2	bow60	5	bow63	7	bow66	8	bow69	7	bow72	4	bow75	2	Dungeon 2 (H) Bow A	2270						0
+Dungeon 3 (H) Bow A	3	75	1						bow57	1	bow60	2	bow63	5	bow66	7	bow69	8	bow72	7	bow75	4	bow78	2	Dungeon 2 (H) Bow B	2270						0
+Dungeon 3 (H) Bow B	3	77	1						bow60	1	bow63	2	bow66	5	bow69	7	bow72	8	bow75	7	bow78	4	bow81	2	Dungeon 3 (H) Bow A	2270						0
+Dungeon 4 (H) Bow A	3	79	1						bow63	1	bow66	2	bow69	5	bow72	7	bow75	8	bow78	7	bow81	4	bow84	2	Dungeon 3 (H) Bow B	2270						0
+Dungeon 4 (H) Bow B	3	80	1						bow66	1	bow69	2	bow72	5	bow75	7	bow78	8	bow81	7	bow84	2	bow84	1	Dungeon 4 (H) Bow A	2080						0
+Dungeon 5 (H) Bow A	3	82	1						bow69	1	bow72	2	bow75	5	bow78	7	bow81	8	bow84	7	bow87	2	bow87	1	Dungeon 4 (H) Bow B	2080						0
+Dungeon 5 (H) Bow B	3	83	1						bow72	1	bow75	2	bow78	5	bow81	7	bow84	8	bow87	7	bow87	2	bow87	1	Dungeon 5 (H) Bow A	2080						0
+Dungeon 1 (N) Equip A	1	38	1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	2	armo42	1	Act 1 (H) Junk	935						0
+Dungeon 1 (N) Equip B	1	40	1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	6	armo42	3	Dungeon 1 (N) Equip A	1105						0
+Dungeon 1 (N) Equip C	1	42	1						weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	2	armo45	1	Dungeon 1 (N) Equip A	1020						0
+Dungeon 2 (N) Equip A	1	44	1						weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	6	armo45	3	Dungeon 1 (N) Equip B	1233						0
+Dungeon 2 (N) Equip B	1	46	1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	2	armo48	1	Dungeon 2 (N) Equip A	1105						0
+Dungeon 2 (N) Equip C	1	48	1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	6	armo48	3	Dungeon 2 (N) Equip A	1318						0
+Dungeon 3 (N) Equip A	1	50	1						weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	2	armo51	1	Dungeon 2 (N) Equip B	1190						0
+Dungeon 3 (N) Equip B	1	52	1						weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	6	armo51	3	Dungeon 3 (N) Equip A	1445						0
+Dungeon 3 (N) Equip C	1	54	1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	2	armo54	1	Dungeon 3 (N) Equip A	1275						0
+Dungeon 4 (N) Equip A	1	56	1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	6	armo54	3	Dungeon 3 (N) Equip B	1530						0
+Dungeon 4 (N) Equip B	1	58	1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	2	armo57	1	Dungeon 4 (N) Equip A	1360						0
+Dungeon 4 (N) Equip C	1	60	1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	6	armo57	3	Dungeon 4 (N) Equip A	1658						0
+Dungeon 5 (N) Equip A	1	62	1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	2	armo60	1	Dungeon 4 (N) Equip B	1445						0
+Dungeon 5 (N) Equip B	1	64	1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	6	armo60	3	Dungeon 5 (N) Equip A	1743						0
+Dungeon 5 (N) Equip C	1	66	1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	2	armo63	1	Dungeon 5 (N) Equip B	1530						0
+Dungeon 1 (H) Equip A	1	68	1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	6	armo63	3	Dungeon 5 (N) Equip C	1785						0
+Dungeon 1 (H) Equip B	1	70	1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	2	armo66	1	Dungeon 1 (H) Equip A	1530						0
+Dungeon 1 (H) Equip C	1	71	1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	6	armo66	3	Dungeon 1 (H) Equip A	1785						0
+Dungeon 2 (H) Equip A	1	73	1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	2	armo69	1	Dungeon 1 (H) Equip B	1530						0
+Dungeon 2 (H) Equip B	1	75	1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	6	armo69	3	Dungeon 2 (H) Equip A	1785						0
+Dungeon 2 (H) Equip C	1	76	1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	2	armo72	1	Dungeon 2 (H) Equip A	1530						0
+Dungeon 3 (H) Equip A	1	77	1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	6	armo72	3	Dungeon 2 (H) Equip B	1785						0
+Dungeon 3 (H) Equip B	1	78	1						weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	2	armo75	1	Dungeon 3 (H) Equip A	1530						0
+Dungeon 3 (H) Equip C	1	79	1						weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	6	armo75	3	Dungeon 3 (H) Equip A	1785						0
+Dungeon 4 (H) Equip A	1	80	1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	2	armo78	1	Dungeon 3 (H) Equip B	1530						0
+Dungeon 4 (H) Equip B	1	81	1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	6	armo78	3	Dungeon 4 (H) Equip A	1785						0
+Dungeon 4 (H) Equip C	1	82	1						weap72	2	armo72	1	weap75	6	armo75	3	weap78	14	armo78	7	weap81	2	armo81	1	Dungeon 4 (H) Equip A	1530						0
+Dungeon 5 (H) Equip A	1	83	1						weap75	2	armo75	1	weap78	6	armo78	3	weap81	14	armo81	7	weap84	2	armo84	1	Dungeon 4 (H) Equip B	1530						0
+Dungeon 5 (H) Equip B	1	84	1						weap78	2	armo78	1	weap81	6	armo81	3	weap84	14	armo84	7	weap87	2	armo87	1	Dungeon 5 (H) Equip A	1530						0
+Dungeon 5 (H) Equip C	1	85	1						weap81	2	armo81	1	weap84	6	armo84	3	weap87	14	armo87	7	weap87	1	armo87	1	Dungeon 5 (H) Equip B	1530						0
+Dungeon Cpot		85	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Dungeon Mythic or Charms		85	1					0	mjw	1	cm4	2																				0
+Dungeon Chisels		87	1					0	ccsa	60	ccpr	40																				0
 Dungeon Sacred Orb		87	1					2	sror	1																						0
 Dungeon Orbs		87	1					2	divo	1																						0
-Dungeon Good		87	1						Jewelry C	120	Perfect Gem	6	Runes 17 dungeon	28	T3 Map Drop	8	Dungeon Orbs	3	Boxes	7	scrb	3	Dungeon Chisels	5	Dungeon Mythic Jewel	2	Dungeon Sacred Orb	4				0
-Dungeon Citem		85	1	1000	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Dungeon Good	3																		0
-Dungeon Uitem		85	1	1000	800	800	1024	0	Act 5 (H) Equip C	58	Dungeon Good	4																				0
+Dungeon Good		87	1						Jewelry C	120	Perfect Gem	6	Runes 17 dungeon	28	T3 Map Drop	8	Dungeon Orbs	3	Boxes	7	Dungeon Chisels	5	Dungeon Mythic or Charms	2	Dungeon Sacred Orb	4						0
+Dungeon Citem		85	1	1000	800	800	1024	0	"gld,mul=1280"	60	Dungeon 5 (H) Equip C	37	Dungeon Good	3																		0
+Dungeon Uitem		85	1	1000	800	800	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4																				0
 Dungeon Champ		85	-2					0	Dungeon Citem	1	Dungeon Cpot	3																				0
 Dungeon Unique		85	-3					0	Dungeon Uitem	1	Dungeon Cpot	2																				0
-Dungeon Norm		85	1					95	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Dungeon Good	30																0
-Dungeon Miss		85	1					95	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Dungeon Good	30	Act 5 (H) Bow B	90	Ammo	45												
-Dungeon Cast		85	1					95	gld	271	Act 5 (H) Equip C	226	Act 1 (H) Junk	271	Dungeon Good	30	Act 5 (H) Magic B	105														
+Dungeon Norm		85	1					95	gld	316	Dungeon 5 (H) Equip C	241	Act 1 (H) Junk	316	Dungeon Good	30																0
+Dungeon Miss		85	1					95	gld	271	Dungeon 5 (H) Equip C	196	Act 1 (H) Junk	271	Dungeon Good	30	Dungeon 5 (H) Bow B	90	Ammo	45												0
+Dungeon Cast		85	1					95	gld	271	Dungeon 5 (H) Equip C	226	Act 1 (H) Junk	271	Dungeon Good	30	Act 5 (H) Magic B	105														0
 Dungeon Wraith		85	1					195	Dungeon Good	111	Act 5 (H) Magic C	693																				0
-Uber Box		85	1					0	umbx	1																						
-Map Boss T1		85	5	1081	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T1 Map Drop	3	Uber Box	2																
-Map Boss T2		85	5	1081	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T2 Map Drop	3	Uber Box	3																
-Map Boss T3		85	5	1081	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T3 Map Drop	3	Uber Box	4																0
-Map Boss T4 Items		85	5	1081	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T3 Map Drop	3																		0
+Uber Box		85	1					0	umbx	1																						0
+Map Boss T1		85	5	1081	983	983	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4	T1 Map Drop	3	Uber Box	2																0
+Map Boss T2		85	5	1081	983	983	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4	T2 Map Drop	3	Uber Box	3																0
+Map Boss T3		85	5	1081	983	983	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4	T3 Map Drop	3	Uber Box	4																0
+Map Boss T4 Items		85	5	1081	983	983	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4	T3 Map Drop	3																		0
 Map Boss T4		85	-2					0	Map Boss T4 Items	1	Uber Box	1																				0

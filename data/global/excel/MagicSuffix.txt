@@ -254,7 +254,7 @@ of Dexterity	251	1	1	1	13	53	9				3	17	dex		2	3											tors	boot						glov			
 of Skill	252	1	1	1	34	74	26				3	17	dex		4	5											tors							glov							0
 of Accuracy	253	1	1	1	46		38				3	17	dex		6	9											tors	boot						glov							0
 of Precision	254	100	1	1	60		52				3	17	dex		10	15									1	dgld	boot	shld						glov							0
-of Dexterity	255	100	1	1	1	90	1				4	31	dex		3	4											lcha														0
+of Dexterity	255	100	1	1	1	89	1				4	31	dex		3	4											lcha														0
 of Dexterity	256	100	1	1	3	90	2				4	31	dex		2	3											mcha														0
 of Dexterity	257	100	1	1	7	90	5				4	31	dex		1	1											scha														0
 of Dexterity	258	100	1	1	14		10				4	31	dex		5	6											lcha														0
@@ -278,7 +278,7 @@ of Honor	275	100	1	1	47	90	35				4	19	regen		1	4											jewl														0
 of Vileness	276	1	1	1	9		6				3	20	noheal		1	1											mele	misl						rod	orb						0
 of Greed	277	1	1	1	1		1				4	21	gold%		25	40											ring	amul	circ	misl											0
 of Wealth	278	1	1	1	17		12				4	21	gold%		41	80									1	lgld	boot	glov	belt	amul	circ	misl									0
-of Greed	279	100	1	1	1	90	1				4	21	gold%		10	20											lcha														0
+of Greed	279	100	1	1	1	89	1				4	21	gold%		10	20											lcha														0
 of Greed	280	100	1	1	7		5				4	21	gold%		21	30											lcha														0
 of Greed	281	100	1	1	19		14				4	21	gold%		31	40											lcha														0
 of Greed	282	100	1	1	1	90	5				4	21	gold%		5	10											mcha														0
@@ -337,7 +337,7 @@ of Life	334	100	1	1	19	86	14				5	26	hp		16	20											lcha														0
 of Substinence	335	100	1	1	31	86	23				5	26	hp		21	25											lcha														0
 of Substinence	336	100	1	1	45	86	37				5	26	hp		26	30											lcha														0
 of Substinence	337	100	1	1	61	86	53				5	26	hp		31	35											lcha														0
-of Vita	338	100	1		77	90	69				5	26	hp		36	40											lcha														0
+of Vita	338	100	1		77	89	69				5	26	hp		36	40											lcha														0
 of Vita	339	100	1		91		83				5	26	hp		41	45											lcha														0
 of Vita	340	100	1		110		97				5	26	hp		46	50											lcha														0
 of Life	341	100	1	1	1	86	9				5	26	hp		6	10											mcha														0
@@ -386,7 +386,7 @@ of Strength	383	1	1	1	12	52	8				3	31	str		1	2											mele	glov	shld	tors				
 of Might	384	1	1	1	33	73	25				3	31	str		3	5											mele	shld	tors					blun							0
 of the Ox	385	1	1	1	45		37				3	31	str		6	9											mele	glov	shld	tors				blun							0
 of the Giant	386	100	1	1	59		51				3	31	str		10	15									1	dgld	mele	glov						blun							0
-of Strength	387	100	1	1	1	90	1				4	31	str		3	4											lcha														0
+of Strength	387	100	1	1	1	89	1				4	31	str		3	4											lcha														0
 of Strength	388	100	1	1	3	90	2				4	31	str		2	3											mcha														0
 of Strength	389	100	1	1	7	90	5				4	31	str		1	1											scha														0
 of Strength	390	100	1	1	14		10				4	31	str		5	6											lcha														0
@@ -675,14 +675,14 @@ of Knowledge	672	100	1	1	41		33				3	23	enr		7	9											jewl														0
 of Virility	673	100	1	1	33	90	25				4	31	str		5	6											jewl														0
 of Virility	674	100	1	1	50		42				4	31	str		7	9											jewl														0
 of Readiness	675	1	1	1	20		15				2	9	swing1		10	10											glov														0
-of Craftsmanship	676	100	1	1	1	90	1				6	14	dmg-max		1	1											lcha														0
+of Craftsmanship	676	100	1	1	1	89	1				6	14	dmg-max		1	1											lcha														0
 of Quality	677	100	1	1	41		33				6	14	dmg-max		2	2											lcha														0
 of Maiming	678	100	1		71		63				6	14	dmg-max		3	4											lcha														0
 of Craftsmanship	679	100	1	1	26	90	19				6	14	dmg-max		1	1											mcha														0
 of Quality	680	100	1		56		48				6	14	dmg-max		2	2											mcha														0
 of Craftsmanship	681	100	1	1	85		77				6	14	dmg-max		1	1											scha														0
 of Blight	682	100	1	1	9	86	6				2	16	dmg-pois	50	55	55											lcha														0
-of Venom	683	100	1	1	20	90	15				1	16	dmg-pois	50	95	95											lcha														0
+of Venom	683	100	1	1	20	89	15				1	16	dmg-pois	50	95	95											lcha														0
 of Pestilence	684	100	1	1	32		24				1	16	dmg-pois	50	165	165									1	dgrn	lcha														0
 of Anthrax	685	100	1		44		36				1	16	dmg-pois	50	790	790									1	dgrn	lcha														0
 of Blight	686	100	1	1	5	86	3				2	16	dmg-pois	50	40	40											mcha														0
@@ -694,8 +694,8 @@ of Venom	691	100	1	1	6	90	4				1	16	dmg-pois	50	35	35											scha												
 of Pestilence	692	100	1	1	14		10				1	16	dmg-pois	50	65	65											scha														0
 of Anthrax	693	100	1		21		15				1	16	dmg-pois	50	105	105											scha														0
 of Frost	694	100	1	1	14	86	10				2	10	cold-min		3	3	cold-max		4	5	cold-len		25	25			lcha														0
-of the Icicle	695	100	1	1	21	90	15				1	10	cold-min		5	5	cold-max		8	13	cold-len		25	25			lcha														0
-of the Glacier	696	100	1	1	33		25				1	10	cold-min		11	11	cold-max		16	22	cold-len		25	25	1	dblu	lcha														0
+of the Icicle	695	100	1	1	21	89	15				2	10	cold-min		5	5	cold-max		8	13	cold-len		25	25			lcha														0
+of the Glacier	696	100	1	1	33		25				2	10	cold-min		11	11	cold-max		16	22	cold-len		25	25	1	dblu	lcha														0
 of Winter	697	100	1		46		38				1	10	cold-min		16	19	cold-max		27	35	cold-len		25	25	1	dblu	lcha														0
 of Frost	698	100	1	1	9	86	6				2	10	cold-min		2	2	cold-max		3	4	cold-len		25	25			mcha														0
 of the Icicle	699	100	1	1	15	90	11				1	10	cold-min		4	4	cold-max		6	10	cold-len		25	25			mcha														0
@@ -706,8 +706,8 @@ of the Icicle	703	100	1	1	8	90	6				1	10	cold-min		2	2	cold-max		3	5	cold-len		2
 of the Glacier	704	100	1	1	15		11				1	10	cold-min		4	4	cold-max		6	8	cold-len		25	25			scha														0
 of Winter	705	100	1		23		17				1	10	cold-min		6	7	cold-max		10	13	cold-len		25	25			scha														0
 of Flame	706	100	1	1	11	86	8				2	12	fire-min		2	3	fire-max		5	6							lcha														0
-of Fire	707	100	1	1	20	90	15				1	12	fire-min		5	5	fire-max		8	13							lcha														0
-of Burning	708	100	1	1	32		24				1	12	fire-min		9	15	fire-max		19	24					1	dred	lcha														0
+of Fire	707	100	1	1	20	89	15				2	12	fire-min		5	5	fire-max		8	13							lcha														0
+of Burning	708	100	1	1	32		24				2	12	fire-min		9	15	fire-max		19	24					1	dred	lcha														0
 of Incineration	709	100	1		45		37				1	12	fire-min		16	22	fire-max		27	41					1	dred	lcha														0
 of Flame	710	100	1	1	7	86	5				2	12	fire-min		2	2	fire-max		4	4							mcha														0
 of Fire	711	100	1	1	14	90	10				1	12	fire-min		4	4	fire-max		6	10							mcha														0
@@ -718,8 +718,8 @@ of Fire	715	100	1	1	8	90	6				1	12	fire-min		2	2	fire-max		3	5							scha							
 of Burning	716	100	1	1	14		10				1	12	fire-min		3	5	fire-max		7	9							scha														0
 of Incineration	717	100	1		22		16				1	12	fire-min		6	8	fire-max		10	15							scha														0
 of Shock	718	100	1	1	12	86	9				2	13	ltng-min		1	1	ltng-max		8	14							lcha														0
-of Lightning	719	100	1	1	21	90	15				1	13	ltng-min		1	1	ltng-max		16	32							lcha														0
-of Thunder	720	100	1	1	33		25				1	13	ltng-min		1	1	ltng-max		27	43					1	dyel	lcha														0
+of Lightning	719	100	1	1	21	89	15				2	13	ltng-min		1	1	ltng-max		16	32							lcha														0
+of Thunder	720	100	1	1	33		25				2	13	ltng-min		1	1	ltng-max		27	43					1	dyel	lcha														0
 of Storms	721	100	1		45		37				1	13	ltng-min		1	1	ltng-max		46	68					1	dyel	lcha														0
 of Shock	722	100	1	1	7	86	5				2	13	ltng-min		1	1	ltng-max		6	10							mcha														0
 of Lightning	723	100	1	1	14	90	10				1	13	ltng-min		1	1	ltng-max		12	18							mcha														0
@@ -988,18 +988,28 @@ of Brilliance	985	1	1	1	13		9				3	23	enr		7	10											tors	shld													
 of Sorcery	986	1	1	1	21		16				3	23	enr		11	15											tors	shld													0
 of Wizardry	987	1	1	1	31		23				3	23	enr		16	20									1	dgld	shld														0
 of Enlightenment	988	100	1	1	41		33				3	23	enr		21	30									1	dgld	shld														0
-of Infamy		100	1	1	87		85				1	7	swing1		20	20											mjwg														0
+of Infamy		100	1	1	89		85				1	7	swing1		20	20											mjwg														0
 of Temper		100	1	1	89		85				1	14	dmg-max		16	20									1	blac	mjwg														0
 of Razor-sharpness		100	1	1	89		85				1	15	dmg-min		11	16									1	whit	mjwg														0
-of Wind		100	1	1	87		85				1	17	dex		14	16											mjwg														0
-of Crusade		100	1	1	87		85				1	18	balance1		15	15											mjwg														0
-of the Phoenix		100	1	1	87		85				1	19	regen		9	13											mjwg														0
-of the Genius		100	1	1	87		85				1	23	enr		14	16											mjwg														0
-of Prime		100	1	1	87		85				1	26	hp		21	30											mjwg														0
-of the Titan		100	1	1	87		85				1	31	str		14	16											mjwg														0
-of Crystalising		100	1	1	87		85				1	10	cold-min		7	8	cold-max		21	25	cold-len		50	50	1	dblu	mjwg														0
-of Carbonising		100	1	1	87		85				1	12	fire-min		41	55	fire-max		71	90					1	dred	mjwg														0
-of Electrocuting		100	1	1	87		85				1	13	ltng-min		1	1	ltng-max		141	180					1	dyel	mjwg														0
-of Finesse		100	1	1	89		85				1	400	cast3		3	5											mjwg														0
-of Nirvana		100	1	1	87		85				1	401	regen-mana		5	10											mjwg														0
-of Chalybeous		100	1	1	87		85				1	402	mana%		3	8											mjwg														0
+of Wind		100	1	1	88		85				1	17	dex		14	16											mjwg														0
+of Crusade		100	1	1	88		85				1	18	balance1		15	15											mjwg														0
+of the Phoenix		100	1	1	88		85				1	19	regen		9	13											mjwg														0
+of the Genius		100	1	1	88		85				1	23	enr		14	16											mjwg														0
+of Prime		100	1	1	89		85				1	26	hp		21	30											mjwg														0
+of the Titan		100	1	1	88		85				1	31	str		14	16											mjwg														0
+of Crystalising		100	1	1	89		85				1	10	cold-min		7	8	cold-max		21	25	cold-len		50	50	1	dblu	mjwg														0
+of Carbonising		100	1	1	89		85				1	12	fire-min		41	55	fire-max		71	90					1	dred	mjwg														0
+of Electrocuting		100	1	1	89		85				1	13	ltng-min		1	1	ltng-max		141	180					1	dyel	mjwg														0
+of Finesse		100	1	1	90		85				1	400	cast3		3	5											mjwg														0
+of Nirvana		100	1	1	88		85				1	401	regen-mana		5	10											mjwg														0
+of Chalybeous		100	1	1	88		85				1	402	mana%		3	8											mjwg														0
+																																									0
+of Wind		100	1	1	88		85				2	31	dex		7	10											ocha														0
+of Crusade		100	1	1	88		85				1	18	balance3		15	15											ocha														0
+of Prime		100	1	1	92		85				3	26	hp		46	50											ocha														0
+of the Titan		100	1	1	88		85				2	31	str		7	10											ocha														0
+of the Cheetah		100	1	1	88		85				1	35	move3		10	10											ocha														0
+of Temper		100	1	1	89		85				3	14	dmg-max		4	5											ocha														0
+of Crystalising		100	1	1	89		85				1	10	cold-min		20	24	cold-max		36	44	cold-len		25	25	1	dblu	ocha														0
+of Carbonising		100	1	1	89		85				1	12	fire-min		23	29	fire-max		42	56					1	dred	ocha														0
+of Electrocuting		100	1	1	89		85				1	13	ltng-min		1	1	ltng-max		69	91					1	dyel	ocha														0

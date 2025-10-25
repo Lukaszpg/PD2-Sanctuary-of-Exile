@@ -330,7 +330,7 @@ The Reaper's Toll	100	1		1	1	83	75	7s8	thresher			5	5000				invscy				dmg%		190	
 Spiritkeeper	100	1		1	1	75	67	drd	earth spirit			5	5000								ac%		170	190	balance2		20	20	abs-ltng		4	6	res-fire		20	30	abs-cold%		4	5	res-pois-max		5	8	dru		2	2	skill-rand	2	221	250	extra-spirits		1	1													0
 Hellrack	100	1		1	1	84	76	6hx	colossus crossbow			5	5000	cred			invhxbu				dmg%		180	230	dmg-elem	33	63	324	swing2		60	60	att%		100	150	sock		3	5	fireskill		4	5	pierce-fire		20	20																					0
 Alma Negra	100	1		1	1	85	77	pac	sacred rondache			5	5000	blac	blac						ac%		180	210	block2		30	30	allskills		2	2	block		20	20	red-mag		10	18	att%		100	150	dmg%		160	200	joust-reduction		13	13																	0
-Darkforge Spawn	100	1		1	1	72	64	nef	bloodlord skull			5	5000	cred	cred						ac%		140	180	cast2		30	30	mana%		40	50	res-fire		50	50	reanimate	312	5	5	maxcurse		1	1	skilltab	8	2	3	skilltab	6	2	3	skilltab	7	2	3													0
+Darkforge Spawn	100	1		3	1	72	64	nef	bloodlord skull			5	5000	cred	cred						ac%		140	180	cast2		30	30	mana%		40	50	res-fire		50	50	reanimate	312	5	5	maxcurse		1	1	skilltab	8	2	3	skilltab	6	2	3	skilltab	7	2	3													0
 Widowmaker	100	1		1	1	73	65	6sw	ward bow			5	5000	dred	dred		invswbu				dmg%		275	350	deadly		33	33	ignore-ac		1	1	magicarrow		11	11	oskill	22	3	5	oskill	12	3	5	ama		2	2																					0
 Bloodraven's Charge	100	1		1	1	79	71	amb	matriarchal bow			5	5000	dgld			bravenbow				dmg%		230	330	att%		200	300	explosivearrow		13	13	allskills		2	3	charged	Revive	15	15	skill	7	2	3	extra-revives		4	4	rep-charge	12																			0
 Ghostflame	100	1		1	1	70	62	7bl	legend spike			5	5000	cblu	cblu						dmg%		280	340	ignore-ac		1	1	dmg-fire		208	316	manasteal		10	15	ethereal		1	1	indestruct		1	1	swing2		50	50	extra-fire		15	25									deadly		20	20	splash	358	100	1	0
@@ -351,7 +351,7 @@ Dragonscale	100	1		1	1	84	80	pae	zakarum shield			3	5000	dgrn	dgrn						ac%		170
 Steel Carapice	100	1		1	1	74	66	uul	shadow plate			3	5000	dgry	dgry						ac%		250	280	balance2		40	40	red-dmg		19	24	res-cold		40	60	rep-dur	10			gethit-skill	Iron Maiden Proc	4	26	allskills		1	2	thorns		1400	1600																	0
 Medusa's Gaze	100	1		1	1	84	76	uow	aegis			3	5000	lred	lred		invtowu				ac%		150	180	slow		20	20	gethit-skill	LowRes Proc	10	14	lifesteal		5	9	coldskill		2	2	res-cold		40	80	cast2		30	40	ease		-25	-25																	0
 Ravenlore	100	1		1	1	82	74	dre	sky spirit			3	5000	dgld	dgld						ac%		120	150	res-all		15	25	skilltab	17	3	3	enr		20	30	pierce-fire		10	20	skill	Raven	7	7																									0
-Boneshade	100	1		1	1	84	79	7bw	lich wand			3	5000	dgry	dgry		invbwnu				nec		2	2	cast2		25	25	skill	Teeth	4	5	skill	Bone Armor	4	5	skill	Shattered Marrow	2	3	skill	Bone Spirit	2	2	skill	Bone Wall	2	3																					0
+Boneshade	100	1		1	1	84	79	7bw	lich wand			3	5000	dgry	dgry		invbwnu				nec		2	2	cast2		25	25	skill	Teeth	4	5	skill	Bone Armor	4	5	skill	Shattered Marrow	2	3	skill	Bone Spirit	2	2	skill	Bone Wall	2	3	pierce		15	20																	0
 Nethercrow	100			1							 	3	5000	cblu	cblu																																																						0
 Flamebellow	100	1		1	1	79	71	7gs	balrog blade			3	5000	cred	cred		invgisu				dmg%		170	240	dmg-fire		233	482	fireskill		3	3	swing2		40	40	hit-skill	Firestorm	16	22	str		10	20	vit		5	10	aura	102	24	28													splash	358	100	1	0
 Fathom	100	1		3	1	81	73	obf	dimensional shard			3	5000	lblu							allskills		3	3	extra-cold		20	30	cast2		20	20	res-fire		25	40	res-ltng		25	40	heal-kill		2	5																									0
@@ -416,7 +416,7 @@ Tempest	100	1		1	1	28	25	ob6	Glowing Orb			3	5000	dgld			sorcorb				allskills		1
 Dclone Trophy	100	0		0		130	1	cm1	charm			3	5000			flpflag	invflag	item_charm	12	item_charm	hp		20	20	state	dcloneset	1	1	dclone-clout		1	1																																					0
 Maxlevel Trophy	100	0		0		130	1	cm1	charm			3	5000			flpflag	invflag	item_charm	12	item_charm	hp		20	20	state	maxlevelset	1	1	maxlevel-clout		1	1																																					0
 Dev Charm	100	0		0		130	1	cm1	charm			3	5000			flpcap	devcharm	item_cap	12	item_cap	hp		20	20	state	devaura	1	1	dev-clout		1	1																																					0
-Band of Skulls	100	1		0	1	131	90	rbe	Troll Belt			5	5000				invbsk				ac%		100	150	gethit-skill	Bone Armor	6	28	mag%		25	30	red-dmg%		10	10	sock		1	1	light		-4	-4																									0
+Band of Skulls	100	1		0	1	131	90	rbe	Troll Belt			5	5000				invbsk				ac%		100	150	gethit-skill	Bone Armor	6	28	mag%		25	30	red-dmg%		10	10	sock		1	1	light		-4	-4	hit-skill	83	40	1																					0
 Cage of the Unsullied	100	1		0	1	131	90	rar	Boneweave			5	5000	lgry			invuns				ac%		200	300	res-all		15	20	light		-4	-8	sock		6	6																																	0
 The Third Eye	100	1		0	1	131	90	ram	Amulet			5	5000	oran	oran		invamu				allskills		1	1	cast2		20	20	nofreeze		1	1	light		-4	-4	cast-skill	FingermageBossNova	12	25	enr		40	50	sock		1	1	socketed-text		1	1																	0
 Magefist	100	1		1		31	23	tgl	Light Gauntlets			5	5000	lgry	lgry						cast3		20	20	regen-mana		10	25	poisskill		1	1	dmg-pois	75	204	204	ac		10	10	ac%		20	30																									0
@@ -430,7 +430,7 @@ Akarats Devotion	100	1		1	1	87	74	7qs	Seraph Rod			5	5000	whit			akaratdevotion	
 Martyr	100	1		1	1	87	68	ned	Overseer Skull			5	5000	lgld			martyrdom				nec		2	3	ac%		160	200	balance2		35	35	curse-effectiveness		20	30	skill	73	2	2	dmg-pois	50	1538	1793	red-mag		18	24	hit-skill	68	15	35	block		35	35													0
 Stalkers Cull	100	1		1	1	87	65	7tw	Runic Talons			5	5000	dgry			stalkerscull				dmg%		230	280	skilltab	19	3	4	kick		30	40	deadly		20	30	skill	275	2	2	skill	254	4	4	dragonflight-reduction		13	13																	splash	358	100	1	0
 Purgatory	100	1		1	1	87	75	utp	Archon Plate			3	5000	cred			purgatory				block		20	20	block2		20	20	red-mag		16	24	dmg%/eth		60	60	mag%		40	65	rep-dur	25			ac%		220	260																					0
-Raekors Virtue	100	1		1	1	87	78	baf	Guardian Crown			5	5000	lgld			raekorsvirtue				bar		2	2	skill	Double Throw	2	3	ac%		140	180	skill	133	2	3	manasteal		5	8	dex		20	30	maxcurse		1	1	curse-effectiveness		25	25	dmg%		40	60													0
+Raekors Virtue	100	1		3	1	87	78	baf	Guardian Crown			5	5000	lgld			raekorsvirtue				bar		2	2	skill	Double Throw	2	3	ac%		140	180	skill	133	2	3	manasteal		5	8	dex		20	30	maxcurse		1	1	curse-effectiveness		25	25	dmg%		40	60													0
 Nightmares Feast	100	1		1	1	50	42	drf	Dream Spirit			5	5000	cred			nightmarefeast				noheal		1	1	skilltab	16	2	4	ac%		130	160	balance2		40	40	hp%		30	35	regen		-30	-30	splash%/missinghp%		2	2	lifesteal-cap		25	25																	0
 Zhar the Mad Map	100	1		0	1	80	80	t51	t51			5	5000				invmapzhar				map-glob-density		125	175	map-play-addxp		10	20	map-play-mag-gold%		50	100	map-mon-dropcharms		4	6	map-mon-hp%		20	30	map-mon-phys-as-extra-pois	125	50	100	map-play-res-all		-10	-10	map-play-regen		-100	-50	map-play-balance1		-30	-20	map-glob-boss-dropskillers		1	1									0
 Warlord of Blood Map	100	1		0	1	80	80	t52	t52			5	5000				invmaphellcaves				map-glob-density		125	175	map-play-addxp		20	30	map-play-mag-gold%		25	50	map-glob-dropcorrupted		100	100	map-mon-hp%		20	30	map-mon-phys-as-extra-fire		50	100	map-mon-velocity%		20	30	map-mon-crush		5	10	map-play-block		-10	-5	map-glob-boss-dropcorruptedunique		1	1									0
@@ -456,7 +456,7 @@ Imperial Palace Map	100	1		0	1	80	80	t54	t54			5	5000				invmap_imppalace				map
 Outer Void Map	100	1		0	1	80	80	t55	t55			5	5000				invmap_outervoid				map-glob-density		80	100	map-play-addxp		30	40	map-play-mag-gold%		200	300	map-mon-phys-as-extra-pois	125	20	30	map-mon-phys-as-extra-cold	25	20	30	map-play-speed-all		40	60	map-play-ac%		-50	-50	map-mon-regen		80	120	map-mon-att-pierce		50	50	map-glob-boss-dropubermats		1	1									0
 Cains	100	1		0	1	99	70	cm1	charm			3	5000			flpmss	invcnws	item_gem	12	item_gem	addxp		200	250	mag%/lvl	4																																											0
 Original Sin	100	1		0	0	131	90	rin	Ring	1	1	5	5000				invsin				all-ele-pierce		40	50	item-extramasteryfrompierce	594	1	1	pierce-mag		40	50	pierce-phys		40	50																																	0
-Kratos Fury	100	1		34	1	87	75	mgb	Mythic Belt	1		5	5000				invlrzg				ac%		100	120	hp%		5	10	swing1		20	25	deadly		20	25	hit-skill	51	50	35																													0
+Kratos Fury	100	1		34	1	87	75	mgb	Mythic Belt	1		5	5000				invlrzg				ac%		100	120	hp%		5	10	swing1		20	25	deadly		20	25	hit-skill	51	40	25																													0
 Mageblood Base	100	1		3	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				allskills		1	1	ac%		150	200	res-all-max		3	3	res-all		25	25	red-mag		15	15	red-dmg%		15	15	red-dmg		15	15																					0
 Mageblood 3	100	1		2	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				allskills		1	1	ac%		150	200	res-all-max		3	3	res-all		25	25	red-mag		15	15	red-dmg%		15	15	red-dmg		15	15	curse-effectiveness		25	25	curse-res		25	25													0
 Mageblood 4	100	1		1	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				allskills		1	1	ac%		150	200	res-all-max		3	3	res-all		25	25	red-mag		15	15	red-dmg%		15	15	red-dmg		15	15	curse-effectiveness		25	25	curse-res		25	25	res-pois-len		100	100	nofreeze		1	1					0
@@ -464,13 +464,13 @@ Voices 1	100	1		0	1	131	90	cm1	charm	1		3	5000				invvcs				allskills		1	1	corru
 Voices 2	100	1		0	1	131	90	cm1	charm	1		3	5000				invvcs				allskills		2	2	corrupt		1	1																																									0
 Voices 3	100	1		0	1	131	90	cm1	charm	1		3	5000				invvcs				allskills		3	3	corrupt		1	1																																									0
 Voices 4	100	1		0	1	131	90	cm1	charm	1		3	5000				invvcs				allskills		4	4	corrupt		1	1																																									0
-Defiance of Destiny	100	1		1	1	87	90	amu	amulet	1		3	5000				invdefd				abs-fire%		10	15	abs-ltng%		10	15	abs-cold%		10	15	abs-mag%		10	15	hp		80	100	res-all		15	25	gethit-skill	Bone Armor	10	25																					0
+Defiance of Destiny	100	1		1	1	87	90	amu	amulet	1		3	5000				invdefd				abs-fire%		5	10	abs-ltng%		5	10	abs-cold%		5	10	abs-mag%		5	10	hp		70	80	res-all		10	15	gethit-skill	Bone Armor	7	25																					0
 Nihlathaks Malice	100	1		1	1	87	80	7wd	mythical sword	1		5	5000	dpur			invnhml				dmg%		280	320	dmg-cold	250	250	500	swing2		30	30	allskills		2	2	hit-skill	Frost Nova	50	50	pierce-cold		10	15	extra-cold		15	15																	splash	358	100	1	0
-Transcendent Mind	100	1		1	1	87	90	mjw	mythic jewel	1		3	5000				invtrmn				item-elemasterypermana	595	1	1	mana%		10	15																																									0
-Empowered Spirit	100	1		1	1	87	90	mjw	mythic jewel	1		3	5000				invemsp				item-msiasfromar	596	1	1	dex		30	60																																									0
-Tempered Flesh	100	1		1	1	87	90	mjw	mythic jewel	1		3	5000				invtrfl				item-edfromstr	597	1	1	str		40	50																																									0
-One With Nothing	100	1		1	1	87	90	mjw	mythic jewel	1		3	5000				invown				item-csfromattr	598	1	1	dex		30	90																																									0
-Astramentis	100	1		1	1	87	80	amu	amulet	1		3	5000				invastr				str		50	75	dex		50	75	enr		50	75	vit		50	75	item-increaseattr	599	1	1																													0
+Transcendent Mind	100	0		0		87	90	mjw	mythic jewel			3	5000				invtrmn				item-elemasterypermana	595	1	1	mana%		10	15																																									0
+Empowered Spirit	100	0		0		87	90	mjw	mythic jewel			3	5000				invemsp				item-msiasfromar	596	1	1	dex		30	60																																									0
+Tempered Flesh	100	0		0		87	90	mjw	mythic jewel			3	5000				invtrfl				item-edfromstr	597	1	1	str		40	50																																									0
+One With Nothing	100	0		0		87	90	mjw	mythic jewel			3	5000				invown				item-csfromattr	598	1	1	dex		30	90																																									0
+Astramentis	100	1		1	1	87	80	amu	amulet			3	5000				invastr				str		75	100	dex		75	100	enr		75	100	vit		75	100																																	0
 Akarats Rage	100	1		1	1	85	80	jew	jewel			3	5000				invakrg				dmg%		40	40	swing3		15	15	deadly		5	8																																					0
 The Squire	100	1		1	1	87	85	ers	elegant round shield	1		5	5000				invsqre				ac%		100	150	block2		25	25	allskills		2	2	block		25	25	dmg%		180	200	sock		4	4	item-physperstrattr	600	1	1																					0
 The Oppressor	100	1		4	1	82	70	ers	elegant round shield	1		5	5000				invoppr				ac%		200	250	block2		40	40	block		40	40	block-skill	Weaken	40	15	slow		25	25	res-all		20	25	block-skill	Reinforce	40	15																					0
@@ -479,12 +479,22 @@ Rathmas Hand	100	1		0	1	131	80	7gw	Unearthed Wand	1		3	5000	dgry			invrthn				al
 Glacial Mist	100	1		1	1	87	85	obf	dimensional shard			3	5000	dblu	dblu						allskills		2	2	extra-cold		20	30	cast2		25	25	blizzard-reduction		12	12	skill	Blizzard	3	4	mana%		15	20																									0
 Blaze of Glory	100	1		1	1	87	85	obf	dimensional shard			3	5000	dred	dred						allskills		2	2	pierce-fire		15	20	cast2		25	25	combustion-reduction		50	50	skill	Combustion	3	4																													0
 Fluid Motion	100	1		1	1	87	1	mjw	mythic jewel	1		3	5000				invflmn				aura	115	6	6																																													0
-Hailstorm	100	1		1	1	87	80	6lw	Hydra Bow			5	5000	lblu	lblu		invhlst				hit-skill	55	20	50	extra-cold		25	30	dmg/lvl	12			dmg%		300	350	swing2		40	40	freeze		3	3	dmg-cold	250	250	500	pierce-cold		15	20																	0
-Mjolner	100	1		1	1	85	87	7gm	Thunder Maul			5	5000	dblu			invmjln				swing2		20	30	hit-skill	49	50	40	hit-skill	53	50	40	pierce-light-mastery-per-str	604	1	1	youre-worthy		1	1	dmg%		250	300	dmg-ltng		1	1000																	splash	358	100	1	0
+Hailstorm	100	1		1	1	87	80	6lw	Hydra Bow			5	5000	lblu	lblu		invhlst				oskill	611	35	40	extra-cold		25	30	dmg/lvl	12			dmg%		300	350	swing2		40	40	freeze		3	3	dmg-cold	250	250	500	pierce-cold		15	20																	0
+Mjolner	100	1		1	1	85	87	7gm	Thunder Maul			5	5000	dblu			invmjln				swing2		20	30	hit-skill	49	50	40	hit-skill	53	50	40	pierce-light-mastery-per-str	604	1	1	dmg%		250	300	dmg-ltng		1	1000																					splash	358	100	1	0
 Voices New	100	1		0	1	131	90	cm1	charm	1		3	5000				invvcs				allskills		1	4	corrupt		1	1																																									0
 Manastorm	100	1		1	1	55	50	bqs	baroque round shield			5	5000				invmnst				mana-kill		2	4	regen-mana		15	20	mana%		15	20	mana		50	75	item-firemasterymanaconvert	605	1	1	ac%		100	150																									0
 Manastorm	100	1		1	1	55	50	bqs	baroque round shield			5	5000				invmnst				mana-kill		2	4	regen-mana		15	20	mana%		15	20	mana		50	75	item-coldmasterymanaconvert	606	1	1	ac%		100	150																									0
 Manastorm	100	1		1	1	55	50	bqs	baroque round shield			5	5000				invmnst				mana-kill		2	4	regen-mana		15	20	mana%		15	20	mana		50	75	item-poisonmasterymanaconvert	607	1	1	ac%		100	150																									0
 Manastorm	100	1		1	1	55	50	bqs	baroque round shield			5	5000				invmnst				mana-kill		2	4	regen-mana		15	20	mana%		15	20	mana		50	75	item-magicmasterymanaconvert	608	1	1	ac%		100	150																									0
 Arma Blade Replica	100	1		0	1	99	54	7cr2	Two Hand Phase Blade			5	5000	oran			invarmageddonblade				hit-skill	225	75	50	equipped-skill	249	30	30	pal		2	2	block		20	30	dmg%		280	320	pierce-fire		20	30	res-fire-max		5	10	all-stats		6	6																	0
-Widespread Destruction	100	1		1	1	87	1	mjw	mythic jewel			5	5000				invwsds				inc-splash-radius		5	10																																													0
+Widespread Destruction	100	1		1	1	87	1	mjw	mythic jewel	1		5	5000				invwsds				inc-splash-radius		5	10																																													0
+Whispering Skull	100	1		1	1	87	80	nef	bloodlord skull	1		5	5000	dgry			invwhsk				extra-bone-spirits		1	2	nec		1	2	skill	93	1	2	pierce		20	25	extra-magi		20	25	ac%		140	190																									0
+Deaths Poise	100	1		1	1	87	75	rin	Ring	1		5	5000				invdhpo				item-crush-to-deadly	610	1	1	max-deadly		5	5	crush		10	20	dmg%		25	30																																	0
+The Veinpiercer	100	1		1	1	87	80	baf	Guardian Crown			5	5000	dred			invthvp				bar		1	2	ac%		160	180	dmg%		50	60	extra-perforate-spikes		1	2	att/lvl	12			skill	139	2	3																									0
+Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-mag		20	50	pierce-mag		3	5	extra-magi		3	5																																					0
+Magefist	100	1		1	1	31	23	tgl	Light Gauntlets			5	5000	lgry	lgry						cast3		20	20	regen-mana		10	25	magskill		1	1	dmg-pois	75	204	204	ac		10	10	ac%		20	30																									0
+Transcendent Mind Charm	100	1		1	1	87	90	cm4	grand charm	1		3	5000				invocha				item-elemasterypermana	595	1	1	mana%		10	15																																									0
+Empowered Spirit Charm	100	1		1	1	87	90	cm4	grand charm	1		3	5000				invocha				item-msiasfromar	596	1	1	dex		30	60																																									0
+Tempered Flesh Charm	100	1		1	1	87	90	cm4	grand charm	1		3	5000				invocha				item-edfromstr	597	1	1	str		40	50																																									0
+One With Nothing Charm	100	1		1	1	87	90	cm4	grand charm	1		3	5000				invocha				item-csfromattr	598	1	1	dex		30	90																																									0
+Gravebloom	100	1		1	1	87	80	rmu	Ruination Maul	1		3	5000	dgry			invgrbl				hit-skill	74	40	30	swing2		40	50	dmg%		280	320	pierce-fire		15	20	corpseexplosion-radius		1	2	extra-fire		10	15																									0

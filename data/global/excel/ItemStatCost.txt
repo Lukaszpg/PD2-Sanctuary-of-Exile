@@ -282,13 +282,13 @@ item_tohitpercent_bytime	279		1	22										4		0	1024		22	0	22	0			6			item_tohi
 item_cold_damagemax_bytime	280		1	22										4		0	1024		22	0	22	0			6			coldmaxdam						1					180	17	1	ModStr1s	ModStr1s									0
 item_fire_damagemax_bytime	281		1	22										4		0	1024		22	0	22	0			6			firemaxdam						1					180	17	1	ModStr1o	ModStr1o									0
 item_ltng_damagemax_bytime	282		1	22										4		0	1024		22	0	22	0			6			lightmaxdam						1					180	17	1	ModStr1q	ModStr1q									0
-item_pois_damagemax_bytime	283		1	22										4		0	1024		22	0	22	0			6			poisonmaxdam						1					180	17	1	ModStr4h	ModStr4h									0
-item_resist_cold_bytime	284		1	22										4		0	1024		22	0	22	0			6			coldresist											180	18	2	ModStr1k	ModStr1k									0
+extra_perforate_spikes	283		1								1						1024		7	0	10	0												1					180	9	2	StrExtraPerforateSpikes	StrExtraPerforateSpikes	ExtraPerforateSpikes								0
+item_crushtodeadly	284		1								1						1024		7	0	10	0												1					180	3	0	StrCrushToDeadly	StrCrushToDeadly									0
 item_firemasterymanaconvert	285		1								1						1024		7	0	10	0												1					180	3	0	StrFireMasteryManaConvert	StrFireMasteryManaConvert									0
 item_coldmasterymanaconvert	286		1								1						1024		7	0	10	0												1					180	3	0	StrColdMasteryManaConvert	StrColdMasteryManaConvert									0
 item_poisonmasterymanaconvert	287		1								1						1024		7	0	10	0												1					180	3	0	StrPoisonMasteryManaConvert	StrPoisonMasteryManaConvert									0
 item_magicmasterymanaconvert	288		1								1						1024		7	0	10	0												1					180	3	0	StrMagicMasteryManaConvert	StrMagicMasteryManaConvert									0
-item_worthy	289		1	5													1024		6		6																		0	3	0	StrWorthy	StrWorthy									0
+extra_bone_spirits	289		1	5													1024		6		5																		240	9	2	StrExtraBoneSpirits	StrExtraBoneSpirits	ExtraBoneSpirits								0
 item_piercelightmaspierstr	290		1	5													1024		6		6																		160	3	0	StrLightMasPiercePerStr	StrLightMasPiercePerStr									0
 item_nonclassskill_hidden	291		1	15	9						1			1	181	327	1024		7	20	6	0	16																													0
 item_sacred	292		1	5													1024		6		6																		250	3	0	StrSacred	StrSacred									0
