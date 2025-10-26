@@ -4112,7 +4112,3 @@ Transcendent Mind Charm	1			100					1	Transcendent Mind							Transcendent Mind 
 Empowered Spirit Charm	1			100					1	Empowered Spirit							Empowered Spirit Charm			100																																																																																				0
 Tempered Flesh Charm	1			100					1	Tempered Flesh							Tempered Flesh Charm			100																																																																																				0
 One With Nothing Charm	1			100					1	One With Nothing							One With Nothing Charm			100																																																																																				0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-Test	1			100					1	key,qty=1							Gravebloom																																																																																							0
