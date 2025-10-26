@@ -2318,6 +2318,7 @@ Bul Katho's Wedding Band	1			100	16	361	6001		2	ring,mag	"divo,qty=1"						Bul K
 Nature's Peace	1			100	16	361	6004		2	ring,mag	"divo,qty=1"						Nature's Peace	99																																																																																						0
 Constricting Loop	1			100	16	361	6005		2	ring,mag	"divo,qty=1"						Constricting Ring	99																																																																																						0
 Wisp Projector	1			100	16	361	6006		2	ring,mag	"divo,qty=1"						Wisp	99																																																																																						0
+Deaths Poise	1			100	16	361	6007		2	ring,mag	"divo,qty=1"						Deaths Poise	99																																																																																						0
 The Stone of Jordan	1			100	16	361	6000		2	ring,rar	"divo,qty=1"						The Stone of Jordan	99																																																																																						0
 Bul Katho's Wedding Band	1			100	16	361	6001		2	ring,rar	"divo,qty=1"						Bul Katho's Wedding Band	99																																																																																						0
 Nature's Peace	1			100	16	361	6004		2	ring,rar	"divo,qty=1"						Nature's Peace	99																																																																																						0
