@@ -241,3 +241,4 @@ Light Shield	lshi			1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		0							arm
 New Orbs	norb			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Mythic Jewel	mjwg	jewl	sock	0	0					0	0	0	0	1	1	0	0	1	0	0	0	0	0	1		0		3	invpjwl	invpjwl2	invpjwl3				misc	0
 Ornate Charm	ocha	char	lcha	0	0					0	0	0	0	1	0	0	1	0	0	0	0	0	0	1		0		1	invocha						misc	0
+Paladin Helmet	pahm	helm	pala	1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	3	0	1		0	pal	0							armo	0

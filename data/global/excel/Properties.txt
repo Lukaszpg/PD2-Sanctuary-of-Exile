@@ -460,3 +460,4 @@ item-magicmasterymanaconvert	1			22	item_skillonequip			22	item_magicmasterymana
 extra-bone-spirits	1			1	extra_bone_spirits																														0
 item-crush-to-deadly	1			22	item_skillonequip			22	item_crushtodeadly																										0
 extra-perforate-spikes	1			1	extra_perforate_spikes																														0
+extra-divine-damage	1			1	extra_divine_judgement_damage																														0

@@ -208,8 +208,8 @@ bloodwarp	205																																																																			
 poison_weakness	206																											1																poison_weakness																											0
 merc_passive_mastery	207																																																																						0
 player_stun	208																						1																					stun							velocitypercent																				0
-dcloneset	209																																											dclone_aura																											0
-maxlevelset	210																																											maxlevel_aura																											0
+hh_dmg	209																																											berserkfront																			barbarian_shout_1								0
+hh_speed	210																																											doubledamage3																			assassin_fade								0
 devaura	211																																											dev_aura	dev_glow_aura																										0
 spectatemode	212																																																			12	8																		0
 mapevent	213																																																																						0

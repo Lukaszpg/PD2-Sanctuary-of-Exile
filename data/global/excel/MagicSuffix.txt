@@ -336,8 +336,8 @@ of Life	333	100	1	1	9	86	6				5	26	hp		11	15											lcha														0
 of Life	334	100	1	1	19	86	14				5	26	hp		16	20											lcha														0
 of Substinence	335	100	1	1	31	86	23				5	26	hp		21	25											lcha														0
 of Substinence	336	100	1	1	45	86	37				5	26	hp		26	30											lcha														0
-of Substinence	337	100	1	1	61	86	53				5	26	hp		31	35											lcha														0
-of Vita	338	100	1		77	89	69				5	26	hp		36	40											lcha														0
+of Substinence	337	100	1	1	61	89	53				5	26	hp		31	35											lcha														0
+of Vita	338	100	1		77		69				5	26	hp		36	40											lcha														0
 of Vita	339	100	1		91		83				5	26	hp		41	45											lcha														0
 of Vita	340	100	1		110		97				5	26	hp		46	50											lcha														0
 of Life	341	100	1	1	1	86	9				5	26	hp		6	10											mcha														0

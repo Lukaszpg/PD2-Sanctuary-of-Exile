@@ -281,7 +281,7 @@ item_tohit_bytime	278		1	22										4		0	1024		22	0	22	0			6			tohit						1				
 item_tohitpercent_bytime	279		1	22										4		0	1024		22	0	22	0			6			item_tohit_percent						1					180	18	1	ModStr4c	ModStr4c									0
 item_cold_damagemax_bytime	280		1	22										4		0	1024		22	0	22	0			6			coldmaxdam						1					180	17	1	ModStr1s	ModStr1s									0
 item_fire_damagemax_bytime	281		1	22										4		0	1024		22	0	22	0			6			firemaxdam						1					180	17	1	ModStr1o	ModStr1o									0
-item_ltng_damagemax_bytime	282		1	22										4		0	1024		22	0	22	0			6			lightmaxdam						1					180	17	1	ModStr1q	ModStr1q									0
+extra_divine_judgement_damage	282		1								1						1024		7	0	10	0												1					180	3	0	StrExtraDivineJudgementDmg	StrExtraDivineJudgementDmg									0
 extra_perforate_spikes	283		1								1						1024		7	0	10	0												1					180	9	2	StrExtraPerforateSpikes	StrExtraPerforateSpikes	ExtraPerforateSpikes								0
 item_crushtodeadly	284		1								1						1024		7	0	10	0												1					180	3	0	StrCrushToDeadly	StrCrushToDeadly									0
 item_firemasterymanaconvert	285		1								1						1024		7	0	10	0												1					180	3	0	StrFireMasteryManaConvert	StrFireMasteryManaConvert									0

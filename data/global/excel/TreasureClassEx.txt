@@ -239,7 +239,7 @@ Act 2 (H) Good	29	72	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect 
 Act 3 (H) Good	29	78	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
 Act 4 (H) Good	29	82	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
 Act 5 (H) Good	29	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
-Map Good t1	20	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	T1 Map Drop	8	New orbs T1	4	Boxes	7	Map currency	6						0
+Map Good t1	30	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	T1 Map Drop	8	New orbs T1	4	Boxes	7	Map currency	6						0
 Map Good t2	20	86	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	T2 Map Drop	8	New orbs T2	4	Boxes	7	Map currency	6	Mythic or Charms	5				0
 Map Good t3	20	87	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	T3 Map Drop	8	New orbs T3	4	Boxes	7	Map currency	6	Mythic or Charms	5				0
 Act 1 Chest A	6	0	4					173	gld	295	Act 1 Junk	295	Act 1 Equip A	196	Act 1 Good	39																0
