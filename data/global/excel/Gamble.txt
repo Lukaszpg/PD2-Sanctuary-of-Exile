@@ -166,5 +166,6 @@ maiden javelin	am5
 rustic belt	mrb
 Splendid Round Shield	srs
 Crumbling Maul	rmn
+Blessed Helmet	ph1
 ring	rin
 amulet	amu
