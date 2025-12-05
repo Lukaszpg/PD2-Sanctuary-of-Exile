@@ -1,8 +1,8 @@
 {
-  "date": "Oct 29 2025",
-  "version": "11.2.1c",
-  "latestPatchNotes": "https://docs.google.com/document/d/1Y3koDDC1jJa_ZulhJsd0rCABTqrA59Gh-c1GloxA_q0/edit?usp=sharing",
-  "dataChecksum":"1deb7c91db7d9921acc32814a56eab9346c4f2ea5efcd8901d7c31b66c297c27",
-  "dataBhChecksum":"812b667744accd451062a0bc241c56efc237cecf56958d925bfe127de4fec3df",
-  "dataPDDllChecksum":"a53501ba638de2fb976da69ba1b372f3166893e8fdb172b66eed5deade5effcb"
+  "date": "Dec 05 2025",
+  "version": "12.0.0",
+  "latestPatchNotes": "https://docs.google.com/document/d/1_JlU1EDU3xpt3yOuP3qEjggOS5ZJN6SkS4EE_VsbYfU/edit?usp=sharing",
+  "dataChecksum":"2563cd98983c66305c4c202d018eb7169bf40d1d3d04a6da2cbc3b69e71ef723",
+  "dataBhChecksum":"2563cd98983c66305c4c202d018eb7169bf40d1d3d04a6da2cbc3b69e71ef723",
+  "dataPDDllChecksum":"c82fa19b4ac0eef4245fbdf1414e455300626c1dda52a3199f0889da8ed8c540"
 }
