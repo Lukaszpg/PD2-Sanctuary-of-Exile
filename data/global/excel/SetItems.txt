@@ -58,7 +58,7 @@ Arctic Furs	Arctic Gear	qui	Quilted Armor	7	3	2	lgld	lgld						5	2500	2	ac%		275
 Arctic Binding	Arctic Gear	vbl	Light Belt	7	3	2	lgld	lgld						5	2500	2	res-cold		40	40	ac		30	30																													mag%		40	40					res-cold		10	10																													0
 Arctic Mitts	Arctic Gear	tgl	Light Gauntlets	7	3	2	lgld	lgld						5	2500	2	hp		20	20	swing1		10	10																													att		50	50	pierce		25	25	dex		10	10																													0
 Arcanna's Sign	Arcanna's Tricks	amu	Amulet	3	20	15	blac	blac						5	2500	2	mana		35	35	regen-mana		20	20																													mag%		50	50					res-fire		30	30																													0
-Arcanna's Deathwand	Arcanna's Tricks	wst	War Staff	7	20	15	blac	blac						5	2500	2	sor		1	1	deadly		25	50	dmg%		50	75	splash	358	100	1	cast2		10	10	cast-skill	603	15	2													mana		75	75					regen-mana		20	20					swing2		40	40																					0
+Arcanna's Deathwand	Arcanna's Tricks	wst	War Staff	7	20	15	blac	blac						5	2500	2	sor		1	1	deadly		25	50	dmg%		50	75	splash	358	100	1	cast2		10	10	cast-skill	605	15	2													mana		75	75					regen-mana		20	20					swing2		40	40																					0
 Arcanna's Head	Arcanna's Tricks	skp	Skull Cap	7	20	15	blac	blac						5	2500	2	regen		10	14	thorns		12	12	regen-mana		20	20	mana		30	40																					ac/lvl	24							res-ltng		25	25																													0
 Arcanna's Flesh	Arcanna's Tricks	ltp	Light Plate	7	20	15	blac	blac						5	2500	2	light		2	2	red-dmg		3	6	cast2		10	10																									ac		100	100					enr		20	20					regen-mana		20	20																					0
 Expansion																																																																																													0

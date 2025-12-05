@@ -211,7 +211,7 @@ player_stun	208																						1																					stun							velocitype
 hh_dmg	209																																											berserkfront																			barbarian_shout_1								0
 hh_speed	210																																											doubledamage3																			assassin_fade								0
 devaura	211																																											dev_aura	dev_glow_aura																										0
-spectatemode	212																																																			12	8																		0
+regenbymaxhp	212																																																																						0
 mapevent	213																																																																						0
 disable_tele	214																																											disable_tele																											0
 dopplezonnew	215																														1	1			1														dopllezon_appear																						0
