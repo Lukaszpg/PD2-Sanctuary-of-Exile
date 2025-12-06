@@ -2454,59 +2454,59 @@ Atma's Scarab	1			100	16	361	6006		2	amu,rar	mfo,qty=1						Atma's Scarab	99				
 																																																																																																								0
 DIVINE ORB																																																																																																								0
 																																																																																																								0
-Convert normal quality armor to unique	1			100	18	361	0		2	armo,nor,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
-Convert superior quality armor to unique	1			100	18	361	0		2	armo,hiq,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
-Convert magic quality armor to unique	1			100	18	361	0		2	armo,mag,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
-Convert rare quality armor to unique	1			100	18	361	0		2	armo,rar,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
-Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
-Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
-Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
-Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
-Divine Orb + 5 jewel fragments = random unique regular jewel	1			100					2	"divo,qty=1"	"jewf,qty=5"						jew,uni	85																																																																																						0
-Divine Orb + magic mythical jewel = random unique mythical jewel	1			100					2	"divo,qty=1"	mjw,mag						mjw,uni	87																																																																																						0
-3x Divine Orb + magic ornate charm = random unique ornate charm	1			100					2	"divo,qty=3"	cm4,mag						cm4,uni	87																																																																																						0
+Convert normal quality armor to unique	1			100	18	361	0		2	armo,nor,eli	"dvo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Convert superior quality armor to unique	1			100	18	361	0		2	armo,hiq,eli	"dvo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Convert magic quality armor to unique	1			100	18	361	0		2	armo,mag,eli	"dvo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Convert rare quality armor to unique	1			100	18	361	0		2	armo,rar,eli	"dvo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor,eli	"dvo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq,eli	"dvo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,eli	"dvo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,eli	"dvo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Divine Orb + 5 jewel fragments = random unique regular jewel	1			100					2	"dvo,qty=1"	"jewf,qty=5"						jew,uni	85																																																																																						0
+Divine Orb + magic mythical jewel = random unique mythical jewel	1			100					2	"dvo,qty=1"	mjw,mag						mjw,uni	87																																																																																						0
+3x Divine Orb + magic ornate charm = random unique ornate charm	1			100					2	"dvo,qty=3"	cm4,mag						cm4,uni	87																																																																																						0
 																																																																																																								0
 DIVINE ORB RINGS ROLLING																																																																																																								0
 																																																																																																								0
 DIVINE ORB RINGS ROLLING - PHASE 1																																																																																																								0
-Divine Orb + Magic Ring roll	1	2		100	18	361	0		2	ring,mag	"divo,qty=1"						useitem	99			corruptnum	100		6000	6007																					"divo,qty=1"																																																										0
-Divine Orb + Rare Ring roll	1	2		100	18	361	0		2	ring,rar	"divo,qty=1"						useitem	99			corruptnum	100		6000	6007																					"divo,qty=1"																																																										0
+Divine Orb + Magic Ring roll	1	2		100	18	361	0		2	ring,mag	"dvo,qty=1"						useitem	99			corruptnum	100		6000	6007																					"dvo,qty=1"																																																										0
+Divine Orb + Rare Ring roll	1	2		100	18	361	0		2	ring,rar	"dvo,qty=1"						useitem	99			corruptnum	100		6000	6007																					"dvo,qty=1"																																																										0
 																																																																																																								0
 DIVINE ORB RINGS OUTCOME - PHASE 2																																																																																																								0
-The Stone of Jordan	1			100	16	361	6000		2	ring,mag	"divo,qty=1"						The Stone of Jordan	99																																																																																						0
-Bul Katho's Wedding Band	1			100	16	361	6001		2	ring,mag	"divo,qty=1"						Bul Katho's Wedding Band	99																																																																																						0
-Nature's Peace	1			100	16	361	6004		2	ring,mag	"divo,qty=1"						Nature's Peace	99																																																																																						0
-Constricting Loop	1			100	16	361	6005		2	ring,mag	"divo,qty=1"						Constricting Ring	99																																																																																						0
-Wisp Projector	1			100	16	361	6006		2	ring,mag	"divo,qty=1"						Wisp	99																																																																																						0
-Deaths Poise	1			100	16	361	6007		2	ring,mag	"divo,qty=1"						Deaths Poise	99																																																																																						0
-The Stone of Jordan	1			100	16	361	6000		2	ring,rar	"divo,qty=1"						The Stone of Jordan	99																																																																																						0
-Bul Katho's Wedding Band	1			100	16	361	6001		2	ring,rar	"divo,qty=1"						Bul Katho's Wedding Band	99																																																																																						0
-Nature's Peace	1			100	16	361	6004		2	ring,rar	"divo,qty=1"						Nature's Peace	99																																																																																						0
-Constricting Loop	1			100	16	361	6005		2	ring,rar	"divo,qty=1"						Constricting Ring	99																																																																																						0
-Wisp Projector	1			100	16	361	6006		2	ring,rar	"divo,qty=1"						Wisp	99																																																																																						0
-Deaths Poise	1			100	16	361	6007		2	ring,rar	"divo,qty=1"						Deaths Poise	99																																																																																						0
+The Stone of Jordan	1			100	16	361	6000		2	ring,mag	"dvo,qty=1"						The Stone of Jordan	99																																																																																						0
+Bul Katho's Wedding Band	1			100	16	361	6001		2	ring,mag	"dvo,qty=1"						Bul Katho's Wedding Band	99																																																																																						0
+Nature's Peace	1			100	16	361	6004		2	ring,mag	"dvo,qty=1"						Nature's Peace	99																																																																																						0
+Constricting Loop	1			100	16	361	6005		2	ring,mag	"dvo,qty=1"						Constricting Ring	99																																																																																						0
+Wisp Projector	1			100	16	361	6006		2	ring,mag	"dvo,qty=1"						Wisp	99																																																																																						0
+Deaths Poise	1			100	16	361	6007		2	ring,mag	"dvo,qty=1"						Deaths Poise	99																																																																																						0
+The Stone of Jordan	1			100	16	361	6000		2	ring,rar	"dvo,qty=1"						The Stone of Jordan	99																																																																																						0
+Bul Katho's Wedding Band	1			100	16	361	6001		2	ring,rar	"dvo,qty=1"						Bul Katho's Wedding Band	99																																																																																						0
+Nature's Peace	1			100	16	361	6004		2	ring,rar	"dvo,qty=1"						Nature's Peace	99																																																																																						0
+Constricting Loop	1			100	16	361	6005		2	ring,rar	"dvo,qty=1"						Constricting Ring	99																																																																																						0
+Wisp Projector	1			100	16	361	6006		2	ring,rar	"dvo,qty=1"						Wisp	99																																																																																						0
+Deaths Poise	1			100	16	361	6007		2	ring,rar	"dvo,qty=1"						Deaths Poise	99																																																																																						0
 																																																																																																								0
 DIVINE ORB AMULETS ROLLING																																																																																																								0
 																																																																																																								0
 DIVINE ORB AMULET ROLLING - PHASE 1																																																																																																								0
-Divine Orb + Magic Amulet roll	1	2		100	18	361	0		2	amu,mag	"divo,qty=1"						useitem	99			corruptnum	100		6000	6021																					"divo,qty=1"																																																										0
-Divine Orb + Rare Amulet roll	1	2		100	18	361	0		2	amu,rar	"divo,qty=1"						useitem	99			corruptnum	100		6000	6021																					"divo,qty=1"																																																										0
+Divine Orb + Magic Amulet roll	1	2		100	18	361	0		2	amu,mag	"dvo,qty=1"						useitem	99			corruptnum	100		6000	6021																					"dvo,qty=1"																																																										0
+Divine Orb + Rare Amulet roll	1	2		100	18	361	0		2	amu,rar	"dvo,qty=1"						useitem	99			corruptnum	100		6000	6021																					"dvo,qty=1"																																																										0
 																																																																																																								0
 DIVINE ORB AMULETS OUTCOME - PHASE 2																																																																																																								0
-The Rising Sun	1			100	16	361	6004		2	amu,mag	"divo,qty=1"						The Rising Sun	99																																																																																						0
-Highlord's Wrath	1			100	16	361	6009		2	amu,mag	"divo,qty=1"						Highlord's Wrath	99																																																																																						0
-Mara's Kaleidoscope	1			100	16	361	6014		2	amu,mag	"divo,qty=1"						Mara's Kaleidoscope	99																																																																																						0
-Seraph's Hymn	1			100	16	361	6017		2	amu,mag	"divo,qty=1"						Seraph's Hymn	99																																																																																						0
-Metalgrid	1			100	16	361	6019		2	amu,mag	"divo,qty=1"						Metalgrid	99																																																																																						0
-Defiance of Destiny	1			100	16	361	6020		2	amu,mag	"divo,qty=1"						Defiance of Destiny	99																																																																																						0
-Astramentis	1			100	16	361	6021		2	amu,mag	"divo,qty=1"						Astramentis	99																																																																																						0
-The Rising Sun	1			100	16	361	6004		2	amu,rar	"divo,qty=1"						The Rising Sun	99																																																																																						0
-Highlord's Wrath	1			100	16	361	6009		2	amu,rar	"divo,qty=1"						Highlord's Wrath	99																																																																																						0
-Mara's Kaleidoscope	1			100	16	361	6014		2	amu,rar	"divo,qty=1"						Mara's Kaleidoscope	99																																																																																						0
-Seraph's Hymn	1			100	16	361	6017		2	amu,rar	"divo,qty=1"						Seraph's Hymn	99																																																																																						0
-Metalgrid	1			100	16	361	6019		2	amu,rar	"divo,qty=1"						Metalgrid	99																																																																																						0
-Defiance of Destiny	1			100	16	361	6020		2	amu,rar	"divo,qty=1"						Defiance of Destiny	99																																																																																						0
-Astramentis	1			100	16	361	6021		2	amu,rar	"divo,qty=1"						Astramentis	99																																																																																						0
+The Rising Sun	1			100	16	361	6004		2	amu,mag	"dvo,qty=1"						The Rising Sun	99																																																																																						0
+Highlord's Wrath	1			100	16	361	6009		2	amu,mag	"dvo,qty=1"						Highlord's Wrath	99																																																																																						0
+Mara's Kaleidoscope	1			100	16	361	6014		2	amu,mag	"dvo,qty=1"						Mara's Kaleidoscope	99																																																																																						0
+Seraph's Hymn	1			100	16	361	6017		2	amu,mag	"dvo,qty=1"						Seraph's Hymn	99																																																																																						0
+Metalgrid	1			100	16	361	6019		2	amu,mag	"dvo,qty=1"						Metalgrid	99																																																																																						0
+Defiance of Destiny	1			100	16	361	6020		2	amu,mag	"dvo,qty=1"						Defiance of Destiny	99																																																																																						0
+Astramentis	1			100	16	361	6021		2	amu,mag	"dvo,qty=1"						Astramentis	99																																																																																						0
+The Rising Sun	1			100	16	361	6004		2	amu,rar	"dvo,qty=1"						The Rising Sun	99																																																																																						0
+Highlord's Wrath	1			100	16	361	6009		2	amu,rar	"dvo,qty=1"						Highlord's Wrath	99																																																																																						0
+Mara's Kaleidoscope	1			100	16	361	6014		2	amu,rar	"dvo,qty=1"						Mara's Kaleidoscope	99																																																																																						0
+Seraph's Hymn	1			100	16	361	6017		2	amu,rar	"dvo,qty=1"						Seraph's Hymn	99																																																																																						0
+Metalgrid	1			100	16	361	6019		2	amu,rar	"dvo,qty=1"						Metalgrid	99																																																																																						0
+Defiance of Destiny	1			100	16	361	6020		2	amu,rar	"dvo,qty=1"						Defiance of Destiny	99																																																																																						0
+Astramentis	1			100	16	361	6021		2	amu,rar	"dvo,qty=1"						Astramentis	99																																																																																						0
 																																																																																																								0
 EXALTED ORB																																																																																																								0
 Convert normal quality armor to set piece	1			100	18	361	0		2	armo,nor	"exo,qty=1"						usetype,set,noe	99			dye	100		2	2																																																																															0
@@ -2600,31 +2600,31 @@ r33 downgrade zod -> cham	1			100					2	ncoi,qty=1	"r33s,qty=1"						"r32s,qty=1
 EXCHANGES																																																																																																								0
 2x LPP + Coin = Larzuk's Puzzle Box	1			100					2	lpp,qty=2	ncoi,qty=1						lbox																																																																																							0
 																																																																																																								0
-Divine Orb + Coin = 2x Mythic Orb	1			100					2	divo,qty=1	ncoi,qty=1						mfo,qty=2																																																																																							0
-2x Divine Orb + Coin = 4x Mythic Orb	1			100					2	divo,qty=2	ncoi,qty=1						mfo,qty=4																																																																																							0
-3x Divine Orb + Coin = 6x Mythic Orb	1			100					2	divo,qty=3	ncoi,qty=1						mfo,qty=6																																																																																							0
-4x Divine Orb + Coin = 8x Mythic Orb	1			100					2	divo,qty=4	ncoi,qty=1						mfo,qty=8																																																																																							0
-5x Divine Orb + Coin = 10x Mythic Orb	1			100					2	divo,qty=5	ncoi,qty=1						mfo,qty=10																																																																																							0
-6x Divine Orb + Coin = 12x Mythic Orb	1			100					2	divo,qty=6	ncoi,qty=1						mfo,qty=12																																																																																							0
-7x Divine Orb + Coin = 14x Mythic Orb	1			100					2	divo,qty=7	ncoi,qty=1						mfo,qty=14																																																																																							0
-8x Divine Orb + Coin = 16x Mythic Orb	1			100					2	divo,qty=8	ncoi,qty=1						mfo,qty=16																																																																																							0
-9x Divine Orb + Coin = 18x Mythic Orb	1			100					2	divo,qty=9	ncoi,qty=1						mfo,qty=18																																																																																							0
-10x Divine Orb + Coin = 20x Mythic Orb	1			100					2	divo,qty=10	ncoi,qty=1						mfo,qty=20																																																																																							0
-11x Divine Orb + Coin = 22x Mythic Orb	1			100					2	divo,qty=11	ncoi,qty=1						mfo,qty=22																																																																																							0
-12x Divine Orb + Coin = 24x Mythic Orb	1			100					2	divo,qty=12	ncoi,qty=1						mfo,qty=24																																																																																							0
-13x Divine Orb + Coin = 26x Mythic Orb	1			100					2	divo,qty=13	ncoi,qty=1						mfo,qty=26																																																																																							0
-14x Divine Orb + Coin = 28x Mythic Orb	1			100					2	divo,qty=14	ncoi,qty=1						mfo,qty=28																																																																																							0
-15x Divine Orb + Coin = 30x Mythic Orb	1			100					2	divo,qty=15	ncoi,qty=1						mfo,qty=30																																																																																							0
-16x Divine Orb + Coin = 32x Mythic Orb	1			100					2	divo,qty=16	ncoi,qty=1						mfo,qty=32																																																																																							0
-17x Divine Orb + Coin = 34x Mythic Orb	1			100					2	divo,qty=17	ncoi,qty=1						mfo,qty=34																																																																																							0
-18x Divine Orb + Coin = 36x Mythic Orb	1			100					2	divo,qty=18	ncoi,qty=1						mfo,qty=36																																																																																							0
-19x Divine Orb + Coin = 38x Mythic Orb	1			100					2	divo,qty=19	ncoi,qty=1						mfo,qty=38																																																																																							0
-20x Divine Orb + Coin = 40x Mythic Orb	1			100					2	divo,qty=20	ncoi,qty=1						mfo,qty=40																																																																																							0
-21x Divine Orb + Coin = 42x Mythic Orb	1			100					2	divo,qty=21	ncoi,qty=1						mfo,qty=42																																																																																							0
-22x Divine Orb + Coin = 44x Mythic Orb	1			100					2	divo,qty=22	ncoi,qty=1						mfo,qty=44																																																																																							0
-23x Divine Orb + Coin = 46x Mythic Orb	1			100					2	divo,qty=23	ncoi,qty=1						mfo,qty=46																																																																																							0
-24x Divine Orb + Coin = 48x Mythic Orb	1			100					2	divo,qty=24	ncoi,qty=1						mfo,qty=48																																																																																							0
-25x Divine Orb + Coin = 50x Mythic Orb	1			100					2	divo,qty=25	ncoi,qty=1						mfo,qty=50																																																																																							0
+Divine Orb + Coin = 2x Mythic Orb	0			100					2	divo,qty=1	ncoi,qty=1						mfo,qty=2																																																																																							0
+2x Divine Orb + Coin = 4x Mythic Orb	0			100					2	divo,qty=2	ncoi,qty=1						mfo,qty=4																																																																																							0
+3x Divine Orb + Coin = 6x Mythic Orb	0			100					2	divo,qty=3	ncoi,qty=1						mfo,qty=6																																																																																							0
+4x Divine Orb + Coin = 8x Mythic Orb	0			100					2	divo,qty=4	ncoi,qty=1						mfo,qty=8																																																																																							0
+5x Divine Orb + Coin = 10x Mythic Orb	0			100					2	divo,qty=5	ncoi,qty=1						mfo,qty=10																																																																																							0
+6x Divine Orb + Coin = 12x Mythic Orb	0			100					2	divo,qty=6	ncoi,qty=1						mfo,qty=12																																																																																							0
+7x Divine Orb + Coin = 14x Mythic Orb	0			100					2	divo,qty=7	ncoi,qty=1						mfo,qty=14																																																																																							0
+8x Divine Orb + Coin = 16x Mythic Orb	0			100					2	divo,qty=8	ncoi,qty=1						mfo,qty=16																																																																																							0
+9x Divine Orb + Coin = 18x Mythic Orb	0			100					2	divo,qty=9	ncoi,qty=1						mfo,qty=18																																																																																							0
+10x Divine Orb + Coin = 20x Mythic Orb	0			100					2	divo,qty=10	ncoi,qty=1						mfo,qty=20																																																																																							0
+11x Divine Orb + Coin = 22x Mythic Orb	0			100					2	divo,qty=11	ncoi,qty=1						mfo,qty=22																																																																																							0
+12x Divine Orb + Coin = 24x Mythic Orb	0			100					2	divo,qty=12	ncoi,qty=1						mfo,qty=24																																																																																							0
+13x Divine Orb + Coin = 26x Mythic Orb	0			100					2	divo,qty=13	ncoi,qty=1						mfo,qty=26																																																																																							0
+14x Divine Orb + Coin = 28x Mythic Orb	0			100					2	divo,qty=14	ncoi,qty=1						mfo,qty=28																																																																																							0
+15x Divine Orb + Coin = 30x Mythic Orb	0			100					2	divo,qty=15	ncoi,qty=1						mfo,qty=30																																																																																							0
+16x Divine Orb + Coin = 32x Mythic Orb	0			100					2	divo,qty=16	ncoi,qty=1						mfo,qty=32																																																																																							0
+17x Divine Orb + Coin = 34x Mythic Orb	0			100					2	divo,qty=17	ncoi,qty=1						mfo,qty=34																																																																																							0
+18x Divine Orb + Coin = 36x Mythic Orb	0			100					2	divo,qty=18	ncoi,qty=1						mfo,qty=36																																																																																							0
+19x Divine Orb + Coin = 38x Mythic Orb	0			100					2	divo,qty=19	ncoi,qty=1						mfo,qty=38																																																																																							0
+20x Divine Orb + Coin = 40x Mythic Orb	0			100					2	divo,qty=20	ncoi,qty=1						mfo,qty=40																																																																																							0
+21x Divine Orb + Coin = 42x Mythic Orb	0			100					2	divo,qty=21	ncoi,qty=1						mfo,qty=42																																																																																							0
+22x Divine Orb + Coin = 44x Mythic Orb	0			100					2	divo,qty=22	ncoi,qty=1						mfo,qty=44																																																																																							0
+23x Divine Orb + Coin = 46x Mythic Orb	0			100					2	divo,qty=23	ncoi,qty=1						mfo,qty=46																																																																																							0
+24x Divine Orb + Coin = 48x Mythic Orb	0			100					2	divo,qty=24	ncoi,qty=1						mfo,qty=48																																																																																							0
+25x Divine Orb + Coin = 50x Mythic Orb	0			100					2	divo,qty=25	ncoi,qty=1						mfo,qty=50																																																																																							0
 																																																																																																								0
 48x Exalted Orb + 16x Coin = 16x Mythic Orb	1			100					2	exo,qty=48	ncoi,qty=16						mfo,qty=16																																																																																							0
 45x Exalted Orb + 15x Coin = 15x Mythic Orb	1			100					2	exo,qty=45	ncoi,qty=15						mfo,qty=15																																																																																							0
@@ -3051,7 +3051,7 @@ Sacred Orb of Fortitude (chest)	1			100					6	sror,qty=1	r01s,qty=1	r12s,qty=1	r
 Sacred Orb of Bramble	1			100					5	sror,qty=1	r08s,qty=1	r27s,qty=1	r29s,qty=1	r05s,qty=1			sr14																																																																																							0
 Sacred Orb of Dragon (chest)	1			100					5	sror,qty=1	r29s,qty=1	r28s,qty=1	r12s,qty=1	tors			sr15																																																																																							0
 Sacred Orb of Honor	1			100					5	sror,qty=1	r14s,qty=1	r22s,qty=1	r30s,qty=1	r24s,qty=1			sr16																																																																																							0
-Sacred Orb of Enigma	0			100					4	sror,qty=1	r31s,qty=1	r06s,qty=1	r30s,qty=1				sr17																																																																																							0
+Sacred Orb of Enigma	1			100					4	sror,qty=1	r31s,qty=1	r06s,qty=1	r30s,qty=1				sr17																																																																																							0
 Sacred Orb of Innocence	1			100					5	sror,qty=1	r25s,qty=1	r20s,qty=1	r33s,qty=1	r15s,qty=1			sr18																																																																																							0
 Sacred Orb of Treachery	0			100					4	sror,qty=1	r13s,qty=1	r10s,qty=1	r20s,qty=1				sr73																																																																																							0
 																																																																																																								0
@@ -3169,8 +3169,8 @@ Sacred Orb of Dragon (chest)	1			100	18	292	0		2	tors,uni	sr15,qty=1						useite
 Sacred Orb of Dragon (chest) - Crafted	1			100	18	292	0		2	tors,crf	sr15,qty=1						useitem			100	res-ltng-max	100		4	4	extra-hydra	100		1	1	aura	100	102	12	12	ac	100		400	550	sacred	100		1	1																																																											0
 Sacred Orb of Honor	1			100	18	292	0		2	tors,uni	sr16,qty=1						useitem			100	res-all	100		50	60	regen	100		20	20	red-dmg%	100		5	5	allskills	100		2	2	sacred	100		1	1																																																											0
 Sacred Orb of Honor - Crafted	1			100	18	292	0		2	tors,crf	sr16,qty=1						useitem			100	res-all	100		50	60	regen	100		20	20	red-dmg%	100		5	5	allskills	100		2	2	sacred	100		1	1																																																											0
-Sacred Orb of Enigma	0			100	18	292	0		2	tors,uni	sr17,qty=1						useitem			100	rep-charge	100	33	1	1	charged	100	357	5	1	ac	100		500	775	allskills	100		2	2	sacred	100		1	1																																																											0
-Sacred Orb of Enigma - Crafted	0			100	18	292	0		2	tors,crf	sr17,qty=1						useitem			100	rep-charge	100	33	1	1	charged	100	357	5	1	ac	100		500	775	allskills	100		2	2	sacred	100		1	1																																																											0
+Sacred Orb of Enigma	1			100	18	292	0		2	tors,uni	sr17,qty=1						useitem			100	oskill	100	54	1	1	str/lvl	100		4	6	ac	100		500	775	allskills	100		2	2	sacred	100		1	1																																																											0
+Sacred Orb of Enigma - Crafted	1			100	18	292	0		2	tors,crf	sr17,qty=1						useitem			100	oskill	100	54	1	1	str/lvl	100		4	6	ac	100		500	775	allskills	100		2	2	sacred	100		1	1																																																											0
 Sacred Orb of Innocence	1			100	18	292	0		2	tors,uni	sr18,qty=1						useitem			100	equipped-skill	100	557	8	12	indestruct	100		1	1	res-pois-len	100		50	50	allskills	100		2	2	sacred	100		1	1																																																											0
 Sacred Orb of Innocence - Crafted	1			100	18	292	0		2	tors,crf	sr18,qty=1						useitem			100	equipped-skill	100	557	8	12	indestruct	100		1	1	res-pois-len	100		50	50	allskills	100		2	2	sacred	100		1	1																																																											0
 Sacred Orb of Treachery	1			100	18	292	0		2	tors,uni	sr73,qty=1						useitem			100	hit-skill	100	278	25	15	balance3	100		20	20	swing2	100		45	45	ass	100		2	2	sacred	100		1	1																																																											0
@@ -3469,7 +3469,7 @@ Sacred Orb of Foresight	1			100	18	292	0		2	misl,uni	sr81,qty=1						useitem			1
 Sacred Orb of Foresight	1			100	18	292	0		2	misl,crf	sr81,qty=1						useitem			100	regen-mana	100		20	20	res-cold	100		40	50	res-fire	100		40	50	dmg%	100		10	20	sacred	100		1	1																																																											0
 Sacred Orb of Echo	1			100	18	292	0		2	misl,uni	sr82,qty=1						useitem			100	pierce	100		20	30	heal-kill	100		2	2	dmg%	100		20	30	red-dmg	100		9	9	sacred	100		1	1																																																											0
 Sacred Orb of Echo	1			100	18	292	0		2	misl,crf	sr82,qty=1						useitem			100	pierce	100		20	30	heal-kill	100		2	2	dmg%	100		20	30	red-dmg	100		9	9	sacred	100		1	1																																																											0
-Sacred Orb of Tantrum	1			100	18	292	0		2	misl,crf	sr83,qty=1						useitem			100	dmg%	100		120	140	swing2	100		50	60	allskills	100		2	2	move2	100		15	15	sacred	100		1	1																																																											0
+Sacred Orb of Tantrum	1			100	18	292	0		2	misl,uni	sr83,qty=1						useitem			100	dmg%	100		120	140	swing2	100		50	60	allskills	100		2	2	move2	100		15	15	sacred	100		1	1																																																											0
 Sacred Orb of Tantrum	1			100	18	292	0		2	misl,crf	sr83,qty=1						useitem			100	dmg%	100		120	140	swing2	100		50	60	allskills	100		2	2	move2	100		15	15	sacred	100		1	1																																																											0
 																																																																																																								0
 CARTOGRAPHER'S CHISEL																																																																																																								0
@@ -3523,7 +3523,7 @@ Puzzlepiece exceptional boots	1			100					2	boot,exc	lpp,qty=1						useitem,uns	
 Puzzlepiece elite boots	1			100					2	boot,eli	lpp,qty=1						useitem,uns			100	sock			1	2																																																																															0
 																																																																																																								0
 CREATE ARMAGEDDON BLADE																																																																																																								0
-Create Armageddon Blade	1			100					3	7cr	divo,qty=5	ncoi,qty=1					Arma Blade Replica																																																																																							0
+Create Armageddon Blade	1			100					3	7cr	dvo,qty=5	ncoi,qty=1					Arma Blade Replica																																																																																							0
 																																																																																																								0
 ADDITIONAL MAP RECIPES																																																																																																								0
 Reroll Rare Dungeon	1	4		100	18	361	0		2	"t4me,rar"	"rrra,qty=1"						"usetype,rar"			100																																																																																				0
@@ -4327,27 +4327,27 @@ T3 rare	1	4		100	16	281	2		2	t3me,rar	schr,qty=1						useitem			100	map-glob-add
 T4 rare	1	4		100	16	281	3		2	t4me,rar	schr,qty=1						useitem			100	map-glob-add-mon-horde	100		1188	1188	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																																0
 																																																																																																								0
 TERROR OF OPULENCE																																																																																																								0
-T1 rare	1	4		100	16	280	0		2	t1me,rar	troo,qty=1						useitem			100	map-glob-add-mon-fetish	100		1176	1176	map-mon-hp%	100		15	15	map-mon-ed%	100		10	10	terrorized	100		1	1																																																																0
-T2 rare	1	4		100	16	280	0		2	t2me,rar	troo,qty=1						useitem			100	map-glob-add-mon-fetish	100		1177	1177	map-mon-hp%	100		20	20	map-mon-ed%	100		15	15	terrorized	100		1	1																																																																0
-T3 rare	1	4		100	16	280	0		2	t3me,rar	troo,qty=1						useitem			100	map-glob-add-mon-fetish	100		1178	1178	map-mon-hp%	100		25	25	map-mon-ed%	100		20	20	terrorized	100		1	1																																																																0
-T4 rare	1	4		100	16	280	0		2	t4me,rar	troo,qty=1						useitem			100	map-glob-add-mon-fetish	100		1179	1179	map-mon-hp%	100		30	30	map-mon-ed%	100		25	25	terrorized	100		1	1																																																																0
+T1 rare	1	4		100	16	280	0		2	t1me,rar	troo,qty=1						useitem			100	map-glob-add-mon-fetish	100		1182	1182	map-mon-hp%	100		15	15	map-mon-ed%	100		10	10	terrorized	100		1	1																																																																0
+T2 rare	1	4		100	16	280	0		2	t2me,rar	troo,qty=1						useitem			100	map-glob-add-mon-fetish	100		1183	1183	map-mon-hp%	100		20	20	map-mon-ed%	100		15	15	terrorized	100		1	1																																																																0
+T3 rare	1	4		100	16	280	0		2	t3me,rar	troo,qty=1						useitem			100	map-glob-add-mon-fetish	100		1184	1184	map-mon-hp%	100		25	25	map-mon-ed%	100		20	20	terrorized	100		1	1																																																																0
+T4 rare	1	4		100	16	280	0		2	t4me,rar	troo,qty=1						useitem			100	map-glob-add-mon-fetish	100		1185	1185	map-mon-hp%	100		30	30	map-mon-ed%	100		25	25	terrorized	100		1	1																																																																0
 																																																																																																								0
 TERROR OF ETHEREAL																																																																																																								0
-T1 rare	1	4		100	16	280	0		2	t1me,rar	troe,qty=1						useitem			100	map-glob-add-mon-souls	100		1180	1180	map-mon-hp%	100		15	15	map-mon-ed%	100		10	10	terrorized	100		1	1																																																																0
-T2 rare	1	4		100	16	280	0		2	t2me,rar	troe,qty=1						useitem			100	map-glob-add-mon-souls	100		1181	1181	map-mon-hp%	100		20	20	map-mon-ed%	100		15	15	terrorized	100		1	1																																																																0
-T3 rare	1	4		100	16	280	0		2	t3me,rar	troe,qty=1						useitem			100	map-glob-add-mon-souls	100		1182	1182	map-mon-hp%	100		25	25	map-mon-ed%	100		20	20	terrorized	100		1	1																																																																0
-T4 rare	1	4		100	16	280	0		2	t4me,rar	troe,qty=1						useitem			100	map-glob-add-mon-souls	100		1183	1183	map-mon-hp%	100		30	30	map-mon-ed%	100		25	25	terrorized	100		1	1																																																																0
+T1 rare	1	4		100	16	280	0		2	t1me,rar	troe,qty=1						useitem			100	map-glob-add-mon-souls	100		1186	1186	map-mon-hp%	100		15	15	map-mon-ed%	100		10	10	terrorized	100		1	1																																																																0
+T2 rare	1	4		100	16	280	0		2	t2me,rar	troe,qty=1						useitem			100	map-glob-add-mon-souls	100		1187	1187	map-mon-hp%	100		20	20	map-mon-ed%	100		15	15	terrorized	100		1	1																																																																0
+T3 rare	1	4		100	16	280	0		2	t3me,rar	troe,qty=1						useitem			100	map-glob-add-mon-souls	100		1188	1188	map-mon-hp%	100		25	25	map-mon-ed%	100		20	20	terrorized	100		1	1																																																																0
+T4 rare	1	4		100	16	280	0		2	t4me,rar	troe,qty=1						useitem			100	map-glob-add-mon-souls	100		1189	1189	map-mon-hp%	100		30	30	map-mon-ed%	100		25	25	terrorized	100		1	1																																																																0
 																																																																																																								0
 TERROR OF RESPLENDENCE																																																																																																								0
-T1 rare	1	4		100	16	280	0		2	t1me,rar	tror,qty=1						useitem			100	map-glob-add-mon-shriek	100		1184	1184	map-mon-hp%	100		15	15	map-mon-ed%	100		10	10	terrorized	100		1	1																																																																0
-T2 rare	1	4		100	16	280	0		2	t2me,rar	tror,qty=1						useitem			100	map-glob-add-mon-shriek	100		1185	1185	map-mon-hp%	100		20	20	map-mon-ed%	100		15	15	terrorized	100		1	1																																																																0
-T3 rare	1	4		100	16	280	0		2	t3me,rar	tror,qty=1						useitem			100	map-glob-add-mon-shriek	100		1186	1186	map-mon-hp%	100		25	25	map-mon-ed%	100		20	20	terrorized	100		1	1																																																																0
-T4 rare	1	4		100	16	280	0		2	t4me,rar	tror,qty=1						useitem			100	map-glob-add-mon-shriek	100		1187	1187	map-mon-hp%	100		30	30	map-mon-ed%	100		25	25	terrorized	100		1	1																																																																0
+T1 rare	1	4		100	16	280	0		2	t1me,rar	tror,qty=1						useitem			100	map-glob-add-mon-shriek	100		1190	1190	map-mon-hp%	100		15	15	map-mon-ed%	100		10	10	terrorized	100		1	1																																																																0
+T2 rare	1	4		100	16	280	0		2	t2me,rar	tror,qty=1						useitem			100	map-glob-add-mon-shriek	100		1191	1191	map-mon-hp%	100		20	20	map-mon-ed%	100		15	15	terrorized	100		1	1																																																																0
+T3 rare	1	4		100	16	280	0		2	t3me,rar	tror,qty=1						useitem			100	map-glob-add-mon-shriek	100		1192	1192	map-mon-hp%	100		25	25	map-mon-ed%	100		20	20	terrorized	100		1	1																																																																0
+T4 rare	1	4		100	16	280	0		2	t4me,rar	tror,qty=1						useitem			100	map-glob-add-mon-shriek	100		1193	1193	map-mon-hp%	100		30	30	map-mon-ed%	100		25	25	terrorized	100		1	1																																																																0
 																																																																																																								0
 OUTER VOID TERRORS																																																																																																								0
-Outer Void Map + Terror Of Resplendence	1	4		100	16	280	1		2	Outer Void Map	tror,qty=1						useitem			100	map-glob-add-mon-shriek	100		1187	1187	map-mon-hp%	100		30	30	map-mon-ed%	100		25	25	terrorized	100		1	1																																																																0
-Outer Void Map + Terror Of Ethereal	1	4		100	16	280	1		2	Outer Void Map	troe,qty=1						useitem			100	map-glob-add-mon-souls	100		1183	1183	map-mon-hp%	100		30	30	map-mon-ed%	100		25	25	terrorized	100		1	1																																																																0
-Outer Void Map + Terror Of Opulence	1	4		100	16	280	1		2	Outer Void Map	troo,qty=1						useitem			100	map-glob-add-mon-fetish	100		1179	1179	map-mon-hp%	100		30	30	map-mon-ed%	100		25	25	terrorized	100		1	1																																																																0
+Outer Void Map + Terror Of Resplendence	1	4		100	16	280	1		2	Outer Void Map	tror,qty=1						useitem			100	map-glob-add-mon-shriek	100		1193	1193	map-mon-hp%	100		30	30	map-mon-ed%	100		25	25	terrorized	100		1	1																																																																0
+Outer Void Map + Terror Of Ethereal	1	4		100	16	280	1		2	Outer Void Map	troe,qty=1						useitem			100	map-glob-add-mon-souls	100		1189	1189	map-mon-hp%	100		30	30	map-mon-ed%	100		25	25	terrorized	100		1	1																																																																0
+Outer Void Map + Terror Of Opulence	1	4		100	16	280	1		2	Outer Void Map	troo,qty=1						useitem			100	map-glob-add-mon-fetish	100		1185	1185	map-mon-hp%	100		30	30	map-mon-ed%	100		25	25	terrorized	100		1	1																																																																0
 																																																																																																								0
 OUTER VOID SCARABS																																																																																																								0
 Outer Void Map + Scarab of Nemeses	1	4		100	16	281	4		2	Outer Void Map	scnm,qty=1						useitem			100	map-glob-monsterrarity	100		25	25	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																																0
@@ -4387,3 +4387,6 @@ Cannot Be Frozen	1			100	16	207	13		2	Hellfire Torch	dsno,qty=1						useitem			1
 +2% to ALL Maximum Resistances	1			100	16	207	14		2	Hellfire Torch	dsno,qty=1						useitem			100	res-all-max	100		2	2	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
 All Resistances +[7-10]	1			100	16	207	15		2	Hellfire Torch	dsno,qty=1						useitem			100	res-all	100		7	10	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
 																																																																																																								0
+Divine Orb CONVERSION - TECHNICAL																																																																																																								0
+Convert old divine orb to new divine orb	1			100					1	divo,qty=1							dvo,qty=1																																																																																							0
+	1			100					1	key,qty=1							sr17																																																																																							0

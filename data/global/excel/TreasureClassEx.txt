@@ -26,11 +26,11 @@ Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1						0
 Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
 Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
 New orbs			1					0	mfo	3	exo	4																				0
-New orbs T1			1					0	divo	1	mfo	5																				0
-New orbs T2			1					0	divo	1	mfo	4																				0
-New orbs T3			1					0	divo	1	mfo	3																				
-New orbs fallen			1					0	mfo	9	divo	1																				0
-Boxes			2					0	ccbx	5	gcbx	5	cabx	4																		0
+New orbs T1			1					0	dvo	1	mfo	5																				0
+New orbs T2			1					0	dvo	1	mfo	4																				0
+New orbs T3			1					0	dvo	1	mfo	3																				
+New orbs fallen			1					0	mfo	9	dvo	1																				0
+Boxes			1					0	ccbx	5	gcbx	5	cabx	4																		0
 Mythic or Charms			1					0	mjw	1	cm4	2																				0
 Runes 3			1						r05s	3	r06s	2	Runes 2	1																		0
 Runes 4			1						r07s	3	r08s	2	Runes 3	1																		0
@@ -949,8 +949,8 @@ BR Arena Bodies H		90	1	1000	850	1400	800	0	Act 5 (H) Equip C	48	BR Arena misc	5
 BR Arena Zomb N		30	3	9000	9000	1	1	0	Act 5 Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb NM		60	3	9000	9000	1	1	0	Act 5 (N) Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb H		90	3	9000	9000	1	1	0	Act 5 (H) Uitem C	30	BR Arena jewerly	8																				0
-UberAncients		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	T3 Map Drop	10	T2 Map Drop	10	divo	5	scrb	10	umbx	7								0
-ShadowOfMendeln		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	787	Act 5 (H) Good	45	Act 5 (H) Junk	75	Runes 17 equiv	10	wss	15	Jewelry C	30	rtmv	30	divo	6								0
+UberAncients		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	T3 Map Drop	10	T2 Map Drop	10	dvo	5	scrb	10	umbx	7								0
+ShadowOfMendeln		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	787	Act 5 (H) Good	45	Act 5 (H) Junk	75	Runes 17 equiv	10	wss	15	Jewelry C	30	rtmv	30	dvo	6								0
 Act 1 (H) Weap A	1	68	1						weap54	2	armo54	0	weap57	6	armo57	0	weap60	14	armo60	0	weap63	6	armo63	3	Act 5 (N) Weap C	1785			28	1813	0.977	0
 Act 1 (H) Weap B	1	70	1						weap57	2	armo57	0	weap60	6	armo60	0	weap63	14	armo63	0	weap66	2	armo66	1	Act 1 (H) Weap A	1530			24	1554	0.977	0
 Act 1 (H) Weap C	1	71	1						weap57	2	armo57	0	weap60	6	armo60	0	weap63	14	armo63	0	weap66	6	armo66	3	Act 1 (H) Weap A	1785			28	1813	0.977	0
@@ -1034,10 +1034,10 @@ lucc				100																												0
 lucdN				0	150																											0
 lucdNM				0	10																											0
 lucdH				800	1																											0
-T4MidMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	divo	12								0
-T4FinalMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	divo	12								0
+T4MidMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	dvo	12								0
+T4FinalMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	dvo	12								0
 LucionChestLow		90	6	800	900	990	1024	0	Act 5 (H) Equip C	200	Act 5 (H) Good	100	Runes 15 equiv	30	wss	25																0
-LucionChestHigh		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	divo	8	scrb	8	cm4	10												0
+LucionChestHigh		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	dvo	8	scrb	8	cm4	10												0
 Demonic Cube N				20000	100																											0
 Demonic Cube NM				10000	100																											0
 Demonic Cube H				1000	1																											0
@@ -1046,7 +1046,7 @@ UberDiablo			1					11	Overlords Helm	1	Dark Abyss	1	Aidans Scar	1	Itheraels Path
 RathmaNew			1					9	The Third Eye	1	Band of Skulls	1	Cage of the Unsullied	1	Rathmas Hand	2																0
 MendelnNew			1					95	Melding of the flesh	5																						
 UberLucion Orb			1					95	dsno	5																						
-UberLucion Uniques			1					92	Original Sin	3	Voices	5																				
+UberLucion Uniques			1					90	Original Sin	3	Voices	5	Progenesis	2																		
 UberLucion			-2					0	UberLucion Uniques	1	UberLucion Orb	1																				0
 Dungeon 1 (N) Bow A	3	38	1						bow12	1	bow15	2	bow18	5	bow21	7	bow24	8	bow27	7	bow30	4	bow33	2	Act 1 (H) Junk	630						0
 Dungeon 1 (N) Bow B	3	40	1						bow15	1	bow18	2	bow21	5	bow24	7	bow27	8	bow30	7	bow33	4	bow36	2	Dungeon 1 (N) Bow A	770						0
@@ -1106,7 +1106,7 @@ Dungeon Scarabs			1					0	scnm	2	scas	2	sccn	1	scmo	2	schr	3
 Dungeon Chisels			1					0	ccsa	3	ccpr	2																				
 Dungeon Map Currency		87	1					0	Dungeon Chisels	2	Dungeon Scarabs	1																				0
 Dungeon Sacred Orb		87	1					2	sror	1																						0
-Dungeon Orbs		87	1					2	divo	1																						0
+Dungeon Orbs		87	1					2	dvo	1																						0
 Dungeon Map			1					0	Map Tier 2	2	Map Tier 3	3																				
 Dungeon Good		87	1					0	Jewelry C	120	Perfect Gem	6	Runes 17 equiv	28	Dungeon Map	8	Dungeon Orbs	3	Boxes	7	Dungeon Map Currency	5	Dungeon Mythic or Charms	2	Dungeon Sacred Orb	4	Dungeon Terrors	1				0
 Dungeon Citem		85	1	1000	800	800	1024	0	"gld,mul=1280"	60	Dungeon 5 (H) Equip C	37	Dungeon Good	3																		0
@@ -1123,14 +1123,14 @@ Map Boss T2		85	5	1081	983	983	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4	T2
 Map Boss T3		85	5	1081	983	983	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4	T3 Map Drop	3	Uber Box	4																0
 Map Boss T4 Items		85	5	1081	983	983	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4	T3 Map Drop	3																		0
 Map Boss T4		85	-2					0	Map Boss T4 Items	1	Uber Box	1																				0
-Terror currency		85	1					0	mfo	90	divo	8	sror	2																		
+Terror currency		85	1					0	mfo	90	dvo	8	sror	2																		
 Terror scarab		85	1					0	scnm	2	scas	2	sccn	1	scmo	2	schr	2														
 Terror chisel		85	1					0	ccsa	2	ccpr	2																				
 Terror boxes		85	1					0	ccbx	2	gcbx	1																				
 Opulence Terror T1		85	1					0	Terror currency	1	Terror chisel	1	Terror scarab	1																		
-Opulence Terror T2		85	2					1	Terror currency	1	Terror chisel	1	Terror scarab	1																		
-Opulence Terror T3		85	3					1	Terror currency	1	Terror chisel	1	Terror scarab	1																		
-Opulence Terror T4		85	4					1	Terror currency	1	Terror chisel	1	Terror scarab	1																		
+Opulence Terror T2		85	2					1	Terror currency	2	Terror chisel	2	Terror scarab	2																		
+Opulence Terror T3		85	3					1	Terror currency	2	Terror chisel	2	Terror scarab	2																		
+Opulence Terror T4		85	4					1	Terror currency	2	Terror chisel	2	Terror scarab	2																		
 Ethereal Terror T1		85	1					0	Runes 17 equiv	1																						
 Ethereal Terror T2		85	2					1	Runes 17 equiv	1																						
 Ethereal Terror T3		85	3					1	Runes 17 equiv	1																						

@@ -472,3 +472,5 @@ terrorized	1			1	map_terrorized																														0
 askari-zephyr-projectiles	1			1	item_askari_zephyr_projectiles																														0
 tornado-shot-projectiles	1			1	item_tornado_shot_projectiles																														0
 regen-by-max-hp	1			22	item_skillonequip			22	item_regen_by_max_hp																										0
+phys-absorb-%	1			1	item_absorbphys_percent																														0
+phys-absorb	1			1	item_absorbphys																														0

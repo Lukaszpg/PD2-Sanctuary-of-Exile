@@ -274,8 +274,8 @@ joustreduction_leorics	511		1	5													1024		6		6																		150	3	0	
 map_glob_dropsocketed	272		1	9											1065	72	2011		7	20	7	20																	205	19	0	MapGlobDropSockets	MapGlobDropSockets									0
 item_maxdamage_percent_bytime	273		1	22										4		0	1024		22	0	22	0			7			maxdamage	secondary_mindamage	item_throw_mindamage				1					180	18	1	ModStr2j	ModStr2j									0
 item_strength_bytime	274		1	22										4		0	1024		22	0	22	0			6			strength											180	17	1	ModStr1a	ModStr1a									0
-item_dexterity_bytime	275		1	22										4		0	1024		22	0	22	0			6			dexterity											180	17	1	ModStr1b	ModStr1b									0
-item_energy_bytime	276		1	22										4		0	1024		22	0	22	0			6			energy											180	17	1	ModStr1d	ModStr1d									0
+item_absorbphys	275		1	7											1739	204	1024		7	0	7	0																	27	1	1	StrPhysAbsorb	StrPhysAbsorb									0
+item_absorbphys_percent	276		1	7											5486	102	1024		7	0	7	0																	23	2	2	StrPhysPercentAbsorb	StrPhysPercentAbsorb									0
 item_regen_by_max_hp	277		1								1						1024		7	0	10	0												1					180	3	0	StrRegenPerMaxHp	StrRegenPerMaxHp									0
 item_tornado_shot_projectiles	278		1								1						1024		7	0	10	0												1					180	3	0	StrTornadoShotExtraProjectiles	StrTornadoShotExtraProjectiles									0
 item_askari_zephyr_projectiles	279		1								1						1024		7	0	10	0												1					180	9	2	StrAskariZephyrExtraProjectiles	StrAskariZephyrExtraProjectiles	StrExtraTwisters								0

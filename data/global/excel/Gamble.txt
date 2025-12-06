@@ -167,5 +167,8 @@ rustic belt	mrb
 Splendid Round Shield	srs
 Crumbling Maul	rmn
 Blessed Helmet	ph1
+Crude Arrows	cqv
+Light Bolts	aqv
+Shabby Hood	sh1
 ring	rin
 amulet	amu
