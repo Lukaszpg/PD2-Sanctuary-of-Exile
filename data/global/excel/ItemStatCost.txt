@@ -273,7 +273,7 @@ item_shiny_appearance	270			7													1024		7	0	7	0																	255	19		
 joustreduction_leorics	511		1	5													1024		6		6																		150	3	0	joustreductionleorics	joustreductionleorics									0
 map_glob_dropsocketed	272		1	9											1065	72	2011		7	20	7	20																	205	19	0	MapGlobDropSockets	MapGlobDropSockets									0
 item_maxdamage_percent_bytime	273		1	22										4		0	1024		22	0	22	0			7			maxdamage	secondary_mindamage	item_throw_mindamage				1					180	18	1	ModStr2j	ModStr2j									0
-item_strength_bytime	274		1	22										4		0	1024		22	0	22	0			6			strength											180	17	1	ModStr1a	ModStr1a									0
+item_maxphysresist	274		1	9											584	256	1024		5	0	5	0																	43	4	1	StrPhysMaxRes	StrPhysMaxRes									0
 item_absorbphys	275		1	7											1739	204	1024		7	0	7	0																	27	1	1	StrPhysAbsorb	StrPhysAbsorb									0
 item_absorbphys_percent	276		1	7											5486	102	1024		7	0	7	0																	23	2	2	StrPhysPercentAbsorb	StrPhysPercentAbsorb									0
 item_regen_by_max_hp	277		1								1						1024		7	0	10	0												1					180	3	0	StrRegenPerMaxHp	StrRegenPerMaxHp									0
@@ -357,7 +357,7 @@ source_unit_id	354			32													1024																																			0
 shortparam1	355			16													1024																																			0
 questitemdifficulty	356																1024				2	0																														0
 passive_mag_mastery	357		1	12											1211	431	1024		8	0	9	50																	88	4	1	ModitemdamMagisk	ModitemdamMagisk									0
-passive_mag_pierce	358		1	9												2812	1024		8	0	8	0																														0
+passive_mag_pierce	358		1	9												2812	1024		8	0	8	0																	88	20	1	StrMagPierce	StrMagPierce									0
 item_splashonhit	359		1	7	16						1			2	190	256	1024		21	0	7	0	16											1	domeleedamage	20			245	15	0	splash3	splash3									0
 corrupted	360			10	10										54	204	1024		8	0	10	0	10																246	3	0	StrCorrupted	StrCorrupted									0
 corruptor	361			1	16											54	1024				12	0																	245	0	0	StrCorruptNum	StrCorruptNum									0

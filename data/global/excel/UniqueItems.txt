@@ -311,13 +311,13 @@ Stone Crusher	100	1		4	1	76	68	7wh	legendary mallet			5	5000	whit							dmg%		24
 Jadetalon	100	1		1	1	74	66	7wb	wrist sword			5	5000	cgrn	cgrn						dmg%		240	320	manasteal		10	15	res-all		30	50	balance2		30	30	skilltab	19	2	3	skilltab	20	2	3	block2		30	30																	splash	358	100	1	0
 Shadowdancer	100	1		1	1	79	71	uhb	myrmidon greaves			5	5000	blac	blac						ac%		70	100	move2		30	30	balance2		30	30	dex		20	30	skilltab	19	1	2	ease		-25	-25	curse-effectiveness		20	20																					0
 Cerebus	100	1		1	1	71	63	drb	blood spirit			5	5000	bwht	bwht						ac%		130	140	skilltab	16	3	4	Deep-Wounds		360	360	att%		80	120	openwounds		33	33	skill	232	1	2	deadly		33	33	skill	242	1	2																	0
-Tyrael's Might	100	1		1	1	87	84	uar	sacred armor	1		5	5000	dblu	dblu		invaaru				ease		-100	-100	indestruct		1	1	ac%		120	150	dmg-undead		200	250	dmg-demon		200	250	nofreeze		1	1	move2		45	45	res-all		20	30	str		20	30													0
+Tyrael's Might	100	1		1	1	87	84	uar	sacred armor	1		5	5000	dblu	dblu		invaaru				ease		-100	-100	indestruct		1	1	ac%		120	150	dmg-undead		200	250	dmg-demon		200	250	nofreeze		1	1	move2		45	45	res-all		20	30	str		20	30	res-phys-max		1	3									0
 Souldrain	100	1		1	1	82	74	umg	vambraces			5	5000	dred	dred						ac%		90	120	manasteal		2	3	lifesteal		2	3	regen		-30	-30	dmg-ac		-50	-50	pierce-phys		4	5																									0
 Runemaster	100	1		1	1	80	72	72a	ettin axe			5	5000	lblu	lblu						dmg%		250	300	sock		4	5	res-cold-max		5	5	nofreeze		1	1	swing2		40	40	curse-effectiveness		20	20																					splash	358	100	1	0
 Deathcleaver	100	1		1	1	78	70	7wa	berserker axe			5	5000	dred							dmg%		300	350	deadly		60	60	reduce-ac		33	33	swing2		40	40	heal-kill		6	9	dmg-min		20	30	max-deadly		15	15																	splash	358	100	1	0
 Executioner's Justice	100	1		1	1	83	75	7gi	glorious axe			5	5000	blac	blac						dmg%		285	335	crush		50	50	reduce-ac		33	33	kill-skill	Decrepify Proc	50	25	swing2		40	40	curse-effectiveness		20	20	allskills		3	3																	splash	358	100	1	0
 Stoneraven	100	1		1	1	72	64	amd	matriarchal spear			5	5000	dgry							dmg%		330	380	dmg-mag		101	187	res-all		30	50	ac		400	600	skilltab	2	3	4	swing2		40	40																					splash	358	100	1	0
-Leviathan	100	1		1	1	73	65	uld	kraken shell			5	5000	cgrn	cgrn						ac%		170	200	ac		100	150	red-dmg%		15	25	str		40	50	indestruct		1	1	curse-effectiveness		20	20																									0
+Leviathan	100	1		1	1	73	65	uld	kraken shell			5	5000	cgrn	cgrn						ac%		170	200	ac		100	150	red-dmg%		15	25	str		40	50	indestruct		1	1	curse-effectiveness		20	20	res-phys-max		1	1																					0
 Larzuk's Champion	100			1								5	5000	lgry		flphmr	invhfh																																																				0
 Wisp	100	1		1	1	84	76	rin	ring			5	5000	bwht	bwht						abs-ltng%		4	6	allskills		1	1	mag%		10	15	charged	Heart of Wolverine	13	2	charged	Spirit of Barbs	11	7																													0
 Gargoyle's Bite	100	1		1	1	78	70	7ts	winged harpoon			5	5000	cgrn	cgrn						dmg%		250	330	pierce-pois		10	15	poisskill		2	3	lifesteal		9	15																													splash	358	100	1	0
@@ -344,7 +344,7 @@ Demon's Arch	100	1		1	1	76	68	7s7	balrog spear			5	5000	cred	cred						dmg%		210
 Boneflame	100	1		1	1	80	72	nee	succubae skull			3	5000	dred	dred						ac%		120	150	move2		30	30	gethit-skill	Terror	5	3	nec		3	3	res-all		20	30	heal-kill		4	8	red-dmg%		10	20																					0
 Steelpillar	100	1		3	1	77	69	7p7	war pike			3	5000								dmg%		210	260	swing2		25	25	reduce-ac		20	20	ac%		100	150	crush		40	40	pierce-phys		5	10																					splash	358	100	1	0
 Nightwing's Veil	100	1		1	1	75	67	uhm	spired helm			3	5000	cblu	cblu						ac%		90	120	allskills		2	2	dex		10	20	abs-cold		5	9	half-freeze		1	1	extra-cold		5	10	ease		-50	-50	pierce-cold		5	10																	0
-Crown of Ages	100	1		1	1	86	82	urn	corona	1		3	5000	dgld	dgld						balance2		30	30	res-all		20	30	curse-res		50	50	ac		100	150	indestruct		1	1	red-dmg%		10	15	ac%		50	50	sock		2	3																	0
+Crown of Ages	100	1		1	1	86	82	urn	corona	1		3	5000	dgld	dgld						balance2		30	30	res-all		20	30	curse-res		50	50	ac		100	150	indestruct		1	1	red-dmg%		10	15	ac%		50	50	sock		2	3	res-phys-max		1	1													0
 Andariel's Visage	100	1		1	1	85	83	usk	demonhead	1		3	5000	dred	dred						ac%		100	150	res-pois		50	50	allskills		2	2	res-pois-max		5	5	swing2		20	20	str		20	30	gethit-skill	92	15	36	pierce-pois		6	10	lifesteal		8	10	res-fire		-20	-20									0
 Darkfear	100			1				ulm	armet			5	5000	blac			invhlmu																																																				0
 Dragonscale	100	1		1	1	84	80	pae	zakarum shield			3	5000	dgrn	dgrn						ac%		170	200	red-dmg%		15	25	res-fire-max		4	6	str		25	25	dmg-fire		211	371	block-skill	Hydra	24	45	extra-fire		15	20	block		20	20																	0
@@ -376,7 +376,7 @@ Merman's Speed	100	1		1	1	45	45	ulb	wyrrnhide boots			5	5000	lblu	lblu		mermansp
 Arachnid Mesh	100	1		1	1	87	80	ulc	spiderweb sash			5	5000	blac	blac						ac%		90	120	cast2		10	20	charged	Venom	31	3	allskills		1	1	slow		20	20	mana%		5	10																									0
 Nosferatu's Coil	100	1		1	1	68	51	uvc	vampirefang belt			5	5000								str		10	15	mana-kill		2	2	slow		10	10	lifesteal		3	6	swing2		20	20	deadly		10	10																									0
 Metalgrid	100	1		2	1	85	81	amu	amulet			5	5000								thorns		750	1000	res-all		25	35	att		400	450	oskill	IronGolem	25	25	charged	Iron Maiden Proc	20	12	ac		300	350	oskill	golem mastery	20	20																					0
-Verdugo's Hearty Cord	100	1		1	1	71	63	umc	mithril coil			5	5000	blac	blac						ac%		90	140	vit		30	40	stam		100	120	balance2		10	10	red-dmg%		10	15	regen		10	13																									0
+Verdugo's Hearty Cord	100	1		1	1	71	63	umc	mithril coil			5	5000	blac	blac						ac%		90	140	vit		30	40	stam		100	120	balance2		10	10	red-dmg%		10	15	regen		10	13	res-phys-max		1	1																					0
 Sigurd's Staunch	100	1		19	1	80	72	uhc	Colossus Girdle			5	5000				invcolossus				ac%		300	400	oskill	iron skin	4	6	crush		20	20	rep-dur	25			stamdrain		50	50	hp%		5	8																									0
 Carrion Wind	100	1		3	1	68	60	rin	ring			3	5000								ac-miss		100	160	lifesteal		6	9	res-pois		40	55	thorns		180	300	charged	Plague Poppy	35	11	hit-skill	Twister	8	30	move2		20	20																					0
 Giantskull	100	1		1	1	73	65	uh9	bone visage			3	5000	lgry	lgry		invbhm				ac		250	320	str		25	35	crush		25	25	pierce		25	35	knock		1	1	dmg%		60	80																									0
@@ -476,9 +476,9 @@ Ureh City Map	100	1		0		80	80	t56	t56			5	5000				invmap_urehcity				map-glob-dr
 Cains	100	1		0	1	99	70	cm1	charm			3	5000			flpmss	invcnws	item_gem	12	item_gem	addxp		200	250	mag%/lvl	4																																											0
 Original Sin	100	1		0	0	131	90	rin	Ring	1	1	5	5000				invsin				all-ele-pierce		40	50	item-extramasteryfrompierce	596	1	1	pierce-mag		40	50	pierce-phys		40	50																																	0
 Kratos Fury	100	1		34	1	87	75	mgb	Mythic Belt	1		5	5000				invlrzg				ac%		100	120	hp%		5	10	swing1		20	25	deadly		20	25	hit-skill	51	40	25																													0
-Mageblood Base	100	1		3	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				ac%		150	200	res-all-max		2	2	res-all		25	25	red-mag		15	15	red-dmg%		15	15	red-dmg		15	15																									0
-Mageblood 3	100	1		2	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				ac%		150	200	res-all-max		2	2	res-all		25	25	red-mag		15	15	red-dmg%		15	15	red-dmg		15	15	curse-effectiveness		25	25	curse-res		25	25																	0
-Mageblood 4	100	1		1	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				ac%		150	200	res-all-max		2	2	res-all		25	25	red-mag		15	15	red-dmg%		15	15	red-dmg		15	15	curse-effectiveness		25	25	curse-res		25	25	res-pois-len		100	100	nofreeze		1	1	regen-by-max-hp	619	1	1					0
+Mageblood Base	100	1		3	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				ac%		150	200	res-all-max		2	2	res-all		25	25	red-dmg		15	15	red-dmg%		15	15	res-phys-max		2	2																									0
+Mageblood 3	100	1		2	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				ac%		150	200	res-all-max		2	2	res-all		25	25	red-dmg		15	15	red-dmg%		15	15	res-phys-max		2	2	curse-effectiveness		25	25	curse-res		25	25																	0
+Mageblood 4	100	1		1	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				ac%		150	200	res-all-max		2	2	res-all		25	25	red-dmg		15	15	red-dmg%		15	15	res-phys-max		2	2	curse-effectiveness		25	25	curse-res		25	25	res-pois-len		100	100	nofreeze		1	1	regen-by-max-hp	619	1	1					0
 Defiance of Destiny	100	1		1	1	87	90	amu	amulet	1		3	5000				invdefd				abs-fire%		5	10	abs-ltng%		5	10	abs-cold%		5	10	abs-mag%		5	10	hp		70	80	res-all		10	15	gethit-skill	Bone Armor	7	25																					0
 Nihlathaks Malice	100	1		1	1	87	80	7wd	mythical sword	1		5	5000	dpur			invnhml				dmg%		280	320	dmg-cold	250	250	500	swing2		30	30	allskills		2	2	hit-skill	Frost Nova	50	50	pierce-cold		10	15	extra-cold		15	15																	splash	358	100	1	0
 Astramentis	100	1		1	1	87	80	amu	amulet			3	5000				invastr				str		75	100	dex		75	100	enr		75	100	vit		75	100																																	0
@@ -514,5 +514,5 @@ Halo of the Justicar	100	1		1	1	87	85	ph3	Pious Helmet	1		5	5000				invhotj				e
 Halo of the Justicar	100	1		1	1	87	85	ph3	Pious Helmet	1		5	5000				invhotj				joust-reduction-leorics		19	19	dmg%		60	80	ac		350	450	pal		2	3	indestruct		1	1	inc-splash-radius		5	10																									0
 Askaris Zephyr	100	1		1	1	87	80	7p7	war pike			3	5000				invasze				dmg%		250	280	swing2		40	50	askari-zephyr-projectiles		2	4	pierce-phys		10	15	pierce-cold		10	15	ama		3	3	att		250	250																	splash	358	100	1	0
 Kashyas Sorrow	100	1		1	1	87	80	sh3	hunter hood			3	5000	dgry			invkasr				ac%		60	70	ac		150	200	tornado-shot-projectiles		1	1	ease		-20	-20	ama		2	3	dmg%		100	130	dex		25	30																					0
-Melding of the flesh	100	1		1	1	131	90	cm4	ornate charm	1		3	5000				invmotf				res-all-max		1	4	res-all		-50	-40	curse-effectiveness		-20	-10																																					0
+Melding of the flesh	100	1		1	1	131	90	cm4	ornate charm	1		3	5000				invmotf				res-all-max		1	4	res-all		-50	-30	curse-effectiveness		-15	0	res-phys-max		1	3																																	0
 Progenesis	100	1		1	1	131	90	cm2	large charm	1		3	5000				invprgn				phys-absorb-%		3	5	phys-absorb		5	10																																									0

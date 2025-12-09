@@ -587,7 +587,7 @@ Tier 3	0																																																																								
 item -> added mod 1	1	1		100	16	361	912		2	"tors,nos"	"wss,qty=1"						useitem			100	corrupt	100		62	62	corruptnum	100		1001	1001	curse-effectiveness	100		10	10																																																																					0
 item -> added mod 2	1	1		100	16	361	925		2	"tors,nos"	"wss,qty=1"						useitem			100	corrupt	100		50	50	corruptnum	100		1001	1001	allskills	100		1	1																																																																					0
 item -> added mod 3	1	1		100	16	361	937		2	"tors,nos"	"wss,qty=1"						useitem			100	corrupt	100		51	51	corruptnum	100		1001	1001	res-all	100		20	25																																																																					0
-item -> added mod 4	1	1		100	16	361	950		2	"tors,nos"	"wss,qty=1"						useitem			100	corrupt	100		52	52	corruptnum	100		1001	1001	red-dmg%	100		6	8																																																																					0
+item -> added mod 4	1	1		100	16	361	950		2	"tors,nos"	"wss,qty=1"						useitem			100	corrupt	100		52	52	corruptnum	100		1001	1001	red-dmg%	100		6	8	res-phys-max	100		1	1																																																																0
 item -> added mod 5	1	1		100	16	361	962		2	"tors,nos"	"wss,qty=1"						useitem			100	corrupt	100		53	53	corruptnum	100		1001	1001	res-fire-max	100		4	5	res-fire	100		15	15																																																																0
 item -> added mod 6	1	1		100	16	361	975		2	"tors,nos"	"wss,qty=1"						useitem			100	corrupt	100		54	54	corruptnum	100		1001	1001	res-cold-max	100		4	5	res-cold	100		15	15																																																																0
 item -> added mod 7	1	1		100	16	361	987		2	"tors,nos"	"wss,qty=1"						useitem			100	corrupt	100		55	55	corruptnum	100		1001	1001	res-ltng-max	100		4	5	res-ltng	100		15	15																																																																0
@@ -615,7 +615,7 @@ Tier 3	0																																																																								
 item -> added mod 1	1	1		100	16	361	912		2	"helm,nos"	"wss,qty=1"						useitem			100	corrupt	100		62	62	corruptnum	100		1001	1001	curse-effectiveness	100		10	10																																																																					0
 item -> added mod 2	1	1		100	16	361	925		2	"helm,nos"	"wss,qty=1"						useitem			100	corrupt	100		50	50	corruptnum	100		1001	1001	allskills	100		1	1																																																																					0
 item -> added mod 3	1	1		100	16	361	937		2	"helm,nos"	"wss,qty=1"						useitem			100	corrupt	100		51	51	corruptnum	100		1001	1001	res-all	100		15	20																																																																					0
-item -> added mod 4	1	1		100	16	361	950		2	"helm,nos"	"wss,qty=1"						useitem			100	corrupt	100		52	52	corruptnum	100		1001	1001	red-dmg%	100		4	6																																																																					0
+item -> added mod 4	1	1		100	16	361	950		2	"helm,nos"	"wss,qty=1"						useitem			100	corrupt	100		52	52	corruptnum	100		1001	1001	red-dmg%	100		4	6	res-phys-max	100		1	1																																																																0
 item -> added mod 5	1	1		100	16	361	962		2	"helm,nos"	"wss,qty=1"						useitem			100	corrupt	100		53	53	corruptnum	100		1001	1001	res-fire-max	100		4	5	res-fire	100		15	15																																																																0
 item -> added mod 6	1	1		100	16	361	975		2	"helm,nos"	"wss,qty=1"						useitem			100	corrupt	100		54	54	corruptnum	100		1001	1001	res-cold-max	100		4	5	res-cold	100		15	15																																																																0
 item -> added mod 7	1	1		100	16	361	987		2	"helm,nos"	"wss,qty=1"						useitem			100	corrupt	100		55	55	corruptnum	100		1001	1001	res-ltng-max	100		4	5	res-ltng	100		15	15																																																																0
@@ -699,7 +699,7 @@ Tier 3	0																																																																								
 item -> added mod 1	1	1		100	16	361	869		2	"belt"	"wss,qty=1"						useitem			100	corrupt	100		44	44	corruptnum	100		1001	1001	move1	100		10	10																																																																					0
 item -> added mod 2	1	1		100	16	361	888		2	"belt"	"wss,qty=1"						useitem			100	corrupt	100		51	51	corruptnum	100		1001	1001	res-all	100		5	8																																																																					0
 item -> added mod 3	1	1		100	16	361	907		2	"belt"	"wss,qty=1"						useitem			100	corrupt	100		49	49	corruptnum	100		1001	1001	curse-res	100		20	20																																																																					0
-item -> added mod 4	1	1		100	16	361	925		2	"belt"	"wss,qty=1"						useitem			100	corrupt	100		52	52	corruptnum	100		1001	1001	red-dmg%	100		3	4																																																																					0
+item -> added mod 4	1	1		100	16	361	925		2	"belt"	"wss,qty=1"						useitem			100	corrupt	100		52	52	corruptnum	100		1001	1001	red-dmg%	100		3	4	res-phys-max	100		1	1																																																																0
 item -> added mod 5	1	1		100	16	361	944		2	"belt"	"wss,qty=1"						useitem			100	corrupt	100		42	42	corruptnum	100		1001	1001	cast1	100		10	10																																																																					0
 item -> added mod 6	1	1		100	16	361	963		2	"belt"	"wss,qty=1"						useitem			100	corrupt	100		67	67	corruptnum	100		1001	1001	block	100		10	10																																																																					0
 item -> added mod 7	1	1		100	16	361	982		2	"belt"	"wss,qty=1"						useitem			100	corrupt	100		20	20	corruptnum	100		1001	1001	swing1	100		10	10																																																																					0
@@ -2412,6 +2412,20 @@ Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,exc	"mfo,qty
 Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,exc	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
 Gheed's Fortune	1			100					2	"mfo,qty=1"	cm3,mag						cm3,uni	99																																																																																						0
 																																																																																																								0
+MYTHIC ORB - QUIVERS																																																																																																								0
+White Normal Arrows	1			100					2	aqv,nor	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+White Exceptional Arrows	1			100					2	aqv2,nor	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Magic Normal Arrows	1			100					2	aqv,mag	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Magic Exceptional Arrows	1			100					2	aqv2,mag	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Rare Normal Arrows	1			100					2	aqv,rar	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Rare Exceptional Arrows	1			100					2	aqv2,rar	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+White Normal Bolts	1			100					2	cqv,nor	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+White Exceptional Bolts	1			100					2	cqv2,nor	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Magic Normal Bolts	1			100					2	cqv,mag	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Magic Exceptional Bolts	1			100					2	cqv2,mag	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Rare Normal Bolts	1			100					2	cqv,rar	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Rare Exceptional Bolts	1			100					2	cqv2,rar	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+																																																																																																								0
 MYTHIC ORB RINGS ROLLING																																																																																																								0
 																																																																																																								0
 MYTHIC ORB RINGS ROLLING - PHASE 1																																																																																																								0
@@ -2465,6 +2479,14 @@ Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,eli	"dvo,qty=
 Divine Orb + 5 jewel fragments = random unique regular jewel	1			100					2	"dvo,qty=1"	"jewf,qty=5"						jew,uni	85																																																																																						0
 Divine Orb + magic mythical jewel = random unique mythical jewel	1			100					2	"dvo,qty=1"	mjw,mag						mjw,uni	87																																																																																						0
 3x Divine Orb + magic ornate charm = random unique ornate charm	1			100					2	"dvo,qty=3"	cm4,mag						cm4,uni	87																																																																																						0
+																																																																																																								0
+DIVINE ORB - QUIVERS																																																																																																								0
+White Elite Arrows	1			100					2	aqv3,nor	"dvo,qty=1"						usetype,uni	99			dye	100		3	3																																																																															0
+Magic Elite Arrows	1			100					2	aqv3,mag	"dvo,qty=1"						usetype,uni	99			dye	100		3	3																																																																															0
+Rare Elite Arrows	1			100					2	aqv3,rar	"dvo,qty=1"						usetype,uni	99			dye	100		3	3																																																																															0
+White Elite Bolts	1			100					2	cqv3,nor	"dvo,qty=1"						usetype,uni	99			dye	100		3	3																																																																															0
+Magic Elite Bolts	1			100					2	cqv3,mag	"dvo,qty=1"						usetype,uni	99			dye	100		3	3																																																																															0
+Rare Elite Bolts	1			100					2	cqv3,rar	"dvo,qty=1"						usetype,uni	99			dye	100		3	3																																																																															0
 																																																																																																								0
 DIVINE ORB RINGS ROLLING																																																																																																								0
 																																																																																																								0
@@ -2667,6 +2689,7 @@ Remove socket contents Shield	1			100					2	"shld"	"lmal,qty=1"						useitem,rem
 Remove socket contents Amulet	1			100					2	amul	"lmal,qty=1"						useitem,rem			100																																																																																				0
 Remove socket contents Belt	1			100					2	belt	"lmal,qty=1"						useitem,rem			100																																																																																				0
 Remove socket contents Boots	1			100					2	boot	"lmal,qty=1"						useitem,rem			100																																																																																				0
+Remove socket contents from quivers	1			100					2	misl	"lmal,qty=1"						useitem,rem			100																																																																																				0
 																																																																																																								0
 UNIQUE MIRRORING RECIPES																																																																																																								0
 Mirror unique non-corrupted armor	1			100	18	361	0		2	armo,uni	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
@@ -2834,7 +2857,7 @@ Prismatic infusion	1			100	16	361	468		1	ccbx							crfp,qty=5																		
 CAIN'S WISDOM + ANNIHILUS FUSE																																																																																																								0
 Cain's + Anni = Anni with 250% exp affix	1			100	16	85	250		2	Annihilus	Cains						useitem			100	addxp	100		250	250																																																																															0
 																																																																																																								0
-CRAFTED ARROW CRAFTING																																																																																																								0
+NORMAL CRAFTED ARROW CRAFTING																																																																																																								0
 Blood - rare	1			100					2	aqv,crf	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
 Caster - rare	1			100					2	aqv,crf	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
 Safety - rare	1			100					2	aqv,crf	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
@@ -2843,7 +2866,25 @@ Vampiric - rare	1			100					2	aqv,crf	crfv,qty=1						usetype,crf		50	50	manaste
 Bountiful - rare	1			100					2	aqv,crf	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
 Prismatic - rare	1			100					2	aqv,crf	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
 																																																																																																								0
-CRAFTED BOLTS CRAFTING																																																																																																								0
+EXCEPTIONAL CRAFTED ARROW CRAFTING																																																																																																								0
+Blood - rare	1			100					2	aqv2,crf	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Caster - rare	1			100					2	aqv2,crf	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Safety - rare	1			100					2	aqv2,crf	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Hitpower - rare	1			100					2	aqv2,crf	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Vampiric - rare	1			100					2	aqv2,crf	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Bountiful - rare	1			100					2	aqv2,crf	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Prismatic - rare	1			100					2	aqv2,crf	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+																																																																																																								0
+ELITE CRAFTED ARROW CRAFTING																																																																																																								0
+Blood - rare	1			100					2	aqv3,crf	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Caster - rare	1			100					2	aqv3,crf	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Safety - rare	1			100					2	aqv3,crf	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Hitpower - rare	1			100					2	aqv3,crf	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Vampiric - rare	1			100					2	aqv3,crf	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Bountiful - rare	1			100					2	aqv3,crf	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Prismatic - rare	1			100					2	aqv3,crf	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+																																																																																																								0
+NORMAL CRAFTED BOLTS CRAFTING																																																																																																								0
 Blood - normal	1			100					2	cqv,crf	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
 Caster - normal	1			100					2	cqv,crf	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
 Safety - normal	1			100					2	cqv,crf	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
@@ -2851,6 +2892,24 @@ Hitpower - normal	1			100					2	cqv,crf	crfh,qty=1						usetype,crf		50	50	gethi
 Vampiric - normal	1			100					2	cqv,crf	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
 Bountiful - normal	1			100					2	cqv,crf	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
 Prismatic - normal	1			100					2	cqv,crf	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+																																																																																																								0
+EXCEPTIONAL CRAFTED BOLTS CRAFTING																																																																																																								0
+Blood - normal	1			100					2	cqv2,crf	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Caster - normal	1			100					2	cqv2,crf	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Safety - normal	1			100					2	cqv2,crf	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Hitpower - normal	1			100					2	cqv2,crf	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Vampiric - normal	1			100					2	cqv2,crf	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Bountiful - normal	1			100					2	cqv2,crf	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Prismatic - normal	1			100					2	cqv2,crf	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+																																																																																																								0
+ELITE CRAFTED BOLTS CRAFTING																																																																																																								0
+Blood - normal	1			100					2	cqv3,crf	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Caster - normal	1			100					2	cqv3,crf	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Safety - normal	1			100					2	cqv3,crf	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Hitpower - normal	1			100					2	cqv3,crf	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Vampiric - normal	1			100					2	cqv3,crf	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Bountiful - normal	1			100					2	cqv3,crf	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Prismatic - normal	1			100					2	cqv3,crf	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
 																																																																																																								0
 CRAFTED BASE - BLOOD CRAFT																																																																																																								0
 																																																																																																								0
@@ -3054,6 +3113,7 @@ Sacred Orb of Honor	1			100					5	sror,qty=1	r14s,qty=1	r22s,qty=1	r30s,qty=1	r2
 Sacred Orb of Enigma	1			100					4	sror,qty=1	r31s,qty=1	r06s,qty=1	r30s,qty=1				sr17																																																																																							0
 Sacred Orb of Innocence	1			100					5	sror,qty=1	r25s,qty=1	r20s,qty=1	r33s,qty=1	r15s,qty=1			sr18																																																																																							0
 Sacred Orb of Treachery	0			100					4	sror,qty=1	r13s,qty=1	r10s,qty=1	r20s,qty=1				sr73																																																																																							0
+Sacred Orb of Fortress	1			100					4	sror,qty=1	r33s,qty=1	r12s,qty=2	r30s,qty=1				sr84																																																																																							0
 																																																																																																								0
 SACRED ORBS - SHIELDS																																																																																																								0
 																																																																																																								0
@@ -3175,6 +3235,8 @@ Sacred Orb of Innocence	1			100	18	292	0		2	tors,uni	sr18,qty=1						useitem			1
 Sacred Orb of Innocence - Crafted	1			100	18	292	0		2	tors,crf	sr18,qty=1						useitem			100	equipped-skill	100	557	8	12	indestruct	100		1	1	res-pois-len	100		50	50	allskills	100		2	2	sacred	100		1	1																																																											0
 Sacred Orb of Treachery	1			100	18	292	0		2	tors,uni	sr73,qty=1						useitem			100	hit-skill	100	278	25	15	balance3	100		20	20	swing2	100		45	45	ass	100		2	2	sacred	100		1	1																																																											0
 Sacred Orb of Treachery - Crafted	1			100	18	292	0		2	tors,crf	sr73,qty=1						useitem			100	hit-skill	100	278	25	15	balance3	100		20	20	swing2	100		45	45	ass	100		2	2	sacred	100		1	1																																																											0
+Sacred Orb of Fortress	1			100	18	292	0		2	tors,uni	sr84,qty=1						useitem			100	hp/lvl	100		6	10	red-dmg%	100		12	20	ac%	100		250	300	res-phys-max	100		2	2	sacred	100		1	1																																																											0
+Sacred Orb of Fortress - Crafted	1			100	18	292	0		2	tors,crf	sr84,qty=1						useitem			100	hp/lvl	100		6	10	red-dmg%	100		12	20	ac%	100		250	300	res-phys-max	100		2	2	sacred	100		1	1																																																											0
 																																																																																																								0
 SACRED ORBS - SHIELD MODS																																																																																																								0
 																																																																																																								0
@@ -3367,8 +3429,8 @@ Sacred Orb of Kingslayer	1			100	18	292	0		2	swor,uni	sr57,qty=1						useitem			
 Sacred Orb of Kingslayer - Crafted	1			100	18	292	0		2	swor,crf	sr57,qty=1						useitem			100	dmg-cold	100	50	250	500	swing2	100		30	30	oskill	100	111	10	10	dmg%	100		50	90	sacred	100		1	1																																																											0
 Sacred Orb of Kingslayer	1			100	18	292	0		2	axe,uni	sr57,qty=1						useitem			100	dmg-cold	100	50	250	500	swing2	100		30	30	oskill	100	111	10	10	dmg%	100		50	90	sacred	100		1	1																																																											0
 Sacred Orb of Kingslayer - Crafted	1			100	18	292	0		2	axe,crf	sr57,qty=1						useitem			100	dmg-cold	100	50	250	500	swing2	100		30	30	oskill	100	111	10	10	dmg%	100		50	90	sacred	100		1	1																																																											0
-Sacred Orb of White	1			100	18	292	0		2	wand,uni	sr74,qty=1						useitem			100	red-mag	100		4	4	mana	100		13	13	skill	60	68	2	3	skilltab	40	7	2	2	sacred	100		1	1																																																											0
-Sacred Orb of White - Crafted	1			100	18	292	0		2	wand,crf	sr74,qty=1						useitem			100	red-mag	100		4	4	mana	100		13	13	skill	60	68	2	3	skilltab	40	7	2	2	sacred	100		1	1																																																											0
+Sacred Orb of White	1			100	18	292	0		2	wand,uni	sr74,qty=1						useitem			100	red-mag	100		4	4	mana	100		13	13	skill	60	68	2	3	skilltab	100	7	2	2	sacred	100		1	1																																																											0
+Sacred Orb of White - Crafted	1			100	18	292	0		2	wand,crf	sr74,qty=1						useitem			100	red-mag	100		4	4	mana	100		13	13	skill	60	68	2	3	skilltab	100	7	2	2	sacred	100		1	1																																																											0
 Sacred Orb of Desolation	1			100	18	292	0		2	weap,uni	sr75,qty=1						useitem			100	pierce-phys	100		15	20	aura	100	604	10	14	dmg%	100		140	170	deadly	100		15	20	sacred	100		1	1																																																											0
 Sacred Orb of Desoltion - Crafted	1			100	18	292	0		2	weap,crf	sr75,qty=1						useitem			100	pierce-phys	100		20	25	aura	100	604	16	16	dmg%	100		140	170	deadly	100		15	20	sacred	100		1	1																																																											0
 Sacred Orb of Bastion	1			100	18	292	0		2	axe,uni	sr78,qty=1						useitem			100	hit-skill	100	611	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
@@ -3513,14 +3575,14 @@ Cartohrapher's Chisel - Tier 4	1	4		100	16	293	1		2	t4me,rar	ccpr,qty=1						use
 PUZZLEBOX ADDITIONAL RECIPES																																																																																																								0
 																																																																																																								0
 Puzzlebox normal boots	1			100					2	boot,bas	lbox,qty=1						useitem,uns			100	sock			1	1																																																																															0
-Puzzlebox exceptional boots	1			100					2	boot,exc	lbox,qty=1						useitem,uns			100	sock			1	1																																																																															0
-Puzzlebox elite boots	1			100					2	boot,eli	lbox,qty=1						useitem,uns			100	sock			1	2																																																																															0
+Puzzlebox exceptional boots	1			100					2	boot,exc	lbox,qty=1						useitem,uns			100	sock			1	2																																																																															0
+Puzzlebox elite boots	1			100					2	boot,eli	lbox,qty=1						useitem,uns			100	sock			1	3																																																																															0
 																																																																																																								0
 PUZZLEPIECE ADDITIONAL RECIPES																																																																																																								0
 																																																																																																								0
 Puzzlepiece normal boots	1			100					2	boot,bas	lpp,qty=1						useitem,uns			100	sock			1	1																																																																															0
-Puzzlepiece exceptional boots	1			100					2	boot,exc	lpp,qty=1						useitem,uns			100	sock			1	1																																																																															0
-Puzzlepiece elite boots	1			100					2	boot,eli	lpp,qty=1						useitem,uns			100	sock			1	2																																																																															0
+Puzzlepiece exceptional boots	1			100					2	boot,exc	lpp,qty=1						useitem,uns			100	sock			1	2																																																																															0
+Puzzlepiece elite boots	1			100					2	boot,eli	lpp,qty=1						useitem,uns			100	sock			1	3																																																																															0
 																																																																																																								0
 CREATE ARMAGEDDON BLADE																																																																																																								0
 Create Armageddon Blade	1			100					3	7cr	dvo,qty=5	ncoi,qty=1					Arma Blade Replica																																																																																							0
@@ -4295,6 +4357,7 @@ Transcendent Mind Charm	1			100					2	Transcendent Mind Charm	imrn,qty=1						Tr
 Empowered Spirit Charm	1			100					2	Empowered Spirit Charm	imrn,qty=1						Empowered Spirit Charm			100																																																																																				0
 Tempered Flesh Charm	1			100					2	Tempered Flesh Charm	imrn,qty=1						Tempered Flesh Charm			100																																																																																				0
 One With Nothing Charm	1			100					2	One With Nothing Charm	imrn,qty=1						One With Nothing Charm			100																																																																																				0
+Melding of the flesh Charm	1			100					2	Melding of the flesh	imrn,qty=1						Melding of the flesh			100																																																																																				0
 																																																																																																								0
 SCARAB OF NEMESES																																																																																																								0
 T1 rare	1	4		100	16	281	0		2	t1me,rar	scnm,qty=1						useitem			100	map-glob-monsterrarity	100		25	25	map-mon-hp%	100		5	5	scarabed	100		1	1																																																																					0
@@ -4321,10 +4384,10 @@ T3 rare	1	4		100	16	281	2		2	t3me,rar	scmo,qty=1						useitem			100	map-glob-add
 T4 rare	1	4		100	16	281	3		2	t4me,rar	scmo,qty=1						useitem			100	map-glob-add-mon-cow	100		827	827	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																																0
 																																																																																																								0
 SCARAB OF MONSTROUS LINEAGE																																																																																																								0
-T1 rare	1	4		100	16	281	0		2	t1me,rar	schr,qty=1						useitem			100	map-glob-add-mon-horde	100		1188	1188	map-mon-hp%	100		5	5	scarabed	100		1	1																																																																					0
-T2 rare	1	4		100	16	281	1		2	t2me,rar	schr,qty=1						useitem			100	map-glob-add-mon-horde	100		1188	1188	map-mon-hp%	100		8	8	map-mon-ed%	100		5	5	scarabed	100		1	1																																																																0
-T3 rare	1	4		100	16	281	2		2	t3me,rar	schr,qty=1						useitem			100	map-glob-add-mon-horde	100		1188	1188	map-mon-hp%	100		10	10	map-mon-ed%	100		8	8	scarabed	100		1	1																																																																0
-T4 rare	1	4		100	16	281	3		2	t4me,rar	schr,qty=1						useitem			100	map-glob-add-mon-horde	100		1188	1188	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																																0
+T1 rare	1	4		100	16	281	0		2	t1me,rar	schr,qty=1						useitem			100	map-glob-add-mon-horde	100		1194	1194	map-mon-hp%	100		5	5	scarabed	100		1	1																																																																					0
+T2 rare	1	4		100	16	281	1		2	t2me,rar	schr,qty=1						useitem			100	map-glob-add-mon-horde	100		1194	1194	map-mon-hp%	100		8	8	map-mon-ed%	100		5	5	scarabed	100		1	1																																																																0
+T3 rare	1	4		100	16	281	2		2	t3me,rar	schr,qty=1						useitem			100	map-glob-add-mon-horde	100		1194	1194	map-mon-hp%	100		10	10	map-mon-ed%	100		8	8	scarabed	100		1	1																																																																0
+T4 rare	1	4		100	16	281	3		2	t4me,rar	schr,qty=1						useitem			100	map-glob-add-mon-horde	100		1194	1194	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																																0
 																																																																																																								0
 TERROR OF OPULENCE																																																																																																								0
 T1 rare	1	4		100	16	280	0		2	t1me,rar	troo,qty=1						useitem			100	map-glob-add-mon-fetish	100		1182	1182	map-mon-hp%	100		15	15	map-mon-ed%	100		10	10	terrorized	100		1	1																																																																0
@@ -4374,19 +4437,20 @@ Scarab of Moo	1			100	16	361	11		1	cabx							scmo,qty=5																								
 Scarab of Monstrous Lineage	1			100	16	361	13		1	cabx							schr,qty=5																																																																																							0
 																																																																																																								0
 HELLFIRE TORCH DESECRATION - PHASE 1 - ROLL																																																																																																								0
-Hellfire Torch roll	1			100	18	207	0		2	Hellfire Torch	dsno,qty=1						useitem			100	desecratenum	100		0	15																					dsno,qty=1																																																										0
+Hellfire Torch roll	1			100	18	207	0		2	Hellfire Torch	dsno,qty=1						useitem			100	desecratenum	100		1	99																					dsno,qty=1																																																										0
 																																																																																																								0
 HELLFIRE TORCH DESECRATION - PHASE 2 - OUTCOME																																																																																																								0
-Poof to ashes!	1			100	16	207	7		2	Hellfire Torch	dsno,qty=1						cm2f,qty=1																																																																																							0
-+1 to All Skills	1			100	16	207	8		2	Hellfire Torch	dsno,qty=1						useitem			100	allskills	100		1	1	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
-+10% Faster Cast Rate	1			100	16	207	9		2	Hellfire Torch	dsno,qty=1						useitem			100	cast2	100		10	10	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
-+10% Faster Run/Walk	1			100	16	207	10		2	Hellfire Torch	dsno,qty=1						useitem			100	move2	100		10	10	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
-+10% Curse Resistance	1			100	16	207	11		2	Hellfire Torch	dsno,qty=1						useitem			100	curse-res	100		10	10	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
-+[30-40]% Enhanced Damage	1			100	16	207	12		2	Hellfire Torch	dsno,qty=1						useitem			100	dmg%	100		30	40	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
-Cannot Be Frozen	1			100	16	207	13		2	Hellfire Torch	dsno,qty=1						useitem			100	nofreeze	100		1	1	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
-+2% to ALL Maximum Resistances	1			100	16	207	14		2	Hellfire Torch	dsno,qty=1						useitem			100	res-all-max	100		2	2	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
-All Resistances +[7-10]	1			100	16	207	15		2	Hellfire Torch	dsno,qty=1						useitem			100	res-all	100		7	10	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
+Poof to ashes!	1			100	16	207	45		2	Hellfire Torch	dsno,qty=1						cm2f,qty=1																																																																																							0
++1 to All Skills	1			100	16	207	51		2	Hellfire Torch	dsno,qty=1						useitem			100	allskills	100		1	1	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
++10% Faster Cast Rate	1			100	16	207	57		2	Hellfire Torch	dsno,qty=1						useitem			100	cast2	100		10	10	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
++10% Faster Run/Walk	1			100	16	207	63		2	Hellfire Torch	dsno,qty=1						useitem			100	move2	100		10	10	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
++10% Curse Resistance	1			100	16	207	69		2	Hellfire Torch	dsno,qty=1						useitem			100	curse-res	100		10	10	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
++[30-40]% Enhanced Damage	1			100	16	207	75		2	Hellfire Torch	dsno,qty=1						useitem			100	dmg%	100		30	40	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
+Cannot Be Frozen	1			100	16	207	81		2	Hellfire Torch	dsno,qty=1						useitem			100	nofreeze	100		1	1	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
++2% to ALL Maximum Resistances	1			100	16	207	87		2	Hellfire Torch	dsno,qty=1						useitem			100	res-all-max	100		2	2	res-phys-max	100		2	2	desecrate	100		1	1	desecratenum	100		1001	1001																																																																0
+All Resistances +[7-10]	1			100	16	207	93		2	Hellfire Torch	dsno,qty=1						useitem			100	res-all	100		7	10	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
+Poison Length Reduced by 50%	1			100	16	207	99		2	Hellfire Torch	dsno,qty=1						useitem			100	res-pois-len	100		50	50	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
 																																																																																																								0
 Divine Orb CONVERSION - TECHNICAL																																																																																																								0
 Convert old divine orb to new divine orb	1			100					1	divo,qty=1							dvo,qty=1																																																																																							0
-	1			100					1	key,qty=1							sr17																																																																																							0
+																																																																																																								0

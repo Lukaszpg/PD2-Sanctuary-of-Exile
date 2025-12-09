@@ -777,8 +777,6 @@ Shaman's	774	100	1	1	36		27	dru			1	125	dru		1	1											tors	shld	helm							
 Magekiller's	775	100	1	1	36		27	ass			1	125	ass		1	1											tors	shld	helm												95000
 Cerulean	776	100	1	1	49		41				2	115	mana		21	30									1	cblu	jewl														0
 Lancer's	777	100	1		60		45	ama			1	125	skilltab	2	3	3									1	lgld	amul														0
-Souless	778	1	0	1	1		1				1	169	map-glob-add-mon-souls		918	918	map-glob-density		25	30	map-play-mag-gold%		50	60			t1m	t2m	t3m					t4m							0
-Shamanic	779	1	0	1	1		1				1	169	map-glob-add-mon-fetish		785	785	map-glob-density		20	25	map-play-mag-gold%		25	30			t1m	t2m	t3m					t4m							0
 Strange	780	100	1		32		24				5	110	att		151	300									1	lgld	misl														0
 Unearthly	781	100	1		25		18				1	123	att-demon		101	150	dmg-demon		51	100							misl														0
 Plague	782	100	1	1	50		37				1	140	dmg-pois	150	626	626									1	dgrn	weap	misl						orb	staf	wand					0
@@ -794,7 +792,6 @@ Pure	791	100	1		25		18				3	142	att-undead		76	175	dmg-undead		76	125						lgld	
 Duplicated	792	1	1	1	1		1				1	169	map-glob-extra-boss		1	1											t1m	t2m													0
 Champion's	793	1	1	1	1		1				2	150	map-glob-monsterrarity		40	50											t2m	t3m													0
 Champion's	794	1	1	1	1		1				2	150	map-glob-monsterrarity		50	60											t3m	t4m													0
-Rampant	795	1	0	1	1		1				2	169	map-glob-add-mon-shriek		1169	1169	map-glob-density		25	30	map-play-mag-gold%		20	30			t1m	t2m	t3m					t4m							0
 Crimson	796	100	1	1	38		30				4	103	dmg-min		5	8									1	dred	misl														0
 Serpent's	797	1	1	1	14		10				3	115	mana		11	20											ring	amul	belt												0
 Serpent's	798	1	1	1	37		27				2	115	mana		11	20											boot	glov													0

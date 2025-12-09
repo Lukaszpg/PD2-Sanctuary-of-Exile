@@ -474,3 +474,4 @@ tornado-shot-projectiles	1			1	item_tornado_shot_projectiles																				
 regen-by-max-hp	1			22	item_skillonequip			22	item_regen_by_max_hp																										0
 phys-absorb-%	1			1	item_absorbphys_percent																														0
 phys-absorb	1			1	item_absorbphys																														0
+res-phys-max	1			1	item_maxphysresist																														0

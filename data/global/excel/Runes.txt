@@ -203,3 +203,4 @@ Visions	Visions	1		helm									ChamOhmBer	r32	r27	r30				hp		60	80	hp%		3	5	aur
 Penance	Penance	1		helm									LoJahOhm	r28	r31	r27				hit-skill	76	6	25	ac-miss		150	200	balance2		20	25	ac%		200	250													0
 Bastion	Bastion	1		axe	mace	swor	2hsw	pole	hamm				OhmShaelNefGul	r27	r13	r04	r25			hit-skill	Reinforce	25	20	dmg%		150	200	hp%		10	15	dmg-min		10	10													0
 Tantrum	Tantrum	1		misl										r31	r30					dmg%		120	140	swing2		50	60	allskills		2	2	move2		15	15													0
+Fortress	Fortress	1		tors									ZodSolBerSol	r33	r12	r30	r12			red-dmg		1	6	red-dmg%		6	14	ac%		250	300	hp/lvl		6	10	res-phys-max		2	2	regen		30	40					0
