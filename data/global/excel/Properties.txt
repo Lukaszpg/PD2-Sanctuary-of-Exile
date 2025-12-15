@@ -449,7 +449,7 @@ item-elemasterypermana	1			22	item_skillonequip			22	item_elemasterypermana					
 item-msiasfromar	1			22	item_skillonequip			22	item_msiasfromar																										0
 item-edfromstr	1			22	item_skillonequip			22	item_edfromstr																										0
 item-csfromattr	1			22	item_skillonequip			22	item_csfromattr																										0
-item-increaseattr	1			22	item_skillonequip			22	item_increaseattr																										0
+item-increaseattr	1			17	item_increaseattr																														0
 item-physperstrattr	1			22	item_skillonequip			22	item_physperstrattr																										0
 item-lightmasterymanaconvert	1			22	item_skillonequip			22	item_lightmasterymanaconvert																										0
 extra-bonespear-teeth	1			1	extra_bonespear_teeth																														0
@@ -475,3 +475,7 @@ regen-by-max-hp	1			22	item_skillonequip			22	item_regen_by_max_hp														
 phys-absorb-%	1			1	item_absorbphys_percent																														0
 phys-absorb	1			1	item_absorbphys																														0
 res-phys-max	1			1	item_maxphysresist																														0
+mom-aura	1			22	item_mom_aura																														0
+maxdmg/energy	1			17	item_maxdamage_energy																									Min Damage per energy	(8ths)			415	0
+mana-and-life-steal	1			1	manadrainmindam			1	lifedrainmindam																										0
+kinetic-blast-radius	1			1	item_kinetic_blast_radius																														0

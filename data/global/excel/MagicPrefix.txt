@@ -920,7 +920,7 @@ Explusion		100	1	1	89		85				1	117	res-pois		31	45									1	cgrn	mjwg										
 Retention		100	1	1	89		85				1	121	mana-kill		4	6											mjwg														0
 Masterstroke		100	1	1	89		85				1	200	heal-kill		4	6											mjwg														0
 Hemorrhaging		100	1	1	87		85				1	170	openwounds		9	9	deep-wounds		157	187							mjwg														0
-Virile		100	1	1	90		85				1	316	hp%		3	4											mjwg														
+Virile		100	1	1	90		85				1	316	hp%		4	5											mjwg														
 																																									
 Impenetrable		100	1	1	87		85				2	101	ac		100	140											ocha														0
 Tempered		100	1	1	89		85				2	103	dmg-min		8	9									1	dred	ocha														0

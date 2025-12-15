@@ -14,7 +14,6 @@ Map Tier 4			1			10000		0	t42	1	t43	1	t44	1																		0
 Chisels			1					0	ccsa	3	ccpr	2																				0
 Scarabs			1					0	scnm	2	scas	2	sccn	1	scmo	2	schr	2														0
 Map currency			2					0	Scarabs	1	Chisels	1																				0
-Not used			1					0																								0
 Terrors T3			1					2	troo	1	troe	1	tror	1																		0
 Hpotion 4			1						hp3	1	hp4	4	hp5	3	mp4	2	mp5	2	rvs	1												0
 Hpotion 5			1						hp3	1	hp4	4	hp5	4	mp5	4	rvs	1														0
@@ -58,7 +57,8 @@ Map Tier 2			1			400			t34	1	t31	1	t24	1	t11	1	t33	1	t13	1	t27	1	t28	1								0
 Map Tier 3			1			400			t3a	2	t38	2	t39	2	t37	2	t14	2	t21	2	t32	2	t16	2	t35	2						0
 T1 Map Drop			1						Map Tier 1	66	Map Tier 2	33																				0
 T2 Map Drop			1						Map Tier 1	39	Map Tier 2	40	Map Tier 3	20																		0
-T3 Map Drop			1						Map Tier 1	32	Map Tier 2	33	Map Tier 3	33	Map Tier 4	10																0
+T3 Map Drop			1						Map Tier 1	25	Map Tier 2	29	Map Tier 3	31	Map Tier 4	15																0
+T3 Map Drop No T4			1						Map Tier 1	25	Map Tier 2	29	Map Tier 3	31																		
 Act 1 Junk			1						Potion 1	16	Misc 0	8	Ammo	1																		0
 Act 2 Junk			1						Act 1 Junk	4	Potion 2	16	Misc 0	8	Ammo	1																0
 Act 3 Junk			1						Act 2 Junk	4	Potion 3	16	Misc 1	8	Ammo	1																0
@@ -241,9 +241,9 @@ Act 2 (H) Good	29	72	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect 
 Act 3 (H) Good	29	78	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
 Act 4 (H) Good	29	82	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
 Act 5 (H) Good	29	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
-Map Good t1	30	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Runes 17 equiv	28	T1 Map Drop	8	New orbs T1	5	Boxes	8	Map currency	10								0
-Map Good t2	20	86	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Runes 17 equiv	28	T2 Map Drop	8	New orbs T2	5	Boxes	9	Map currency	11	Mythic or Charms	5						0
-Map Good t3	20	87	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Runes 17 equiv	28	T3 Map Drop	8	New orbs T3	5	Boxes	10	Map currency	10	Mythic or Charms	5	Terrors T3	1				0
+Map Good t1	30	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	46	Runes 17 equiv	28	T1 Map Drop	10	New orbs T1	5	Boxes	8	Map currency	10								0
+Map Good t2	20	86	1						Jewelry C	120	Normal Gem	28	Flawless Gem	44	Runes 17 equiv	28	T2 Map Drop	11	New orbs T2	5	Boxes	9	Map currency	11	Mythic or Charms	5						0
+Map Good t3	20	87	1						Jewelry C	120	Normal Gem	28	Flawless Gem	42	Runes 17 equiv	28	T3 Map Drop	12	New orbs T3	5	Boxes	10	Map currency	12	Mythic or Charms	5	Terrors T3	1				0
 Act 1 Chest A	6	0	4					173	gld	295	Act 1 Junk	295	Act 1 Equip A	196	Act 1 Good	39																0
 Act 1 Chest B	6	5	4					173	gld	295	Act 1 Junk	295	Act 1 Equip B	196	Act 1 Good	39																0
 Act 1 Chest C	6	9	4					145	gld	272	Act 1 Junk	218	Act 2 Junk	54	Act 1 Equip C	272	Act 1 Good	36														0
@@ -949,7 +949,7 @@ BR Arena Bodies H		90	1	1000	850	1400	800	0	Act 5 (H) Equip C	48	BR Arena misc	5
 BR Arena Zomb N		30	3	9000	9000	1	1	0	Act 5 Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb NM		60	3	9000	9000	1	1	0	Act 5 (N) Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb H		90	3	9000	9000	1	1	0	Act 5 (H) Uitem C	30	BR Arena jewerly	8																				0
-UberAncients		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	T3 Map Drop	10	T2 Map Drop	10	dvo	5	scrb	10	umbx	7								0
+UberAncients		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	T3 Map Drop	10	T2 Map Drop	10	dvo	5	umbx	7										0
 ShadowOfMendeln		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	787	Act 5 (H) Good	45	Act 5 (H) Junk	75	Runes 17 equiv	10	wss	15	Jewelry C	30	rtmv	30	dvo	6								0
 Act 1 (H) Weap A	1	68	1						weap54	2	armo54	0	weap57	6	armo57	0	weap60	14	armo60	0	weap63	6	armo63	3	Act 5 (N) Weap C	1785			28	1813	0.977	0
 Act 1 (H) Weap B	1	70	1						weap57	2	armo57	0	weap60	6	armo60	0	weap63	14	armo63	0	weap66	2	armo66	1	Act 1 (H) Weap A	1530			24	1554	0.977	0
@@ -1034,17 +1034,17 @@ lucc				100																												0
 lucdN				0	150																											0
 lucdNM				0	10																											0
 lucdH				800	1																											0
-T4MidMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	dvo	12								0
-T4FinalMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	dvo	12								0
+T4MidMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop No T4	10	T2 Map Drop	10	dvo	12	Map Tier 4	6								0
+T4FinalMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop No T4	10	T2 Map Drop	10	dvo	12	Map Tier 4	6								0
 LucionChestLow		90	6	800	900	990	1024	0	Act 5 (H) Equip C	200	Act 5 (H) Good	100	Runes 15 equiv	30	wss	25																0
-LucionChestHigh		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	dvo	8	scrb	8	cm4	10												0
+LucionChestHigh		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	dvo	8	cm4	10														0
 Demonic Cube N				20000	100																											0
 Demonic Cube NM				10000	100																											0
 Demonic Cube H				1000	1																											0
-Corrupted Zone T1 Maps				150																												
+Corrupted Zone T1 Maps				125																												
 UberDiablo			1					11	Overlords Helm	1	Dark Abyss	1	Aidans Scar	1	Itheraels Path	1	Hadriels Hand	1														0
 RathmaNew			1					9	The Third Eye	1	Band of Skulls	1	Cage of the Unsullied	1	Rathmas Hand	2																0
-MendelnNew			1					95	Melding of the flesh	5																						
+MendelnNew			1					92	Melding of the flesh	5	Gaze of the Abyss	3																				
 UberLucion Orb			1					92	dsno	8																						
 UberLucion Uniques			1					90	Original Sin	3	Voices	5	Progenesis	2																		
 UberLucion			-2					0	UberLucion Uniques	1	UberLucion Orb	1																				0
@@ -1121,7 +1121,7 @@ Uber Box		85	1					0	umbx	1																						0
 Map Boss T1		85	5	1081	983	983	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4	T1 Map Drop	3	Uber Box	2																0
 Map Boss T2		85	5	1081	983	983	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4	T2 Map Drop	3	Uber Box	3																0
 Map Boss T3		85	5	1081	983	983	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4	T3 Map Drop	3	Uber Box	4																0
-Map Boss T4 Items		85	5	1081	983	983	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4	T3 Map Drop	3																		0
+Map Boss T4 Items		85	6	1081	983	983	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4	Map Tier 4	1																		0
 Map Boss T4		85	-2					0	Map Boss T4 Items	1	Uber Box	1																				0
 Runes 3 terror			1						r05s	3	r06s	2																				
 Runes 4 terror			1						r07s	3	r08s	2	Runes 3 terror	1																		
