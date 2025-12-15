@@ -3614,7 +3614,7 @@ Remove socket contents Belt	0			100					2	belt	key,qty=1						useitem,rem			100	
 Remove socket contents Boots	0			100					2	boot	key,qty=1						useitem,rem			100																																																																																				0
 																																																																																																								0
 UBER MATS BOX																																																																																																								0
-Uber mats Box Roll	1			100	18	361	0		1	umbx							useitem				corruptnum	100		1	3888																																																																															0
+Uber mats Box Roll	1			100	18	361	0		1	umbx							useitem				corruptnum	100		1	4248																																																																															0
 Uber mats Box Roll Black Soulstone Influence	1			100	18	361	0		2	umbx	dcho,qty=1						useitem				corruptnum	100		1	360																																																																															0
 Uber mats Box Roll Pure Demonic Essence Influence	1			100	18	361	0		2	umbx	dcbl,qty=1						useitem				corruptnum	100		361	720																																																																															0
 Uber mats Box Roll Splinter Influence	1			100	18	361	0		2	umbx	rtmv,qty=1						useitem				corruptnum	100		721	1080																																																																															0
@@ -3625,6 +3625,7 @@ Uber mats Box Roll Talisman of Transgression Influence	1			100	18	361	0		2	umbx	
 Uber mats Box Roll Pandemonium Key 1 Influence	1			100	18	361	0		2	umbx	pk1,qty=1						useitem				corruptnum	100		2521	2880																																																																															0
 Uber mats Box Roll Pandemonium Key 2 Influence	1			100	18	361	0		2	umbx	pk2,qty=1						useitem				corruptnum	100		2881	3240																																																																															0
 Uber mats Box Roll Pandemonium Key 3 Influence	1			100	18	361	0		2	umbx	pk3,qty=1						useitem				corruptnum	100		3241	3600																																																																															0
+Uber mats Box Roll Flesh of Malic Influence	1			100	18	361	0		2	umbx	lucd,qty=1						useitem				corruptnum	100		3601	3960																																																																															0
 																																																																																																								0
 UBER MATS BOX OUTCOME																																																																																																								0
 Black Soulstone + Pure Demonic Essence + Splinter of the Void	1			100	16	361	5		1	umbx							dcho,qty=3																													dcbl,qty=3																													rtmv,qty=3																													0
@@ -4347,10 +4348,82 @@ Pandemonium Key 3 + Pandemonium Key 2 + Hellfire Ashes	1			100	16	361	3585		1	um
 Pandemonium Key 3 + Pandemonium Key 2 + Demonic Insignia	1			100	16	361	3590		1	umbx							pk3,qty=3																													pk2,qty=3																													lucb,qty=3																													0
 Pandemonium Key 3 + Pandemonium Key 2 + Talisman of Transgression	1			100	16	361	3595		1	umbx							pk3,qty=3																													pk2,qty=3																													lucc,qty=3																													0
 Pandemonium Key 3 + Pandemonium Key 2 + Pandemonium Key 1	1			100	16	361	3600		1	umbx							pk3,qty=3																													pk2,qty=3																													pk1,qty=3																													0
-Lucion Map	1			100	16	361	3672		1	umbx							luca																													luca																													luca																													0
-Diablo Clone Map	1			100	16	361	3744		1	umbx							dcma																													dcma																													dcma																													0
-Uber Trist Map	1			100	16	361	3816		1	umbx							ubtm																													ubtm																													ubtm																													0
-Rathma Map	1			100	16	361	3888		1	umbx							rtma																													rtma																													rtma																													0
+Pandemonium Key 3 + Black Soulstone + Pure Demonic Essence	1			100	16	361	3605		1	umbx							lucd,qty=3																													dcho,qty=3																													dcbl,qty=3																													0
+Flesh of Malic + Black Soulstone + Splinter of the Void	1			100	16	361	3610		1	umbx							lucd,qty=3																													dcho,qty=3																													rtmv,qty=3																													0
+Flesh of Malic + Black Soulstone + Prime Evil Soul	1			100	16	361	3615		1	umbx							lucd,qty=3																													dcho,qty=3																													dcso,qty=3																													0
+Flesh of Malic + Black Soulstone + Hellfire Ashes	1			100	16	361	3620		1	umbx							lucd,qty=3																													dcho,qty=3																													cm2f,qty=3																													0
+Flesh of Malic + Black Soulstone + Demonic Insignia	1			100	16	361	3625		1	umbx							lucd,qty=3																													dcho,qty=3																													lucb,qty=3																													0
+Flesh of Malic + Black Soulstone + Talisman of Transgression	1			100	16	361	3630		1	umbx							lucd,qty=3																													dcho,qty=3																													lucc,qty=3																													0
+Flesh of Malic + Black Soulstone + Pandemonium Key 1	1			100	16	361	3635		1	umbx							lucd,qty=3																													dcho,qty=3																													pk1,qty=3																													0
+Flesh of Malic + Black Soulstone + Pandemonium Key 2	1			100	16	361	3640		1	umbx							lucd,qty=3																													dcho,qty=3																													pk2,qty=3																													0
+Flesh of Malic + Pure Demonic Essence + Black Soulstone	1			100	16	361	3645		1	umbx							lucd,qty=3																													dcbl,qty=3																													dcho,qty=3																													0
+Flesh of Malic + Pure Demonic Essence + Splinter of the Void	1			100	16	361	3650		1	umbx							lucd,qty=3																													dcbl,qty=3																													rtmv,qty=3																													0
+Flesh of Malic + Pure Demonic Essence + Prime Evil Soul	1			100	16	361	3655		1	umbx							lucd,qty=3																													dcbl,qty=3																													dcso,qty=3																													0
+Flesh of Malic + Pure Demonic Essence + Hellfire Ashes	1			100	16	361	3660		1	umbx							lucd,qty=3																													dcbl,qty=3																													cm2f,qty=3																													0
+Flesh of Malic + Pure Demonic Essence + Demonic Insignia	1			100	16	361	3665		1	umbx							lucd,qty=3																													dcbl,qty=3																													lucb,qty=3																													0
+Flesh of Malic + Pure Demonic Essence + Talisman of Transgression	1			100	16	361	3670		1	umbx							lucd,qty=3																													dcbl,qty=3																													lucc,qty=3																													0
+Flesh of Malic + Pure Demonic Essence + Pandemonium Key 1	1			100	16	361	3675		1	umbx							lucd,qty=3																													dcbl,qty=3																													pk1,qty=3																													0
+Flesh of Malic + Pure Demonic Essence + Pandemonium Key 2	1			100	16	361	3680		1	umbx							lucd,qty=3																													dcbl,qty=3																													pk2,qty=3																													0
+Flesh of Malic + Splinter of the Void + Black Soulstone	1			100	16	361	3685		1	umbx							lucd,qty=3																													rtmv,qty=3																													dcho,qty=3																													0
+Flesh of Malic + Splinter of the Void + Pure Demonic Essence	1			100	16	361	3690		1	umbx							lucd,qty=3																													rtmv,qty=3																													dcbl,qty=3																													0
+Flesh of Malic + Splinter of the Void + Prime Evil Soul	1			100	16	361	3695		1	umbx							lucd,qty=3																													rtmv,qty=3																													dcso,qty=3																													0
+Flesh of Malic + Splinter of the Void + Hellfire Ashes	1			100	16	361	3700		1	umbx							lucd,qty=3																													rtmv,qty=3																													cm2f,qty=3																													0
+Flesh of Malic + Splinter of the Void + Demonic Insignia	1			100	16	361	3705		1	umbx							lucd,qty=3																													rtmv,qty=3																													lucb,qty=3																													0
+Flesh of Malic + Splinter of the Void + Talisman of Transgression	1			100	16	361	3710		1	umbx							lucd,qty=3																													rtmv,qty=3																													lucc,qty=3																													0
+Flesh of Malic + Splinter of the Void + Pandemonium Key 1	1			100	16	361	3715		1	umbx							lucd,qty=3																													rtmv,qty=3																													pk1,qty=3																													0
+Flesh of Malic + Splinter of the Void + Pandemonium Key 2	1			100	16	361	3720		1	umbx							lucd,qty=3																													rtmv,qty=3																													pk2,qty=3																													0
+Flesh of Malic + Prime Evil Soul + Black Soulstone	1			100	16	361	3725		1	umbx							lucd,qty=3																													dcso,qty=3																													dcho,qty=3																													0
+Flesh of Malic + Prime Evil Soul + Pure Demonic Essence	1			100	16	361	3730		1	umbx							lucd,qty=3																													dcso,qty=3																													dcbl,qty=3																													0
+Flesh of Malic + Prime Evil Soul + Splinter of the Void	1			100	16	361	3735		1	umbx							lucd,qty=3																													dcso,qty=3																													rtmv,qty=3																													0
+Flesh of Malic + Prime Evil Soul + Hellfire Ashes	1			100	16	361	3740		1	umbx							lucd,qty=3																													dcso,qty=3																													cm2f,qty=3																													0
+Flesh of Malic + Prime Evil Soul + Demonic Insignia	1			100	16	361	3745		1	umbx							lucd,qty=3																													dcso,qty=3																													lucb,qty=3																													0
+Flesh of Malic + Prime Evil Soul + Talisman of Transgression	1			100	16	361	3750		1	umbx							lucd,qty=3																													dcso,qty=3																													lucc,qty=3																													0
+Flesh of Malic + Prime Evil Soul + Pandemonium Key 1	1			100	16	361	3755		1	umbx							lucd,qty=3																													dcso,qty=3																													pk1,qty=3																													0
+Flesh of Malic + Prime Evil Soul + Pandemonium Key 2	1			100	16	361	3760		1	umbx							lucd,qty=3																													dcso,qty=3																													pk2,qty=3																													0
+Flesh of Malic + Hellfire Ashes + Black Soulstone	1			100	16	361	3765		1	umbx							lucd,qty=3																													cm2f,qty=3																													dcho,qty=3																													0
+Flesh of Malic + Hellfire Ashes + Pure Demonic Essence	1			100	16	361	3770		1	umbx							lucd,qty=3																													cm2f,qty=3																													dcbl,qty=3																													0
+Flesh of Malic + Hellfire Ashes + Splinter of the Void	1			100	16	361	3775		1	umbx							lucd,qty=3																													cm2f,qty=3																													rtmv,qty=3																													0
+Flesh of Malic + Hellfire Ashes + Prime Evil Soul	1			100	16	361	3780		1	umbx							lucd,qty=3																													cm2f,qty=3																													dcso,qty=3																													0
+Flesh of Malic + Hellfire Ashes + Demonic Insignia	1			100	16	361	3785		1	umbx							lucd,qty=3																													cm2f,qty=3																													lucb,qty=3																													0
+Flesh of Malic + Hellfire Ashes + Talisman of Transgression	1			100	16	361	3790		1	umbx							lucd,qty=3																													cm2f,qty=3																													lucc,qty=3																													0
+Flesh of Malic + Hellfire Ashes + Pandemonium Key 1	1			100	16	361	3795		1	umbx							lucd,qty=3																													cm2f,qty=3																													pk1,qty=3																													0
+Flesh of Malic + Hellfire Ashes + Pandemonium Key 2	1			100	16	361	3800		1	umbx							lucd,qty=3																													cm2f,qty=3																													pk2,qty=3																													0
+Flesh of Malic + Demonic Insignia + Black Soulstone	1			100	16	361	3805		1	umbx							lucd,qty=3																													lucb,qty=3																													dcho,qty=3																													0
+Flesh of Malic + Demonic Insignia + Pure Demonic Essence	1			100	16	361	3810		1	umbx							lucd,qty=3																													lucb,qty=3																													dcbl,qty=3																													0
+Flesh of Malic + Demonic Insignia + Splinter of the Void	1			100	16	361	3815		1	umbx							lucd,qty=3																													lucb,qty=3																													rtmv,qty=3																													0
+Flesh of Malic + Demonic Insignia + Prime Evil Soul	1			100	16	361	3820		1	umbx							lucd,qty=3																													lucb,qty=3																													dcso,qty=3																													0
+Flesh of Malic + Demonic Insignia + Hellfire Ashes	1			100	16	361	3825		1	umbx							lucd,qty=3																													lucb,qty=3																													cm2f,qty=3																													0
+Flesh of Malic + Demonic Insignia + Talisman of Transgression	1			100	16	361	3830		1	umbx							lucd,qty=3																													lucb,qty=3																													lucc,qty=3																													0
+Flesh of Malic + Demonic Insignia + Pandemonium Key 1	1			100	16	361	3835		1	umbx							lucd,qty=3																													lucb,qty=3																													pk1,qty=3																													0
+Flesh of Malic + Demonic Insignia + Pandemonium Key 2	1			100	16	361	3840		1	umbx							lucd,qty=3																													lucb,qty=3																													pk2,qty=3																													0
+Flesh of Malic + Talisman of Transgression + Black Soulstone	1			100	16	361	3845		1	umbx							lucd,qty=3																													lucc,qty=3																													dcho,qty=3																													0
+Flesh of Malic + Talisman of Transgression + Pure Demonic Essence	1			100	16	361	3850		1	umbx							lucd,qty=3																													lucc,qty=3																													dcbl,qty=3																													0
+Flesh of Malic + Talisman of Transgression + Splinter of the Void	1			100	16	361	3855		1	umbx							lucd,qty=3																													lucc,qty=3																													rtmv,qty=3																													0
+Flesh of Malic + Talisman of Transgression + Prime Evil Soul	1			100	16	361	3860		1	umbx							lucd,qty=3																													lucc,qty=3																													dcso,qty=3																													0
+Flesh of Malic + Talisman of Transgression + Hellfire Ashes	1			100	16	361	3865		1	umbx							lucd,qty=3																													lucc,qty=3																													cm2f,qty=3																													0
+Flesh of Malic + Talisman of Transgression + Demonic Insignia	1			100	16	361	3870		1	umbx							lucd,qty=3																													lucc,qty=3																													lucb,qty=3																													0
+Flesh of Malic + Talisman of Transgression + Pandemonium Key 1	1			100	16	361	3875		1	umbx							lucd,qty=3																													lucc,qty=3																													pk1,qty=3																													0
+Flesh of Malic + Talisman of Transgression + Pandemonium Key 2	1			100	16	361	3880		1	umbx							lucd,qty=3																													lucc,qty=3																													pk2,qty=3																													0
+Flesh of Malic + Pandemonium Key 1 + Black Soulstone	1			100	16	361	3885		1	umbx							lucd,qty=3																													pk1,qty=3																													dcho,qty=3																													0
+Flesh of Malic + Pandemonium Key 1 + Pure Demonic Essence	1			100	16	361	3890		1	umbx							lucd,qty=3																													pk1,qty=3																													dcbl,qty=3																													0
+Flesh of Malic + Pandemonium Key 1 + Splinter of the Void	1			100	16	361	3895		1	umbx							lucd,qty=3																													pk1,qty=3																													rtmv,qty=3																													0
+Flesh of Malic + Pandemonium Key 1 + Prime Evil Soul	1			100	16	361	3900		1	umbx							lucd,qty=3																													pk1,qty=3																													dcso,qty=3																													0
+Flesh of Malic + Pandemonium Key 1 + Hellfire Ashes	1			100	16	361	3905		1	umbx							lucd,qty=3																													pk1,qty=3																													cm2f,qty=3																													0
+Flesh of Malic + Pandemonium Key 1 + Demonic Insignia	1			100	16	361	3910		1	umbx							lucd,qty=3																													pk1,qty=3																													lucb,qty=3																													0
+Flesh of Malic + Pandemonium Key 1 + Talisman of Transgression	1			100	16	361	3915		1	umbx							lucd,qty=3																													pk1,qty=3																													lucc,qty=3																													0
+Flesh of Malic + Pandemonium Key 1 + Pandemonium Key 2	1			100	16	361	3920		1	umbx							lucd,qty=3																													pk1,qty=3																													pk2,qty=3																													0
+Flesh of Malic + Pandemonium Key 2 + Black Soulstone	1			100	16	361	3925		1	umbx							lucd,qty=3																													pk2,qty=3																													dcho,qty=3																													0
+Flesh of Malic + Pandemonium Key 2 + Pure Demonic Essence	1			100	16	361	3930		1	umbx							lucd,qty=3																													pk2,qty=3																													dcbl,qty=3																													0
+Flesh of Malic + Pandemonium Key 2 + Splinter of the Void	1			100	16	361	3935		1	umbx							lucd,qty=3																													pk2,qty=3																													rtmv,qty=3																													0
+Flesh of Malic + Pandemonium Key 2 + Prime Evil Soul	1			100	16	361	3940		1	umbx							lucd,qty=3																													pk2,qty=3																													dcso,qty=3																													0
+Flesh of Malic + Pandemonium Key 2 + Hellfire Ashes	1			100	16	361	3945		1	umbx							lucd,qty=3																													pk2,qty=3																													cm2f,qty=3																													0
+Flesh of Malic + Pandemonium Key 2 + Demonic Insignia	1			100	16	361	3950		1	umbx							lucd,qty=3																													pk2,qty=3																													lucb,qty=3																													0
+Flesh of Malic + Pandemonium Key 2 + Talisman of Transgression	1			100	16	361	3955		1	umbx							lucd,qty=3																													pk2,qty=3																													lucc,qty=3																													0
+Flesh of Malic + Pandemonium Key 2 + Pandemonium Key 1	1			100	16	361	3960		1	umbx							lucd,qty=3																													pk2,qty=3																													pk1,qty=3																													0
+Lucion Map	1			100	16	361	4032		1	umbx							luca																													luca																													luca																													0
+Diablo Clone Map	1			100	16	361	4104		1	umbx							dcma																													dcma																													dcma																													0
+Uber Trist Map	1			100	16	361	4176		1	umbx							ubtm																													ubtm																													ubtm																													0
+Rathma Map	1			100	16	361	4248		1	umbx							rtma																													rtma																													rtma																													0
 																																																																																																								0
 ORNATE CHARM UNIQUE JEWEL RE-ROLL																																																																																																								0
 Transcendent Mind Charm	1			100					2	Transcendent Mind Charm	imrn,qty=1						Transcendent Mind Charm			100																																																																																				0
@@ -4452,5 +4525,4 @@ All Resistances +[7-10]	1			100	16	207	93		2	Hellfire Torch	dsno,qty=1						usei
 Poison Length Reduced by 50%	1			100	16	207	99		2	Hellfire Torch	dsno,qty=1						useitem			100	res-pois-len	100		50	50	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
 																																																																																																								0
 Divine Orb CONVERSION - TECHNICAL																																																																																																								0
-Convert old divine orb to new divine orb	1			100					1	divo,qty=1							dvo,qty=1																																																																																							0
-																																																																																																								0
+Convert old divine orb to new divine orb	1			100					1	divo,qty=1							dvo,qty=1																																																																																							0																																																																																																			0
