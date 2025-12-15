@@ -845,9 +845,9 @@ of the Smith	842	1	1	1	1		1				9	318	map-mon-dropweapons		5	6											t3m					
 of the Armorer	843	1	1	1	1		1				9	318	map-mon-droparmor		2	3											t1m	t2m													0
 of the Armorer	844	1	1	1	1		1				9	318	map-mon-droparmor		4	5											t2m	t3m													0
 of the Armorer	845	1	1	1	1		1				9	318	map-mon-droparmor		6	7											t3m														0
-of the Crafter	846	1	1	1	1		1				5	318	map-mon-dropcrafting		2	3											t1m	t2m													0
-of the Crafter	847	1	1	1	1		1				5	318	map-mon-dropcrafting		3	4											t2m	t3m													0
-of the Crafter	848	1	1	1	1		1				5	318	map-mon-dropcrafting		4	5											t3m														0
+of the Crafter	846	1	0	1	1		1				5	318	map-mon-dropcrafting		2	3											t1m	t2m													0
+of the Crafter	847	1	0	1	1		1				5	318	map-mon-dropcrafting		3	4											t2m	t3m													0
+of the Crafter	848	1	0	1	1		1				5	318	map-mon-dropcrafting		4	5											t3m														0
 of the Adventurer	849			1	1		1					320	map-glob-arealevel		1	1											t1m	t2m	t3m	t4m											0
 of Radiance	850	1	1	1	15	55	11				1	25	light		3	3	att		30	60							rod	miss	helm	tors	misl			wand	staf						0
 of the Fox	851	1	1	1	17		13				3	26	hp		6	10											ring														0
@@ -1049,6 +1049,7 @@ of Electrocuting		100	1	1	89		85				1	13	ltng-min		1	1	ltng-max		141	180					1	d
 of Finesse		100	1	1	90		85				1	400	cast3		3	5											mjwg														0
 of Nirvana		100	1	1	87		85				1	401	regen-mana		5	10											mjwg														0
 of Chalybeous		100	1	1	87		85				1	402	mana%		3	8											mjwg														0
+of Puncture		100	1	1	89		85				1	403	pierce		3	5											mjwg														0
 																																									0
 of Wind		100	1	1	87		85				2	31	dex		7	10											ocha														0
 of Crusade		100	1	1	87		85				1	18	balance3		15	15											ocha														0

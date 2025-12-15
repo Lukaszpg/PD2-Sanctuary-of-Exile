@@ -493,7 +493,7 @@ weapon -> + sockets  (12%)	1	1		100	16	361	370		2	"weap,nos"	"wss,qty=1"						us
 weapon -> + sockets  (7%)	1	1		100	16	361	440		2	"weap,nos"	"wss,qty=1"						useitem			100	corrupt	100		32	32	sock	100		3	3	corruptnum	100		1001	1001																																																																					0
 weapon -> + sockets  (6%)	1	1		100	16	361	500		2	"weap,nos"	"wss,qty=1"						useitem			100	corrupt	100		32	32	sock	100		4	4	corruptnum	100		1001	1001																																																																					0
 	0																																																																																																							0
-armour -> destroyed (rare) (25%)	1	3		100	16	361	250		2	"boot"	"wss,qty=1"						"usetype,rar"			100																																																																																				0
+armour -> destroyed (rare) (25%)	1	3		100	16	361	250		2	"boot,nos"	"wss,qty=1"						"usetype,rar"			100																																																																																				0
 armour -> destroyed (rare) (25%)	1	3		100	16	361	250		2	"glov"	"wss,qty=1"						"usetype,rar"			100																																																																																				0
 armour -> destroyed (rare) (25%)	1	3		100	16	361	250		2	"belt"	"wss,qty=1"						"usetype,rar"			100																																																																																				0
 armour -> destroyed (rare) (25%)	1	3		100	16	361	250		2	"tors,nos"	"wss,qty=1"						"usetype,rar"			100																																																																																				0
@@ -511,6 +511,10 @@ armour -> + 3 sockets  (6%)	1	1		100	16	361	500		2	"helm,nos"	"wss,qty=1"						u
 armour -> + 1 sockets  (12%)	1	1		100	16	361	370		2	"shld,nos"	"wss,qty=1"						useitem			100	corrupt	100		32	32	sock	100		1	1	corruptnum	100		1001	1001																																																																					0
 armour -> + 2 sockets  (7%)	1	1		100	16	361	440		2	"shld,nos"	"wss,qty=1"						useitem			100	corrupt	100		32	32	sock	100		2	2	corruptnum	100		1001	1001																																																																					0
 armour -> + 3 sockets  (6%)	1	1		100	16	361	500		2	"shld,nos"	"wss,qty=1"						useitem			100	corrupt	100		32	32	sock	100		3	3	corruptnum	100		1001	1001																																																																					0
+																																																																																																								0
+armour -> + 1 sockets  (12%)	1	1		100	16	361	370		2	"boot,nos"	"wss,qty=1"						useitem			100	corrupt	100		32	32	sock	100		1	1	corruptnum	100		1001	1001																																																																					0
+armour -> + 2 sockets  (7%)	1	1		100	16	361	440		2	"boot,nos"	"wss,qty=1"						useitem			100	corrupt	100		32	32	sock	100		2	2	corruptnum	100		1001	1001																																																																					0
+armour -> + 3 sockets  (6%)	1	1		100	16	361	500		2	"boot,nos"	"wss,qty=1"						useitem			100	corrupt	100		32	32	sock	100		3	3	corruptnum	100		1001	1001																																																																					0
 																																																																																																								0
 armour -> + 1 sockets  (18%)	1	1		100	16	361	430		2	"misl,nos"	"wss,qty=1"						useitem			100	corrupt	100		32	32	sock	100		1	1	corruptnum	100		1001	1001																																																																					0
 armour -> + 2 sockets  (7%)	1	1		100	16	361	500		2	"misl,nos"	"wss,qty=1"						useitem			100	corrupt	100		32	32	sock	100		2	2	corruptnum	100		1001	1001																																																																					0
@@ -2671,6 +2675,7 @@ Reroll type of set ring	0			100	18	361	0		3	ring,set	ncoi,qty=1	imrn,qty=1					u
 Reroll type of set amulet	0			100	18	361	0		3	amul,set	ncoi,qty=1	imrn,qty=1					usetype,set	99																																																																																						0
 Reroll type of Regular Unique Jewel	1			100					3	jew,uni	ncoi,qty=1	imrn,qty=1					jew,uni			100																																																																																				0
 Reroll type of Mythic Unique Jewel	1			100					3	mjw,uni	ncoi,qty=1	imrn,qty=5					mjw,uni			100																																																																																				0
+Reroll type of Unique Ornate charm	1			100					3	cm4,uni	ncoi,qty=1	imrn,qty=5					cm4,uni			100																																																																																				0
 																																																																																																								0
 ETERNAL COIN RECIPES																																																																																																								0
 Double Rathma key	0			100					2	rtma	ncoi,qty=1						rtma																													rtma																																																										0
@@ -2857,59 +2862,23 @@ Prismatic infusion	1			100	16	361	468		1	ccbx							crfp,qty=5																		
 CAIN'S WISDOM + ANNIHILUS FUSE																																																																																																								0
 Cain's + Anni = Anni with 250% exp affix	1			100	16	85	250		2	Annihilus	Cains						useitem			100	addxp	100		250	250																																																																															0
 																																																																																																								0
-NORMAL CRAFTED ARROW CRAFTING																																																																																																								0
-Blood - rare	1			100					2	aqv,crf	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
-Caster - rare	1			100					2	aqv,crf	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
-Safety - rare	1			100					2	aqv,crf	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
-Hitpower - rare	1			100					2	aqv,crf	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
-Vampiric - rare	1			100					2	aqv,crf	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
-Bountiful - rare	1			100					2	aqv,crf	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
-Prismatic - rare	1			100					2	aqv,crf	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+CRAFTED ARROW CRAFTING																																																																																																								0
+Blood	1			100					2	"misl,crf,noe"	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Caster	1			100					2	"misl,crf,noe"	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Safety	1			100					2	"misl,crf,noe"	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Hitpower	1			100					2	"misl,crf,noe"	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Vampiric	1			100					2	"misl,crf,noe"	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Bountiful	1			100					2	"misl,crf,noe"	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Prismatic	1			100					2	"misl,crf,noe"	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
 																																																																																																								0
-EXCEPTIONAL CRAFTED ARROW CRAFTING																																																																																																								0
-Blood - rare	1			100					2	aqv2,crf	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
-Caster - rare	1			100					2	aqv2,crf	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
-Safety - rare	1			100					2	aqv2,crf	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
-Hitpower - rare	1			100					2	aqv2,crf	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
-Vampiric - rare	1			100					2	aqv2,crf	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
-Bountiful - rare	1			100					2	aqv2,crf	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
-Prismatic - rare	1			100					2	aqv2,crf	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
-																																																																																																								0
-ELITE CRAFTED ARROW CRAFTING																																																																																																								0
-Blood - rare	1			100					2	aqv3,crf	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
-Caster - rare	1			100					2	aqv3,crf	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
-Safety - rare	1			100					2	aqv3,crf	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
-Hitpower - rare	1			100					2	aqv3,crf	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
-Vampiric - rare	1			100					2	aqv3,crf	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
-Bountiful - rare	1			100					2	aqv3,crf	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
-Prismatic - rare	1			100					2	aqv3,crf	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
-																																																																																																								0
-NORMAL CRAFTED BOLTS CRAFTING																																																																																																								0
-Blood - normal	1			100					2	cqv,crf	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
-Caster - normal	1			100					2	cqv,crf	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
-Safety - normal	1			100					2	cqv,crf	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
-Hitpower - normal	1			100					2	cqv,crf	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
-Vampiric - normal	1			100					2	cqv,crf	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
-Bountiful - normal	1			100					2	cqv,crf	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
-Prismatic - normal	1			100					2	cqv,crf	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
-																																																																																																								0
-EXCEPTIONAL CRAFTED BOLTS CRAFTING																																																																																																								0
-Blood - normal	1			100					2	cqv2,crf	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
-Caster - normal	1			100					2	cqv2,crf	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
-Safety - normal	1			100					2	cqv2,crf	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
-Hitpower - normal	1			100					2	cqv2,crf	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
-Vampiric - normal	1			100					2	cqv2,crf	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
-Bountiful - normal	1			100					2	cqv2,crf	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
-Prismatic - normal	1			100					2	cqv2,crf	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
-																																																																																																								0
-ELITE CRAFTED BOLTS CRAFTING																																																																																																								0
-Blood - normal	1			100					2	cqv3,crf	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
-Caster - normal	1			100					2	cqv3,crf	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
-Safety - normal	1			100					2	cqv3,crf	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
-Hitpower - normal	1			100					2	cqv3,crf	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
-Vampiric - normal	1			100					2	cqv3,crf	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
-Bountiful - normal	1			100					2	cqv3,crf	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
-Prismatic - normal	1			100					2	cqv3,crf	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+CRAFTED BOLTS CRAFTING																																																																																																								0
+Blood	1			100					2	"misl,crf,noe"	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Caster	1			100					2	"misl,crf,noe"	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Safety	1			100					2	"misl,crf,noe"	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Hitpower	1			100					2	"misl,crf,noe"	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Vampiric	1			100					2	"misl,crf,noe"	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Bountiful	1			100					2	"misl,crf,noe"	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Prismatic	1			100					2	"misl,crf,noe"	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
 																																																																																																								0
 CRAFTED BASE - BLOOD CRAFT																																																																																																								0
 																																																																																																								0
@@ -3432,7 +3401,7 @@ Sacred Orb of Kingslayer - Crafted	1			100	18	292	0		2	axe,crf	sr57,qty=1						u
 Sacred Orb of White	1			100	18	292	0		2	wand,uni	sr74,qty=1						useitem			100	red-mag	100		4	4	mana	100		13	13	skill	60	68	2	3	skilltab	100	7	2	2	sacred	100		1	1																																																											0
 Sacred Orb of White - Crafted	1			100	18	292	0		2	wand,crf	sr74,qty=1						useitem			100	red-mag	100		4	4	mana	100		13	13	skill	60	68	2	3	skilltab	100	7	2	2	sacred	100		1	1																																																											0
 Sacred Orb of Desolation	1			100	18	292	0		2	weap,uni	sr75,qty=1						useitem			100	pierce-phys	100		15	20	aura	100	604	10	14	dmg%	100		140	170	deadly	100		15	20	sacred	100		1	1																																																											0
-Sacred Orb of Desoltion - Crafted	1			100	18	292	0		2	weap,crf	sr75,qty=1						useitem			100	pierce-phys	100		20	25	aura	100	604	16	16	dmg%	100		140	170	deadly	100		15	20	sacred	100		1	1																																																											0
+Sacred Orb of Desoltion - Crafted	1			100	18	292	0		2	weap,crf	sr75,qty=1						useitem			100	pierce-phys	100		15	20	aura	100	604	10	14	dmg%	100		140	170	deadly	100		15	20	sacred	100		1	1																																																											0
 Sacred Orb of Bastion	1			100	18	292	0		2	axe,uni	sr78,qty=1						useitem			100	hit-skill	100	611	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
 Sacred Orb of Bastion - Crafted	1			100	18	292	0		2	axe,crf	sr78,qty=1						useitem			100	hit-skill	100	611	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
 Sacred Orb of Bastion	1			100	18	292	0		2	mace,uni	sr78,qty=1						useitem			100	hit-skill	100	611	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
@@ -3593,7 +3562,7 @@ Reroll Rare Dungeon	1	4		100	18	361	0		2	"t4me,rar"	"rrra,qty=1"						"usetype,r
 PLAYTEST ONLY COMMANDS																																																																																																								0
 Give scarabs and 100 T1 maps	0			100					1	key,qty=1							scrb,qty=50																													t23,nor,qty=50																													t12,nor,qty=50																													0
 Give 150 T2 Maps	0			100					2	key,qty=1	tsc,qty=1						t34,nor,qty=50																													t24,nor,qty=50																													t13,nor,qty=50																													0
-Give 150 T3 Maps	0			100					2	key,qty=1	isc,qty=1						t38,nor,qty=50	99																												t39,nor,qty=50	99																												t14,nor,qty=50	99																												0
+Give 150 T3 Maps	0			100					2	key,qty=1	isc,qty=1						t38,nor,qty=50	99																												t37,nor,qty=50	99																												t14,nor,qty=50	99																												0
 GIve infused orbs and wss	0			100					2	key,qty=1	wms						rrra,qty=50																													irra,qty=50																													wss,qty=50																													0
 Give hero standards and other chisels	0			100					2	key,qty=1	tbk						ccpr,qty=50																													ccsa,qty=50																													std,qty=50																													0
 Give uber ancients map	0			100					2	key,qty=1	ibk						uba																													uba																													uba																													0
@@ -4432,31 +4401,31 @@ Tempered Flesh Charm	1			100					2	Tempered Flesh Charm	imrn,qty=1						Tempered
 One With Nothing Charm	1			100					2	One With Nothing Charm	imrn,qty=1						One With Nothing Charm			100																																																																																				0
 Melding of the flesh Charm	1			100					2	Melding of the flesh	imrn,qty=1						Melding of the flesh			100																																																																																				0
 																																																																																																								0
-SCARAB OF NEMESES																																																																																																								0
+GLYPH OF NEMESES																																																																																																								0
 T1 rare	1	4		100	16	281	0		2	t1me,rar	scnm,qty=1						useitem			100	map-glob-monsterrarity	100		25	25	map-mon-hp%	100		5	5	scarabed	100		1	1																																																																					0
 T2 rare	1	4		100	16	281	1		2	t2me,rar	scnm,qty=1						useitem			100	map-glob-monsterrarity	100		25	25	map-mon-hp%	100		8	8	map-mon-ed%	100		5	5	scarabed	100		1	1																																																																0
 T3 rare	1	4		100	16	281	2		2	t3me,rar	scnm,qty=1						useitem			100	map-glob-monsterrarity	100		25	25	map-mon-hp%	100		10	10	map-mon-ed%	100		8	8	scarabed	100		1	1																																																																0
 T4 rare	1	4		100	16	281	3		2	t4me,rar	scnm,qty=1						useitem			100	map-glob-monsterrarity	100		25	25	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																																0
 																																																																																																								0
-SCARAB OF CORRUPTION																																																																																																								0
+GLYPH OF CORRUPTION																																																																																																								0
 T1 rare	1	4		100	16	281	0		2	t1me,rar	sccn,qty=1						useitem			100	map-glob-boss-dropcorruptedunique	100		1	1	map-glob-dropcorrupted	100		25	25	map-mon-hp%	100		5	5	scarabed	100		1	1																																																																0
 T2 rare	1	4		100	16	281	1		2	t2me,rar	sccn,qty=1						useitem			100	map-glob-boss-dropcorruptedunique	100		1	1	map-glob-dropcorrupted	100		25	25	map-mon-hp%	100		8	8	map-mon-ed%	100		5	5	scarabed	100		1	1																																																											0
 T3 rare	1	4		100	16	281	2		2	t3me,rar	sccn,qty=1						useitem			100	map-glob-boss-dropcorruptedunique	100		1	1	map-glob-dropcorrupted	100		25	25	map-mon-hp%	100		10	10	map-mon-ed%	100		8	8	scarabed	100		1	1																																																											0
 T4 rare	1	4		100	16	281	3		2	t4me,rar	sccn,qty=1						useitem			100	map-glob-boss-dropcorruptedunique	100		1	1	map-glob-dropcorrupted	100		25	25	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																											0
 																																																																																																								0
-SCARAB OF ADVERSARIES																																																																																																								0
+GLYPH OF ADVERSARIES																																																																																																								0
 T1 rare	1	4		100	16	281	0		2	t1me,rar	scas,qty=1						useitem			100	map-glob-extra-boss	100		1	1	map-glob-boss-dropskillers	100		1	1	map-mon-hp%	100		5	5	scarabed	100		1	1																																																																0
 T2 rare	1	4		100	16	281	1		2	t2me,rar	scas,qty=1						useitem			100	map-glob-extra-boss	100		1	1	map-glob-boss-dropskillers	100		1	1	map-mon-hp%	100		8	8	map-mon-ed%	100		5	5	scarabed	100		1	1																																																											0
 T3 rare	1	4		100	16	281	2		2	t3me,rar	scas,qty=1						useitem			100	map-glob-extra-boss	100		1	1	map-glob-boss-dropskillers	100		1	1	map-mon-hp%	100		10	10	map-mon-ed%	100		8	8	scarabed	100		1	1																																																											0
 T4 rare	1	4		100	16	281	3		2	t4me,rar	scas,qty=1						useitem			100	map-glob-extra-boss	100		1	1	map-glob-boss-dropskillers	100		1	1	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																											0
 																																																																																																								0
-SCARAB OF MOO																																																																																																								0
+GLYPH OF MOO																																																																																																								0
 T1 rare	1	4		100	16	281	0		2	t1me,rar	scmo,qty=1						useitem			100	map-glob-add-mon-cow	100		827	827	map-mon-hp%	100		5	5	scarabed	100		1	1																																																																					0
 T2 rare	1	4		100	16	281	1		2	t2me,rar	scmo,qty=1						useitem			100	map-glob-add-mon-cow	100		827	827	map-mon-hp%	100		8	8	map-mon-ed%	100		5	5	scarabed	100		1	1																																																																0
 T3 rare	1	4		100	16	281	2		2	t3me,rar	scmo,qty=1						useitem			100	map-glob-add-mon-cow	100		827	827	map-mon-hp%	100		10	10	map-mon-ed%	100		8	8	scarabed	100		1	1																																																																0
 T4 rare	1	4		100	16	281	3		2	t4me,rar	scmo,qty=1						useitem			100	map-glob-add-mon-cow	100		827	827	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																																0
 																																																																																																								0
-SCARAB OF MONSTROUS LINEAGE																																																																																																								0
+GLYPH OF MONSTROUS LINEAGE																																																																																																								0
 T1 rare	1	4		100	16	281	0		2	t1me,rar	schr,qty=1						useitem			100	map-glob-add-mon-horde	100		1194	1194	map-mon-hp%	100		5	5	scarabed	100		1	1																																																																					0
 T2 rare	1	4		100	16	281	1		2	t2me,rar	schr,qty=1						useitem			100	map-glob-add-mon-horde	100		1194	1194	map-mon-hp%	100		8	8	map-mon-ed%	100		5	5	scarabed	100		1	1																																																																0
 T3 rare	1	4		100	16	281	2		2	t3me,rar	schr,qty=1						useitem			100	map-glob-add-mon-horde	100		1194	1194	map-mon-hp%	100		10	10	map-mon-ed%	100		8	8	scarabed	100		1	1																																																																0
@@ -4485,29 +4454,29 @@ Outer Void Map + Terror Of Resplendence	1	4		100	16	280	1		2	Outer Void Map	tror
 Outer Void Map + Terror Of Ethereal	1	4		100	16	280	1		2	Outer Void Map	troe,qty=1						useitem			100	map-glob-add-mon-souls	100		1189	1189	map-mon-hp%	100		30	30	map-mon-ed%	100		25	25	terrorized	100		1	1																																																																0
 Outer Void Map + Terror Of Opulence	1	4		100	16	280	1		2	Outer Void Map	troo,qty=1						useitem			100	map-glob-add-mon-fetish	100		1185	1185	map-mon-hp%	100		30	30	map-mon-ed%	100		25	25	terrorized	100		1	1																																																																0
 																																																																																																								0
-OUTER VOID SCARABS																																																																																																								0
-Outer Void Map + Scarab of Nemeses	1	4		100	16	281	4		2	Outer Void Map	scnm,qty=1						useitem			100	map-glob-monsterrarity	100		25	25	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																																0
-Outer Void Map + Scarab of Corruption	1	4		100	16	281	4		2	Outer Void Map	sccn,qty=1						useitem			100	map-glob-boss-dropcorruptedunique	100		1	1	map-glob-dropcorrupted	100		25	25	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																											0
-Outer Void Map + Scarab of Adversaries	1	4		100	16	281	4		2	Outer Void Map	scas,qty=1						useitem			100	map-glob-extra-boss	100		1	1	map-glob-boss-dropskillers	100		1	1	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																											0
-Outer Void Map + Scarab of Moo	1	4		100	16	281	4		2	Outer Void Map	scmo,qty=1						useitem			100	map-glob-add-mon-cow	100		827	827	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																																0
-Outer Void Map + Scarab of Monstrous Lineage	1	4		100	16	281	4		2	Outer Void Map	schr,qty=1						useitem			100	map-glob-add-mon-horde	100		1188	1188	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																																0
+OUTER VOID GLYPHS																																																																																																								0
+Outer Void Map + Glyph of Nemeses	1	4		100	16	281	4		2	Outer Void Map	scnm,qty=1						useitem			100	map-glob-monsterrarity	100		25	25	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																																0
+Outer Void Map + Glyph of Corruption	1	4		100	16	281	4		2	Outer Void Map	sccn,qty=1						useitem			100	map-glob-boss-dropcorruptedunique	100		1	1	map-glob-dropcorrupted	100		25	25	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																											0
+Outer Void Map + Glyph of Adversaries	1	4		100	16	281	4		2	Outer Void Map	scas,qty=1						useitem			100	map-glob-extra-boss	100		1	1	map-glob-boss-dropskillers	100		1	1	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																											0
+Outer Void Map + Glyph of Moo	1	4		100	16	281	4		2	Outer Void Map	scmo,qty=1						useitem			100	map-glob-add-mon-cow	100		827	827	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																																0
+Outer Void Map + Glyph of Monstrous Lineage	1	4		100	16	281	4		2	Outer Void Map	schr,qty=1						useitem			100	map-glob-add-mon-horde	100		1188	1188	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	scarabed	100		1	1																																																																0
 																																																																																																								0
 OUTER VOID CHISELS																																																																																																								0
 Outer Void Map + Chisel of Avarice	1	4		100	16	293	2		2	Outer Void Map	ccsa,qty=1						useitem			100	map-play-addxp	100		75	75	map-play-mag-gold%	100		75	75	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	chiseled-hidden	100		1	1																																																											0
 Outer Void Map + Chisel of Procurement	1	4		100	16	293	2		2	Outer Void Map	ccpr,qty=1						useitem			100	map-glob-density	100		105	105	map-mon-hp%	100		12	12	map-mon-ed%	100		12	12	chiseled-hidden	100		1	1																																																																0
 																																																																																																								0
-																																																																																																								0
 CARTOGRAPHER'S BOX- PHASE 1 - ROLL																																																																																																								0
-Charsi's Crafting Box Roll	1	2		100	18	361	0		1	cabx							useitem				corruptnum	100		0	13																																																																															0
+Charsi's Crafting Box Roll	1	2		100	18	361	0		1	cabx							useitem				corruptnum	100		0	15																																																																															0
 																																																																																																								0
 CARTOGRAPHER'S BOX- PHASE 2 - OUTCOME																																																																																																								0
 Chisel of Avarice	1			100	16	361	2		1	cabx							ccsa,qty=5																																																																																							0
 Chisel of Procurement	1			100	16	361	4		1	cabx							ccpr,qty=5																																																																																							0
-Scarab of Nemeses	1			100	16	361	6		1	cabx							scnm,qty=5																																																																																							0
-Scarab of Adversaries	1			100	16	361	8		1	cabx							scas,qty=5																																																																																							0
-Scarab of Corruption	1			100	16	361	9		1	cabx							sccn,qty=5																																																																																							0
-Scarab of Moo	1			100	16	361	11		1	cabx							scmo,qty=5																																																																																							0
-Scarab of Monstrous Lineage	1			100	16	361	13		1	cabx							schr,qty=5																																																																																							0
+Glyph of Nemeses	1			100	16	361	6		1	cabx							scnm,qty=5																																																																																							0
+Glyph of Adversaries	1			100	16	361	8		1	cabx							scas,qty=5																																																																																							0
+Glyph of Corruption	1			100	16	361	9		1	cabx							sccn,qty=5																																																																																							0
+Glyph of Moo	1			100	16	361	11		1	cabx							scmo,qty=5																																																																																							0
+Glyph of Monstrous Lineage	1			100	16	361	13		1	cabx							schr,qty=5																																																																																							0
+Catalyst Shard	1			100	16	361	15		1	cabx							iwss,qty=5																																																																																							0
 																																																																																																								0
 HELLFIRE TORCH DESECRATION - PHASE 1 - ROLL																																																																																																								0
 Hellfire Torch roll	1			100	18	207	0		2	Hellfire Torch	dsno,qty=1						useitem			100	desecratenum	100		1	99																					dsno,qty=1																																																										0
@@ -4525,4 +4494,5 @@ All Resistances +[7-10]	1			100	16	207	93		2	Hellfire Torch	dsno,qty=1						usei
 Poison Length Reduced by 50%	1			100	16	207	99		2	Hellfire Torch	dsno,qty=1						useitem			100	res-pois-len	100		50	50	desecrate	100		1	1	desecratenum	100		1001	1001																																																																					0
 																																																																																																								0
 Divine Orb CONVERSION - TECHNICAL																																																																																																								0
-Convert old divine orb to new divine orb	1			100					1	divo,qty=1							dvo,qty=1																																																																																							0																																																																																																			0
+Convert old divine orb to new divine orb	1			100					1	divo,qty=1							dvo,qty=1																																																																																							0
+	1			100					1	key,qty=1							Test Wand																																																																																							0
