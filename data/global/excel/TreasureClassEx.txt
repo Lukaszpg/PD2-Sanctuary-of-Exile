@@ -30,7 +30,7 @@ New orbs T2			1					0	dvo	1	mfo	4																				0
 New orbs T3			1					0	dvo	1	mfo	3																				
 New orbs fallen			1					0	mfo	9	dvo	1																				0
 Boxes			1					0	ccbx	5	gcbx	5	cabx	4																		0
-Mythic or Charms			1					0	mjw	1	cm4	2																				0
+Mythic or Charms			1					0	mjw	1	cm4	1																				0
 Runes 3			1						r05s	3	r06s	2	Runes 2	1																		0
 Runes 4			1						r07s	3	r08s	2	Runes 3	1																		0
 Runes 5			1						r09s	3	r10s	2	Runes 4	4																		0
@@ -241,9 +241,9 @@ Act 2 (H) Good	29	72	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect 
 Act 3 (H) Good	29	78	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
 Act 4 (H) Good	29	82	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
 Act 5 (H) Good	29	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
-Map Good t1	30	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	46	Runes 17 equiv	28	T1 Map Drop	10	New orbs T1	5	Boxes	8	Map currency	10								0
-Map Good t2	20	86	1						Jewelry C	120	Normal Gem	28	Flawless Gem	44	Runes 17 equiv	28	T2 Map Drop	11	New orbs T2	5	Boxes	9	Map currency	11	Mythic or Charms	5						0
-Map Good t3	20	87	1						Jewelry C	120	Normal Gem	28	Flawless Gem	42	Runes 17 equiv	28	T3 Map Drop	12	New orbs T3	5	Boxes	10	Map currency	12	Mythic or Charms	5	Terrors T3	1				0
+Map Good t1	30	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	45	Runes 17 equiv	28	T1 Map Drop	10	New orbs T1	5	Boxes	8	Map currency	10	Mythic or Charms	5						0
+Map Good t2	20	86	1						Jewelry C	120	Normal Gem	28	Flawless Gem	43	Runes 17 equiv	28	T2 Map Drop	11	New orbs T2	5	Boxes	9	Map currency	11	Mythic or Charms	8						0
+Map Good t3	20	87	1						Jewelry C	120	Normal Gem	28	Flawless Gem	41	Runes 17 equiv	28	T3 Map Drop	12	New orbs T3	5	Boxes	10	Map currency	12	Mythic or Charms	9	Terrors T3	1				0
 Act 1 Chest A	6	0	4					173	gld	295	Act 1 Junk	295	Act 1 Equip A	196	Act 1 Good	39																0
 Act 1 Chest B	6	5	4					173	gld	295	Act 1 Junk	295	Act 1 Equip B	196	Act 1 Good	39																0
 Act 1 Chest C	6	9	4					145	gld	272	Act 1 Junk	218	Act 2 Junk	54	Act 1 Equip C	272	Act 1 Good	36														0
@@ -719,16 +719,16 @@ Swarm 2 (H)	17	74	1					415	Potion 6	292	Misc 2	143	Act 3 (H) Good	23	Act 3 (H) 
 Map Swarm t1	28	74	1					415	Potion 6	292	Misc 2	143	Map Good t1	23	Act 3 (H) Magic A	143																0
 Map Swarm t2	28	74	1					415	Potion 6	292	Misc 2	143	Map Good t2	23	Act 3 (H) Magic A	143																0
 Map Swarm t3	28	74	1					415	Potion 6	292	Misc 2	143	Map Good t3	23	Act 3 (H) Magic A	143																0
-Andariel			7	983	983	983	1024	1	"gld,mul=1280"	228	Act 2 Equip A	395	Act 2 Junk	311	Act 2 Good	62																0
-Andariel (N)			7	983	983	983	1024	1	"gld,mul=1536"	228	Act 2 (N) Equip A	395	Act 2 (N) Junk	311	Act 2 (N) Good	62	tes	40														0
-Andariel (H)			7	983	983	983	1024	1	"gld,mul=2048"	224	Act 4 (H) Equip A	387	Act 4 (H) Junk	305	Act 4 (H) Good	61	tes	40														0
-Andarielq			7	995	995	1024	1024	1	Act 2 Equip A	845	Act 2 Good	133																				0
+Andariel			7	983	983	983	1024	1	"gld,mul=1280"	228	Act 2 Equip A	395	Act 2 Junk	311	Act 2 Good	62	tes	50														0
+Andariel (N)			7	983	983	983	1024	1	"gld,mul=1536"	228	Act 2 (N) Equip A	395	Act 2 (N) Junk	311	Act 2 (N) Good	62	tes	50														0
+Andariel (H)			7	983	983	983	1024	1	"gld,mul=2048"	224	Act 4 (H) Equip A	387	Act 4 (H) Junk	305	Act 4 (H) Good	61	tes	50														0
+Andarielq			7	995	995	1024	1024	1	Act 2 Equip A	845	Act 2 Good	133	tes	65																		0
 Andarielq (N)			7	995	995	1024	1024	1	Act 2 (N) Equip A	845	Act 2 (N) Good	133	tes	65																		0
 Andarielq (H)			7	995	995	1024	1024	1	Act 4 (H) Equip A	810	Act 4 (H) Good	127	tes	65																		0
-Duriel - Base			7	983	983	983	1024	0	"gld,mul=1280"	228	Act 3 Equip A	395	Act 3 Junk	311	Act 3 Good	62																0
-Duriel (N) - Base			7	983	983	983	1024	0	"gld,mul=1536"	228	Act 3 (N) Equip A	395	Act 3 (N) Junk	311	Act 3 (N) Good	62	tes	40														0
-Duriel (H) - Base			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	45	tes	40														0
-Durielq - Base			7	993	993	1024	1024	0	Act 3 Equip A	845	Act 3 Good	133																				0
+Duriel - Base			7	983	983	983	1024	0	"gld,mul=1280"	228	Act 3 Equip A	395	Act 3 Junk	311	Act 3 Good	62	tes	50														0
+Duriel (N) - Base			7	983	983	983	1024	0	"gld,mul=1536"	228	Act 3 (N) Equip A	395	Act 3 (N) Junk	311	Act 3 (N) Good	62	tes	50														0
+Duriel (H) - Base			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	45	tes	50														0
+Durielq - Base			7	993	993	1024	1024	0	Act 3 Equip A	845	Act 3 Good	133	tes	65																		0
 Durielq (N) - Base			7	993	993	1024	1024	0	Act 3 (N) Equip A	845	Act 3 (N) Good	133	tes	65																		0
 Durielq (H) - Base			7	993	993	1024	1024	0	Act 5 (H) Equip B	928	Act 5 (H) Good	53	tes	65																		0
 Radament			5	900	900	900	1024	1	"gld,mul=1280"	228	Act 3 Equip B	395	Act 3 Junk	311	Act 3 Good	62																0
@@ -737,16 +737,16 @@ Radament (H)			5	900	900	900	1024	1	"gld,mul=2048"	228	Act 3 (H) Equip C	395	Act
 Flying Scimitar			1					95	Act 2 Good	45	scm	859																				0
 Flying Scimitar (N)			1					95	Act 2 (N) Good	45	scm	376	9sm	482																		0
 Flying Scimitar (H)			1					95	Act 2 (H) Good	45	scm	105	9sm	271	7sm	482																0
-Mephisto			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 4 Equip A	799	Act 4 Junk	76	Act 4 Good	46																0
-Mephisto (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 4 (N) Equip A	799	Act 4 (N) Junk	76	Act 4 (N) Good	46	ceh	45														0
-Mephisto (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 4 (H) Equip A	787	Act 4 (H) Junk	75	Act 4 (H) Good	45	ceh	45	dcso	55												0
-Mephistoq			7	993	993	1024	1024	0	Act 4 Equip A	945	Act 4 Good	54																				0
+Mephisto			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 4 Equip A	799	Act 4 Junk	76	Act 4 Good	46	ceh	56														0
+Mephisto (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 4 (N) Equip A	799	Act 4 (N) Junk	76	Act 4 (N) Good	46	ceh	56														0
+Mephisto (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 4 (H) Equip A	787	Act 4 (H) Junk	75	Act 4 (H) Good	45	ceh	56	dcso	55												0
+Mephistoq			7	993	993	1024	1024	0	Act 4 Equip A	945	Act 4 Good	54	ceh	51																		0
 Mephistoq (N)			7	993	993	1024	1024	0	Act 4 (N) Equip A	945	Act 4 (N) Good	54	ceh	51																		0
 Mephistoq (H)			7	993	993	1024	1024	0	Act 4 (H) Equip A	928	Act 4 (H) Good	53	ceh	51																		0
-Diablo			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 5 Equip A	799	Act 5 Junk	76	Act 5 Good	46																0
-Diablo (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 5 (N) Equip A	799	Act 5 (N) Junk	76	Act 5 (N) Good	46	bet	45														0
-Diablo (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip A	787	Act 5 (H) Junk	75	Act 5 (H) Good	45	bet	45	dcso	60												0
-Diabloq			7	993	993	1024	1024	0	Act 5 Equip A	945	Act 5 Good	54																				0
+Diablo			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 5 Equip A	799	Act 5 Junk	76	Act 5 Good	46	bet	56														0
+Diablo (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 5 (N) Equip A	799	Act 5 (N) Junk	76	Act 5 (N) Good	46	bet	56														0
+Diablo (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip A	787	Act 5 (H) Junk	75	Act 5 (H) Good	45	bet	56	dcso	60												0
+Diabloq			7	993	993	1024	1024	0	Act 5 Equip A	945	Act 5 Good	54	bet	51																		0
 Diabloq (N)			7	993	993	1024	1024	0	Act 5 (N) Equip A	945	Act 5 (N) Good	54	bet	51																		0
 Diabloq (H)			7	993	993	1024	1024	0	Act 5 (H) Equip A	928	Act 5 (H) Good	53	bet	51																		0
 Summoner			5	900	900	972	1024	4	"gld,mul=1280"	248	Act 2 Equip C	414	Act 3 Junk	138	Act 2 Good	82	Act 3 Magic A	110														0
@@ -777,10 +777,10 @@ Haphesto (H)			5	800	800	900	1024	3	"gld,mul=2048"	340	Act 5 (H) Equip A	461	Act
 Nihlathak			5	900	900	900	1024	3	"gld,mul=1280"	340	Act 5 Equip B	461	Act 5 Junk	121	Act 5 Good	72																0
 Nihlathak (N)			5	900	900	900	1024	3	"gld,mul=1536"	340	Act 5 (N) Equip B	461	Act 5 (N) Junk	121	Act 5 (N) Good	72																0
 Nihlathak (H)			5	900	900	900	1024	2	"gld,mul=2048"	332	Act 5 (H) Equip B	451	Act 5 (H) Junk	71	Act 5 (H) Good	71	pk3	120														0
-Baal			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 1 (N) Equip A	799	Act 1 (N) Junk	76	Act 1 (N) Good	46																0
-Baal (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 1 (H) Equip A	799	Act 1 (H) Junk	76	Act 1 (H) Good	46	fed	45														0
-Baal (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	45	fed	45	dcso	65												0
-Baalq			7	993	993	1024	1024	0	Act 1 (N) Equip A	945	Act 1 (N) Good	54																				0
+Baal			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 1 (N) Equip A	799	Act 1 (N) Junk	76	Act 1 (N) Good	46	fed	56														0
+Baal (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 1 (H) Equip A	799	Act 1 (H) Junk	76	Act 1 (H) Good	46	fed	56														0
+Baal (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	45	fed	56	dcso	65												0
+Baalq			7	993	993	1024	1024	0	Act 1 (N) Equip A	945	Act 1 (N) Good	54	fed	51																		0
 Baalq (N)			7	993	993	1024	1024	0	Act 1 (H) Equip A	945	Act 1 (H) Good	54	fed	51																		0
 Baalq (H)			7	993	993	1024	1024	0	Act 5 (H) Equip B	928	Act 5 (H) Good	53	fed	51																		0
 Blood Raven			5	800	800	972	1024	3	"gld,mul=1280"	340	Act 1 Equip B	461	Act 1 Junk	121	Act 1 Good	121																0
@@ -949,7 +949,7 @@ BR Arena Bodies H		90	1	1000	850	1400	800	0	Act 5 (H) Equip C	48	BR Arena misc	5
 BR Arena Zomb N		30	3	9000	9000	1	1	0	Act 5 Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb NM		60	3	9000	9000	1	1	0	Act 5 (N) Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb H		90	3	9000	9000	1	1	0	Act 5 (H) Uitem C	30	BR Arena jewerly	8																				0
-UberAncients		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	T3 Map Drop	10	T2 Map Drop	10	dvo	5	umbx	7										0
+UberAncients		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	T3 Map Drop	10	T2 Map Drop	10	dvo	5	umbx	7	Mythic or Charms	8								0
 ShadowOfMendeln		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	787	Act 5 (H) Good	45	Act 5 (H) Junk	75	Runes 17 equiv	10	wss	15	Jewelry C	30	rtmv	30	dvo	6								0
 Act 1 (H) Weap A	1	68	1						weap54	2	armo54	0	weap57	6	armo57	0	weap60	14	armo60	0	weap63	6	armo63	3	Act 5 (N) Weap C	1785			28	1813	0.977	0
 Act 1 (H) Weap B	1	70	1						weap57	2	armo57	0	weap60	6	armo60	0	weap63	14	armo63	0	weap66	2	armo66	1	Act 1 (H) Weap A	1530			24	1554	0.977	0
@@ -1037,7 +1037,7 @@ lucdH				800	1																											0
 T4MidMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop No T4	10	T2 Map Drop	10	dvo	12	Map Tier 4	6								0
 T4FinalMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop No T4	10	T2 Map Drop	10	dvo	12	Map Tier 4	6								0
 LucionChestLow		90	6	800	900	990	1024	0	Act 5 (H) Equip C	200	Act 5 (H) Good	100	Runes 15 equiv	30	wss	25																0
-LucionChestHigh		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	dvo	8	cm4	10														0
+LucionChestHigh		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	dvo	8	Mythic or Charms	12														0
 Demonic Cube N				20000	100																											0
 Demonic Cube NM				10000	100																											0
 Demonic Cube H				1000	1																											0
@@ -1100,7 +1100,7 @@ Dungeon 5 (H) Equip A	1	83	1						weap75	2	armo75	1	weap78	6	armo78	3	weap81	14	
 Dungeon 5 (H) Equip B	1	84	1						weap78	2	armo78	1	weap81	6	armo81	3	weap84	14	armo84	7	weap87	2	armo87	1	Dungeon 5 (H) Equip A	1530						0
 Dungeon 5 (H) Equip C	1	85	1						weap81	2	armo81	1	weap84	6	armo84	3	weap87	14	armo87	7	weap87	1	armo87	1	Dungeon 5 (H) Equip B	1530						0
 Dungeon Cpot		85	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
-Dungeon Mythic or Charms		85	1					0	mjw	1	cm4	2																				0
+Dungeon Mythic or Charms		85	1					0	mjw	1	cm4	1																				0
 Dungeon Terrors			1					2	troo	1	troe	1	tror	1																		
 Dungeon Scarabs			1					0	scnm	2	scas	2	sccn	1	scmo	2	schr	3														
 Dungeon Chisels			1					0	ccsa	3	ccpr	2																				
@@ -1108,7 +1108,7 @@ Dungeon Map Currency		87	1					0	Dungeon Chisels	2	Dungeon Scarabs	1												
 Dungeon Sacred Orb		87	1					2	sror	1																						0
 Dungeon Orbs		87	1					2	dvo	1																						0
 Dungeon Map			1					0	Map Tier 2	2	Map Tier 3	3																				
-Dungeon Good		87	1					0	Jewelry C	120	Perfect Gem	6	Runes 17 equiv	28	Dungeon Map	8	Dungeon Orbs	3	Boxes	7	Dungeon Map Currency	5	Dungeon Mythic or Charms	2	Dungeon Sacred Orb	4	Dungeon Terrors	1				0
+Dungeon Good		87	1					0	Jewelry C	120	Runes 17 equiv	28	Dungeon Map	8	Dungeon Orbs	3	Boxes	7	Dungeon Map Currency	5	Dungeon Mythic or Charms	5	Dungeon Sacred Orb	4	Dungeon Terrors	1						0
 Dungeon Citem		85	1	1000	800	800	1024	0	"gld,mul=1280"	60	Dungeon 5 (H) Equip C	37	Dungeon Good	3																		0
 Dungeon Uitem		85	1	1000	800	800	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4																				0
 Dungeon Champ		85	-2					0	Dungeon Citem	1	Dungeon Cpot	3																				0
@@ -1150,7 +1150,7 @@ Ethereal Terror T1		85	1					0	Runes 17 terror	1
 Ethereal Terror T2		85	2					1	Runes 17 terror	1																						
 Ethereal Terror T3		85	3					1	Runes 17 terror	1																						
 Ethereal Terror T4		85	4					1	Runes 17 terror	1																						
-Terror Jewelry		85	1					0	rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2	mjw	1										
+Terror Jewelry		85	1					0	rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2	cm4	1	mjw	1								
 Resplendence Terror T1		85	2	1200	0	0	0	0	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		
 Resplendence Terror T2		85	3	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		
 Resplendence Terror T3		85	4	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		
