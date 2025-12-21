@@ -2882,7 +2882,7 @@ Prismatic infusion	1			100	16	361	468		1	ccbx							crfp,qty=5																		
 																																																																																																								0
 																																																																																																								0
 CAIN'S WISDOM + ANNIHILUS FUSE																																																																																																								0
-Cain's + Anni = Anni with 250% exp affix	1			100	16	85	250		2	Annihilus	Cains						useitem			100	addxp	100		250	250																																																																															0
+Cain's + Anni = Anni with 300-500% exp affix	1			100	16	85	300		2	Annihilus	Cains						useitem			100	addxp	100		300	500	mag%/lvl	100		4																																																																											0
 																																																																																																								0
 CRAFTED ARROW CRAFTING																																																																																																								0
 Blood	1			100					2	"misl,crf,noe"	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
@@ -3062,6 +3062,7 @@ Perfect Emeralds + Rare	1			100					2	mjw,rar	"gpgs,qty=3"						mjw,rar,reg			10
 																																																																																																								0
 MYTHICAL UNIQUE JEWEL RE-ROLL																																																																																																								0
 Widespread Destruction	1			100					2	Widespread Destruction	imrn,qty=1						Widespread Destruction			100																																																																																				0
+Akarats Rage	1			100					2	Akarats Rage	imrn,qty=1						Akarats Rage			100																																																																																				0
 																																																																																																								0
 MYTHICAL JEWEL ADDITIONAL RECIPES																																																																																																								0
 Disenchant Mythical Jewel x1	1			100					2	key,qty=1	mjw,qty=1						useitem																													jewf,qty=5																																																										0
@@ -5045,3 +5046,83 @@ Poison Length Reduced by 50%	1			100	16	207	99		2	Hellfire Torch	dsno,qty=1					
 																																																																																																								0
 Divine Orb CONVERSION - TECHNICAL																																																																																																								0
 Convert old divine orb to new divine orb	1			100					1	divo,qty=1							dvo,qty=1																																																																																							0
+																																																																																																								0
+CRAFTING INFUSIONS CREATING																																																																																																								0
+Blood	1			100					3	jewf,qty=10	r10s,qty=10	gprs,qty=10					crfb,qty=10																																																																																							0
+Blood	1			100					3	jewf,qty=9	r10s,qty=9	gprs,qty=9					crfb,qty=9																																																																																							0
+Blood	1			100					3	jewf,qty=8	r10s,qty=8	gprs,qty=8					crfb,qty=8																																																																																							0
+Blood	1			100					3	jewf,qty=7	r10s,qty=7	gprs,qty=7					crfb,qty=7																																																																																							0
+Blood	1			100					3	jewf,qty=6	r10s,qty=6	gprs,qty=6					crfb,qty=6																																																																																							0
+Blood	1			100					3	jewf,qty=5	r10s,qty=5	gprs,qty=5					crfb,qty=5																																																																																							0
+Blood	1			100					3	jewf,qty=4	r10s,qty=4	gprs,qty=4					crfb,qty=4																																																																																							0
+Blood	1			100					3	jewf,qty=3	r10s,qty=3	gprs,qty=3					crfb,qty=3																																																																																							0
+Blood	1			100					3	jewf,qty=2	r10s,qty=2	gprs,qty=2					crfb,qty=2																																																																																							0
+Blood	1			100					3	jewf,qty=1	r10s,qty=1	gprs,qty=1					crfb,qty=1																																																																																							0
+																																																																																																								0
+Caster	1			100					3	jewf,qty=10	r08s,qty=10	gpvs,qty=10					crfc,qty=10																																																																																							0
+Caster	1			100					3	jewf,qty=9	r08s,qty=9	gpvs,qty=9					crfc,qty=9																																																																																							0
+Caster	1			100					3	jewf,qty=8	r08s,qty=8	gpvs,qty=8					crfc,qty=8																																																																																							0
+Caster	1			100					3	jewf,qty=7	r08s,qty=7	gpvs,qty=7					crfc,qty=7																																																																																							0
+Caster	1			100					3	jewf,qty=6	r08s,qty=6	gpvs,qty=6					crfc,qty=6																																																																																							0
+Caster	1			100					3	jewf,qty=5	r08s,qty=5	gpvs,qty=5					crfc,qty=5																																																																																							0
+Caster	1			100					3	jewf,qty=4	r08s,qty=4	gpvs,qty=4					crfc,qty=4																																																																																							0
+Caster	1			100					3	jewf,qty=3	r08s,qty=3	gpvs,qty=3					crfc,qty=3																																																																																							0
+Caster	1			100					3	jewf,qty=2	r08s,qty=2	gpvs,qty=2					crfc,qty=2																																																																																							0
+Caster	1			100					3	jewf,qty=1	r08s,qty=1	gpvs,qty=1					crfc,qty=1																																																																																							0
+																																																																																																								0
+Hitpower	1			100					3	jewf,qty=10	r08s,qty=10	gpbs,qty=10					crfh,qty=10																																																																																							0
+Hitpower	1			100					3	jewf,qty=9	r08s,qty=9	gpbs,qty=9					crfh,qty=9																																																																																							0
+Hitpower	1			100					3	jewf,qty=8	r08s,qty=8	gpbs,qty=8					crfh,qty=8																																																																																							0
+Hitpower	1			100					3	jewf,qty=7	r08s,qty=7	gpbs,qty=7					crfh,qty=7																																																																																							0
+Hitpower	1			100					3	jewf,qty=6	r08s,qty=6	gpbs,qty=6					crfh,qty=6																																																																																							0
+Hitpower	1			100					3	jewf,qty=5	r08s,qty=5	gpbs,qty=5					crfh,qty=5																																																																																							0
+Hitpower	1			100					3	jewf,qty=4	r08s,qty=4	gpbs,qty=4					crfh,qty=4																																																																																							0
+Hitpower	1			100					3	jewf,qty=3	r08s,qty=3	gpbs,qty=3					crfh,qty=3																																																																																							0
+Hitpower	1			100					3	jewf,qty=2	r08s,qty=2	gpbs,qty=2					crfh,qty=2																																																																																							0
+Hitpower	1			100					3	jewf,qty=1	r08s,qty=1	gpbs,qty=1					crfh,qty=1																																																																																							0
+																																																																																																								0
+Safety	1			100					3	jewf,qty=10	r09s,qty=10	gpgs,qty=10					crfs,qty=10																																																																																							0
+Safety	1			100					3	jewf,qty=9	r09s,qty=9	gpgs,qty=9					crfs,qty=9																																																																																							0
+Safety	1			100					3	jewf,qty=8	r09s,qty=8	gpgs,qty=8					crfs,qty=8																																																																																							0
+Safety	1			100					3	jewf,qty=7	r09s,qty=7	gpgs,qty=7					crfs,qty=7																																																																																							0
+Safety	1			100					3	jewf,qty=6	r09s,qty=6	gpgs,qty=6					crfs,qty=6																																																																																							0
+Safety	1			100					3	jewf,qty=5	r09s,qty=5	gpgs,qty=5					crfs,qty=5																																																																																							0
+Safety	1			100					3	jewf,qty=4	r09s,qty=4	gpgs,qty=4					crfs,qty=4																																																																																							0
+Safety	1			100					3	jewf,qty=3	r09s,qty=3	gpgs,qty=3					crfs,qty=3																																																																																							0
+Safety	1			100					3	jewf,qty=2	r09s,qty=2	gpgs,qty=2					crfs,qty=2																																																																																							0
+Safety	1			100					3	jewf,qty=1	r09s,qty=1	gpgs,qty=1					crfs,qty=1																																																																																							0
+																																																																																																								0
+Vampiric	1			100					3	jewf,qty=10	r13s,qty=10	skzs,qty=10					crfv,qty=10																																																																																							0
+Vampiric	1			100					3	jewf,qty=9	r13s,qty=9	skzs,qty=9					crfv,qty=9																																																																																							0
+Vampiric	1			100					3	jewf,qty=8	r13s,qty=8	skzs,qty=8					crfv,qty=8																																																																																							0
+Vampiric	1			100					3	jewf,qty=7	r13s,qty=7	skzs,qty=7					crfv,qty=7																																																																																							0
+Vampiric	1			100					3	jewf,qty=6	r13s,qty=6	skzs,qty=6					crfv,qty=6																																																																																							0
+Vampiric	1			100					3	jewf,qty=5	r13s,qty=5	skzs,qty=5					crfv,qty=5																																																																																							0
+Vampiric	1			100					3	jewf,qty=4	r13s,qty=4	skzs,qty=4					crfv,qty=4																																																																																							0
+Vampiric	1			100					3	jewf,qty=3	r13s,qty=3	skzs,qty=3					crfv,qty=3																																																																																							0
+Vampiric	1			100					3	jewf,qty=2	r13s,qty=2	skzs,qty=2					crfv,qty=2																																																																																							0
+Vampiric	1			100					3	jewf,qty=1	r13s,qty=1	skzs,qty=1					crfv,qty=1																																																																																							0
+																																																																																																								0
+Bountiful	1			100					3	jewf,qty=10	r15s,qty=10	gpys,qty=10					crfu,qty=10																																																																																							0
+Bountiful	1			100					3	jewf,qty=9	r15s,qty=9	gpys,qty=9					crfu,qty=9																																																																																							0
+Bountiful	1			100					3	jewf,qty=8	r15s,qty=8	gpys,qty=8					crfu,qty=8																																																																																							0
+Bountiful	1			100					3	jewf,qty=7	r15s,qty=7	gpys,qty=7					crfu,qty=7																																																																																							0
+Bountiful	1			100					3	jewf,qty=6	r15s,qty=6	gpys,qty=6					crfu,qty=6																																																																																							0
+Bountiful	1			100					3	jewf,qty=5	r15s,qty=5	gpys,qty=5					crfu,qty=5																																																																																							0
+Bountiful	1			100					3	jewf,qty=4	r15s,qty=4	gpys,qty=4					crfu,qty=4																																																																																							0
+Bountiful	1			100					3	jewf,qty=3	r15s,qty=3	gpys,qty=3					crfu,qty=3																																																																																							0
+Bountiful	1			100					3	jewf,qty=2	r15s,qty=2	gpys,qty=2					crfu,qty=2																																																																																							0
+Bountiful	1			100					3	jewf,qty=1	r15s,qty=1	gpys,qty=1					crfu,qty=1																																																																																							0
+																																																																																																								0
+Brilliant	1			100					3	jewf,qty=10	r14s,qty=10	gpws,qty=10					crfp,qty=10																																																																																							0
+Brilliant	1			100					3	jewf,qty=9	r14s,qty=9	gpws,qty=9					crfp,qty=9																																																																																							0
+Brilliant	1			100					3	jewf,qty=8	r14s,qty=8	gpws,qty=8					crfp,qty=8																																																																																							0
+Brilliant	1			100					3	jewf,qty=7	r14s,qty=7	gpws,qty=7					crfp,qty=7																																																																																							0
+Brilliant	1			100					3	jewf,qty=6	r14s,qty=6	gpws,qty=6					crfp,qty=6																																																																																							0
+Brilliant	1			100					3	jewf,qty=5	r14s,qty=5	gpws,qty=5					crfp,qty=5																																																																																							0
+Brilliant	1			100					3	jewf,qty=4	r14s,qty=4	gpws,qty=4					crfp,qty=4																																																																																							0
+Brilliant	1			100					3	jewf,qty=3	r14s,qty=3	gpws,qty=3					crfp,qty=3																																																																																							0
+Brilliant	1			100					3	jewf,qty=2	r14s,qty=2	gpws,qty=2					crfp,qty=2																																																																																							0
+Brilliant	1			100					3	jewf,qty=1	r14s,qty=1	gpws,qty=1					crfp,qty=1																																																																																							0
+																																																																																																								0
+																																																																																																								0

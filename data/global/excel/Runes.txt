@@ -110,7 +110,7 @@ Runeword69	Last Wish	1		swor	hamm	axe	staf						JahMalJahSurJahBer	r31	r23	r31	r
 Runeword70	Law																																															0
 Runeword71	Lawbringer	1		swor	hamm	scep	h2h	taxe	thro				AmnLemKo	r11	r20	r18				dmg-cold		130	180	dmg-fire		150	210	dmg%		150	200	hit-skill	Decrepify Proc	20	15	ac-miss		200	250	rip		1	1	reduce-ac		50	50	0
 Runeword73	Lightning																																															0
-Loyalty Spear	Loyalty	1		spea						jave			PulTirDol	r21	r03	r14				dmg%		200	245	skill	dopplezon	2	3	skilltab	1	2	2	cast2		60	60	crush		20	20	skill	power strike	2	3	mana-kill		2	2	0
+Loyalty Spear	Loyalty	1		spea						jave			PulTirDol	r21	r03	r14				dmg%		200	245	skill	Dopplezon	2	3	skilltab	1	2	2	cast2		60	60	crush		20	20	skill	power strike	2	3	mana-kill		2	2	0
 Runeword78	Lust																																															0
 Runeword79	Madness																																															0
 Runeword84	Mist	1		miss									ChamShaelGulThulIth	r32	r13	r25	r10	r06		aura	concentration	12	14	allskills		2	2	res-all		40	40	vit		20	30	pierce		100	100	dmg%		325	375					0
@@ -191,7 +191,7 @@ Hustle	Hustle	1		tors									ShaelKoEld	r13	r18	r02				equipped-skill	Quickness
 Purity	Purity	1		pole	staf	spea	miss						AmnEthThul	r11	r05	r10				dmg%		110	145	att-demon		200	200	swing2		45	45	aura	Prayer	10	12	curse-res		30	30	dmg-demon		80	120					0
 Rapture	Rapture	1		hamm									VexJahLoTirKoMal	r26	r31	r28	r08	r18	r23	dmg%		240	280	swing2		20	20	deadly		20	20	hit-skill	91	30	35	res-cold		40	60	gold%		80	120	hit-skill	Eruption	14	46	0
 Epiphany	Epiphany	1		shld									LoIthLoIst	r28	r06	r28	r24			es-efficiency-and-es-when-equip	Energy Shield SelfAura	18	18	all-stats		10	15	cast2		20	20	gethit-skill	Static Field	25	27	mana%		28	35	res-pois		40	55	dmg-ltng		1	750	0
-Loyalty Bow	Loyalty	1		miss									PulTirDol	r21	r03	r14				dmg%		200	245	skill	strafe	2	3	skill	dopplezon	2	3	cast2		60	60	pierce		20	20	skilltab	1	2	2	mana-kill		2	2	0
+Loyalty Bow	Loyalty	1		miss									PulTirDol	r21	r03	r14				dmg%		200	245	skill	strafe	2	3	skill	Dopplezon	2	3	cast2		60	60	pierce		20	20	skilltab	1	2	2	mana-kill		2	2	0
 Wind Throwable	Wind	1		thro									SurEl	r29	r01					dmg%		220	280	swing2		40	40	move2		20	30	reduce-ac		50	50	hit-skill	245	18	35	hit-skill	240	18	35	gethit-skill	Cyclone Armor	5	9	0
 Ancient's Scripture	Ancient's Scripture	1		misl										r07	r09					dmg%		10	20	res-pois		5	15	res-ltng		5	15	hp		20	20	regen-stam		20	20									0
 Ancient's Foresight	Ancient's Foresight	1		misl										r08	r10					dmg%		10	20	res-cold		5	15	res-fire		5	15	mana		20	20	regen-mana		20	20									0

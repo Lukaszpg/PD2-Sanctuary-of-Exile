@@ -31,7 +31,7 @@ New orbs T3			1					0	dvo	1	mfo	3
 New orbs fallen			1					0	mfo	9	dvo	1																				0
 Boxes			1					0	ccbx	5	gcbx	5	cabx	4																		0
 Mythic or Charms			1					0	mjw	1	cm4	1																				0
-Runes 3			1						r05s	3	r06s	2	Runes 2	1																		0
+Runes 3			1						r05s	3	r06s	2																				0
 Runes 4			1						r07s	3	r08s	2	Runes 3	1																		0
 Runes 5			1						r09s	3	r10s	2	Runes 4	4																		0
 Runes 6			1						r11s	3	r12s	2	Runes 5	6																		0
@@ -226,21 +226,21 @@ Act 4 (H) Magic B	4	80	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic A	4	82	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic B	4	83	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic C	4	85	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 1 Good	5	0	1						Jewelry A	60	Chipped Gem	48	wss	1																		0
-Act 2 Good	5	12	1						Jewelry B	80	Chipped Gem	44	wss	1	Runes 2	12																0
-Act 3 Good	5	18	1						Jewelry C	80	Chipped Gem	28	wss	1	Runes 3	12	Runes 4	12														0
-Act 4 Good	5	26	1						Jewelry C	100	Chipped Gem	6	Normal Gem	28	Flawless Gem	56	Runes 5	28	Runes 6	14	wss	1										0
-Act 5 Good	5	32	1						Jewelry C	100	Chipped Gem	6	Normal Gem	28	Flawless Gem	56	Runes 7	28	New orbs	5	wss	1										0
-Act 1 (N) Good	5	38	1						Jewelry C	60	Chipped Gem	2	Normal Gem	14	Flawless Gem	28	Runes 8	14	New orbs	6	wss	2										0
-Act 2 (N) Good	5	42	1						Jewelry C	60	Chipped Gem	2	Normal Gem	14	Flawless Gem	28	Runes 9	14	New orbs	6	wss	2										0
-Act 3 (N) Good	5	46	1						Jewelry C	60	Chipped Gem	2	Normal Gem	14	Flawless Gem	28	Runes 10	14	New orbs	6	wss	2										0
-Act 4 (N) Good	5	51	1						Jewelry C	60	Chipped Gem	2	Normal Gem	14	Flawless Gem	28	Runes 11	14	New orbs	6	wss	2										0
-Act 5 (N) Good	5	57	1						Jewelry C	60	Chipped Gem	2	Normal Gem	14	Flawless Gem	28	Runes 12 equiv	14	New orbs	6	wss	2										0
-Act 1 (H) Good	29	66	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 13 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
-Act 2 (H) Good	29	72	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 14 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
-Act 3 (H) Good	29	78	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
-Act 4 (H) Good	29	82	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
-Act 5 (H) Good	29	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	4						0
+Act 1 Good	5	0	1						Jewelry A	60	wss	4																				0
+Act 2 Good	5	12	1						Jewelry B	80	wss	4																				0
+Act 3 Good	5	18	1						Jewelry C	80	wss	4	Runes 3	12	Runes 4	12																0
+Act 4 Good	5	26	1						Jewelry C	100	Normal Gem	22	Flawless Gem	56	Runes 5	28	Runes 6	14	wss	8												0
+Act 5 Good	5	32	1						Jewelry C	100	Normal Gem	22	Flawless Gem	56	Runes 7	28	New orbs	5	wss	8												0
+Act 1 (N) Good	5	38	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 8	14	New orbs	6	wss	8												0
+Act 2 (N) Good	5	42	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 9	14	New orbs	6	wss	8												0
+Act 3 (N) Good	5	46	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 10	14	New orbs	6	wss	8												0
+Act 4 (N) Good	5	51	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 11	14	New orbs	6	wss	8												0
+Act 5 (N) Good	5	57	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 12 equiv	14	New orbs	6	wss	8												0
+Act 1 (H) Good	29	66	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 13 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	8						0
+Act 2 (H) Good	29	72	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 14 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	8						0
+Act 3 (H) Good	29	78	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	8						0
+Act 4 (H) Good	29	82	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	8						0
+Act 5 (H) Good	29	85	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	8						0
 Map Good t1	30	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	45	Runes 17 equiv	28	T1 Map Drop	10	New orbs T1	5	Boxes	8	Map currency	10	Mythic or Charms	5						0
 Map Good t2	20	86	1						Jewelry C	120	Normal Gem	28	Flawless Gem	43	Runes 17 equiv	28	T2 Map Drop	11	New orbs T2	5	Boxes	9	Map currency	11	Mythic or Charms	8						0
 Map Good t3	20	87	1						Jewelry C	120	Normal Gem	28	Flawless Gem	41	Runes 17 equiv	28	T3 Map Drop	12	New orbs T3	5	Boxes	10	Map currency	12	Mythic or Charms	9	Terrors T3	1				0
@@ -997,11 +997,11 @@ Treasure Fallen Craft NM			2					16	crfb	1	crfc	1	crfs	1	crfh	1	crfv	1	crfu	1			
 Treasure Fallen N			3					12	Treasure Fallen Gem N	1	Treasure Fallen Rune N	1	Treasure Fallen Craft N	1	"gld,mul=2048"	2																0
 Treasure Fallen NM			3					11	Treasure Fallen Gem NM	1	Treasure Fallen Rune NM	1	Treasure Fallen Craft NM	1	"gld,mul=3072"	2																0
 Treasure Fallen H			3					0	gcbx	17	Treasure Fallen Rune H	20	ccbx	16	Treasure Fallen Map	16	"gld,mul=4096"	30	New orbs fallen	1												0
-Larzuk Puzzlebox N				0																												0
-Larzuk Puzzlebox NM				4500	10																											0
+Larzuk Puzzlebox N				1200	10																											0
+Larzuk Puzzlebox NM				600	10																											0
 Larzuk Puzzlebox H				200	10																											0
-Larzuk Puzzlepiece N				4050	10																											0
-Larzuk Puzzlepiece NM				2025	10																											0
+Larzuk Puzzlepiece N				600	10																											0
+Larzuk Puzzlepiece NM				300	10																											0
 Larzuk Puzzlepiece H				100	10																											0
 SkeletonKey N				15000	100																											0
 SkeletonKey NM				7500	100																											0
@@ -1038,8 +1038,8 @@ T4MidMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes
 T4FinalMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop No T4	10	T2 Map Drop	10	dvo	12	Map Tier 4	6								0
 LucionChestLow		90	6	800	900	990	1024	0	Act 5 (H) Equip C	200	Act 5 (H) Good	100	Runes 15 equiv	30	wss	25																0
 LucionChestHigh		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	dvo	8	Mythic or Charms	12														0
-Demonic Cube N				20000	100																											0
-Demonic Cube NM				10000	100																											0
+Demonic Cube N				5000	1																											0
+Demonic Cube NM				2500	1																											0
 Demonic Cube H				1000	1																											0
 Corrupted Zone T1 Maps				125																												
 UberDiablo			1					11	Overlords Helm	1	Dark Abyss	1	Aidans Scar	1	Itheraels Path	1	Hadriels Hand	1														0

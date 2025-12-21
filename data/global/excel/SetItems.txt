@@ -3,7 +3,7 @@ Civerb's Ward	Civerb's Vestments	lrg	Large Shield	7	13	9	lyel	lyel						5	2500	1
 Civerb's Icon	Civerb's Vestments	amu	Amulet	7	13	9	lyel	lyel						5	2500	2	regen-mana		40	40	regen		10	20																													res-cold		25	25																																					0
 Civerb's Cudgel	Civerb's Vestments	gsc	Grand Scepter	7	13	9	lyel	lyel						5	2500	2	att		75	75	dmg-max		17	23	splash	358	100	1	dmg/lvl	8																							dmg-undead	0	100	100																																					0
 Hsarus' Iron Heel	Hsarus' Defense	mbt	Chain Boots	7	4	3	dred	dred						5	2500	2	res-fire		25	25	move2		20	20																													att/lvl	20																																							0
-Hsarus' Iron Fist	Hsarus' Defense	buc	Buckler	7	4	3	dred	dred						5	2500	2	red-dmg		2	2	str		20	20																													ac/lvl	20			splash		1	1																																	0
+Hsarus' Iron Fist	Hsarus' Defense	buc	Buckler	7	4	3	dred	dred						5	2500	2	red-dmg		2	2	str		20	20																													ac/lvl	20																																							0
 Hsarus' Iron Stay	Hsarus' Defense	mbl	Belt	7	4	3	dred	dred						5	2500	2	res-cold		20	20	hp		20	20																													ac/lvl	20																																							0
 Cleglaw's Tooth	Cleglaw's Brace	lsd	Long Sword	7	6	4	lred	lred						5	2500	2	att%		30	30	deadly		50	50	splash	358	100	1																									dmg/lvl	10																																							0
 Cleglaw's Claw	Cleglaw's Brace	sml	Small Shield	7	6	4	lred	lred						5	2500	2	ac		17	17	res-pois-len		75	75																													res-all		15	15																																					0
