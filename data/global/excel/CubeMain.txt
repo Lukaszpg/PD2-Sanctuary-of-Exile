@@ -314,7 +314,7 @@ r08 + jew + magic amulet -> tempered amulet				100					3	"amu,mag"	"jewg,qty=1"	
 r01 + gcv + tempered weapon -> +30-50 ar				100					3	"weap,tmp"	"r01g,qty=1"	"gcv,qty=1"					useitem				levelreq			2	2	att			30	50																																																																										0
 "3 chipped gems + 1 magic weapon -> socketed, magic weapon"	1			0					2	"weap,mag"	"gem0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
 Pandemonium key	0		2	100	28	1			3	"pk1,qty=1"	"pk2,qty=1"	"pk3,qty=1"					Pandemonium Portal																																																																																							0
-Pandemonium key - PD2	1		2	100	28	0			3	"pk1,qty=1"	"pk2,qty=1"	"pk3,qty=1"					useitem																																																																																							0
+Pandemonium key - PD2	1		2	100	28	1			3	"pk1,qty=1"	"pk2,qty=1"	"pk3,qty=1"					useitem																																																																																							0
 Pandemonium Finale key	0		2	100	28	1			3	"dhn,qty=1"	"bey,qty=1"	"mbr,qty=1"					Pandemonium Finale Portal																																																																																							0
 Pandemonium Finale key 2	0		2	100	28	1			3	"dhn,qty=1"	"bey,qty=1"	"mbr,qty=1"					Pandemonium Finale Portal																																																																																							0
 Pandemonium Finale key 3	1			100					3	"dhn,qty=1"	"bey,qty=1"	"mbr,qty=1"					useitem																													"ubtm,qty=1"																																																										0
