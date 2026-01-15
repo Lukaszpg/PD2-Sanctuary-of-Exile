@@ -5126,4 +5126,3 @@ Brilliant	1			100					3	jewf,qty=4	r14s,qty=4	gpws,qty=4					crfp,qty=4									
 Brilliant	1			100					3	jewf,qty=3	r14s,qty=3	gpws,qty=3					crfp,qty=3																																																																																							0
 Brilliant	1			100					3	jewf,qty=2	r14s,qty=2	gpws,qty=2					crfp,qty=2																																																																																							0
 Brilliant	1			100					3	jewf,qty=1	r14s,qty=1	gpws,qty=1					crfp,qty=1																																																																																							0
-	1			100					1	key,qty=1							Manastorm																																																																																							0
