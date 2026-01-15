@@ -329,7 +329,7 @@ Demonhorn's Edge	100	1		1	1	69	61	bad	destroyer helm			5	5000	dgry	dgry						ac%
 The Reaper's Toll	100	1		1	1	83	75	7s8	thresher			5	5000				invscy				dmg%		190	290	hit-skill	AmpDmg Proc	33	31	ignore-ac		1	1	lifesteal		11	15	ease		-25	-25	deadly		33	33	dmg-cold		4	44																	splash	358	100	1	0
 Spiritkeeper	100	1		1	1	75	67	drd	earth spirit			5	5000								ac%		170	190	balance2		20	20	abs-ltng		4	6	res-fire		20	30	abs-cold%		4	5	res-pois-max		5	8	dru		2	2	skill-rand	2	221	250	extra-spirits		1	1													0
 Hellrack	100	1		1	1	84	76	6hx	colossus crossbow			5	5000	cred			invhxbu				dmg%		180	230	dmg-elem	33	63	324	swing2		60	60	att%		100	150	sock		3	5	fireskill		4	5	pierce-fire		20	20																					0
-Alma Negra	100	1		1	1	85	77	pac	sacred rondache			5	5000	blac	blac						ac%		180	210	block2		30	30	allskills		2	2	block		20	20	red-mag		10	18	att%		100	150	dmg%		160	200	joust-reduction		19	19																	0
+Alma Negra	100	1		1	1	85	77	pac	sacred rondache			5	5000	blac	blac						ac%		180	210	block2		30	30	allskills		2	2	block		20	20	red-mag		10	18	att%		100	150	dmg%		160	200	joust-reduction-leorics		19	19																	0
 Darkforge Spawn	100	1		3	1	72	64	nef	bloodlord skull			5	5000	cred	cred						ac%		140	180	cast2		30	30	mana%		40	50	res-fire		50	50	reanimate	312	5	5	maxcurse		1	1	skilltab	8	2	3	skilltab	6	2	3	skilltab	7	2	3													0
 Widowmaker	100	1		1	1	73	65	6sw	ward bow			5	5000	dred	dred		invswbu				dmg%		275	350	deadly		33	33	ignore-ac		1	1	magicarrow		11	11	oskill	22	3	5	oskill	12	3	5	ama		2	2																					0
 Bloodraven's Charge	100	1		1	1	79	71	amb	matriarchal bow			5	5000	dgld			bravenbow				dmg%		230	330	att%		200	300	explosivearrow		13	13	allskills		2	3	charged	Revive	15	15	skill	7	2	3	extra-revives		4	4	rep-charge	12																			0
@@ -391,7 +391,7 @@ Bonehew	100	1		1	1	72	64	7o7	ogre axe			3	5000	bwht	bwht						dmg%		270	320	swin
 Ondal's Wisdom	100	1		1	1	74	66	6cs	elder staff			3	5000				invcstu				cast2		105	105	enr		40	50	allskills		3	4	ac		750	950	red-mag		10	16	cast-skill	8	20	20																					splash	358	100	1	0
 The Reedeemer	100	1		1	1	80	72	7sc	mighty scepter			3	5000								dmg%		250	300	dmg-demon		200	250	pal		2	2	ease		-60	-60	skill	Redemption	2	4	skill	Holy Bolt	2	4	light		3	3	reduce-ac		33	33	dmg		60	120	skill	119	2	4					splash	358	100	1	0
 Headhunter's Glory	100	1		1	1	83	75	ush	troll nest			3	5000				invbshu				ac		320	420	ac-miss		300	350	res-pois		30	40	sock		1	3	res-fire		20	30	heal-kill		5	7	hit-skill	AmpDmg Proc	12	31	curse-effectiveness		20	30																	0
-Steelrend	100	1		1		78	70	uhg	ogre gauntlets			3	5000								ac		170	210	str		15	20	dmg%		60	80	crush		10	20	crush-efficiency		5	10																									splash	358	100	1	0
+Steelrend	100	1		1	1	78	70	uhg	ogre gauntlets			3	5000								ac		170	210	str		15	20	dmg%		60	80	crush		10	20	crush-efficiency		5	10																									splash	358	100	1	0
 Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-ltng		1	74	pierce-ltng		3	5	extra-ltng		3	5	death-skill	Chain Lightning	100	47																																	0
 Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-cold	3	24	38	pierce-cold		3	5	extra-cold		3	5	death-skill	Blizzard	100	37																																	0
 Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-fire		17	45	pierce-fire		3	5	extra-fire		3	5	death-skill	Meteor	100	31																																	0
@@ -458,7 +458,7 @@ Balefire	100	1		1		14	14	aqv	Arrows			3	5000		dred						pierce-fire		5	8	lifeste
 Swiftwind Needle	100	1		4		32	32	aqv2	Arrows			3	5000								move2		20	30	dmg-ac		-20	-30	dex		15	35	res-cold		50	50	res-ltng		-25	-25	dmg-min		12	12																					dmg-max		14	14	0
 Tombsong	100	1		3		36	36	aqv2	Arrows			3	5000		blac						pierce		20	40	dmg-undead		50	100	att-undead		125	175	oskill	Raise Skeleton Archer	12	12	curse-effectiveness		20	20	extra-skele-archer		4	4																					dmg-max		10	10	0
 Aetherwing	100	1		4		55	55	aqv3	Arrows			3	5000				invqvr_lightning				swing2		40	40	dmg-ltng		1	775	pierce-ltng		15	25	gethit-skill	Static Field	35	40	att/lvl		4	8	res-ltng		20	35	res-ltng-max		4	6																	dmg-max		18	18	0
-Basilisk's Quill	100	1		4		62	62	aqv3	Arrows			3	5000				invqvr_poison				ama		2	2	res-pois		45	45	res-pois-max		5	5	pierce-pois		20	30	gold%		75	125	heal-kill		5	8	pois-min		2767	2767	pois-max		3275	3275	pois-len		50	50	dmg-min		30	40					dmg-max				0
+Basilisk's Quill	100	1		4		62	62	aqv3	Arrows			3	5000				invqvr_poison				ama		2	2	res-pois		45	45	res-pois-max		5	5	pierce-pois		20	30	gold%		75	125	heal-kill		5	8	pois-min		2767	2767	pois-max		3275	3275	pois-len		50	50	dmg-min		30	40									0
 Doom's Finger	100	1		1		87	68	aqv3	Arrows			3	5000				invqvr_deadly				deadly		20	30	max-deadly		10	10	dmg-max		60	80	half-freeze		1	1	red-mag		12	12	skilltab	1	2	2	dmg-demon		60	80																					0
 Ramfodder	100	1		1		8	8	cqv	Bolts			3	5000		oran						knock		1	1	balance2		20	20	swing2		10	10	hp		10	25	regen-stam		20	20																									pierce-phys		2	2	0
 Anvilguard Strap	100	1		3		34	34	cqv2	Bolts			3	5000		dgld						red-dmg%		10	18	gethit-skill	AmpDmg Proc	10	31	noheal		1	1	pierce		20	20	thorns		400	500	light		2	4																					pierce-phys		4	4	0
@@ -485,7 +485,7 @@ Astramentis	100	1		1	1	87	80	amu	amulet			3	5000				invastr				str		75	100	dex		
 Akarats Rage	100	1		1	1	85	80	mjw	mythic jewel			3	5000				invakrg				dmg%		40	40	swing3		15	15	deadly		3	5																																					0
 The Squire	100	1		1	1	87	85	ers	elegant round shield	1		5	5000				invsqre				ac%		100	150	block2		25	25	allskills		2	2	block		25	25	dmg%		180	200	sock		4	4	item-physperstrattr	602	1	1																					0
 The Oppressor	100	1		4	1	82	70	ers	elegant round shield	1		5	5000				invoppr				ac%		200	250	block2		40	40	block		40	40	block-skill	Weaken	40	15	slow		25	25	res-all		20	25	block-skill	Reinforce	40	15																					0
-Manastorm	100	1		1	1	55	50	bqs	baroque round shield			5	5000				invmnst				mana-kill		2	4	regen-mana		15	20	mana%		15	20	mana		50	75	item-lightmasterymanaconvert	601	1	1	ac%		100	150																									0
+Manastorm	100	1		1	1	55	50	bqs	baroque round shield			5	5000				invmnst				mana-kill		2	4	regen-mana		15	20	mana%		15	20	mana		50	75	item-lightmasterymanaconvert	603	1	1	ac%		100	150																									0
 Rathmas Hand	100	1		0	1	131	80	7gw	Unearthed Wand	1		3	5000	dgry			invrthn				allskills		2	2	cast2		25	25	skill	Shattered Marrow	3	4	extra-bonespear-teeth		1	2	pierce-mag		10	20																													0
 Glacial Mist	100	1		1	1	87	85	obf	dimensional shard			3	5000	dblu	dblu						allskills		2	2	extra-cold		20	30	cast2		25	25	blizzard-reduction		12	18	skill	Blizzard	3	4	mana%		15	20																									0
 Blaze of Glory	100	1		1	1	87	85	obf	dimensional shard			3	5000	dred	dred						allskills		2	2	pierce-fire		15	20	cast2		25	25	combustion-reduction		50	63	skill	Combustion	3	4																													0
@@ -499,7 +499,7 @@ Manastorm	100	1		1	1	55	50	bqs	baroque round shield			5	5000				invmnst				mana-
 Manastorm	100	1		1	1	55	50	bqs	baroque round shield			5	5000				invmnst				mana-kill		2	4	regen-mana		15	20	mana%		15	20	mana		50	75	item-magicmasterymanaconvert	610	1	1	ac%		100	150																									0
 Arma Blade Replica	100	1		0	1	99	54	7cr2	Two Hand Phase Blade			5	5000	oran			invarmageddonblade				hit-skill	225	75	50	equipped-skill	249	30	30	pal		2	2	block		20	30	dmg%		280	320	pierce-fire		20	30	res-fire-max		5	10	all-stats		6	6																	0
 Widespread Destruction	100	1		1	1	87	1	mjw	mythic jewel	1		5	5000				invwsds				inc-splash-radius		5	10																																													0
-Whispering Skull	100	1		1	1	87	80	nef	bloodlord skull	1		5	5000	dgry			invwhsk				extra-bone-spirits		1	2	nec		1	2	skill	93	1	2	pierce		20	25	extra-magi		20	25	ac%		140	190																									0
+Whispering Skull	100	1		1	1	87	80	nef	bloodlord skull	1		5	5000	dgry			invwhsk				extra-bone-spirits		1	2	nec		2	3	noheal		1	1	pierce		20	25	extra-magi		20	25	ac%		140	190	slow		25	25																					0
 Deaths Poise	100	1		1	1	87	75	rin	Ring	1		5	5000				invdhpo				item-crush-to-deadly	612	1	1	max-deadly		1	5	crush		10	20	dmg%		25	30																																	0
 The Veinpiercer	100	1		1	1	87	80	baf	Guardian Crown			5	5000	dred			invthvp				bar		1	2	ac%		160	180	dmg%		50	60	extra-perforate-spikes		1	1	att/lvl	12			skill	139	2	3																									0
 Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-mag		20	50	pierce-mag		3	5	extra-magi		3	5																																					0

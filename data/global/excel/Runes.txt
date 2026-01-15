@@ -181,7 +181,7 @@ Neophyte	Neophyte	1		scep	club	sorc	h2h	h2h2					ThulTir	r10	r03					half-freeze
 Neophyte2	Neophyte	1		staf									ThulTir	r10	r03					half-freeze		1	1	red-dmg		4	6	cast2		40	40	res-pois-len		25	25													0
 Wind Staff	Wind Staff	1		staf									SurEl	r29	r01					dmg%		320	380	swing2		40	40	move2		20	30	reduce-ac		50	50	cast-skill	245	18	35	cast-skill	240	18	35	cast-skill	Cyclone Armor	5	9	0
 Phoenix Staff	Phoenix	1		staf									VexVexLoJah	r26	r26	r28	r31			dmg%		400	450	ac-miss		350	400	cast-skill	Firestorm	20	40	levelup-skill	Blaze	100	40	pierce-fire		28	28	aura	Redemption	10	12	abs-fire		15	21	0
-Shattered Wall	Shattered Wall	1		pala									ZodJahRalCham	r33	r31	r08	r32			ac%		160	200	aura	Holy Freeze	16	16	block2		60	60	mana-kill		5	5	dmg-cold	50	200	250	hp		50	100					0
+Shattered Wall	Shattered Wall	1		shld									ZodJahRalCham	r33	r31	r08	r32			ac%		160	200	aura	Holy Freeze	16	16	block2		60	60	mana-kill		5	5	dmg-cold	50	200	250	hp		50	100					0
 Asylum	Asylum	1		hamm	pole	spea	miss	2hsw					GulChamTirJahDolUm	r25	r32	r15	r31	r14	r22	dmg%		265	315	dex		20	20	allskills		2	2	openwounds		20	20	aura	Sanctuary	17	20	gold%		100	100	hit-skill	121	25	40	0
 Asylum Staff	Asylum	1		staf									GulChamHelJahDolUm	r25	r32	r15	r31	r14	r22	dmg%		265	315	dex		20	20	allskills		2	2	openwounds		20	20	aura	Sanctuary	17	20	gold%		100	100	cast-skill	121	25	40	0
 Revenge	Revenge			sc9									LoHelZodAmn	r28	r15	r33	r11			dmg%		250	300	red-dmg		18	18	swing2		60	60	skill	68	6	8	balance2		60	60	poisskill		4	4	dmg-pois	50	28672	28672	0
