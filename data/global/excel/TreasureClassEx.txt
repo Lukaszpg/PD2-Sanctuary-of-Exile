@@ -1104,7 +1104,7 @@ Dungeon Mythic or Charms		85	1					0	mjw	1	cm4	1																				0
 Dungeon Terrors			1					2	troo	1	troe	1	tror	1																		
 Dungeon Scarabs			1					0	scnm	2	scas	2	sccn	1	scmo	2	schr	3														
 Dungeon Chisels			1					0	ccsa	3	ccpr	2																				
-Dungeon Map Currency		87	2					0	Dungeon Chisels	2	Dungeon Scarabs	1																				0
+Dungeon Map Currency		87	1					0	Dungeon Chisels	2	Dungeon Scarabs	1																				0
 Dungeon Sacred Orb		87	1					2	sror	1																						0
 Dungeon Orbs		87	1					2	dvo	1																						0
 Dungeon Map			1					0	Map Tier 2	2	Map Tier 3	3																				
