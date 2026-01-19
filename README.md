@@ -63,10 +63,13 @@ b) Without PlugY:
 ![image](https://github.com/user-attachments/assets/5147e3cc-6e4b-49cd-9a65-bee7476d7dfb)
 
 **Solution:** Open PlugY.ini file in your ProjectD2 directory, look for `ActiveShiftClickLimit=1` and change it to `ActiveShiftClickLimit=0`. 
-  
-## Wiki
 
-Please head to Sanctuary of Exile wiki to get newest information about contents of the mod.
+2. I have launched the mod, but I am getting "Bad Inventory Data" error.
 
+**Solution:** Make sure that you don't have incompatible items in your stash and characters in your save folder. Whenever there is save-breaking change, it WILL be announced long before the patch is released. See: [Compatibility Disclaimer](https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/?tab=readme-ov-file#compatibility-disclaimer)
+
+3. I have launched the mod, but the game is crashing to desktop with **Diablo II unhandled exception : access_violation (c0000005)**
+
+**Solution:** See point 2. If the character loads but at random you are getting these errors, please make a ticket on Discord: https://discord.com/channels/1378780110274035962/1459215364385673377.
 
 
