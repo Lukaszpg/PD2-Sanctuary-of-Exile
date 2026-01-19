@@ -5,8 +5,6 @@ Discord: https://discord.gg/CwN2s6AHSZ
 
 Wiki: http://wiki.sanctuaryofexile.com
 
-Newest release download: https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/tag/v12.0.1
-
 ## Known bugs
 
 - Eternal Coin does not have a name in the inventory
