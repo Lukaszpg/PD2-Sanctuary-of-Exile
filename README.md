@@ -24,6 +24,15 @@ This mod is an extension to my another project, [Project Diablo 2: Single Player
 
 This mod was not made with multiplayer games in mind and was not tested. Most likely will not work properly in TCP/IP.
 
+## Compatibility disclaimer
+
+This mod is NOT compatible with characters from Single Player+ or vanilla Project Diablo 2. You have to: 
+
+* start from scratch - create new character
+* remove your shared stash file
+
+Rule of thumb: just make sure that before starting to play Sanctuary of Exile you have empty "Save" folder.
+
 ## How to install
 
 Head to [launcher repository](https://github.com/Lukaszpg/pd2-sanctuary-of-exile-launcher) and follow the instructions. This works right now only on Windows OS. If you have other operating system, please follow manual installation istructions below: 
