@@ -5,6 +5,11 @@ Discord: https://discord.gg/CwN2s6AHSZ
 
 Wiki: http://wiki.sanctuaryofexile.com
 
+## Credits
+
+First and foremost, I would like to thank the amazing PD2 team, their work and immense dedication is something that should be admired. Without them this "mod of a mod" would not be possible.
+I would also like to thank Derek for his truly awesome models and spells - please check out his website [here](https://www.derekplus.com/).
+
 ## Known bugs
 
 - Eternal Coin does not have a name in the inventory
