@@ -78,4 +78,8 @@ b) Without PlugY:
 
 **Solution:** See point 2. If the character loads but at random you are getting these errors, please make a ticket on Discord: https://discord.com/channels/1378780110274035962/1459215364385673377.
 
+4. I still have problems with the PlugY. 
+
+**Solution:** Download newer PlugY version - [PD2-PlugY](https://github.com/xkanzeon/PD2-PlugY?tab=readme-ov-file.)
+
 
