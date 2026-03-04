@@ -3,18 +3,17 @@ Gold			1						gld	1																						0
 Jewelry A			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
 Jewelry B			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
 Jewelry C			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
-Hpotion 3			1						hp2	1	hp3	4	hp4	3	mp3	2	mp4	2	rvs	1												0
+Chipped Gem			1						gcv	3	gcy	3	gcb	3	gcg	3	gcr	3	gcw	3	skc	2										0
+Flawed Gem			1						gfv	3	gfy	3	gfb	3	gfg	3	gfr	3	gfw	3	skf	2										0
 Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	2										0
 Flawless Gem			1						gzvs	3	glys	3	glbs	3	glgs	3	glrs	3	glws	3	skls	2										0
 Perfect Gem			1						gpvs	3	gpys	3	gpbs	3	gpgs	3	gprs	3	gpws	3	skzs	2										0
-Ammo			1						aqv	1	cqv	1																				0
-Ammo(N)		25	1						aqv	20	cqv	20	aqv2	30	cqv2	30																0
-Ammo(H)		45	1						aqv	5	cqv	5	aqv2	30	cqv2	30	aqv3	15	cqv3	15												0
-Map Tier 4			1			10000		0	t42	1	t43	1	t44	1																		0
-Chisels			1					0	ccsa	3	ccpr	2																				0
-Scarabs			1					0	scnm	2	scas	2	sccn	1	scmo	2	schr	2														0
-Map currency			2					0	Scarabs	1	Chisels	1																				0
-Terrors T3			1					2	troo	1	troe	1	tror	1																		0
+Misc 0			1						key	3	tsc	3	isc	3	tpfs	2	tpgs	2	tpcs	2	tpls	2										0
+Misc 1			1						key	3	tsc	3	isc	3	tpfm	2	tpgm	2	tpcm	2	tplm	2										0
+Misc 2			1						key	3	tsc	3	isc	3	tpfl	2	tpgl	2	tpcl	2	tpll	2										0
+Hpotion 1			1						hp1	8	hp2	3	mp1	3	mp2	2	rvs	1														0
+Hpotion 2			1						hp1	1	hp2	4	hp3	3	mp2	2	mp3	2	rvs	1												0
+Hpotion 3			1						hp2	1	hp3	4	hp4	3	mp3	2	mp4	2	rvs	1												0
 Hpotion 4			1						hp3	1	hp4	4	hp5	3	mp4	2	mp5	2	rvs	1												0
 Hpotion 5			1						hp3	1	hp4	4	hp5	4	mp5	4	rvs	1														0
 Hpotion 6			1						hp4	4	hp5	6	mp4	2	mp5	4	rvs	1														0
@@ -24,15 +23,55 @@ Potion 3			1						hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	2	yps	2	wms	1						0
 Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1						0
 Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
 Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
+Ammo			1						aqv	1	cqv	1																				0
+Ammo(N)		25	1						aqv	20	cqv	20	aqv2	30	cqv2	30																0
+Ammo(H)		45	1						aqv	5	cqv	5	aqv2	30	cqv2	30	aqv3	15	cqv3	15												0
+Treasure Fallen Map			2					12	T3 Map Drop	4	irma	1	irra	2	rrra	2	urma	1	scou	1												0
+Treasure Fallen Gem N			2					18	Flawless Gem	2																						0
+Treasure Fallen Rune N			2					13	Runes 5	2																						0
+Treasure Fallen Craft N			2					18	crfb	1	crfc	1	crfs	1	crfh	1	crfv	1	crfu	1												0
+Treasure Fallen Gem NM			2					16	Perfect Gem	3	Flawless Gem	2																				0
+Treasure Fallen Rune NM			2					12	Runes 10	2																						0
+Treasure Fallen Craft NM			2					16	crfb	1	crfc	1	crfs	1	crfh	1	crfv	1	crfu	1												0
+Treasure Fallen Gem H			2					10	Perfect Gem	4	Flawless Gem	1																				0
+Treasure Fallen Rune H			2					12	Runes 17	7																						0
+Treasure Fallen Craft H			1					12	crfb	1	crfc	1	crfs	1	crfh	1	crfv	1	crfu	1	crfp	1										0
+Dummy																																0
+Dummy																																0
+Dummy																																0
+Dummy																																0
+Dummy																																0
+Dummy																																0
+Dummy																																0
+Dummy																																0
+Dummy																																0
+Dummy																																0
+Dummy																																
+Dummy																																
+Dummy																																
+Dummy																																
+Dummy																																
+Dummy																																
+Dummy																																
+Dummy																																
+Dummy																																
+Dummy																																
+Terrors T3			1					2	troo	1	troe	1	tror	1	troa	1																0
+Chisels			1					0	ccsa	3	ccpr	2																				0
+Scarabs			1					0	scnm	2	scas	2	sccn	1																		0
+Map currency T1			2					0	Scarabs	35	Chisels	35	wss	30																		0
+Map currency T2			2					0	Scarabs	35	Chisels	35	wss	30																		0
+Map currency T3			2					0	Scarabs	33	Chisels	33	wss	31	Terrors T3	3																0
 New orbs			1					0	mfo	3	exo	4																				0
 New orbs T1			1					0	dvo	1	mfo	5																				0
 New orbs T2			1					0	dvo	1	mfo	4																				0
-New orbs T3			1					0	dvo	1	mfo	3																				
-New orbs fallen			1					0	mfo	9	dvo	1																				0
-Boxes			1					0	ccbx	5	gcbx	5	cabx	4																		0
+New orbs T3			1					0	dvo	1	mfo	3																				0
+New orbs fallen			1					79	mfo	20	dvo	1																				0
 Mythic or Charms			1					0	mjw	1	cm4	1																				0
-Runes 3			1						r05s	3	r06s	2																				0
-Runes 4			1						r07s	3	r08s	2	Runes 3	1																		0
+Runes 1			1						r01s	3	r02s	2																				0
+Runes 2			1						r03s	3	r04s	2	Runes 1	2																		0
+Runes 3			1						r05s	3	r06s	2	Runes 2	3																		0
+Runes 4			1						r07s	3	r08s	2	Runes 3	4																		0
 Runes 5			1						r09s	3	r10s	2	Runes 4	4																		0
 Runes 6			1						r11s	3	r12s	2	Runes 5	6																		0
 Runes 7			1						r13s	3	r14s	2	Runes 6	8																		0
@@ -52,13 +91,17 @@ Runes 14 equiv			1						r27s	3	r28s	2	Runes 13 equiv	434																		0
 Runes 15 equiv			1						r29s	3	r30s	2	Runes 14 equiv	588																		0
 Runes 16 equiv			1						r31s	3	r32s	2	Runes 15 equiv	790																		0
 Runes 17 equiv			1						r33s	1	Runes 16 equiv	1034																				0
-Map Tier 1			1			400			t23	1	t15	1	t12	1	t26	1	t25	1	t22	1	t36	1	t17	1								0
-Map Tier 2			1			400			t34	1	t31	1	t24	1	t11	1	t33	1	t13	1	t27	1	t28	1								0
-Map Tier 3			1			400			t3a	2	t38	2	t39	2	t37	2	t14	2	t21	2	t32	2	t16	2	t35	2						0
-T1 Map Drop			1						Map Tier 1	66	Map Tier 2	33																				0
-T2 Map Drop			1						Map Tier 1	39	Map Tier 2	40	Map Tier 3	20																		0
-T3 Map Drop			1						Map Tier 1	25	Map Tier 2	29	Map Tier 3	31	Map Tier 4	15																0
-T3 Map Drop No T4			1						Map Tier 1	25	Map Tier 2	29	Map Tier 3	31																		
+T3 Map Drop Infernal			1			10000			tm1i	1	tm2i	1	tm3i	1	tm4i	1	tm5i	1	tm6i	1	tm7i	1	tm8i	1	tm9i	1						0
+Map Tier 1			1			10000			t23	1	t15	1	t12	1	t26	1	t25	1	t22	1	t36	1	t17	1								0
+Map Tier 2			1			10000			t34	1	t31	1	t24	1	t11	1	t33	1	t13	1	t27	1	t28	1								0
+Map Tier 3			1			10000			t3a	2	t38	2	t39	2	t37	2	t14	2	t21	2	t32	2	t16	2	t35	2						0
+Map Tier 4		89	1			10000		0	t42	1	t43	1	t44	1																		0
+T3 Normal or Infernal			1			10000			T3 Map Drop Infernal	30	Map Tier 3	70																				0
+T1 Map Drop		87	1						Map Tier 1	66	Map Tier 2	33																				0
+T2 Map Drop		88	1						Map Tier 1	39	Map Tier 2	41	Map Tier 3	20																		0
+T3 Map Drop		89	1						Map Tier 1	27	Map Tier 2	33	T3 Normal or Infernal	37	Map Tier 4	3																0
+T3 Map Drop No Infernal No T4			1						Map Tier 1	28	Map Tier 2	34	Map Tier 3	38																		0
+T3 Map Drop No T4			1						Map Tier 1	29	Map Tier 2	34	T3 Normal or Infernal	37																		0
 Act 1 Junk			1						Potion 1	16	Misc 0	8	Ammo	1																		0
 Act 2 Junk			1						Act 1 Junk	4	Potion 2	16	Misc 0	8	Ammo	1																0
 Act 3 Junk			1						Act 2 Junk	4	Potion 3	16	Misc 1	8	Ammo	1																0
@@ -226,9 +269,9 @@ Act 4 (H) Magic B	4	80	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic A	4	82	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic B	4	83	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic C	4	85	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 1 Good	5	0	1						Jewelry A	60	wss	4																				0
-Act 2 Good	5	12	1						Jewelry B	80	wss	4																				0
-Act 3 Good	5	18	1						Jewelry C	80	wss	4	Runes 3	12	Runes 4	12																0
+Act 1 Good	5	0	1						Jewelry A	60	Chipped Gem	48	wss	4																		0
+Act 2 Good	5	12	1						Jewelry B	80	Chipped Gem	44	Flawed Gem	16	wss	4																0
+Act 3 Good	5	18	1						Jewelry C	80	Chipped Gem	28	Flawed Gem	32	wss	4	Runes 3	12	Runes 4	12												0
 Act 4 Good	5	26	1						Jewelry C	100	Normal Gem	22	Flawless Gem	56	Runes 5	28	Runes 6	14	wss	8												0
 Act 5 Good	5	32	1						Jewelry C	100	Normal Gem	22	Flawless Gem	56	Runes 7	28	New orbs	5	wss	8												0
 Act 1 (N) Good	5	38	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 8	14	New orbs	6	wss	8												0
@@ -236,14 +279,14 @@ Act 2 (N) Good	5	42	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 9	14
 Act 3 (N) Good	5	46	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 10	14	New orbs	6	wss	8												0
 Act 4 (N) Good	5	51	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 11	14	New orbs	6	wss	8												0
 Act 5 (N) Good	5	57	1						Jewelry C	60	Normal Gem	10	Flawless Gem	28	Runes 12 equiv	14	New orbs	6	wss	8												0
-Act 1 (H) Good	29	66	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 13 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	8						0
-Act 2 (H) Good	29	72	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 14 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	8						0
-Act 3 (H) Good	29	78	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	8						0
-Act 4 (H) Good	29	82	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	8						0
-Act 5 (H) Good	29	85	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	Map Tier 1	4	New orbs	6	Boxes	7	wss	8						0
-Map Good t1	30	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	45	Runes 17 equiv	28	T1 Map Drop	10	New orbs T1	5	Boxes	8	Map currency	10	Mythic or Charms	5						0
-Map Good t2	20	86	1						Jewelry C	120	Normal Gem	28	Flawless Gem	43	Runes 17 equiv	28	T2 Map Drop	11	New orbs T2	5	Boxes	9	Map currency	11	Mythic or Charms	8						0
-Map Good t3	20	87	1						Jewelry C	120	Normal Gem	28	Flawless Gem	41	Runes 17 equiv	28	T3 Map Drop	12	New orbs T3	5	Boxes	10	Map currency	12	Mythic or Charms	9	Terrors T3	1				0
+Act 1 (H) Good	29	66	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 13 equiv	28	Map Tier 1	4	New orbs	6	wss	8								0
+Act 2 (H) Good	29	72	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 14 equiv	28	Map Tier 1	4	New orbs	6	wss	8								0
+Act 3 (H) Good	29	78	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	Map Tier 1	4	New orbs	6	wss	8								0
+Act 4 (H) Good	29	82	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	Map Tier 1	4	New orbs	6	wss	8								0
+Act 5 (H) Good	29	85	1						Jewelry C	120	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	Map Tier 1	4	New orbs	6	wss	8								0
+Map Good t1	30	87	1						Jewelry C	120	Normal Gem	26	Flawless Gem	44	Runes 17 equiv	28	T1 Map Drop	16	New orbs T1	5	Map currency T1	10	Mythic or Charms	5								0
+Map Good t2	31	88	1						Jewelry C	120	Normal Gem	26	Flawless Gem	41	Runes 17 equiv	28	T2 Map Drop	18	New orbs T2	5	Map currency T2	11	Mythic or Charms	8								0
+Map Good t3	32	89	1						Jewelry C	120	Normal Gem	25	Flawless Gem	39	Runes 17 equiv	28	T3 Map Drop	20	New orbs T3	5	Map currency T3	12	Mythic or Charms	9								0
 Act 1 Chest A	6	0	4					173	gld	295	Act 1 Junk	295	Act 1 Equip A	196	Act 1 Good	39																0
 Act 1 Chest B	6	5	4					173	gld	295	Act 1 Junk	295	Act 1 Equip B	196	Act 1 Good	39																0
 Act 1 Chest C	6	9	4					145	gld	272	Act 1 Junk	218	Act 2 Junk	54	Act 1 Equip C	272	Act 1 Good	36														0
@@ -466,9 +509,9 @@ Act 4 (H) Wraith B	10	80	1					195	Act 4 (H) Good	111	Act 4 (H) Magic B	693					
 Act 5 (H) Wraith A	10	81	1					195	Act 5 (H) Good	111	Act 5 (H) Magic A	693																				0
 Act 5 (H) Wraith B	10	83	1					195	Act 5 (H) Good	111	Act 5 (H) Magic B	693																				0
 Act 5 (H) Wraith C	10	85	1					195	Act 5 (H) Good	111	Act 5 (H) Magic C	693																				0
-Map Wraith t1	24	85	1					195	Map Good t1	111	Act 5 (H) Magic C	693																				0
-Map Wraith t2	24	85	1					195	Map Good t2	111	Act 5 (H) Magic C	693																				0
-Map Wraith t3	24	85	1					195	Map Good t3	111	Act 5 (H) Magic C	693																				0
+Map Wraith t1	24	85	1					195	Map Good t1	40	Act 5 (H) Magic C	693	Act 1 (H) Junk	271																		0
+Map Wraith t2	24	85	1					195	Map Good t2	40	Act 5 (H) Magic C	693	Act 1 (H) Junk	271																		0
+Map Wraith t3	24	85	1					195	Map Good t3	40	Act 5 (H) Magic C	693	Act 1 (H) Junk	271																		0
 Act 1 Citem A	11	0	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 Equip A	37	Act 1 Good	3																		0
 Act 1 Citem B	11	5	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 Equip B	37	Act 1 Good	3																		0
 Act 1 Citem C	11	9	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 Equip C	37	Act 1 Good	3																		0
@@ -511,9 +554,9 @@ Act 4 (H) Citem B	11	80	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 4 (H) Equip B
 Act 5 (H) Citem A	11	81	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip A	37	Act 5 (H) Good	3																		0
 Act 5 (H) Citem B	11	83	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip B	37	Act 5 (H) Good	3																		0
 Act 5 (H) Citem C	11	85	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Act 5 (H) Good	3																		0
-Map Citem t1	25	85	1	1000	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t1	3																		0
-Map Citem t2	25	85	1	1000	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t2	3																		0
-Map Citem t3	25	85	1	1000	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t3	3																		0
+Map Citem t1	25	85	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t1	4																		0
+Map Citem t2	25	85	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t2	4																		0
+Map Citem t3	25	85	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t3	4																		0
 Act 1 Cpot A	12	0	2					0	Hpotion 1	1																						0
 Act 1 Cpot B	12	5	2					0	Hpotion 1	1																						0
 Act 1 Cpot C	12	9	2					0	Hpotion 1	1																						0
@@ -599,9 +642,9 @@ Act 4 (H) Champ B	13	80	-2					0	Act 4 (H) Citem B	1	Act 4 (H) Cpot B	3									
 Act 5 (H) Champ A	13	81	-2					0	Act 5 (H) Citem A	1	Act 5 (H) Cpot A	3																				0
 Act 5 (H) Champ B	13	83	-2					0	Act 5 (H) Citem B	1	Act 5 (H) Cpot B	3																				0
 Act 5 (H) Champ C	13	85	-2					0	Act 5 (H) Citem C	1	Act 5 (H) Cpot C	3																				0
-Map Champ t1		85	-2					0	Map Citem t1	1	Act 5 (H) Cpot C	3																				0
-Map Champ t2		85	-2					0	Map Citem t2	1	Act 5 (H) Cpot C	3																				0
-Map Champ t3		85	-2					0	Map Citem t3	1	Act 5 (H) Cpot C	3																				0
+Map Champ t1	44	87	-2					0	Map Citem t1	1	Act 5 (H) Cpot C	3																				0
+Map Champ t2	45	88	-2					0	Map Citem t2	1	Act 5 (H) Cpot C	3																				0
+Map Champ t3	46	89	-2					0	Map Citem t3	1	Act 5 (H) Cpot C	3																				0
 Act 1 Uitem A	14	0	1	800	800	800	1024	0	Act 1 Equip A	58	Act 1 Good	4																				0
 Act 1 Uitem B	14	5	1	800	800	800	1024	0	Act 1 Equip B	58	Act 1 Good	4																				0
 Act 1 Uitem C	14	9	1	800	800	800	1024	0	Act 1 Equip C	58	Act 1 Good	4																				0
@@ -644,9 +687,9 @@ Act 4 (H) Uitem B	14	80	1	800	800	800	1024	0	Act 4 (H) Equip B	58	Act 4 (H) Good
 Act 5 (H) Uitem A	14	81	1	800	800	800	1024	0	Act 5 (H) Equip A	58	Act 5 (H) Good	4																				0
 Act 5 (H) Uitem B	14	83	1	800	800	800	1024	0	Act 5 (H) Equip B	58	Act 5 (H) Good	4																				0
 Act 5 (H) Uitem C	14	85	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4																				0
-Map Uitem t1	26	85	1	1000	800	800	1024	0	Act 5 (H) Equip C	58	Map Good t1	4																				0
-Map Uitem t2	26	85	1	1000	800	800	1024	0	Act 5 (H) Equip C	58	Map Good t2	4																				0
-Map Uitem t3	26	85	1	1000	800	800	1024	0	Act 5 (H) Equip C	58	Map Good t3	4																				0
+Map Uitem t1	26	85	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Map Good t1	4																				0
+Map Uitem t2	26	85	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Map Good t2	4																				0
+Map Uitem t3	26	85	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Map Good t3	4																				0
 Act 1 Unique A	15	0	-3					0	Act 1 Uitem A	1	Act 1 Cpot A	2																				0
 Act 1 Unique B	15	5	-3					0	Act 1 Uitem B	1	Act 1 Cpot B	2																				0
 Act 1 Unique C	15	9	-3					0	Act 1 Uitem C	1	Act 1 Cpot C	2																				0
@@ -689,9 +732,9 @@ Act 4 (H) Unique B	15	80	-3					0	Act 4 (H) Uitem B	1	Act 4 (H) Cpot B	2								
 Act 5 (H) Unique A	15	81	-3					0	Act 5 (H) Uitem A	1	Act 5 (H) Cpot A	2																				0
 Act 5 (H) Unique B	15	83	-3					0	Act 5 (H) Uitem B	1	Act 5 (H) Cpot B	2																				0
 Act 5 (H) Unique C	15	85	-3					0	Act 5 (H) Uitem C	1	Act 5 (H) Cpot C	2																				0
-Map Unique t1		85	-3					0	Map Uitem t1	1	Act 5 (H) Cpot C	2																				0
-Map Unique t2		85	-3					0	Map Uitem t2	1	Act 5 (H) Cpot C	2																				0
-Map Unique t3		85	-3					0	Map Uitem t3	1	Act 5 (H) Cpot C	2																				0
+Map Unique t1	47	87	-3					0	Map Uitem t1	1	Act 5 (H) Cpot C	2																				0
+Map Unique t2	48	88	-3					0	Map Uitem t2	1	Act 5 (H) Cpot C	2																				0
+Map Unique t3	49	89	-3					0	Map Uitem t3	1	Act 5 (H) Cpot C	2																				0
 Quill 1	16	0	1					265	gld	367	Act 1 Junk	367																				0
 Quill 2	16	4	1					265	gld	367	Act 1 Junk	367																				0
 Quill 3	16	8	1					257	gld	361	Act 1 Junk	361	Act 1 Good	19																		0
@@ -707,7 +750,7 @@ Quill 2 (H)	16	62	1					242	gld	351	Act 1 (H) Junk	351	Act 1 (H) Good	55								
 Quill 3 (H)	16	65	1					242	gld	351	Act 1 (H) Junk	351	Act 1 (H) Good	55																		0
 Quill 4 (H)	16	68	1					242	gld	351	Act 1 (H) Junk	351	Act 1 (H) Good	55																		0
 Quill 5 (H)	16	85	1					242	gld	351	Act 3 (H) Junk	351	Act 3 (H) Good	55																		0
-Map Quill t1	27	85	1					242	gld	351	Act 3 (H) Junk	351	Map Good t1	55																		0
+Map Quill t1	27	85	1					242	gld	351	Act 3 (H) Junk	351	Map Good t1	32																		0
 Map Quill t2	27	85	1					242	gld	351	Act 3 (H) Junk	351	Map Good t2	55																		0
 Map Quill t3	27	85	1					242	gld	351	Act 3 (H) Junk	351	Map Good t3	55																		0
 Swarm 1	17	0	1					415	Potion 2	292	Misc 1	143	Act 2 Good	23	Act 2 Magic A	143																0
@@ -882,13 +925,9 @@ Act 4 (H) Super Cx	18	87	-4	512	654	972	1024	0	Act 4 (H) Uitem B	2	Act 4 (H) Cpo
 Act 5 (H) Super Ax	18	90	-4	512	654	972	1024	0	Act 5 (H) Uitem A	2	Act 5 (H) Cpot A	2																				0
 Act 5 (H) Super Bx	18	93	-4	512	654	972	1024	0	Act 5 (H) Uitem B	2	Act 5 (H) Cpot B	2																				0
 Act 5 (H) Super Cx	18	96	-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
-Dummy			0																													0
-Dummy			0																													0
-Dummy			0																													0
-Dummy			0																													0
-Cow King			5	1062	983	983	1024	0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
-Cow King (N)			5	1062	983	983	1024	0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
-Cow King (H)			5	1062	983	983	1024	0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
+Cow King			5	850	983	983	1024	0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
+Cow King (N)			5	850	983	983	1024	0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
+Cow King (H)			5	850	983	983	1024	0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
 Duriel			5					0	Duriel - Base	2																						0
 Duriel (N)			5					0	Duriel (N) - Base	2																						0
 Duriel (H)			5					0	Duriel (H) - Base	2																						0
@@ -911,10 +950,6 @@ Uber Andariel			-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2				
 Uber Duriel			-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
 Uber Izual			-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
 Bloodwitch (H)			5	800	800	972	1024	3	"gld,mul=2048"	340	Act 2 (H) Equip B	461	Act 2 (H) Junk	121	Act 2 (H) Good	121	pk2	121														0
-Treasure Fallen Gem H			2					10	Perfect Gem	4	Flawless Gem	1																				0
-Treasure Fallen Map			2					12	T3 Map Drop	4	irma	1	irra	2	rrra	2	urma	1	scou	1												0
-Treasure Fallen Rune H			2					12	Runes 17	7																						0
-Chipped Gem			1						gcv	3	gcy	3	gcb	3	gcg	3	gcr	3	gcw	3	skc	2										0
 Map Void			1					400	mp5	5	yps	10	rvl	40																		0
 Map Void2			2					100	mp5	10	rvl	70																				0
 Map Void3			2					25	mp5	10	yps	10	rvl	50																		0
@@ -949,8 +984,6 @@ BR Arena Bodies H		90	1	1000	850	1400	800	0	Act 5 (H) Equip C	48	BR Arena misc	5
 BR Arena Zomb N		30	3	9000	9000	1	1	0	Act 5 Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb NM		60	3	9000	9000	1	1	0	Act 5 (N) Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb H		90	3	9000	9000	1	1	0	Act 5 (H) Uitem C	30	BR Arena jewerly	8																				0
-UberAncients		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	T3 Map Drop	10	T2 Map Drop	10	dvo	5	umbx	7	Mythic or Charms	8								0
-ShadowOfMendeln		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	787	Act 5 (H) Good	45	Act 5 (H) Junk	75	Runes 17 equiv	10	wss	15	Jewelry C	30	rtmv	30	dvo	6								0
 Act 1 (H) Weap A	1	68	1						weap54	2	armo54	0	weap57	6	armo57	0	weap60	14	armo60	0	weap63	6	armo63	3	Act 5 (N) Weap C	1785			28	1813	0.977	0
 Act 1 (H) Weap B	1	70	1						weap57	2	armo57	0	weap60	6	armo60	0	weap63	14	armo63	0	weap66	2	armo66	1	Act 1 (H) Weap A	1530			24	1554	0.977	0
 Act 1 (H) Weap C	1	71	1						weap57	2	armo57	0	weap60	6	armo60	0	weap63	14	armo63	0	weap66	6	armo66	3	Act 1 (H) Weap A	1785			28	1813	0.977	0
@@ -961,6 +994,9 @@ Act 3 (H) Weap A	1	77	1						weap63	2	armo63	0	weap66	6	armo66	0	weap69	14	armo6
 Act 3 (H) Weap B	1	78	1						weap66	2	armo66	0	weap69	6	armo69	0	weap72	14	armo72	0	weap75	2	armo75	1	Act 3 (H) Weap A	1530			24	1554	0.977	0
 Act 3 (H) Weap C	1	79	1						weap66	2	armo66	0	weap69	6	armo69	0	weap72	14	armo72	0	weap75	6	armo75	3	Act 3 (H) Weap A	1785			28	1813	0.977	0
 Act 4 (H) Weap A	1	80	1						weap69	2	armo69	0	weap72	6	armo72	0	weap75	14	armo75	0	weap78	2	armo78	1	Act 3 (H) Weap B	1530			24	1554	0.977	0
+Treasure Fallen N			3					12	Treasure Fallen Gem N	1	Treasure Fallen Rune N	1	Treasure Fallen Craft N	1	"gld,mul=2048"	2																0
+Treasure Fallen NM			3					11	Treasure Fallen Gem NM	1	Treasure Fallen Rune NM	1	Treasure Fallen Craft NM	1	"gld,mul=3072"	2																0
+Treasure Fallen H			3					0	Treasure Fallen Gem H	1	Treasure Fallen Rune H	1	Treasure Fallen Craft H	1	Treasure Fallen Map	1	"gld,mul=4096"	3	New orbs fallen	1												0
 Act 4 (H) Weap B	1	81	1						weap69	2	armo69	0	weap72	6	armo72	0	weap75	14	armo75	0	weap78	6	armo78	0	Act 4 (H) Weap A	1785			28	1813	0.977	0
 Act 4 (H) Weap C	1	82	1						weap72	2	armo72	0	weap75	6	armo75	0	weap78	14	armo78	0	weap81	2	armo81	0	Act 4 (H) Weap A	1530			24	1554	0.977	0
 Act 5 (H) Weap A	1	83	1						weap75	2	armo75	0	weap78	6	armo78	0	weap81	14	armo81	0	weap84	2	armo84	0	Act 4 (H) Weap B	1530			24	1554	0.977	0
@@ -981,28 +1017,754 @@ Act 4 (H) Armo C	1	82	1						weap72	0	armo72	1	weap75	0	armo75	3	weap78	0	armo78
 Act 5 (H) Armo A	1	83	1						weap75	0	armo75	1	weap78	0	armo78	3	weap81	0	armo81	7	weap84	0	armo84	1	Act 4 (H) Armo B	1530			12	1542	0.977	0
 Act 5 (H) Armo B	1	84	1						weap78	0	armo78	1	weap81	0	armo81	3	weap84	0	armo84	7	weap87	0	armo87	1	Act 5 (H) Armo A	1530			12	1542	0.977	0
 Act 5 (H) Armo C	1	85	1						weap81	0	armo81	1	weap84	0	armo84	3	weap87	0	armo87	7	weap87	0	armo87	1	Act 5 (H) Armo B	1530			12	1542	0.9776	0
-MapStat DropJewelry			1						rin	2	amu	2	jew	4	cm3	1	cm2	1	cm1	1												0
-MapStat DropWeapons			1						Act 5 (H) Weap C	1																						0
-MapStat DropArmor			1						Act 5 (H) Armo C	1																						0
-MapStat DropCrafting			1						Treasure Fallen Gem H	1	Treasure Fallen Rune NM	1	"gld,mul=2048"	1																		0
-MapStat DropCharms			1						cm3	1	cm2	1	cm1	1																		0
-MapStat DropWss			1						wss	1																						0
-MapStat DropJewels			1						jew	1																						0
-Treasure Fallen Gem N			2					18	Flawless Gem	2																						0
-Treasure Fallen Rune N			2					13	Runes 5	2																						0
-Treasure Fallen Craft N			2					18	crfb	1	crfc	1	crfs	1	crfh	1	crfv	1	crfu	1												0
-Treasure Fallen Gem NM			2					16	Perfect Gem	3	Flawless Gem	2																				0
-Treasure Fallen Rune NM			2					12	Runes 10	2																						0
-Treasure Fallen Craft NM			2					16	crfb	1	crfc	1	crfs	1	crfh	1	crfv	1	crfu	1												0
-Treasure Fallen N			3					12	Treasure Fallen Gem N	1	Treasure Fallen Rune N	1	Treasure Fallen Craft N	1	"gld,mul=2048"	2																0
-Treasure Fallen NM			3					11	Treasure Fallen Gem NM	1	Treasure Fallen Rune NM	1	Treasure Fallen Craft NM	1	"gld,mul=3072"	2																0
-Treasure Fallen H			3					0	gcbx	17	Treasure Fallen Rune H	20	ccbx	16	Treasure Fallen Map	16	"gld,mul=4096"	30	New orbs fallen	1												0
+UberDiablo			1					11	Overlords Helm	1	Dark Abyss	1	Aidans Scar	1	Itheraels Path	1	Hadriels Hand	1														0
+RathmaNew			1					9	The Third Eye	1	Band of Skulls	1	Cage of the Unsullied	1	Rathmas Hand	2																0
+MendelnNew			1					92	Melding of the flesh	5	Gaze of the Abyss	3																				0
+UberLucion Orb			1					75	dsno	25																						0
+UberLucion Uniques			1					90	Original Sin	3	Voices	5	Progenesis	2																		0
+UberLucion			-2					0	UberLucion Uniques	1	UberLucion Orb	1																				0
+Dungeon 1 (N) Bow A	33	92	1						bow12	1	bow15	2	bow18	5	bow21	7	bow24	8	bow27	7	bow30	4	bow33	2	Act 1 (H) Junk	630						0
+Dungeon 1 (N) Bow B	33	92	1						bow15	1	bow18	2	bow21	5	bow24	7	bow27	8	bow30	7	bow33	4	bow36	2	Dungeon 1 (N) Bow A	770						0
+Dungeon 2 (N) Bow A	33	92	1						bow18	1	bow21	2	bow24	5	bow27	7	bow30	8	bow33	7	bow36	4	bow39	2	Dungeon 1 (N) Bow B	920						0
+Dungeon 2 (N) Bow B	33	92	1						bow21	1	bow24	2	bow27	5	bow30	7	bow33	8	bow36	7	bow39	4	bow42	2	Dungeon 2 (N) Bow A	1070						0
+Dungeon 3 (N) Bow A	33	92	1						bow24	1	bow27	2	bow30	5	bow33	7	bow36	8	bow39	7	bow42	4	bow45	2	Dungeon 2 (N) Bow B	1220						0
+Dungeon 3 (N) Bow B	33	92	1						bow27	1	bow30	2	bow33	5	bow36	7	bow39	8	bow42	7	bow45	4	bow48	2	Dungeon 3 (N) Bow A	1370						0
+Dungeon 4 (N) Bow A	33	92	1						bow30	1	bow33	2	bow36	5	bow39	7	bow42	8	bow45	7	bow48	4	bow51	2	Dungeon 3 (N) Bow B	1520						0
+Dungeon 4 (N) Bow B	33	92	1						bow33	1	bow36	2	bow39	5	bow42	7	bow45	8	bow48	7	bow51	4	bow54	2	Dungeon 4 (N) Bow A	1670						0
+Dungeon 5 (N) Bow A	33	92	1						bow36	1	bow39	2	bow42	5	bow45	7	bow48	8	bow51	7	bow54	4	bow57	2	Dungeon 4 (N) Bow B	1820						0
+Dungeon 5 (N) Bow B	33	92	1						bow39	1	bow42	2	bow45	5	bow48	7	bow51	8	bow54	7	bow57	4	bow60	2	Dungeon 5 (N) Bow A	1970						0
+Dungeon 5 (N) Bow C	33	92	1						bow42	1	bow45	2	bow48	5	bow51	7	bow54	8	bow57	7	bow60	4	bow63	2	Dungeon 5 (N) Bow B	2120						0
+Dungeon 1 (H) Bow A	33	92	1						bow45	1	bow48	2	bow51	5	bow54	7	bow57	8	bow60	7	bow63	4	bow66	2	Dungeon 5 (N) Bow C	2270						0
+Dungeon 1 (H) Bow B	33	92	1						bow48	1	bow51	2	bow54	5	bow57	7	bow60	8	bow63	7	bow66	4	bow69	2	Dungeon 1 (H) Bow A	2270						0
+Dungeon 2 (H) Bow A	33	92	1						bow51	1	bow54	2	bow57	5	bow60	7	bow63	8	bow66	7	bow69	4	bow72	2	Dungeon 1 (H) Bow B	2270						0
+Dungeon 2 (H) Bow B	33	92	1						bow54	1	bow57	2	bow60	5	bow63	7	bow66	8	bow69	7	bow72	4	bow75	2	Dungeon 2 (H) Bow A	2270						0
+Dungeon 3 (H) Bow A	33	92	1						bow57	1	bow60	2	bow63	5	bow66	7	bow69	8	bow72	7	bow75	4	bow78	2	Dungeon 2 (H) Bow B	2270						0
+Dungeon 3 (H) Bow B	33	92	1						bow60	1	bow63	2	bow66	5	bow69	7	bow72	8	bow75	7	bow78	4	bow81	2	Dungeon 3 (H) Bow A	2270						0
+Dungeon 4 (H) Bow A	33	92	1						bow63	1	bow66	2	bow69	5	bow72	7	bow75	8	bow78	7	bow81	4	bow84	2	Dungeon 3 (H) Bow B	2270						0
+Dungeon 4 (H) Bow B	33	92	1						bow66	1	bow69	2	bow72	5	bow75	7	bow78	8	bow81	7	bow84	2	bow84	1	Dungeon 4 (H) Bow A	2080						0
+Dungeon 5 (H) Bow A	33	92	1						bow69	1	bow72	2	bow75	5	bow78	7	bow81	8	bow84	7	bow87	2	bow87	1	Dungeon 4 (H) Bow B	2080						0
+Dungeon 5 (H) Bow B	33	92	1						bow72	1	bow75	2	bow78	5	bow81	7	bow84	8	bow87	7	bow87	2	bow87	1	Dungeon 5 (H) Bow A	2080						0
+Dungeon 1 (N) Equip A	34	92	1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	2	armo42	1	Act 1 (H) Junk	935						0
+Dungeon 1 (N) Equip B	34	92	1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	6	armo42	3	Dungeon 1 (N) Equip A	1105						0
+Dungeon 1 (N) Equip C	34	92	1						weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	2	armo45	1	Dungeon 1 (N) Equip A	1020						0
+Dungeon 2 (N) Equip A	34	92	1						weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	6	armo45	3	Dungeon 1 (N) Equip B	1233						0
+Dungeon 2 (N) Equip B	34	92	1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	2	armo48	1	Dungeon 2 (N) Equip A	1105						0
+Dungeon 2 (N) Equip C	34	92	1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	6	armo48	3	Dungeon 2 (N) Equip A	1318						0
+Dungeon 3 (N) Equip A	34	92	1						weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	2	armo51	1	Dungeon 2 (N) Equip B	1190						0
+Dungeon 3 (N) Equip B	34	92	1						weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	6	armo51	3	Dungeon 3 (N) Equip A	1445						0
+Dungeon 3 (N) Equip C	34	92	1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	2	armo54	1	Dungeon 3 (N) Equip A	1275						0
+Dungeon 4 (N) Equip A	34	92	1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	6	armo54	3	Dungeon 3 (N) Equip B	1530						0
+Dungeon 4 (N) Equip B	34	92	1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	2	armo57	1	Dungeon 4 (N) Equip A	1360						0
+Dungeon 4 (N) Equip C	34	92	1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	6	armo57	3	Dungeon 4 (N) Equip A	1658						0
+Dungeon 5 (N) Equip A	34	92	1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	2	armo60	1	Dungeon 4 (N) Equip B	1445						0
+Dungeon 5 (N) Equip B	34	92	1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	6	armo60	3	Dungeon 5 (N) Equip A	1743						0
+Dungeon 5 (N) Equip C	34	92	1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	2	armo63	1	Dungeon 5 (N) Equip B	1530						0
+Dungeon 1 (H) Equip A	34	92	1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	6	armo63	3	Dungeon 5 (N) Equip C	1785						0
+Dungeon 1 (H) Equip B	34	92	1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	2	armo66	1	Dungeon 1 (H) Equip A	1530						0
+Dungeon 1 (H) Equip C	34	92	1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	6	armo66	3	Dungeon 1 (H) Equip A	1785						0
+Dungeon 2 (H) Equip A	34	92	1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	2	armo69	1	Dungeon 1 (H) Equip B	1530						0
+Dungeon 2 (H) Equip B	34	92	1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	6	armo69	3	Dungeon 2 (H) Equip A	1785						0
+Dungeon 2 (H) Equip C	34	92	1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	2	armo72	1	Dungeon 2 (H) Equip A	1530						0
+Dungeon 3 (H) Equip A	34	92	1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	6	armo72	3	Dungeon 2 (H) Equip B	1785						0
+Dungeon 3 (H) Equip B	34	92	1						weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	2	armo75	1	Dungeon 3 (H) Equip A	1530						0
+Dungeon 3 (H) Equip C	34	92	1						weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	6	armo75	3	Dungeon 3 (H) Equip A	1785						0
+Dungeon 4 (H) Equip A	34	92	1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	2	armo78	1	Dungeon 3 (H) Equip B	1530						0
+Dungeon 4 (H) Equip B	34	92	1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	6	armo78	3	Dungeon 4 (H) Equip A	1785						0
+Dungeon 4 (H) Equip C	34	92	1						weap72	2	armo72	1	weap75	6	armo75	3	weap78	14	armo78	7	weap81	2	armo81	1	Dungeon 4 (H) Equip A	1530						0
+Dungeon 5 (H) Equip A	34	92	1						weap75	2	armo75	1	weap78	6	armo78	3	weap81	14	armo81	7	weap84	2	armo84	1	Dungeon 4 (H) Equip B	1530						0
+Dungeon 5 (H) Equip B	34	92	1						weap78	2	armo78	1	weap81	6	armo81	3	weap84	14	armo84	7	weap87	2	armo87	1	Dungeon 5 (H) Equip A	1530						0
+Dungeon 5 (H) Equip C	34	92	1						weap81	2	armo81	1	weap84	6	armo84	3	weap87	14	armo87	7	weap87	1	armo87	1	Dungeon 5 (H) Equip B	1530						0
+Dungeon Cpot		92	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Dungeon Mythic or Charms		92	1					0	mjw	1	cm4	1																				0
+Dungeon Terrors		92	1					4	troo	1	troe	1	tror	1	troa	1																0
+Dungeon Scarabs		92	1					0	scnm	2	scas	2	sccn	1																		0
+Dungeon Chisels		92	1					0	ccsa	3	ccpr	2																				0
+Dungeon Map Currency		92	2					0	Dungeon Chisels	2	Dungeon Scarabs	1																				0
+Dungeon Sacred Orb		92	1					2	sror	1																						0
+Dungeon Orbs		92	1					2	dvo	1																						0
+Dungeon Good		92	1					0	Jewelry C	120	Runes 17 equiv	28	T3 Map Drop No Infernal No T4	8	Dungeon Orbs	3	Dungeon Map Currency	5	Dungeon Mythic or Charms	5	Dungeon Sacred Orb	4	Dungeon Terrors	1								0
+Dungeon Citem		92	1	900	830	850	1024	0	"gld,mul=1280"	60	Dungeon 5 (H) Equip C	37	Dungeon Good	4																		0
+Dungeon Uitem		92	1	950	830	850	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4																				0
+Dungeon Champ		92	-2					0	Dungeon Citem	1	Dungeon Cpot	3																				0
+Dungeon Unique		92	-3					0	Dungeon Uitem	1	Dungeon Cpot	2																				0
+Dungeon Norm		92	1					95	gld	316	Dungeon 5 (H) Equip C	241	Act 1 (H) Junk	316	Dungeon Good	30																0
+Dungeon Miss		92	1					95	gld	271	Dungeon 5 (H) Equip C	196	Act 1 (H) Junk	271	Dungeon Good	30	Dungeon 5 (H) Bow B	90	Ammo	45												0
+Dungeon Cast		92	1					95	gld	271	Dungeon 5 (H) Equip C	226	Act 1 (H) Junk	271	Dungeon Good	30	Act 5 (H) Magic B	105														0
+Dungeon Wraith		92	1					195	Dungeon Good	41	Act 5 (H) Magic C	693	Act 1 (H) Junk	271																		0
+Map Boss T1		87	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T1 Map Drop	3	dcbl	8																0
+Map Boss T2		88	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T2 Map Drop	3	dcbl	8																0
+Map Boss T3 Key		89						1	sfoa	1	sfod	1	sfob	1	sfor	1																0
+Map Boss T3 Items		89	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T3 Map Drop	3	dcbl	8																0
+Map Boss T3			-2						Map Boss T3 Items	1	Map Boss T3 Key	1																				0
+Runes 3 terror			1						r05s	3	r06s	2																				0
+Runes 4 terror			1						r07s	3	r08s	2	Runes 3 terror	1																		0
+Runes 5 terror			1						r09s	3	r10s	2	Runes 4 terror	4																		0
+Runes 6 terror			1						r11s	3	r12s	2	Runes 5 terror	6																		0
+Runes 7 terror			1						r13s	3	r14s	2	Runes 6 terror	8																		0
+Runes 8 terror			1						r15s	3	r16s	2	Runes 7 terror	18																		0
+Runes 9 terror			1						r17s	3	r18s	2	Runes 8 terror	36																		0
+Runes 10 terror			1						r19s	3	r20s	2	Runes 9 terror	72																		0
+Runes 11 terror			1						r21s	3	r22s	2	Runes 10 terror	144																		0
+Runes 12 terror			1						r23s	3	r24s	2	Runes 11 terror	212																		0
+Runes 13 terror			1						r25s	3	r26s	2	Runes 12 terror	302																		0
+Runes 14 terror			1						r27s	3	r28s	2	Runes 13 terror	434																		0
+Runes 15 terror			1						r29s	3	r30s	2	Runes 14 terror	588																		0
+Runes 16 terror			1						r31s	3	r32s	2	Runes 15 terror	790																		0
+Runes 17 terror			1						r33s	1	Runes 16 terror	1034																				0
+Terror currency		87	1					0	"gld,mul=4096"	35	mfo	55	dvo	8	sror	2																0
+Terror scarab		87	1					0	scnm	2	scas	2	sccn	1																		0
+Terror chisel		87	1					0	ccsa	2	ccpr	2																				0
+Opulence Terror T1		87	1					0	Terror currency	1	Terror chisel	1	Terror scarab	1																		0
+Opulence Terror T2		88	2					1	Terror currency	2	Terror chisel	2	Terror scarab	2																		0
+Opulence Terror T3		89	3					1	Terror currency	2	Terror chisel	2	Terror scarab	2																		0
+Opulence Terror T4		90	4					1	Terror currency	2	Terror chisel	2	Terror scarab	2																		0
+Ethereal Terror T1		87	1					0	Runes 17 terror	1																						0
+Ethereal Terror T2		88	2					1	Runes 17 terror	1																						0
+Ethereal Terror T3		89	3					1	Runes 17 terror	1																						0
+Ethereal Terror T4		90	4					1	Runes 17 terror	1																						0
+Terror Jewelry		87	1					0	rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2	cm4	1	mjw	1								0
+Resplendence Terror T1		87	2	1200	0	0	0	0	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
+Resplendence Terror T2		88	3	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
+Resplendence Terror T3		89	4	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
+Resplendence Terror T4		90	5	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
+Zhar Terrors			1					0	troe	1	tror	1	troa	1	troo	1																0
+Zhar (H)		85	-2					0	Zhar Terrors	1	Map Boss T3	1																				0
+Ureh Boss		85	-2					0	Map Boss T3	1																						0
+UberLazarus		85	1					0	Temporalis	4	Indigon	6	Tides of Time	8	Sanctuary's Demise	16	Lachdanans Sacrifice	20	Amalgamation	46												0
+Haphesto Quest Items (H)			5	800	800	900	1024	3	"gld,mul=2048"	340	Act 5 (H) Equip A	461	Act 5 (H) Junk	121	Act 5 (H) Good	72																0
+Haphesto Quest (H)			-2						hffd	1	Haphesto Quest Items (H)	1																				0
+BELOW ADD OR REMOVE ROW																																
+Larzuk Puzzlebox N HAS TO BE ON																																
+ROW NUMBER 1762 OR EVERYTHING																																
+WILL GO TO SHIT																																0
+Cinder or Cluster Unique		87	1					0	hfmx	1	hfcr	4																				
+Cinder or Cluster Champion		87	1					0	hfmx	1	hfcr	7																				
+Cinder or Cluster H2H		87	1					0	hfmx	1	hfcr	10																				0
+Superior Abyss Cpot		87	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
+Superior Abyss Citem		87	1	900	830	850	1024	0	gld	55	Act 5 (H) Equip C	36	Map Good t3	4	Cinder or Cluster Champion	8																0
+Superior Abyss Uitem		87	1	950	830	850	1024	0	Act 5 (H) Equip C	50	Map Good t3	4	Cinder or Cluster Unique	8																		0
+Superior Abyss Sacred		87	1					8	sror	1																						0
+Superior Horde H2H		87	1					85	gld	297	Act 5 (H) Equip C	226	Act 1 (H) Junk	275	Map Good t3	40	Cinder or Cluster H2H	25	Superior Abyss Sacred	1												0
+Superior Horde Champ		87	-2					0	Superior Abyss Citem	1	Superior Abyss Cpot	3																				0
+Superior Horde Unique		87	-3					0	Superior Abyss Uitem	1	Superior Abyss Cpot	2																				0
+LS Horde Uitem t1		87	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Map Good t1	4	Cinder or Cluster Unique	3																		0
+LS Horde Uitem t2		88	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Map Good t2	4	Cinder or Cluster Unique	3																		0
+LS Horde Uitem t3		89	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Map Good t3	4	Cinder or Cluster Unique	3																		0
+LS Horde Citem t1		87	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t1	4	Cinder or Cluster Champion	3																0
+LS Horde Citem t2		88	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t2	4	Cinder or Cluster Champion	3																0
+LS Horde Citem t3		89	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t3	4	Cinder or Cluster Champion	3																0
+LS Horde T1 H2H	35	87	1					95	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t1	31	Cinder or Cluster H2H	13														0
+LS Horde T2 H2H	36	88	1					95	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t2	31	Cinder or Cluster H2H	14														0
+LS Horde T3 H2H	37	89	1					95	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t3	31	Cinder or Cluster H2H	15														0
+LS Horde Champ T1	38	87	-2					0	LS Horde Citem t1	1	Act 5 (H) Cpot C	3																				0
+LS Horde Champ T2	39	88	-2					0	LS Horde Citem t2	1	Act 5 (H) Cpot C	3																				0
+LS Horde Champ T3	40	89	-2					0	LS Horde Citem t3	1	Act 5 (H) Cpot C	3																				0
+LS Horde Unique T1	41	87	-3					0	LS Horde Uitem t1	1	Act 5 (H) Cpot C	2																				0
+LS Horde Unique T2	42	88	-3					0	LS Horde Uitem t2	1	Act 5 (H) Cpot C	2																				0
+LS Horde Unique T3	43	89	-3					0	LS Horde Uitem t3	1	Act 5 (H) Cpot C	2																				0
+UberMatsDiablo			1					1	dcho	1	dcbl	1	dcso	1																		0
+UberTristramKeys			1					1	pk1	1	pk2	1	pk3	1																		0
+UberMatsRathma			1					1	rtmo	1	rtmv	1	cm2f	1																		0
+UberMatsLucion			1					1	lucb	1	lucc	1	lucd	1																		0
+Absolute Terror T1		87	1					2	UberMatsDiablo	1	UberTristramKeys	1	UberMatsRathma	1	UberMatsLucion	1																0
+Absolute Terror T2		88	2					3	UberMatsDiablo	1	UberTristramKeys	1	UberMatsRathma	1	UberMatsLucion	1																0
+Absolute Terror T3		89	3					3	UberMatsDiablo	1	UberTristramKeys	1	UberMatsRathma	1	UberMatsLucion	1																0
+Absolute Terror T4		90	4					3	UberMatsDiablo	1	UberTristramKeys	1	UberMatsRathma	1	UberMatsLucion	1																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
+REMOVE IF YOU ADD ROW ABOVE																																0
 Larzuk Puzzlebox N				1200	10																											0
 Larzuk Puzzlebox NM				600	10																											0
 Larzuk Puzzlebox H				200	10																											0
-Larzuk Puzzlepiece N				600	10																											0
-Larzuk Puzzlepiece NM				300	10																											0
-Larzuk Puzzlepiece H				100	10																											0
+Orb of Extraction N				20000	1																											0
+Orb of Extraction NM				10000	1																											0
+Orb of Extraction H				4000	1																											0
 SkeletonKey N				15000	100																											0
 SkeletonKey NM				7500	100																											0
 SkeletonKey H				1000	100																											0
@@ -1017,144 +1779,37 @@ Lillith Mirror NM				37500	100																											0
 Lillith Mirror H				5000	100																											0
 Vial of Lightsong N				22500	100																											0
 Vial of Lightsong NM				11250	100																											0
-Vial of Lightsong H				500	100																											0
-Corrupted Zone				25																												0
+Vial of Lightsong H				1000	100																											0
+Corrupted Zone WSS				25																												0
 Unique Map Monsters				3650	10																											0
 Unique Map MapBoss				3000																												0
 Rathma Jawbone N				0	100																											0
 Rathma Jawbone NM				0	10																											0
-Rathma Jawbone H				800	1																											0
-UberAncients T1				1000																												0
-UberAncients T2				1000																												0
-UberAncients T3				1000																												0
+Rathma Jawbone H				1300	1																											0
+UberAncients T1				1700	1																											0
+UberAncients T2				1700	1																											0
+UberAncients T3				1700	1																											0
 lucbN				0	10																											0
 lucbNM				0																												0
-lucbH				150																												0
+lucbH				150	1																											0
 lucc				100																												0
 lucdN				0	150																											0
 lucdNM				0	10																											0
-lucdH				800	1																											0
-T4MidMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop No T4	10	T2 Map Drop	10	dvo	12										0
-T4FinalMapBoss		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop No T4	10	T2 Map Drop	10	dvo	12										0
+lucdH				1300	1																											0
+T4MidMapBoss		90	6	970	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop No Infernal No T4	10	T2 Map Drop	10	dvo	6										0
+T4FinalMapBoss		90	6	980	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop No Infernal No T4	10	T2 Map Drop	10	dvo	8										0
 LucionChestLow		90	6	800	900	990	1024	0	Act 5 (H) Equip C	200	Act 5 (H) Good	100	Runes 15 equiv	30	wss	25																0
-LucionChestHigh		90	6	1045	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	dvo	8	Mythic or Charms	12														0
-Demonic Cube N				5000	1																											0
-Demonic Cube NM				2500	1																											0
-Demonic Cube H				1000	1																											0
-Corrupted Zone T1 Maps				125																												
-UberDiablo			1					11	Overlords Helm	1	Dark Abyss	1	Aidans Scar	1	Itheraels Path	1	Hadriels Hand	1														0
-RathmaNew			1					9	The Third Eye	1	Band of Skulls	1	Cage of the Unsullied	1	Rathmas Hand	2																0
-MendelnNew			1					92	Melding of the flesh	5	Gaze of the Abyss	3																				
-UberLucion Orb			1					92	dsno	8																						
-UberLucion Uniques			1					90	Original Sin	3	Voices	5	Progenesis	2																		
-UberLucion			-2					0	UberLucion Uniques	1	UberLucion Orb	1																				0
-Dungeon 1 (N) Bow A	3	38	1						bow12	1	bow15	2	bow18	5	bow21	7	bow24	8	bow27	7	bow30	4	bow33	2	Act 1 (H) Junk	630						0
-Dungeon 1 (N) Bow B	3	40	1						bow15	1	bow18	2	bow21	5	bow24	7	bow27	8	bow30	7	bow33	4	bow36	2	Dungeon 1 (N) Bow A	770						0
-Dungeon 2 (N) Bow A	3	42	1						bow18	1	bow21	2	bow24	5	bow27	7	bow30	8	bow33	7	bow36	4	bow39	2	Dungeon 1 (N) Bow B	920						0
-Dungeon 2 (N) Bow B	3	44	1						bow21	1	bow24	2	bow27	5	bow30	7	bow33	8	bow36	7	bow39	4	bow42	2	Dungeon 2 (N) Bow A	1070						0
-Dungeon 3 (N) Bow A	3	46	1						bow24	1	bow27	2	bow30	5	bow33	7	bow36	8	bow39	7	bow42	4	bow45	2	Dungeon 2 (N) Bow B	1220						0
-Dungeon 3 (N) Bow B	3	48	1						bow27	1	bow30	2	bow33	5	bow36	7	bow39	8	bow42	7	bow45	4	bow48	2	Dungeon 3 (N) Bow A	1370						0
-Dungeon 4 (N) Bow A	3	51	1						bow30	1	bow33	2	bow36	5	bow39	7	bow42	8	bow45	7	bow48	4	bow51	2	Dungeon 3 (N) Bow B	1520						0
-Dungeon 4 (N) Bow B	3	54	1						bow33	1	bow36	2	bow39	5	bow42	7	bow45	8	bow48	7	bow51	4	bow54	2	Dungeon 4 (N) Bow A	1670						0
-Dungeon 5 (N) Bow A	3	57	1						bow36	1	bow39	2	bow42	5	bow45	7	bow48	8	bow51	7	bow54	4	bow57	2	Dungeon 4 (N) Bow B	1820						0
-Dungeon 5 (N) Bow B	3	60	1						bow39	1	bow42	2	bow45	5	bow48	7	bow51	8	bow54	7	bow57	4	bow60	2	Dungeon 5 (N) Bow A	1970						0
-Dungeon 5 (N) Bow C	3	63	1						bow42	1	bow45	2	bow48	5	bow51	7	bow54	8	bow57	7	bow60	4	bow63	2	Dungeon 5 (N) Bow B	2120						0
-Dungeon 1 (H) Bow A	3	66	1						bow45	1	bow48	2	bow51	5	bow54	7	bow57	8	bow60	7	bow63	4	bow66	2	Dungeon 5 (N) Bow C	2270						0
-Dungeon 1 (H) Bow B	3	69	1						bow48	1	bow51	2	bow54	5	bow57	7	bow60	8	bow63	7	bow66	4	bow69	2	Dungeon 1 (H) Bow A	2270						0
-Dungeon 2 (H) Bow A	3	71	1						bow51	1	bow54	2	bow57	5	bow60	7	bow63	8	bow66	7	bow69	4	bow72	2	Dungeon 1 (H) Bow B	2270						0
-Dungeon 2 (H) Bow B	3	73	1						bow54	1	bow57	2	bow60	5	bow63	7	bow66	8	bow69	7	bow72	4	bow75	2	Dungeon 2 (H) Bow A	2270						0
-Dungeon 3 (H) Bow A	3	75	1						bow57	1	bow60	2	bow63	5	bow66	7	bow69	8	bow72	7	bow75	4	bow78	2	Dungeon 2 (H) Bow B	2270						0
-Dungeon 3 (H) Bow B	3	77	1						bow60	1	bow63	2	bow66	5	bow69	7	bow72	8	bow75	7	bow78	4	bow81	2	Dungeon 3 (H) Bow A	2270						0
-Dungeon 4 (H) Bow A	3	79	1						bow63	1	bow66	2	bow69	5	bow72	7	bow75	8	bow78	7	bow81	4	bow84	2	Dungeon 3 (H) Bow B	2270						0
-Dungeon 4 (H) Bow B	3	80	1						bow66	1	bow69	2	bow72	5	bow75	7	bow78	8	bow81	7	bow84	2	bow84	1	Dungeon 4 (H) Bow A	2080						0
-Dungeon 5 (H) Bow A	3	82	1						bow69	1	bow72	2	bow75	5	bow78	7	bow81	8	bow84	7	bow87	2	bow87	1	Dungeon 4 (H) Bow B	2080						0
-Dungeon 5 (H) Bow B	3	83	1						bow72	1	bow75	2	bow78	5	bow81	7	bow84	8	bow87	7	bow87	2	bow87	1	Dungeon 5 (H) Bow A	2080						0
-Dungeon 1 (N) Equip A	1	38	1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	2	armo42	1	Act 1 (H) Junk	935						0
-Dungeon 1 (N) Equip B	1	40	1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	6	armo42	3	Dungeon 1 (N) Equip A	1105						0
-Dungeon 1 (N) Equip C	1	42	1						weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	2	armo45	1	Dungeon 1 (N) Equip A	1020						0
-Dungeon 2 (N) Equip A	1	44	1						weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	6	armo45	3	Dungeon 1 (N) Equip B	1233						0
-Dungeon 2 (N) Equip B	1	46	1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	2	armo48	1	Dungeon 2 (N) Equip A	1105						0
-Dungeon 2 (N) Equip C	1	48	1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	6	armo48	3	Dungeon 2 (N) Equip A	1318						0
-Dungeon 3 (N) Equip A	1	50	1						weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	2	armo51	1	Dungeon 2 (N) Equip B	1190						0
-Dungeon 3 (N) Equip B	1	52	1						weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	6	armo51	3	Dungeon 3 (N) Equip A	1445						0
-Dungeon 3 (N) Equip C	1	54	1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	2	armo54	1	Dungeon 3 (N) Equip A	1275						0
-Dungeon 4 (N) Equip A	1	56	1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	6	armo54	3	Dungeon 3 (N) Equip B	1530						0
-Dungeon 4 (N) Equip B	1	58	1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	2	armo57	1	Dungeon 4 (N) Equip A	1360						0
-Dungeon 4 (N) Equip C	1	60	1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	6	armo57	3	Dungeon 4 (N) Equip A	1658						0
-Dungeon 5 (N) Equip A	1	62	1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	2	armo60	1	Dungeon 4 (N) Equip B	1445						0
-Dungeon 5 (N) Equip B	1	64	1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	6	armo60	3	Dungeon 5 (N) Equip A	1743						0
-Dungeon 5 (N) Equip C	1	66	1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	2	armo63	1	Dungeon 5 (N) Equip B	1530						0
-Dungeon 1 (H) Equip A	1	68	1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	6	armo63	3	Dungeon 5 (N) Equip C	1785						0
-Dungeon 1 (H) Equip B	1	70	1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	2	armo66	1	Dungeon 1 (H) Equip A	1530						0
-Dungeon 1 (H) Equip C	1	71	1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	6	armo66	3	Dungeon 1 (H) Equip A	1785						0
-Dungeon 2 (H) Equip A	1	73	1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	2	armo69	1	Dungeon 1 (H) Equip B	1530						0
-Dungeon 2 (H) Equip B	1	75	1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	6	armo69	3	Dungeon 2 (H) Equip A	1785						0
-Dungeon 2 (H) Equip C	1	76	1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	2	armo72	1	Dungeon 2 (H) Equip A	1530						0
-Dungeon 3 (H) Equip A	1	77	1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	6	armo72	3	Dungeon 2 (H) Equip B	1785						0
-Dungeon 3 (H) Equip B	1	78	1						weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	2	armo75	1	Dungeon 3 (H) Equip A	1530						0
-Dungeon 3 (H) Equip C	1	79	1						weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	6	armo75	3	Dungeon 3 (H) Equip A	1785						0
-Dungeon 4 (H) Equip A	1	80	1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	2	armo78	1	Dungeon 3 (H) Equip B	1530						0
-Dungeon 4 (H) Equip B	1	81	1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	6	armo78	3	Dungeon 4 (H) Equip A	1785						0
-Dungeon 4 (H) Equip C	1	82	1						weap72	2	armo72	1	weap75	6	armo75	3	weap78	14	armo78	7	weap81	2	armo81	1	Dungeon 4 (H) Equip A	1530						0
-Dungeon 5 (H) Equip A	1	83	1						weap75	2	armo75	1	weap78	6	armo78	3	weap81	14	armo81	7	weap84	2	armo84	1	Dungeon 4 (H) Equip B	1530						0
-Dungeon 5 (H) Equip B	1	84	1						weap78	2	armo78	1	weap81	6	armo81	3	weap84	14	armo84	7	weap87	2	armo87	1	Dungeon 5 (H) Equip A	1530						0
-Dungeon 5 (H) Equip C	1	85	1						weap81	2	armo81	1	weap84	6	armo84	3	weap87	14	armo87	7	weap87	1	armo87	1	Dungeon 5 (H) Equip B	1530						0
-Dungeon Cpot		85	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
-Dungeon Mythic or Charms		85	1					0	mjw	1	cm4	1																				0
-Dungeon Terrors			1					2	troo	1	troe	1	tror	1																		
-Dungeon Scarabs			1					0	scnm	2	scas	2	sccn	1	scmo	2	schr	3														
-Dungeon Chisels			1					0	ccsa	3	ccpr	2																				
-Dungeon Map Currency		87	1					0	Dungeon Chisels	2	Dungeon Scarabs	1																				0
-Dungeon Sacred Orb		87	1					2	sror	1																						0
-Dungeon Orbs		87	1					2	dvo	1																						0
-Dungeon Map			1					0	Map Tier 2	2	Map Tier 3	3																				
-Dungeon Good		87	1					0	Jewelry C	120	Runes 17 equiv	28	Dungeon Map	8	Dungeon Orbs	3	Boxes	7	Dungeon Map Currency	5	Dungeon Mythic or Charms	5	Dungeon Sacred Orb	4	Dungeon Terrors	1						0
-Dungeon Citem		85	1	1000	800	800	1024	0	"gld,mul=1280"	60	Dungeon 5 (H) Equip C	37	Dungeon Good	3																		0
-Dungeon Uitem		85	1	1000	800	800	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4																				0
-Dungeon Champ		85	-2					0	Dungeon Citem	1	Dungeon Cpot	3																				0
-Dungeon Unique		85	-3					0	Dungeon Uitem	1	Dungeon Cpot	2																				0
-Dungeon Norm		85	1					95	gld	316	Dungeon 5 (H) Equip C	241	Act 1 (H) Junk	316	Dungeon Good	30																0
-Dungeon Miss		85	1					95	gld	271	Dungeon 5 (H) Equip C	196	Act 1 (H) Junk	271	Dungeon Good	30	Dungeon 5 (H) Bow B	90	Ammo	45												0
-Dungeon Cast		85	1					95	gld	271	Dungeon 5 (H) Equip C	226	Act 1 (H) Junk	271	Dungeon Good	30	Act 5 (H) Magic B	105														0
-Dungeon Wraith		85	1					195	Dungeon Good	111	Act 5 (H) Magic C	693																				0
-Uber Box		85	1					0	umbx	1																						0
-Map Boss T1		85	5	1081	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T1 Map Drop	3	Uber Box	2	dcbl	8														0
-Map Boss T2		85	5	1081	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T2 Map Drop	3	Uber Box	3	dcbl	8														0
-Map Boss T3		85	5	1081	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T3 Map Drop	3	Uber Box	4	dcbl	8														0
-Map Boss T4 Map		85	1					4	t42	1	t43	1	t44	1																		
-Map Boss T4 Items		85	6	1081	983	983	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4																				0
-Map Boss T4		85	-3					0	Map Boss T4 Items	1	Uber Box	1	Map Boss T4 Map	1																		0
-Runes 3 terror			1						r05s	3	r06s	2																				
-Runes 4 terror			1						r07s	3	r08s	2	Runes 3 terror	1																		
-Runes 5 terror			1						r09s	3	r10s	2	Runes 4 terror	4																		
-Runes 6 terror			1						r11s	3	r12s	2	Runes 5 terror	6																		
-Runes 7 terror			1						r13s	3	r14s	2	Runes 6 terror	8																		
-Runes 8 terror			1						r15s	3	r16s	2	Runes 7 terror	18																		
-Runes 9 terror			1						r17s	3	r18s	2	Runes 8 terror	36																		
-Runes 10 terror			1						r19s	3	r20s	2	Runes 9 terror	72																		
-Runes 11 terror			1						r21s	3	r22s	2	Runes 10 terror	144																		
-Runes 12 terror			1						r23s	3	r24s	2	Runes 11 terror	212																		
-Runes 13 terror			1						r25s	3	r26s	2	Runes 12 terror	302																		
-Runes 14 terror			1						r27s	3	r28s	2	Runes 13 terror	434																		
-Runes 15 terror			1						r29s	3	r30s	2	Runes 14 terror	588																		
-Runes 16 terror			1						r31s	3	r32s	2	Runes 15 terror	790																		
-Runes 17 terror			1						r33s	1	Runes 16 terror	1034																				
-Terror currency		85	1					0	mfo	90	dvo	8	sror	2																		
-Terror scarab		85	1					0	scnm	2	scas	2	sccn	1	scmo	2	schr	2														
-Terror chisel		85	1					0	ccsa	2	ccpr	2																				
-Terror boxes		85	1					0	ccbx	2	gcbx	1																				
-Opulence Terror T1		85	1					0	Terror currency	1	Terror chisel	1	Terror scarab	1																		
-Opulence Terror T2		85	2					1	Terror currency	2	Terror chisel	2	Terror scarab	2																		
-Opulence Terror T3		85	3					1	Terror currency	2	Terror chisel	2	Terror scarab	2																		
-Opulence Terror T4		85	4					1	Terror currency	2	Terror chisel	2	Terror scarab	2																		
-Ethereal Terror T1		85	1					0	Runes 17 terror	1																						
-Ethereal Terror T2		85	2					1	Runes 17 terror	1																						
-Ethereal Terror T3		85	3					1	Runes 17 terror	1																						
-Ethereal Terror T4		85	4					1	Runes 17 terror	1																						
-Terror Jewelry		85	1					0	rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2	cm4	1	mjw	1								
-Resplendence Terror T1		85	2	1200	0	0	0	0	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		
-Resplendence Terror T2		85	3	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		
-Resplendence Terror T3		85	4	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		
-Resplendence Terror T4		85	5	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		
-Zhar (H)		85	-2					0	Terrors T3	1	Map Boss T3	1																				
-Ureh Boss		85	-2					0	Map Boss T3	1																						
+LucionChestHigh		90	6	960	970	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	New orbs T3	8	Mythic or Charms	12														0
+Demonic Cube N				6000	1																											0
+Demonic Cube NM				3500	1																											0
+Demonic Cube H				2500	1																											0
+Corrupted Zone T1 Maps				150	1																											0
+UberAncients		90	6	980	985	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	T3 Map Drop	10	T2 Map Drop	10	New orbs T3	5	Mythic or Charms	8										0
+ShadowOfMendeln		90	6	970	980	990	1024	0	Act 5 (H) Equip C	787	Act 5 (H) Good	45	Act 5 (H) Junk	75	Runes 17 equiv	10	wss	15	Jewelry C	30	rtmv	30	dvo	6								0
+MapStat DropJewelry			1						rin	2	amu	2	jew	4	cm3	1	cm2	1	cm1	1												0
+MapStat DropWeapons			1						Act 5 (H) Weap C	1																						0
+MapStat DropArmor			1						Act 5 (H) Armo C	1																						0
+MapStat drop currency			1						"gld,mul=2048"	86	Chisels	4	Scarabs	4	mfo	5	dvo	1														0
+MapStat DropCharms			1						cm3	1	cm2	1	cm1	1																		0
+MapStat DropWss			1						wss	1																						0
+MapStat DropJewels			1						jew	1																						0
