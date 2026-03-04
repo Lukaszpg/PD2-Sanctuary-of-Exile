@@ -82,4 +82,47 @@ b) Without PlugY:
 
 **Solution:** Download newer PlugY version - [PD2-PlugY](https://github.com/xkanzeon/PD2-PlugY?tab=readme-ov-file.)
 
+## Saves compatibility table
+
+In the table below you can check saves from which mod versions are going to work.
+
+How to read the table: 
+
+1. Check the rows for the "Version" column - pick a version you are interested to migrate from.
+2. Check the column headers - pick version you are interested to migrate to.
+3. Read the intersection cell between the versions. 
+
+ ✅ - means that your save will be compatible if you migrate from this version to the version of your choosing
+ ❌  means that your save will NOT be compatible
+
+Example:
+
+I would like to migrate from version 11.2.1 to 12.0.0. I am looking for the row which says "11.2.1" on the left. Now I am looking at the column header which says "12.0.0". I am checking the intersection table cell between the two. It's ✅, so my save will work. 
+
+Example 2: 
+
+I would like to migrate from version 12.0.6b to 12.1.0. I am looking for the row which says "12.0.6b" on the left. Now I am looking at the column header which says "12.1.0". I am checking the intersection table cell between the two. It's ❌, so my save will NOT work.
+
+| Version 	| 11.0.0 	| 11.0.1 	| 11.0.2 	| 11.0.3 	| 11.1.0 	| 11.2.0 	| 11.2.1 	| 11.2.1a 	| 11.2.1b 	| 11.2.1c 	| 12.0.0 	| 12.0.1 	| 12.0.2 	| 12.0.3 	| 12.0.4 	| 12.0.5 	| 12.0.6 	| 12.0.6b 	| 12.1.0 	|
+|---------	|--------	|--------	|--------	|--------	|--------	|--------	|--------	|---------	|---------	|---------	|--------	|--------	|--------	|--------	|--------	|--------	|--------	|---------	|--------	|
+| 11.0.0  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 11.0.1  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 11.0.2  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 11.0.3  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 11.1.0  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 11.2.0  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 11.2.1  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 11.2.1a 	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 11.2.1b 	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 11.2.1c 	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 12.0.0  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 12.0.1  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 12.0.2  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 12.0.3  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 12.0.4  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 12.0.5  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 12.0.6  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 12.0.6b 	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	|
+| 12.1.0  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ✅      	|
+
 
