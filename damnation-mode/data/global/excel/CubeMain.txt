@@ -57,7 +57,7 @@ Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1	
 2 bolts -> arrows	0			0					1	"cqv,qty=2"							"aqv,nor"																																																																																							0
 3 chipped amethysts -> flawed amethyst	1			0					1	"gcv,qty=3"							gfv																																																																																							0
 3 flawed amethysts -> standard amethyst	1			0					1	"gfv,qty=3"							gsv																																																																																							0
-3 standard amethysts -> flawless amethyst	0			0					1	"gsv,qty=3"							gzv																																																																																							0
+3 standard amethysts -> flawless amethyst	1			0					1	"gsv,qty=3"							gzv																																																																																							0
 48 flawless amethysts -> perfect amethysts	1			0					2	"key,qty=1"	"gzvs,qty=48"						useitem			100																										"gpvs,qty=16"																																																										0
 45 flawless amethysts -> perfect amethysts	1			0					2	"key,qty=1"	"gzvs,qty=45"						useitem			100																										"gpvs,qty=15"																																																										0
 42 flawless amethysts -> perfect amethysts	1			0					2	"key,qty=1"	"gzvs,qty=42"						useitem			100																										"gpvs,qty=14"																																																										0
@@ -76,7 +76,7 @@ Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1	
 3 flawless amethysts -> perfect amethyst	1			0					2	"key,qty=1"	"gzvs,qty=3"						useitem			100																										gpvs																																																										0
 3 chipped rubies -> flawed ruby	1			0					1	"gcr,qty=3"							gfr																																																																																							0
 3 flawed rubies -> standard ruby	1			0					1	"gfr,qty=3"							gsr																																																																																							0
-3 standard rubies -> flawless ruby	0			0					1	"gsr,qty=3"							glr																																																																																							0
+3 standard rubies -> flawless ruby	1			0					1	"gsr,qty=3"							glr																																																																																							0
 48 flawless rubies -> perfect rubies	1			0					2	"key,qty=1"	"glrs,qty=48"						useitem			100																										"gprs,qty=16"																																																										0
 45 flawless rubies -> perfect rubies	1			0					2	"key,qty=1"	"glrs,qty=45"						useitem			100																										"gprs,qty=15"																																																										0
 42 flawless rubies -> perfect rubies	1			0					2	"key,qty=1"	"glrs,qty=42"						useitem			100																										"gprs,qty=14"																																																										0
@@ -95,7 +95,7 @@ Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1	
 3 flawless rubies -> perfect ruby	1			0					2	"key,qty=1"	"glrs,qty=3"						useitem			100																										gprs																																																										0
 3 chipped sapphires -> flawed sapphire	1			0					1	"gcb,qty=3"							gfb																																																																																							0
 3 flawed sapphires -> standard sapphire	1			0					1	"gfb,qty=3"							gsb																																																																																							0
-3 standard sapphires -> flawless sapphire	0			0					1	"gsb,qty=3"							glb																																																																																							0
+3 standard sapphires -> flawless sapphire	1			0					1	"gsb,qty=3"							glb																																																																																							0
 48 flawless sapphires -> perfect sapphires	1			0					2	"key,qty=1"	"glbs,qty=48"						useitem			100																										"gpbs,qty=16"																																																										0
 45 flawless sapphires -> perfect sapphires	1			0					2	"key,qty=1"	"glbs,qty=45"						useitem			100																										"gpbs,qty=15"																																																										0
 42 flawless sapphires -> perfect sapphires	1			0					2	"key,qty=1"	"glbs,qty=42"						useitem			100																										"gpbs,qty=14"																																																										0
@@ -114,7 +114,7 @@ Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1	
 3 flawless sapphires -> perfect sapphire	1			0					2	"key,qty=1"	"glbs,qty=3"						useitem			100																										gpbs																																																										0
 3 chipped topazes -> flawed topaz	1			0					1	"gcy,qty=3"							gfy																																																																																							0
 3 flawed topazes -> standard topaz	1			0					1	"gfy,qty=3"							gsy																																																																																							0
-3 standard topazes -> flawless topaz	0			0					1	"gsy,qty=3"							gly																																																																																							0
+3 standard topazes -> flawless topaz	1			0					1	"gsy,qty=3"							gly																																																																																							0
 48 flawless topazes -> perfect topazes	1			0					2	"key,qty=1"	"glys,qty=48"						useitem			100																										"gpys,qty=16"																																																										0
 45 flawless topazes -> perfect topazes	1			0					2	"key,qty=1"	"glys,qty=45"						useitem			100																										"gpys,qty=15"																																																										0
 42 flawless topazes -> perfect topazes	1			0					2	"key,qty=1"	"glys,qty=42"						useitem			100																										"gpys,qty=14"																																																										0
@@ -133,7 +133,7 @@ Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1	
 3 flawless topazes -> perfect topaz	1			0					2	"key,qty=1"	"glys,qty=3"						useitem			100																										gpys																																																										0
 3 chipped emeralds -> flawed emerald	1			0					1	"gcg,qty=3"							gfg																																																																																							0
 3 flawed emeralds -> standard emerald	1			0					1	"gfg,qty=3"							gsg																																																																																							0
-3 standard emeralds -> flawless emerald	0			0					1	"gsg,qty=3"							glg																																																																																							0
+3 standard emeralds -> flawless emerald	1			0					1	"gsg,qty=3"							glg																																																																																							0
 48 flawless emeralds -> perfect emeralds	1			0					2	"key,qty=1"	"gg3e,qty=48"						useitem			100																										"gpgs,qty=16"																																																										0
 45 flawless emeralds -> perfect emeralds	1			0					2	"key,qty=1"	"gg3e,qty=45"						useitem			100																										"gpgs,qty=15"																																																										0
 42 flawless emeralds -> perfect emeralds	1			0					2	"key,qty=1"	"gg3e,qty=42"						useitem			100																										"gpgs,qty=14"																																																										0
@@ -152,7 +152,7 @@ Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1	
 3 flawless emeralds -> perfect emerald	1			0					2	"key,qty=1"	"gg3e,qty=3"						useitem			100																										gpgs																																																										0
 3 chipped diamonds -> flawed diamond	1			0					1	"gcw,qty=3"							gfw																																																																																							0
 3 flawed diamonds -> standard diamond	1			0					1	"gfw,qty=3"							gsw																																																																																							0
-3 standard diamonds -> flawless diamond	0			0					1	"gsw,qty=3"							glw																																																																																							0
+3 standard diamonds -> flawless diamond	1			0					1	"gsw,qty=3"							glw																																																																																							0
 48 flawless diamonds -> perfect diamonds	1			0					2	"key,qty=1"	"glws,qty=48"						useitem			100																										"gpws,qty=16"																																																										0
 45 flawless diamonds -> perfect diamonds	1			0					2	"key,qty=1"	"glws,qty=45"						useitem			100																										"gpws,qty=15"																																																										0
 42 flawless diamonds -> perfect diamonds	1			0					2	"key,qty=1"	"glws,qty=42"						useitem			100																										"gpws,qty=14"																																																										0
@@ -171,7 +171,7 @@ Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1	
 3 flawless diamonds -> perfect diamond	1			0					2	"key,qty=1"	"glws,qty=3"						useitem			100																										gpws																																																										0
 3 chipped skulls -> flawed skull	1			0					1	"skc,qty=3"							skf																																																																																							0
 3 flawed skulls -> standard skull	1			0					1	"skf,qty=3"							sku																																																																																							0
-3 standard skulls -> flawless skull	0			0					1	"sku,qty=3"							skl																																																																																							0
+3 standard skulls -> flawless skull	1			0					1	"sku,qty=3"							skl																																																																																							0
 48 flawless skulls -> perfect skulls	1			0					2	"key,qty=1"	"skls,qty=48"						useitem			100																										"skzs,qty=16"																																																										0
 45 flawless skulls -> perfect skulls	1			0					2	"key,qty=1"	"skls,qty=45"						useitem			100																										"skzs,qty=15"																																																										0
 42 flawless skulls -> perfect skulls	1			0					2	"key,qty=1"	"skls,qty=42"						useitem			100																										"skzs,qty=14"																																																										0
@@ -191,7 +191,7 @@ Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1	
 3 rune 01 -> rune 02	1			100					2	"key,qty=1"	"r01,qty=3"						useitem			100																										r02																																																										0
 3 rune 02 -> rune 03	1			100					2	"key,qty=1"	"r02,qty=3"						useitem			100																										r03																																																										0
 3 rune 03 -> rune 04	1			100					2	"key,qty=1"	"r03,qty=3"						useitem			100																										r04																																																										0
-3 rune 04 -> rune 05	0			100					2	"key,qty=1"	"r04,qty=3"						useitem			100																										r05																																																										0
+3 rune 04 -> rune 05	1			100					2	"key,qty=1"	"r04,qty=3"						useitem			100																										r05																																																										0
 3 rune 05 -> rune 06	1			100					2	"key,qty=1"	"r05,qty=3"						useitem			100																										r06																																																										0
 3 rune 06 -> rune 07	1			100					2	"key,qty=1"	"r06,qty=3"						useitem			100																										r07																																																										0
 3 rune 07 -> rune 08	1			100					2	"key,qty=1"	"r07,qty=3"						useitem			100																										r08																																																										0

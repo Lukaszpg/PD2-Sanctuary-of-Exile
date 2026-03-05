@@ -1130,15 +1130,15 @@ Resplendence Terror T4		90	5	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	
 Zhar Terrors			1					0	troe	1	tror	1	troa	1	troo	1																0
 Zhar (H)		85	-2					0	Zhar Terrors	1	Map Boss T3	1																				0
 Ureh Boss		85	-2					0	Map Boss T3	1																						0
-UberLazarus		85	1					0	Temporalis	4	Indigon	6	Tides of Time	8	Sanctuary's Demise	16	Lachdanans Sacrifice	20	Amalgamation	46												0
+UberLazarus		85	1					0	Temporalis	4	Indigon	6	Tides	8	Sanctuarys Demise	16	Lachdanans Sacrifice	20	Amalgamation	46												0
 Haphesto Quest Items (H)			5	800	800	900	1024	3	"gld,mul=2048"	340	Act 5 (H) Equip A	461	Act 5 (H) Junk	121	Act 5 (H) Good	72																0
 Haphesto Quest (H)			-2						hffd	1	Haphesto Quest Items (H)	1																				0
-BELOW ADD OR REMOVE ROW																																
-Larzuk Puzzlebox N HAS TO BE ON																																
-ROW NUMBER 1762 OR EVERYTHING																																
+BELOW ADD OR REMOVE ROW																																0
+Larzuk Puzzlebox N HAS TO BE ON																																0
+ROW NUMBER 1762 OR EVERYTHING																																0
 WILL GO TO SHIT																																0
-Cinder or Cluster Unique		87	1					0	hfmx	1	hfcr	4																				
-Cinder or Cluster Champion		87	1					0	hfmx	1	hfcr	7																				
+Cinder or Cluster Unique		87	1					0	hfmx	1	hfcr	4																				0
+Cinder or Cluster Champion		87	1					0	hfmx	1	hfcr	7																				0
 Cinder or Cluster H2H		87	1					0	hfmx	1	hfcr	10																				0
 Superior Abyss Cpot		87	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
 Superior Abyss Citem		87	1	900	830	850	1024	0	gld	55	Act 5 (H) Equip C	36	Map Good t3	4	Cinder or Cluster Champion	8																0
@@ -1170,57 +1170,57 @@ Absolute Terror T1		87	1					2	UberMatsDiablo	1	UberTristramKeys	1	UberMatsRathm
 Absolute Terror T2		88	2					3	UberMatsDiablo	1	UberTristramKeys	1	UberMatsRathma	1	UberMatsLucion	1																0
 Absolute Terror T3		89	3					3	UberMatsDiablo	1	UberTristramKeys	1	UberMatsRathma	1	UberMatsLucion	1																0
 Absolute Terror T4		90	4					3	UberMatsDiablo	1	UberTristramKeys	1	UberMatsRathma	1	UberMatsLucion	1																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
+Cinder LoD			1					0	hfcr	1																						0
+Horde Act 1 (N) H2H		41	1					95	gld	316	Act 1 (N) Equip B	241	Act 1 (N) Junk	316	Act 1 (N) Good	30	Cinder LoD	8														0
+Horde Act 2 (N) H2H		45	1					95	gld	316	Act 2 (N) Equip B	241	Act 2 (N) Junk	316	Act 2 (N) Good	30	Cinder LoD	8														0
+Horde Act 3 (N) H2H		50	1					95	gld	316	Act 3 (N) Equip B	241	Act 3 (N) Junk	316	Act 3 (N) Good	30	Cinder LoD	8														0
+Horde Act 4 (N) H2H		54	1					95	gld	316	Act 4 (N) Equip B	241	Act 4 (N) Junk	316	Act 4 (N) Good	30	Cinder LoD	8														0
+Horde Act 5 (N) H2H		62	1					95	gld	316	Act 5 (N) Equip C	241	Act 5 (N) Junk	316	Act 5 (N) Good	30	Cinder LoD	8														0
+Horde Act 1 (H) H2H		68	1					95	gld	316	Act 1 (H) Equip B	241	Act 1 (H) Junk	316	Act 1 (H) Good	30	Cinder LoD	8														0
+Horde Act 2 (H) H2H		73	1					95	gld	316	Act 2 (H) Equip B	241	Act 1 (H) Junk	316	Act 2 (H) Good	30	Cinder LoD	8														0
+Horde Act 3 (H) H2H		77	1					95	gld	316	Act 3 (H) Equip B	241	Act 1 (H) Junk	316	Act 3 (H) Good	30	Cinder LoD	8														0
+Horde Act 4 (H) H2H		80	1					95	gld	316	Act 4 (H) Equip B	241	Act 1 (H) Junk	316	Act 4 (H) Good	30	Cinder LoD	8														0
+Horde Act 5 (H) H2H		85	1					95	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Act 5 (H) Good	30	Cinder LoD	8														0
+Horde Act 1 (N) CItem		41	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 (N) Equip B	37	Act 1 (N) Good	3	Cinder LoD	1																0
+Horde Act 2 (N) CItem		45	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 2 (N) Equip B	37	Act 2 (N) Good	3	Cinder LoD	1																0
+Horde Act 3 (N) CItem		50	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 3 (N) Equip B	37	Act 3 (N) Good	3	Cinder LoD	1																0
+Horde Act 4 (N) CItem		54	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 4 (N) Equip B	37	Act 4 (N) Good	3	Cinder LoD	1																0
+Horde Act 5 (N) CItem		62	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (N) Equip C	37	Act 5 (N) Good	3	Cinder LoD	1																0
+Horde Act 1 (H) CItem		68	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 (H) Equip B	37	Act 1 (H) Good	3	Cinder LoD	1																0
+Horde Act 2 (H) CItem		72	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 2 (H) Equip B	37	Act 2 (H) Good	3	Cinder LoD	1																0
+Horde Act 3 (H) CItem		77	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 3 (H) Equip B	37	Act 3 (H) Good	3	Cinder LoD	1																0
+Horde Act 4 (H) CItem		80	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 4 (H) Equip B	37	Act 4 (H) Good	3	Cinder LoD	1																0
+Horde Act 5 (H) CItem		85	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Act 5 (H) Good	3	Cinder LoD	1																0
+Horde Act 1 (N) Champ		41	-2					0	Horde Act 1 (N) CItem	1	Act 1 (N) Cpot C	2																				0
+Horde Act 2 (N) Champ		45	-2					0	Horde Act 2 (N) CItem	1	Act 2 (N) Cpot C	2																				0
+Horde Act 3 (N) Champ		50	-2					0	Horde Act 3 (N) CItem	1	Act 3 (N) Cpot C	2																				0
+Horde Act 4 (N) Champ		56	-2					0	Horde Act 4 (N) CItem	1	Act 4 (N) Cpot B	2																				0
+Horde Act 5 (N) Champ		62	-2					0	Horde Act 5 (N) CItem	1	Act 5 (N) Cpot C	2																				0
+Horde Act 1 (H) Champ		68	-2					0	Horde Act 1 (H) CItem	1	Act 1 (H) Cpot C	3																				0
+Horde Act 2 (H) Champ		72	-2					0	Horde Act 2 (H) CItem	1	Act 2 (H) Cpot C	3																				0
+Horde Act 3 (H) Champ		77	-2					0	Horde Act 3 (H) CItem	1	Act 3 (H) Cpot C	3																				0
+Horde Act 4 (H) Champ		80	-2					0	Horde Act 4 (H) CItem	1	Act 4 (H) Cpot B	3																				0
+Horde Act 5 (H) Champ		85	-2					0	Horde Act 5 (H) CItem	1	Act 5 (H) Cpot C	3																				0
+Horde Act 1 (N) UItem		41	1	800	800	800	1024	0	Act 1 (N) Equip B	58	Act 1 (N) Good	4	Cinder LoD	1																		0
+Horde Act 2 (N) UItem		45	1	800	800	800	1024	0	Act 2 (N) Equip B	58	Act 2 (N) Good	4	Cinder LoD	1																		0
+Horde Act 3 (N) UItem		50	1	800	800	800	1024	0	Act 3 (N) Equip B	58	Act 3 (N) Good	4	Cinder LoD	1																		0
+Horde Act 4 (N) UItem		54	1	800	800	800	1024	0	Act 4 (N) Equip B	58	Act 4 (N) Good	4	Cinder LoD	1																		0
+Horde Act 5 (N) UItem		62	1	800	800	800	1024	0	Act 5 (N) Equip C	58	Act 5 (N) Good	4	Cinder LoD	1																		0
+Horde Act 1 (H) UItem		68	1	800	800	800	1024	0	Act 1 (H) Equip B	58	Act 1 (H) Good	4	Cinder LoD	1																		0
+Horde Act 2 (H) UItem		72	1	800	800	800	1024	0	Act 2 (H) Equip B	58	Act 2 (H) Good	4	Cinder LoD	1																		0
+Horde Act 3 (H) UItem		77	1	800	800	800	1024	0	Act 3 (H) Equip B	58	Act 3 (H) Good	4	Cinder LoD	1																		0
+Horde Act 4 (H) UItem		80	1	800	800	800	1024	0	Act 4 (H) Equip B	58	Act 4 (H) Good	4	Cinder LoD	1																		0
+Horde Act 5 (H) UItem		85	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	Cinder LoD	1																		0
+Horde Act 1 (N) Unique		41	-3					0	Horde Act 1 (N) UItem	1	Act 1 (N) Cpot C	2																				0
+Horde Act 2 (N) Unique		45	-3					0	Horde Act 2 (N) UItem	1	Act 2 (N) Cpot C	2																				0
+Horde Act 3 (N) Unique		50	-3					0	Horde Act 3 (N) UItem	1	Act 3 (N) Cpot C	2																				0
+Horde Act 4 (N) Unique		54	-3					0	Horde Act 4 (N) UItem	1	Act 4 (N) Cpot B	2																				0
+Horde Act 5 (N) Unique		62	-3					0	Horde Act 5 (N) UItem	1	Act 5 (N) Cpot C	2																				0
+Horde Act 1 (H) Unique		68	-3					0	Horde Act 1 (H) UItem	1	Act 1 (H) Cpot C	2																				0
+Horde Act 2 (H) Unique		72	-3					0	Horde Act 2 (H) UItem	1	Act 2 (H) Cpot C	2																				0
+Horde Act 3 (H) Unique		77	-3					0	Horde Act 3 (H) UItem	1	Act 3 (H) Cpot C	2																				0
+Horde Act 4 (H) Unique		80	-3					0	Horde Act 4 (H) UItem	1	Act 4 (H) Cpot B	2																				0
+Horde Act 5 (H) Unique		85	-3					0	Horde Act 5 (H) UItem	1	Act 5 (H) Cpot C	2																				0
 REMOVE IF YOU ADD ROW ABOVE																																0
 REMOVE IF YOU ADD ROW ABOVE																																0
 REMOVE IF YOU ADD ROW ABOVE																																0
