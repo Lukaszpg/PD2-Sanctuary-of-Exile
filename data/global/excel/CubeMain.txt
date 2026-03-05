@@ -4252,3 +4252,6 @@ Hellforged Darkforce Spawn	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Darkforge Sp
 Hellforged Rathmas Hand	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Rathmas Hand				Hellforged Rathmas Hand																													hffd																																																										0
 Hellforged Tyrael's Might	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Tyrael's Might				Hellforged Tyrael's Might																													hffd																																																										0
 Hellforged Headhunter	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Headhunter				Hellforged Headhunter																													hffd																																																										0
+																																																																																																								0
+BUGFIX																																																																																																								0
+Spawn Malah resistance scroll	1			100					2	key,qty=1	tsc,qty=1						tr2																																																																																							0

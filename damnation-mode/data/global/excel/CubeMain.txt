@@ -4424,3 +4424,6 @@ SHARD TO ORB OF CHANCE																																																										
 30 shard = 1 orb	1			100					1	oros,qty=30							oroc,qty=3																																																																																							0
 40 shard = 1 orb	1			100					1	oros,qty=40							oroc,qty=4																																																																																							0
 50 shard = 1 orb	1			100					1	oros,qty=50							oroc,qty=5																																																																																							0
+																																																																																																								0
+BUGFIX																																																																																																								0
+Spawn Malah resistance scroll	1			100					2	key,qty=1	tsc,qty=1						tr2																																																																																							0

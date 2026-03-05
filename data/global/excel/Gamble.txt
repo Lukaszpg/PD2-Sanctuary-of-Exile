@@ -170,6 +170,6 @@ Blessed Helmet	ph1
 Crude Arrows	cqv
 Light Bolts	aqv
 Shabby Hood	sh1
-Tattered Robe	tr1
+Tattered Robe	tro1
 ring	rin
 amulet	amu

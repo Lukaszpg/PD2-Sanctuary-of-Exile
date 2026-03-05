@@ -62,10 +62,10 @@ Drake's		100	1	1	34		26				2	328	mana		31	40	mana%		6	6							tors														
 Dragon's		100	1	1	45		37				1	328	mana		41	60	mana%		8	8							tors														0
 Wyrm's		100	1	1	56		48				2	329	mana		61	80	mana%		10	10							tors														0
 Great Wyrm's		100	1	1	67		59				1	329	mana		81	100	mana%		12	12							tors														0
-Infernal Map		100	1	1	87		1				1	330	map-glob-add-monsters	1303	1249	1249											t5m														0
-Abyss t1 lesser		100	1	1	87		1				4	331	map-glob-add-monsters	1302	1250	1250											t1m														0
-Abyss t1 greater		100	1	1	87		1				1	331	map-glob-add-monsters	1301	1253	1253											t1m														0
-Abyss t2 lesser		100	1	1	87		1				4	332	map-glob-add-monsters	1302	1251	1251											t2m														0
-Abyss t2 greater		100	1	1	87		1				1	332	map-glob-add-monsters	1301	1254	1254											t2m														0
-Abyss t3 lesser		100	1	1	87		1				4	333	map-glob-add-monsters	1302	1252	1252											t3m														0
-Abyss t3 greater		100	1	1	87		1				1	333	map-glob-add-monsters	1301	1255	1255											t3m														0
+Infernal Map		100	1	1	1		1				1	330	map-glob-add-monsters	1303	1249	1249											t5m														0
+Abyss t1 lesser		100	1	1	1		1				4	331	map-glob-add-monsters	1302	1250	1250											t1m														0
+Abyss t1 greater		100	1	1	1		1				1	331	map-glob-add-monsters	1301	1253	1253											t1m														0
+Abyss t2 lesser		100	1	1	1		1				4	332	map-glob-add-monsters	1302	1251	1251											t2m														0
+Abyss t2 greater		100	1	1	1		1				1	332	map-glob-add-monsters	1301	1254	1254											t2m														0
+Abyss t3 lesser		100	1	1	1		1				4	333	map-glob-add-monsters	1302	1252	1252											t3m														0
+Abyss t3 greater		100	1	1	1		1				1	333	map-glob-add-monsters	1301	1255	1255											t3m														0
