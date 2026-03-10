@@ -2538,9 +2538,10 @@ Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor,eli	"dvo,qt
 Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq,eli	"dvo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
 Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,eli	"dvo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
 Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,eli	"dvo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
-Divine Orb + 5 jewel fragments = random unique regular jewel	1			100					2	"dvo,qty=1"	"jewf,qty=5"						jew,uni	85																																																																																						0
-Divine Orb + magic mythical jewel = random unique mythical jewel	1			100					2	"dvo,qty=1"	mjw,mag						mjw,uni	87																																																																																						0
-3x Divine Orb + magic ornate charm = random unique ornate charm	1			100					2	"dvo,qty=3"	cm4,mag						cm4,uni	87																																																																																						0
+Divine Orb + 5 jewel fragments = random unique regular jewel	1			100					2	"dvo,qty=1"	"jewf,qty=5"						jew,uni	99																																																																																						0
+Divine Orb + magic mythical jewel = random unique mythical jewel	1			100					2	"dvo,qty=1"	mjw,mag						mjw,uni	99																																																																																						0
+Divine Orb + rare mythical jewel = random unique mythical jewel	1			100					2	"dvo,qty=1"	mjw,rar						mjw,uni	99																																																																																						0
+3x Divine Orb + magic ornate charm = random unique ornate charm	1			100					2	"dvo,qty=3"	cm4,mag						cm4,uni	99																																																																																						0
 																																																																																																								0
 DIVINE ORB - QUIVERS																																																																																																								0
 White Elite Arrows	1			100					2	aqv3,nor	"dvo,qty=1"						usetype,uni	99			dye	100		3	3																																																																															0
@@ -3105,25 +3106,25 @@ Widespread Destruction	1			100					2	Widespread Destruction	imrn,qty=1						Wide
 Akarats Rage	1			100					2	Akarats Rage	imrn,qty=1						Akarats Rage			100																																																																																				0
 																																																																																																								0
 MYTHICAL JEWEL ADDITIONAL RECIPES																																																																																																								0
-Disenchant Magic Mythical Jewel x1	1			100					2	key,qty=1	mjw,mag,qty=1						useitem																													jewf,qty=5																																																										0
-Disenchant Magic Mythical Jewel x2	1			100					2	key,qty=1	mjw,mag,qty=2						useitem																													jewf,qty=10																																																										0
-Disenchant Magic Mythical Jewel x3	1			100					2	key,qty=1	mjw,mag,qty=3						useitem																													jewf,qty=15																																																										0
-Disenchant Magic Mythical Jewel x4	1			100					2	key,qty=1	mjw,mag,qty=4						useitem																													jewf,qty=20																																																										0
-Disenchant Magic Mythical Jewel x5	1			100					2	key,qty=1	mjw,mag,qty=5						useitem																													jewf,qty=25																																																										0
-Disenchant Magic Mythical Jewel x6	1			100					2	key,qty=1	mjw,mag,qty=6						useitem																													jewf,qty=30																																																										0
-Disenchant Magic Mythical Jewel x7	1			100					2	key,qty=1	mjw,mag,qty=7						useitem																													jewf,qty=35																																																										0
-Disenchant Magic Mythical Jewel x8	1			100					2	key,qty=1	mjw,mag,qty=8						useitem																													jewf,qty=40																																																										0
-Disenchant Magic Mythical Jewel x9	1			100					2	key,qty=1	mjw,mag,qty=9						useitem																													jewf,qty=45																																																										0
-Disenchant Magic Mythical Jewel x10	1			100					2	key,qty=1	mjw,mag,qty=10						useitem																													jewf,qty=50																																																										0
+Disenchant Magic Mythical Jewel x1	1			100					2	key,qty=1	mjw,mag,qty=1						useitem			100																										jewf,qty=5																																																										0
+Disenchant Magic Mythical Jewel x2	1			100					2	key,qty=1	mjw,mag,qty=2						useitem			100																										jewf,qty=10																																																										0
+Disenchant Magic Mythical Jewel x3	1			100					2	key,qty=1	mjw,mag,qty=3						useitem			100																										jewf,qty=15																																																										0
+Disenchant Magic Mythical Jewel x4	1			100					2	key,qty=1	mjw,mag,qty=4						useitem			100																										jewf,qty=20																																																										0
+Disenchant Magic Mythical Jewel x5	1			100					2	key,qty=1	mjw,mag,qty=5						useitem			100																										jewf,qty=25																																																										0
+Disenchant Magic Mythical Jewel x6	1			100					2	key,qty=1	mjw,mag,qty=6						useitem			100																										jewf,qty=30																																																										0
+Disenchant Magic Mythical Jewel x7	1			100					2	key,qty=1	mjw,mag,qty=7						useitem			100																										jewf,qty=35																																																										0
+Disenchant Magic Mythical Jewel x8	1			100					2	key,qty=1	mjw,mag,qty=8						useitem			100																										jewf,qty=40																																																										0
+Disenchant Magic Mythical Jewel x9	1			100					2	key,qty=1	mjw,mag,qty=9						useitem			100																										jewf,qty=45																																																										0
+Disenchant Magic Mythical Jewel x10	1			100					2	key,qty=1	mjw,mag,qty=10						useitem			100																										jewf,qty=50																																																										0
 																																																																																																								0
-Disenchant Rare Mythical Jewel x1	1			100					2	key,qty=1	mjw,rar,qty=1						useitem																													jewf,qty=10																																																										0
-Disenchant Rare Mythical Jewel x2	1			100					2	key,qty=1	mjw,rar,qty=2						useitem																													jewf,qty=20																																																										0
-Disenchant Rare Mythical Jewel x3	1			100					2	key,qty=1	mjw,rar,qty=3						useitem																													jewf,qty=30																																																										0
-Disenchant Rare Mythical Jewel x4	1			100					2	key,qty=1	mjw,rar,qty=4						useitem																													jewf,qty=40																																																										0
-Disenchant Rare Mythical Jewel x5	1			100					2	key,qty=1	mjw,rar,qty=5						useitem																													jewf,qty=50																																																										0
+Disenchant Rare Mythical Jewel x1	1			100					2	key,qty=1	mjw,rar,qty=1						useitem			100																										jewf,qty=10																																																										0
+Disenchant Rare Mythical Jewel x2	1			100					2	key,qty=1	mjw,rar,qty=2						useitem			100																										jewf,qty=20																																																										0
+Disenchant Rare Mythical Jewel x3	1			100					2	key,qty=1	mjw,rar,qty=3						useitem			100																										jewf,qty=30																																																										0
+Disenchant Rare Mythical Jewel x4	1			100					2	key,qty=1	mjw,rar,qty=4						useitem			100																										jewf,qty=40																																																										0
+Disenchant Rare Mythical Jewel x5	1			100					2	key,qty=1	mjw,rar,qty=5						useitem			100																										jewf,qty=50																																																										0
 																																																																																																								0
-Disenchant Unique Mythical Jewel x1	1			100					2	key,qty=1	mjw,uni,qty=1						useitem																													jewf,qty=25																																																										0
-Disenchant Unique Mythical Jewel x2	1			100					2	key,qty=1	mjw,uni,qty=2						useitem																													jewf,qty=50																																																										0
+Disenchant Unique Mythical Jewel x1	1			100					2	key,qty=1	mjw,uni,qty=1						useitem			100																										jewf,qty=25																																																										0
+Disenchant Unique Mythical Jewel x2	1			100					2	key,qty=1	mjw,uni,qty=2						useitem			100																										jewf,qty=50																																																										0
 																																																																																																								0
 SACRED ORBS - HELMS																																																																																																								0
 																																																																																																								0
@@ -4189,69 +4190,70 @@ OBTAIN RANDOM HELLFORGED UNIQUE																																																	
 Roll the dice	1			100	18	361	0		3	hffd	mfo,qty=5	hfcr,qty=35					useitem				corruptnum	100		0	32766																					mfo,qty=5																													hfcr,qty=35																													0
 																																																																																																								0
 OUTCOME																																																																																																								0
-Hellforged Herald of Zakarum	1			100	16	361	6554		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Herald of Zakarum																													hffd																																																										0
-Hellforged Hellslayer	1			100	16	361	11470		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Hellslayer																													hffd																																																										0
-Hellforged Crackleshot	1			100	16	361	14747		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Crackleshot																													hffd																																																										0
-Hellforged Medusa's Gaze	1			100	16	361	17369		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Medusa's Gaze																													hffd																																																										0
-Hellforged Steelrend	1			100	16	361	19336		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Steelrend																													hffd																																																										0
-Hellforged Harlequin Crest	1			100	16	361	20647		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Harlequin Crest																													hffd																																																										0
-Hellforged Spirit Ward	1			100	16	361	21631		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Spirit Ward																													hffd																																																										0
-Hellforged Bonehew	1			100	16	361	22582		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Bonehew																													hffd																																																										0
-Hellforged Metalgrid	1			100	16	361	23500		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Metalgrid																													hffd																																																										0
-Hellforged Widowmaker	1			100	16	361	24352		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Widowmaker																													hffd																																																										0
-Hellforged Jade Talon	1			100	16	361	25172		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Jade Talon																													hffd																																																										0
-Hellforged Zeraes Resolve	1			100	16	361	25959		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Zeraes Resolve																													hffd																																																										0
-Hellforged Atma's Scarab	1			100	16	361	26713		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Atma's Scarab																													hffd																																																										0
-Hellforged Blackoak Shield	1			100	16	361	27433		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Blackoak Shield																													hffd																																																										0
-Hellforged Steel Carapace	1			100	16	361	28121		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Steel Carapace																													hffd																																																										0
-Hellforged Arachnid Mesh	1			100	16	361	28776		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Arachnid Mesh																													hffd																																																										0
-Hellforged Andariels Visage	1			100	16	361	29398		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Andariels Visage																													hffd																																																										0
-Hellforged Widespread Destruction	1			100	16	361	29987		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Widespread Destruction																													hffd																																																										0
-Hellforged Occultist	1			100	16	361	30544		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Occultist																													hffd																																																										0
-Hellforged Stone of Jordan	1			100	16	361	31068		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Stone of Jordan																													hffd																																																										0
-Hellforged Seraph's Hymn	1			100	16	361	31428		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Seraph's Hymn																													hffd																																																										0
-Hellforged Griffon's Eye	1			100	16	361	31722		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Griffon's Eye																													hffd																																																										0
-Hellforged Bul Kathos Band	1			100	16	361	31984		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Bul Kathos Band																													hffd																																																										0
-Hellforged Death's Web	1			100	16	361	32213		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Death's Web																													hffd																																																										0
-Hellforged Azurewrath	1			100	16	361	32409		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Azurewrath																													hffd																																																										0
-Hellforged The Rising Sun	1			100	16	361	32572		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged The Rising Sun																													hffd																																																										0
-Hellforged Darkforce Spawn	1			100	16	361	32670		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Darkforce Spawn																													hffd																																																										0
-Hellforged Rathmas Hand	1			100	16	361	32735		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Rathmas Hand																													hffd																																																										0
-Hellforged Tyrael's Might	1			100	16	361	32757		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Tyrael's Might																													hffd																																																										0
-Hellforged Headhunter	1			100	16	361	32766		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Headhunter																													hffd																																																										0
+Hellforged Herald of Zakarum	1			100	16	361	6554		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Herald of Zakarum	99																												hffd																																																										0
+Hellforged Hellslayer	1			100	16	361	11470		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Hellslayer	99																												hffd																																																										0
+Hellforged Crackleshot	1			100	16	361	14747		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Crackleshot	99																												hffd																																																										0
+Hellforged Medusa's Gaze	1			100	16	361	17369		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Medusa's Gaze	99																												hffd																																																										0
+Hellforged Steelrend	1			100	16	361	19336		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Steelrend	99																												hffd																																																										0
+Hellforged Harlequin Crest	1			100	16	361	20647		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Harlequin Crest	99																												hffd																																																										0
+Hellforged Spirit Ward	1			100	16	361	21631		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Spirit Ward	99																												hffd																																																										0
+Hellforged Bonehew	1			100	16	361	22582		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Bonehew	99																												hffd																																																										0
+Hellforged Metalgrid	1			100	16	361	23500		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Metalgrid	99																												hffd																																																										0
+Hellforged Widowmaker	1			100	16	361	24352		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Widowmaker	99																												hffd																																																										0
+Hellforged Jade Talon	1			100	16	361	25172		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Jade Talon	99																												hffd																																																										0
+Hellforged Zeraes Resolve	1			100	16	361	25959		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Zeraes Resolve	99																												hffd																																																										0
+Hellforged Atma's Scarab	1			100	16	361	26713		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Atma's Scarab	99																												hffd																																																										0
+Hellforged Blackoak Shield	1			100	16	361	27433		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Blackoak Shield	99																												hffd																																																										0
+Hellforged Steel Carapace	1			100	16	361	28121		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Steel Carapace	99																												hffd																																																										0
+Hellforged Arachnid Mesh	1			100	16	361	28776		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Arachnid Mesh	99																												hffd																																																										0
+Hellforged Andariels Visage	1			100	16	361	29398		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Andariels Visage	99																												hffd																																																										0
+Hellforged Widespread Destruction	1			100	16	361	29987		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Widespread Destruction	99																												hffd																																																										0
+Hellforged Occultist	1			100	16	361	30544		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Occultist	99																												hffd																																																										0
+Hellforged Stone of Jordan	1			100	16	361	31068		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Stone of Jordan	99																												hffd																																																										0
+Hellforged Seraph's Hymn	1			100	16	361	31428		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Seraph's Hymn	99																												hffd																																																										0
+Hellforged Griffon's Eye	1			100	16	361	31722		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Griffon's Eye	99																												hffd																																																										0
+Hellforged Bul Kathos Band	1			100	16	361	31984		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Bul Kathos Band	99																												hffd																																																										0
+Hellforged Death's Web	1			100	16	361	32213		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Death's Web	99																												hffd																																																										0
+Hellforged Azurewrath	1			100	16	361	32409		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Azurewrath	99																												hffd																																																										0
+Hellforged The Rising Sun	1			100	16	361	32572		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged The Rising Sun	99																												hffd																																																										0
+Hellforged Darkforce Spawn	1			100	16	361	32670		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Darkforce Spawn	99																												hffd																																																										0
+Hellforged Rathmas Hand	1			100	16	361	32735		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Rathmas Hand	99																												hffd																																																										0
+Hellforged Tyrael's Might	1			100	16	361	32757		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Tyrael's Might	99																												hffd																																																										0
+Hellforged Headhunter	1			100	16	361	32766		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Headhunter	99																												hffd																																																										0
 																																																																																																								0
 OBTAIN TARGETED HELLFORGED UNIQUE																																																																																																								0
 																																																																																																								0
-Hellforged Herald of Zakarum	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Herald of Zakarum				Hellforged Herald of Zakarum																													hffd																																																										0
-Hellforged Hellslayer	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Hellslayer				Hellforged Hellslayer																													hffd																																																										0
-Hellforged Crackleshot	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Crackleshot				Hellforged Crackleshot																													hffd																																																										0
-Hellforged Medusa's Gaze	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Medusa's Gaze				Hellforged Medusa's Gaze																													hffd																																																										0
-Hellforged Steelrend	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Steelrend				Hellforged Steelrend																													hffd																																																										0
-Hellforged Harlequin Crest	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Harlequin Crest				Hellforged Harlequin Crest																													hffd																																																										0
-Hellforged Spirit Ward	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Spirit Ward				Hellforged Spirit Ward																													hffd																																																										0
-Hellforged Bonehew	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Bonehew				Hellforged Bonehew																													hffd																																																										0
-Hellforged Metalgrid	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Metalgrid				Hellforged Metalgrid																													hffd																																																										0
-Hellforged Widowmaker	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Widowmaker				Hellforged Widowmaker																													hffd																																																										0
-Hellforged Jade Talon	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Jadetalon				Hellforged Jade Talon																													hffd																																																										0
-Hellforged Zeraes Resolve	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Zeraes Resolve				Hellforged Zeraes Resolve																													hffd																																																										0
-Hellforged Atma's Scarab	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Atma's Scarab				Hellforged Atma's Scarab																													hffd																																																										0
-Hellforged Blackoak Shield	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Blackoak Shield				Hellforged Blackoak Shield																													hffd																																																										0
-Hellforged Steel Carapace	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Steel Carapice				Hellforged Steel Carapace																													hffd																																																										0
-Hellforged Arachnid Mesh	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Arachnid Mesh				Hellforged Arachnid Mesh																													hffd																																																										0
-Hellforged Andariels Visage	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Andariel's Visage				Hellforged Andariels Visage																													hffd																																																										0
-Hellforged Widespread Destruction	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Widespread Destruction				Hellforged Widespread Destruction																													hffd																																																										0
-Hellforged Occultist	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Occultist				Hellforged Occultist																													hffd																																																										0
-Hellforged Stone of Jordan	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	The Stone of Jordan				Hellforged Stone of Jordan																													hffd																																																										0
-Hellforged Seraph's Hymn	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Seraph's Hymn				Hellforged Seraph's Hymn																													hffd																																																										0
-Hellforged Griffon's Eye	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Griffon's Eye				Hellforged Griffon's Eye																													hffd																																																										0
-Hellforged Bul Kathos Band	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Bul Katho's Wedding Band				Hellforged Bul Kathos Band																													hffd																																																										0
-Hellforged Death's Web	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Deaths's Web				Hellforged Death's Web																													hffd																																																										0
-Hellforged Azurewrath	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Azurewrath				Hellforged Azurewrath																													hffd																																																										0
-Hellforged The Rising Sun	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	The Rising Sun				Hellforged The Rising Sun																													hffd																																																										0
-Hellforged Darkforce Spawn	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Darkforge Spawn				Hellforged Darkforce Spawn																													hffd																																																										0
-Hellforged Rathmas Hand	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Rathmas Hand				Hellforged Rathmas Hand																													hffd																																																										0
-Hellforged Tyrael's Might	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Tyrael's Might				Hellforged Tyrael's Might																													hffd																																																										0
-Hellforged Headhunter	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Headhunter				Hellforged Headhunter																													hffd																																																										0
+Hellforged Herald of Zakarum	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Herald of Zakarum				Hellforged Herald of Zakarum	99																												hffd																																																										0
+Hellforged Hellslayer	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Hellslayer				Hellforged Hellslayer	99																												hffd																																																										0
+Hellforged Crackleshot	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Crackleshot				Hellforged Crackleshot	99																												hffd																																																										0
+Hellforged Medusa's Gaze	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Medusa's Gaze				Hellforged Medusa's Gaze	99																												hffd																																																										0
+Hellforged Steelrend	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Steelrend				Hellforged Steelrend	99																												hffd																																																										0
+Hellforged Harlequin Crest	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Harlequin Crest				Hellforged Harlequin Crest	99																												hffd																																																										0
+Hellforged Spirit Ward	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Spirit Ward				Hellforged Spirit Ward	99																												hffd																																																										0
+Hellforged Bonehew	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Bonehew				Hellforged Bonehew	99																												hffd																																																										0
+Hellforged Metalgrid	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Metalgrid				Hellforged Metalgrid	99																												hffd																																																										0
+Hellforged Widowmaker	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Widowmaker				Hellforged Widowmaker	99																												hffd																																																										0
+Hellforged Jade Talon	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Jadetalon				Hellforged Jade Talon	99																												hffd																																																										0
+Hellforged Zeraes Resolve	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Zeraes Resolve				Hellforged Zeraes Resolve	99																												hffd																																																										0
+Hellforged Atma's Scarab	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Atma's Scarab				Hellforged Atma's Scarab	99																												hffd																																																										0
+Hellforged Blackoak Shield	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Blackoak Shield				Hellforged Blackoak Shield	99																												hffd																																																										0
+Hellforged Steel Carapace	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Steel Carapice				Hellforged Steel Carapace	99																												hffd																																																										0
+Hellforged Arachnid Mesh	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Arachnid Mesh				Hellforged Arachnid Mesh	99																												hffd																																																										0
+Hellforged Andariels Visage	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Andariel's Visage				Hellforged Andariels Visage	99																												hffd																																																										0
+Hellforged Widespread Destruction	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Widespread Destruction				Hellforged Widespread Destruction	99																												hffd																																																										0
+Hellforged Occultist	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Occultist				Hellforged Occultist	99																												hffd																																																										0
+Hellforged Stone of Jordan	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	The Stone of Jordan				Hellforged Stone of Jordan	99																												hffd																																																										0
+Hellforged Seraph's Hymn	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Seraph's Hymn				Hellforged Seraph's Hymn	99																												hffd																																																										0
+Hellforged Griffon's Eye	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Griffon's Eye				Hellforged Griffon's Eye	99																												hffd																																																										0
+Hellforged Bul Kathos Band	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Bul Katho's Wedding Band				Hellforged Bul Kathos Band	99																												hffd																																																										0
+Hellforged Death's Web	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Deaths's Web				Hellforged Death's Web	99																												hffd																																																										0
+Hellforged Azurewrath	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Azurewrath				Hellforged Azurewrath	99																												hffd																																																										0
+Hellforged The Rising Sun	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	The Rising Sun				Hellforged The Rising Sun	99																												hffd																																																										0
+Hellforged Darkforce Spawn	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Darkforge Spawn				Hellforged Darkforce Spawn	99																												hffd																																																										0
+Hellforged Rathmas Hand	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Rathmas Hand				Hellforged Rathmas Hand	99																												hffd																																																										0
+Hellforged Tyrael's Might	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Tyrael's Might				Hellforged Tyrael's Might	99																												hffd																																																										0
+Hellforged Headhunter	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Headhunter				Hellforged Headhunter	99																												hffd																																																										0
 																																																																																																								0
-BUGFIX																																																																																																								0
-Spawn Malah resistance scroll	1			100					2	key,qty=1	tsc,qty=1						tr2																																																																																							0
+BUGFIX - MALAH SCROLL																																																																																																								0
+Spawn Malah resistance scroll	1			100					2	key,qty=1	tsc,qty=1						useitem			100																										tr2																																																										0
+																																																																																																								0
