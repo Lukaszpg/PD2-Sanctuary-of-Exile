@@ -62,5 +62,5 @@ ImperialMiniBoss	aura	100	109	15	15																										aura	100	109	15	15	
 horrorofopulence																																																													knock			1	1																										0
 lazarusminion																																																													curse-res	100		100	100	aura	100	119	20	20																					0
 uberlazarus																																																													curse-res	100		95	95	res-pois-len	100		50	50																					0
-lazarusclone																																																													curse-res	100		100	100	aura	100	662	30	30																					0
-abysshordegt																																																													curse-res	100		35	35																										0
+lazarusclone																																																													curse-res	100		100	100	aura	100	119	20	20																					0
+abysshordegt																																																													curse-res	100		15	15																										0

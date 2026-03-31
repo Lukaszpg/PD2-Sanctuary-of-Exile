@@ -28,7 +28,7 @@ Rixots Keen	0	1		1	1	3	2	ssd	Short Sword			5	5000	blac	blac						dmg-min		5	5	at
 Blood Crescent	0	1		1	1	10	7	scm	Scimitar			5	5000	lblu			invscmu				res-all		15	15	dmg%		40	60	Deep-Wounds		4	4	light		4	4	openwounds		33	33	swing2		15	15	lifesteal		15	15																	splash	358	100	1	0
 Krintizs Skewer	0	1		1	1	14	10	sbr	Saber			5	5000	cblu			inv9sbu				ignore-ac		1	1	str		10	10	dex		10	10	manasteal		7	7	dmg%		50	70	dmg-norm		5	10																					splash	358	100	1	0
 Gleamscythe	0	1		1	1	18	13	flc	Falchion			5	5000	lred			invflcu				light		3	3	mana		30	30	ac		20	20	swing2		20	20	dmg%		60	100	cold-min		3	6	cold-max		6	10	cold-len		50	50													splash	358	100	1	0
-Azurewrath	0	0		0		18	13	crs	Crystal Sword			5	5000	lgry			invcrsu				deadly		50	50	mag%		10	10	dmg-cold	100	3	6	dmg%		100	100	dur		25	25	dmg-mag		5	10																					splash	358	100	1	0
+Azurewrath_disabled	0	0		0		18	13	crs	Crystal Sword			5	5000	lgry			invcrsu				deadly		50	50	mag%		10	10	dmg-cold	100	3	6	dmg%		100	100	dur		25	25	dmg-mag		5	10																					splash	358	100	1	0
 Griswolds Edge	0	1		1	1	23	17	bsd	Broad Sword			5	5000	cred			invbsdu				fire-min		20	25	fire-max		30	35	att		100	100	swing1		30	30	dmg%		80	120	str		12	12																					splash	358	100	1	0
 Hellplague	0	1		1	1	30	22	lsd	Long Sword			5	5000	dred			invlsdu				manasteal		5	5	lifesteal		5	5	pois-min		48	48	pois-max		96	96	pois-len		150	150	dmg%		70	80	dmg-fire		25	75	fireskill		2	2													splash	358	100	1	0
 Culwens Point	0	1		1	1	39	29	wsd	War Sword			5	5000	whit	whit						allskills		1	1	res-pois-len		50	50	balance2		20	20	swing2		20	20	att		60	120	dmg%		120	150																					splash	358	100	1	0
@@ -338,7 +338,7 @@ Shadowkiller	100	1		1	1	85	78	7cs	battle cestus			5	5000				invaxfu				dmg%		170
 Gimmershred	100	1		1	1	78	70	7ta	flying axe			5	5000	lgrn							dmg%		190	240	dmg-fire		258	523	dmg-cold	100	216	437	dmg-ltng		29	581	swing2		30	30																									splash	358	100	1	0
 Griffon's Eye	100	1		1	1	84	76	ci3	diadem			5	5000								ac		100	200	cast2		25	25	allskills		1	1	extra-ltng		10	15	pierce-ltng		15	20																													0
 Windhammer	100	1		1	1	76	68	7m7	ogre maul			5	5000	cblu	cblu		invmau				dmg%		230	280	crush		50	50	swing2		40	40	hit-skill	Twister	33	35																													splash	358	100	1	0
-Thunderstroke	100	1		1	1	77	69	amf	matriarchal javelin			5	5000	dblu	dblu						dmg%		200	250	dmg-ltng		1	511	hit-skill	Lightning	20	28	swing2		15	15	pierce-ltng		10	10	skill	Lightning Bolt	3	3	skilltab	2	2	3																	splash	358	100	1	0
+Thunderstroke	100	1		1	1	77	69	amf	matriarchal javelin			5	5000	dblu	dblu						dmg%		200	250	dmg-ltng		1	511	hit-skill	Chain Lightning	20	28	swing2		15	15	pierce-ltng		10	10	skill	Lightning Bolt	3	3	skilltab	2	2	3																	splash	358	100	1	0
 Armageddon Blade	100			1								5	5000	oran			invarmageddonblade																																																				0
 Demon's Arch	100	1		1	1	76	68	7s7	balrog spear			5	5000	cred	cred						dmg%		210	310	dmg-fire		232	323	lifesteal		6	12	pierce-fire		10	20	swing2		30	30	dmg-ltng		1	666	pierce-ltng		10	20																	splash	358	100	1	0
 Boneflame	100	1		1	1	80	72	nee	succubae skull			3	5000	dred	dred						ac%		120	150	move2		30	30	gethit-skill	Terror	5	3	nec		3	3	res-all		20	30	heal-kill		4	8	red-dmg%		10	20																					0
@@ -554,7 +554,7 @@ Progenesis	100	1		1	1	131	90	cm2	large charm	1		3	5000				invprgn				phys-absorb
 Venomous Spindle	100	1		1	1	87	72	cqv3	Bolts			3	5000				invvnsp				ama		2	2	pierce-pois		20	30	pois-min		3100	3100	pois-max		3600	3600	pois-len		50	50	skilltab	0	2	2	noheal		1	1																					0
 Glacial Tempest	100	1		1	1	87	72	aqv3	Arrows			3	5000				invgltt				swing3		25	30	coldskill		3	3	lifesteal		4	5	str-and-vit		15	15	freeze		1	1																									pierce-cold		6	6	0
 Gaze of the Abyss	100	1		1	1	131	75	amu	amulet	1		3	5000				invgota				static-modifier-display	1287	1	1	equipped-skill-hidden	643	30	30	mana/lvl		35	45	mana%		25	30																																	0
-DevCharm	100	0		0	1	131	90	cm1	charm	1		3	5000				devcharm				swing3		300	300	hp%		500	500	res-all		200	200	mana-and-life-steal		25	25	red-dmg%		99	99	res-phys-max		50	50	res-all-max		25	25	mana		500	500	dmg%		1000	1000	pierce		100	100	mana%		500	500	allskills		40	40	0
+DevCharm	100	0		0	1	131	90	cm1	charm	1		3	5000				devcharm				swing3		300	300	hp%		500	500	res-all		200	200	mana-and-life-steal		25	25	red-dmg%		99	99	res-phys-max		50	50	res-all-max		25	25	mana		500	500	dmg%		1000	1000	all-stats		900	900	mana%		500	500	allskills		40	40	0
 Seven-League Step	100	1		1	1	12	1	lbt	Leather Boots			5	5000				invsvls				move2		80	100	aura	115	1	1																																									0
 Goldrim	100	1		1	1	26	1	sh1	shabby hood			3	5000				invgldm				allskills		1	1	res-all		40	50	mag%		45	50	sock		2	2																																	0
 Manastorm	100	1		1	1	55	50	bqs	baroque round shield			5	5000				invmnst				mana-kill		1	6	regen-mana		1	40	mana%		1	45	mana		1	100	ac%		100	150																													0
@@ -562,7 +562,7 @@ Transcendent Mind Charm	100	1		1	1	87	65	cm4	ornate charm	1		3	5000				invocha		
 Temporalis	100	1		1	1	131	85	tro3	enlightened robe	1		5	5000	dgld			invtemp				ac%		80	100	res-all		15	20	mana		100	120	mana%		15	20	cooldown-reduction-fixed		1	2																													0
 Amalgamation	100	1		1	1	131	75	amu	amulet	1		3	5000				invamal				static-modifier-display	1276	1	1																																													0
 Hellforged Metalgrid	100	1		1	1	131	81	amu	amulet			5	5000	dred	dred						thorns		750	1000	res-all		25	35	oskill	IronGolem	25	25	charged	Iron Maiden Proc	20	12	ac		300	350	oskill	golem mastery	20	20	static-modifier-display	1288	1	1	equipped-skill-hidden	651	1	1																	0
-Hellforged Widespread Destruction	100	1		1	1	131	1	mjw	mythic jewel	1		5	5000	dred	dred		invwsds				skill-aoe		2	3																																													0
+Hellforged Widespread	100	1		1	1	131	1	mjw	mythic jewel	1		5	5000	dred	dred		invwsds				skill-aoe		2	3																																													0
 Hellforged Stone of Jordan	100	1		1	1	131	29	rin	Ring			5	5000	dred	dred						hp%		5	7	dmg-ltng		1	120	allskills		1	1	curse-effect		3	5																																	0
 Hellforged Arachnid Mesh	100	1		1	1	131	80	ulc	spiderweb sash			5	5000	dred	dred						allskills		2	2	slow		20	20	res-pois-max		10	15																																					0
 Tides	100	1		1	1	131	75	utc	troll belt			5	5000				invtiot				skill-frequency		30	40	curse-res		25	25	cast2		30	40	move2		25	25	action-speed		5	5																													0
@@ -588,7 +588,7 @@ Hellforged Zeraes Resolve	100	1		1	1	131	76	ame	Matriarchal Pike			5	5000	dred	d
 Hellforged The Rising Sun	100	1		5	1	131	65	amu	Amulet			5	5000	dred	dred						light		4	4	cast-skill	661	6	35	extra-fire		5	10	fireskill		1	2	regen		10	10	pierce-fire		4	8																									0
 DevCharm Caster	100	0		0	1	131	90	cm1	charm	1		3	5000				devcharm				swing3		300	300	hp%		2000	2000	res-all		200	200	cast3		200	200	red-dmg%		99	99	res-phys-max		50	50	res-all-max		25	25	mana		2000	2000	dmg%		1000	1000	pierce		100	100	mana%		666	666	allskills		40	40	0
 Hellforged Herald of Zakarum	100	1		1	1	131	42	pa9	Aerin Shield			5	5000	dred	dred						skilltab	9	1	2	dmg%		80	100	block2		30	30	block		30	30	str		15	25	vit		15	25	att		350	400	res-all		40	40																	0
-Hellforged Azurewrath	100	1		1	1	131	85	7cr	phase blade	1		5	5000	dred	dred		invcrs				dmg-mag		750	900	dmg%		280	320	aura	Sanctuary	10	12	swing2		30	30	all-stats		5	10	light		3	3	allskills		2	2	hit-skill	381	15	40													splash	358	100	1	0
+Hellforged Azurewrath	100	1		1	1	131	85	7cr	phase blade	1		5	5000	dred	dred		invcrs				dmg-mag		750	900	dmg%		280	320	aura	Sanctuary	10	12	swing2		30	30	all-stats		5	10	light		3	3	allskills		2	2	hit-skill	381	15	60													splash	358	100	1	0
 Hellforged Blackoak Shield	100	1		1	1	131	61	uml	Luna			3	5000	dred	dred		invsmlu				dex/lvl	4			ac%		160	200	res-phys-max		1	1	equipped-skill	Fade	6	9	dur		45	45	hp/lvl	10			block2		50	50	nofreeze		1	1																	0
 Lachdanans Sacrifice	100	0		1	1	131	85	7gd	Colossus Blade			5	5000	dred	dred		invlach				regen		-30	-30	allskills		2	2	dmg%/missinghp%		2	2	lifesteal-cap		50	50	dmg-norm		290	320	hp%		25	35	splash%/missinghp%		2	2	static-modifier-display-lore	1306	1	1													splash	358	100	1	0
 Hellforged Rathmas Hand	100	1		0	1	131	80	7gw	Unearthed Wand	1		3	5000	dred	dred		invrthn				allskills		2	2	cast2		25	25	maxcurse		1	1	pierce-mag		10	20	skilltab	6	1	2																													0
@@ -603,3 +603,4 @@ Hellforged Andariels Visage	100	1		1	1	131	83	usk	demonhead	1		3	5000	dred	dred	
 Hellforged Bonehew	100	1		1	1	131	64	7o7	ogre axe			3	5000	dred	dred						dmg%		270	320	hit-skill	Soulrend	40	25	noheal		1	1	sock		2	4	curse-effectiveness		10	20	swing2		30	30	oskill	Perforate	10	10																	splash	358	100	1	0
 Hellforged Bul Kathos Band	100	1		1	1	131	58	rin	Ring			5	5000	dred	dred						pierce-phys		3	5	allskills		1	1	mana-kill		2	4	stam		50	50																																	0
 Hellforged Headhunter	100	1		1	1	131	90	uhc	Colossus Girdle	1		5	5000	dred	dred		invheha				cast-skill-hidden	663	100	1	hit-skill-hidden	663	100	1	hp%		10	15	str		40	55	dex		40	55	static-modifier-display	1307	1	1																									0
+Hellforged Mara's	100	1		1	1	131	67	amu	Amulet			5	5000	dred	dred						skill-aoe-flat		1	3	res-all		20	30	all-stats		5	8	skill-aoe		9	12																																	0

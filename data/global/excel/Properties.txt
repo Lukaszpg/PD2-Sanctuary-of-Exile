@@ -477,3 +477,4 @@ static-modifier-display-lore	1			24	static_modifier_display_lore																
 map-glob-add-terror	1			1	map_glob_add_terror			24	static_modifier_display_map																									379	0
 map-glob-boss-dropubermats	1			1	map_glob_boss_dropubermats																													433	0
 hit-skill-hidden	1			11	item_skillonhit																									Proc Skill on Hit	Skill #	% Chance	Level	127	0
+skill-aoe-flat	1			1	item_skill_aoe_flat																														0

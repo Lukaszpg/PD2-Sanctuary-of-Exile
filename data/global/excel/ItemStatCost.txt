@@ -87,7 +87,7 @@ unsentparam1	84																1024		3	0																																0
 item_addexperience	85		1	12											36015	519	1024		12	0	12	50																	11	4	1	Moditem2ExpG	Moditem2ExpG									0
 item_healafterkill	86		1	7							1				30	101	1024		7	0	7	0													kill	28			16	1	1	ModitemHPaK	ModitemHPaK									0
 item_reducedprices	87			8											18957	203	1024		3	0	7	0																	8	2	2	ModitemRedVendP	ModitemRedVendP									0
-unused99	88		1	2													1024		16	0	16	0																														0
+item_doubleherbduration	88		1	2													1024		1	0	1	0																														0
 item_lightradius	89		1	5							1				15	51	1024		4	4	4	4																	6	1	1	ModStr3f	ModStr3f									0
 item_lightcolor	90		1	24							1				155	0	1024		5	0	24	0																														0
 item_req_percent	91		1	8											26	-34	1024		8	100	8	100																	0	4	2	ModStr3h	ModStr3h									0
@@ -288,7 +288,7 @@ static_modifier_display_lore	285			16	16						1								16	0	16	0	16											1	
 item_cooldown_reduction	286		1	10													1024		7	10	10	10																	180	4	1	StrCooldownReduction	StrCooldownReduction									0
 item_hh_souls	287		1	16													1024		16	16	16	16																	0	3	0											0
 item_skillonhit_display	288		1	10	16						1			2	190	256	1024		21	0	10	0	16																160	15		ItemExpansiveChanc1	ItemExpansiveChanc1									0
-unused3	289		1	5													1024		6		5																		240	9	2	StrExtraBoneSpirits	StrExtraBoneSpirits	ExtraBoneSpirits								0
+item_skill_aoe_flat	289		1	8													1024		8	8	8	8	8																240	9	2	StrSkillAoeFlat	StrSkillAoeFlat	StrYards								0
 unused4	290		1	5													1024		6		6																		160	3	0	StrLightMasPiercePerStr	StrLightMasPiercePerStr									0
 item_nonclassskill_hidden	291		1	15	9						1			1	181	327	1024		10	20	16	0	16																													0
 item_sacred	292		1	5													1024		6		6																		250	3	0	StrSacred	StrSacred									0
@@ -359,7 +359,7 @@ questitemdifficulty	356																1024				2	0																														
 passive_mag_mastery	357		1	12											1211	431	1024		8	0	9	50																	88	4	1	ModitemdamMagisk	ModitemdamMagisk									0
 passive_mag_pierce	358		1	9												2812	1024		8	0	8	0																	88	20	1	StrMagPierce	StrMagPierce									0
 item_splashonhit	359		1	7	16						1			2	190	256	1024		21	0	7	0	16											1	domeleedamage	20			245	15	0	splash3	splash3									0
-corrupted	360			10	10										54	204	1024		8	0	10	0	10																255	3	0	StrCorrupted	StrCorrupted									0
+corrupted	360			10	10										54	204	1024		8	0	10	0	10																246	3	0	StrCorrupted	StrCorrupted									0
 corruptor	361			1	16											54	1024				16	0																	245	0	0	StrCorruptNum	StrCorruptNum									0
 item_elemskill_cold	362		1	16	16						1				76	1024	1024		16	0	16	0	16																157	1	1	ModStrColdskills	ModStrColdskills									0
 item_elemskill_fire	363		1	16	16						1				76	1024	1024		16	0	16	0	16																157	1	1	ModStrFireskills	ModStrFireskills									0

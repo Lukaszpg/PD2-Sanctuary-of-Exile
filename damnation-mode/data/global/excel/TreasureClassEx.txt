@@ -63,7 +63,7 @@ Dummy																																0
 Dummy																																0
 Terrors T3			1					5	troe	1	tror	1	troa	1																		0
 Chisels			1					0	ccsa	3	ccpr	2																				0
-Scarabs			1					0	scnm	2	scas	2	sccn	1																		0
+Scarabs			1					0	scnm	1	scas	2	sccn	2																		0
 Map currency T1			2					0	Scarabs	35	Chisels	35	wss	30																		0
 Map currency T2			2					0	Scarabs	35	Chisels	35	wss	30																		0
 Map currency T3			2					0	Scarabs	33	Chisels	33	wss	31	Terrors T3	3																0
@@ -1083,7 +1083,7 @@ Dungeon Map Currency		92	2					0	Dungeon Chisels	2	Dungeon Scarabs	1												
 Dungeon Sacred Orb		92	1					2	sror	1																						0
 Dungeon Good		92	1					0	Jewelry C	121	Runes 17 equiv	28	T3 Map Drop No Infernal No T4	9	Dungeon Map Currency	6	Dungeon Mythic or Charms	5	Dungeon Sacred Orb	4	Dungeon Terrors	1										0
 Dungeon Citem		92	1	900	830	850	1024	0	"gld,mul=1280"	60	Dungeon 5 (H) Equip C	37	Dungeon Good	4																		0
-Dungeon Uitem		92	1	950	830	850	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4																				0
+Dungeon Uitem		92	1	970	830	850	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4																				0
 Dungeon Champ		92	-2					0	Dungeon Citem	1	Dungeon Cpot	3																				0
 Dungeon Unique		92	-3					0	Dungeon Uitem	1	Dungeon Cpot	2																				0
 Dungeon Norm		92	1					95	gld	316	Dungeon 5 (H) Equip C	241	Act 1 (H) Junk	316	Dungeon Good	30																0
@@ -1140,9 +1140,9 @@ Cinder or Cluster Champion		87	1					0	hfmx	1	hfcr	7
 Cinder or Cluster H2H		87	1					0	hfmx	1	hfcr	10																				0
 Superior Abyss Cpot		87	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
 Superior Abyss Citem		87	1	900	830	850	1024	0	gld	55	Act 5 (H) Equip C	36	Map Good t3	4	Cinder or Cluster Champion	8																0
-Superior Abyss Uitem		87	1	950	830	850	1024	0	Act 5 (H) Equip C	50	Map Good t3	4	Cinder or Cluster Unique	8																		0
-Superior Abyss Sacred		87	1					8	sror	1																						0
-Superior Horde H2H		87	1					85	gld	297	Act 5 (H) Equip C	226	Act 1 (H) Junk	275	Map Good t3	40	Cinder or Cluster H2H	25	Superior Abyss Sacred	1												0
+Superior Abyss Uitem		87	1	960	830	850	1024	0	Act 5 (H) Equip C	50	Map Good t3	4	Cinder or Cluster Unique	8																		0
+Superior Abyss Sacred		87	1					5	sror	1																						0
+Superior Horde H2H		87	1					70	gld	297	Act 5 (H) Equip C	226	Act 1 (H) Junk	275	Map Good t3	50	Cinder or Cluster H2H	25	Superior Abyss Sacred	1												0
 Superior Horde Champ		87	-2					0	Superior Abyss Citem	1	Superior Abyss Cpot	3																				0
 Superior Horde Unique		87	-3					0	Superior Abyss Uitem	1	Superior Abyss Cpot	2																				0
 LS Horde Uitem t1		87	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Map Good t1	4	Cinder or Cluster Unique	3																		0
@@ -1151,9 +1151,9 @@ LS Horde Uitem t3		89	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Map Good t3	4	Ci
 LS Horde Citem t1		87	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t1	4	Cinder or Cluster Champion	3																0
 LS Horde Citem t2		88	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t2	4	Cinder or Cluster Champion	3																0
 LS Horde Citem t3		89	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t3	4	Cinder or Cluster Champion	3																0
-LS Horde T1 H2H	35	87	1					95	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t1	31	Cinder or Cluster H2H	13														0
-LS Horde T2 H2H	36	88	1					95	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t2	31	Cinder or Cluster H2H	14														0
-LS Horde T3 H2H	37	89	1					95	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t3	31	Cinder or Cluster H2H	15														0
+LS Horde T1 H2H	35	87	1					94	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t1	31	Cinder or Cluster H2H	15														0
+LS Horde T2 H2H	36	88	1					94	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t2	31	Cinder or Cluster H2H	16														0
+LS Horde T3 H2H	37	89	1					94	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t3	31	Cinder or Cluster H2H	17														0
 LS Horde Champ T1	38	87	-2					0	LS Horde Citem t1	1	Act 5 (H) Cpot C	3																				0
 LS Horde Champ T2	39	88	-2					0	LS Horde Citem t2	1	Act 5 (H) Cpot C	3																				0
 LS Horde Champ T3	40	89	-2					0	LS Horde Citem t3	1	Act 5 (H) Cpot C	3																				0
@@ -1174,21 +1174,21 @@ Horde Act 2 (N) H2H		45	1					95	gld	316	Act 2 (N) Equip B	241	Act 2 (N) Junk	31
 Horde Act 3 (N) H2H		50	1					95	gld	316	Act 3 (N) Equip B	241	Act 3 (N) Junk	316	Act 3 (N) Good	30	Cinder LoD	8														0
 Horde Act 4 (N) H2H		54	1					95	gld	316	Act 4 (N) Equip B	241	Act 4 (N) Junk	316	Act 4 (N) Good	30	Cinder LoD	8														0
 Horde Act 5 (N) H2H		62	1					95	gld	316	Act 5 (N) Equip C	241	Act 5 (N) Junk	316	Act 5 (N) Good	30	Cinder LoD	8														0
-Horde Act 1 (H) H2H		68	1					95	gld	316	Act 1 (H) Equip B	241	Act 1 (H) Junk	316	Act 1 (H) Good	30	Cinder LoD	8														0
-Horde Act 2 (H) H2H		73	1					95	gld	316	Act 2 (H) Equip B	241	Act 1 (H) Junk	316	Act 2 (H) Good	30	Cinder LoD	8														0
-Horde Act 3 (H) H2H		77	1					95	gld	316	Act 3 (H) Equip B	241	Act 1 (H) Junk	316	Act 3 (H) Good	30	Cinder LoD	8														0
-Horde Act 4 (H) H2H		80	1					95	gld	316	Act 4 (H) Equip B	241	Act 1 (H) Junk	316	Act 4 (H) Good	30	Cinder LoD	8														0
-Horde Act 5 (H) H2H		85	1					95	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Act 5 (H) Good	30	Cinder LoD	8														0
+Horde Act 1 (H) H2H		68	1					91	gld	316	Act 1 (H) Equip B	241	Act 1 (H) Junk	316	Act 1 (H) Good	30	Cinder LoD	12														0
+Horde Act 2 (H) H2H		73	1					91	gld	316	Act 2 (H) Equip B	241	Act 1 (H) Junk	316	Act 2 (H) Good	30	Cinder LoD	12														0
+Horde Act 3 (H) H2H		77	1					91	gld	316	Act 3 (H) Equip B	241	Act 1 (H) Junk	316	Act 3 (H) Good	30	Cinder LoD	12														0
+Horde Act 4 (H) H2H		80	1					91	gld	316	Act 4 (H) Equip B	241	Act 1 (H) Junk	316	Act 4 (H) Good	30	Cinder LoD	12														0
+Horde Act 5 (H) H2H		85	1					91	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Act 5 (H) Good	30	Cinder LoD	12														0
 Horde Act 1 (N) CItem		41	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 (N) Equip B	37	Act 1 (N) Good	3	Cinder LoD	1																0
 Horde Act 2 (N) CItem		45	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 2 (N) Equip B	37	Act 2 (N) Good	3	Cinder LoD	1																0
 Horde Act 3 (N) CItem		50	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 3 (N) Equip B	37	Act 3 (N) Good	3	Cinder LoD	1																0
 Horde Act 4 (N) CItem		54	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 4 (N) Equip B	37	Act 4 (N) Good	3	Cinder LoD	1																0
 Horde Act 5 (N) CItem		62	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (N) Equip C	37	Act 5 (N) Good	3	Cinder LoD	1																0
-Horde Act 1 (H) CItem		68	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 (H) Equip B	37	Act 1 (H) Good	3	Cinder LoD	1																0
-Horde Act 2 (H) CItem		72	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 2 (H) Equip B	37	Act 2 (H) Good	3	Cinder LoD	1																0
-Horde Act 3 (H) CItem		77	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 3 (H) Equip B	37	Act 3 (H) Good	3	Cinder LoD	1																0
-Horde Act 4 (H) CItem		80	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 4 (H) Equip B	37	Act 4 (H) Good	3	Cinder LoD	1																0
-Horde Act 5 (H) CItem		85	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Act 5 (H) Good	3	Cinder LoD	1																0
+Horde Act 1 (H) CItem		68	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 (H) Equip B	37	Act 1 (H) Good	3	Cinder LoD	2																0
+Horde Act 2 (H) CItem		72	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 2 (H) Equip B	37	Act 2 (H) Good	3	Cinder LoD	2																0
+Horde Act 3 (H) CItem		77	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 3 (H) Equip B	37	Act 3 (H) Good	3	Cinder LoD	2																0
+Horde Act 4 (H) CItem		80	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 4 (H) Equip B	37	Act 4 (H) Good	3	Cinder LoD	2																0
+Horde Act 5 (H) CItem		85	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Act 5 (H) Good	3	Cinder LoD	2																0
 Horde Act 1 (N) Champ		41	-2					0	Horde Act 1 (N) CItem	1	Act 1 (N) Cpot C	2																				0
 Horde Act 2 (N) Champ		45	-2					0	Horde Act 2 (N) CItem	1	Act 2 (N) Cpot C	2																				0
 Horde Act 3 (N) Champ		50	-2					0	Horde Act 3 (N) CItem	1	Act 3 (N) Cpot C	2																				0

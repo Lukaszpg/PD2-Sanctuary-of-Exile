@@ -416,7 +416,7 @@ CORRUPT ORB ITEM ROLLING	0																																																						
 AMALGAMATION CORRUPTING																																																																																																								0
 Demonic Cube block	1	1		100					2	Amalgamation	imrn,qty=1						key,qty=1			100																																																																																				0
 Check if does not have 5 corrupt	1	1		100	15	209	5		2	Amalgamation	"wss,qty=1"						useitem			100																																																																																				0
-Roll it!	1	2		100	16	361	0		2	Amalgamation	"wss,qty=1"						useitem			100	corruptnum	100		1	32																					"wss,qty=1"																																																										0
+Roll it!	1	2		100	16	361	0		2	Amalgamation	"wss,qty=1"						useitem			100	corruptnum	100		1	24																					"wss,qty=1"																																																										0
 Tier 1																																																																																																								0
 item -> added mod 5	1	1		100	16	361	1		2	Amalgamation	"wss,qty=1"						useitem			100	corrupted-multi	100		1	1	corruptnum	100		-5	-5	res-fire	100		15	20																																																																					0
 item -> added mod 6	1	1		100	16	361	2		2	Amalgamation	"wss,qty=1"						useitem			100	corrupted-multi	100		1	1	corruptnum	100		-6	-6	res-cold	100		15	20																																																																					0
@@ -440,7 +440,7 @@ item -> added mod 5	1	1		100	16	361	17		2	Amalgamation	"wss,qty=1"						useitem	
 item -> added mod 6	1	1		100	16	361	18		2	Amalgamation	"wss,qty=1"						useitem			100	corrupted-multi	100		1	1	corruptnum	100		-22	-22	curse-effect	100		5	5																																																																					0
 item -> added mod 7	1	1		100	16	361	19		2	Amalgamation	"wss,qty=1"						useitem			100	corrupted-multi	100		1	1	corruptnum	100		-23	-23	aura-effect	100		5	5																																																																					0
 item -> added mod 8	1	1		100	16	361	20		2	Amalgamation	"wss,qty=1"						useitem			100	corrupted-multi	100		1	1	corruptnum	100		-24	-24	nofreeze	100		1	1																																																																					0
-Amalgamation poof!	1	1		100	16	361	28		2	Amalgamation	"wss,qty=1"						usetype,rar			100	corrupt	100		1	1	corruptnum	100		1001	1001																																																																										0
+Amalgamation poof!	1	1		100	16	361	24		2	Amalgamation	"wss,qty=1"						usetype,rar			100	corrupt	100		1	1	corruptnum	100		1001	1001																																																																										0
 																																																																																																								0
 																																																																																																								0
 PHASE 1																																																																																																								0
@@ -3247,12 +3247,12 @@ Sacred Orb of Visions - mods	1			100	18	292	0		2	helm,uni	sr79,qty=1						useite
 Sacred Orb of Visions - Crafted - mods	1			100	18	292	0		2	helm,crf	sr79,qty=1						useitem			100	hp	100		50	60	hp%	100		3	5	aura	100	123	4	5	dmg%	100		35	40	sacred	100		1	1																																																											0
 																																																																																																								0
 SACRED ORB - BOOTS MODS																																																																																																								0
-Sacred Orb of Tailwind - mods	1			100	18	292	0		2	boot,uni	sr76,qty=1						useitem			100	skill-frequency	100		10	15	mag%	100		30	30	mana%	100		5	5	hit-skill	100	626	33	1	sacred	100		1	1																																																											0
-Sacred Orb of Tailwind - Crafted - mods	1			100	18	292	0		2	boot,crf	sr76,qty=1						useitem			100	skill-frequency	100		10	15	mag%	100		30	30	mana%	100		5	5	hit-skill	100	626	33	1	sacred	100		1	1																																																											0
+Sacred Orb of Tailwind - mods	1			100	18	292	0		2	boot,uni	sr76,qty=1						useitem			100	skill-frequency	100		10	15	mag%	100		30	30	mana%	100		5	5	hit-skill	100	656	33	1	sacred	100		1	1																																																											0
+Sacred Orb of Tailwind - Crafted - mods	1			100	18	292	0		2	boot,crf	sr76,qty=1						useitem			100	skill-frequency	100		10	15	mag%	100		30	30	mana%	100		5	5	hit-skill	100	656	33	1	sacred	100		1	1																																																											0
 Sacred Orb of Resonance - mods	1			100	18	292	0		2	boot,uni	sr86,qty=1						useitem			100	allskills	100		1	1	aura-effect	100		8	10	move2	100		40	40	indestruct	100		1	1	sacred	100		1	1																																																											0
 Sacred Orb of Resonance - Crafted - mods	1			100	18	292	0		2	boot,crf	sr86,qty=1						useitem			100	allskills	100		1	1	aura-effect	100		8	10	move2	100		40	40	indestruct	100		1	1	sacred	100		1	1																																																											0
-Sacred Orb of Pursuit - mods	1			100	18	292	0		2	boot,uni	sr87,qty=1						useitem			100	cooldown-reduction	100		5	10	ac-miss	100		180	220	kill-skill	100	625	10	1	mag%	100		30	30	sacred	100		1	1																																																											0
-Sacred Orb of Pursuit - Crafted - mods	1			100	18	292	0		2	boot,crf	sr87,qty=1						useitem			100	cooldown-reduction	100		5	10	ac-miss	100		180	220	kill-skill	100	625	10	1	mag%	100		30	30	sacred	100		1	1																																																											0
+Sacred Orb of Pursuit - mods	1			100	18	292	0		2	boot,uni	sr87,qty=1						useitem			100	cooldown-reduction	100		5	10	ac-miss	100		180	220	kill-skill	100	655	10	1	mag%	100		30	30	sacred	100		1	1																																																											0
+Sacred Orb of Pursuit - Crafted - mods	1			100	18	292	0		2	boot,crf	sr87,qty=1						useitem			100	cooldown-reduction	100		5	10	ac-miss	100		180	220	kill-skill	100	655	10	1	mag%	100		30	30	sacred	100		1	1																																																											0
 																																																																																																								0
 SACRED ORB - CHESTS MODS																																																																																																								0
 																																																																																																								0
@@ -3264,8 +3264,8 @@ Sacred Orb of Stone - mods	1			100	18	292	0		2	tors,uni	sr07,qty=1						useitem	
 Sacred Orb of Stone - Crafted - mods	1			100	18	292	0		2	tors,crf	sr07,qty=1						useitem			100	res-all	100		15	15	str-and-vit	100		10	16	balance3	100		60	60	ac%	100		250	340	sacred	100		1	1																																																											0
 Sacred Orb of Gloom - mods	1			100	18	292	0		2	tors,uni	sr08,qty=1						useitem			100	res-all	100		45	45	gethit-skill	100	71	15	9	ac%	100		170	230	curse-effectiveness	100		20	20	sacred	100		1	1																																																											0
 Sacred Orb of Gloom - Crafted - mods	1			100	18	292	0		2	tors,crf	sr08,qty=1						useitem			100	res-all	100		45	45	gethit-skill	100	71	15	9	ac%	100		170	230	curse-effectiveness	100		20	20	sacred	100		1	1																																																											0
-Sacred Orb of Bone - mods	1			100	18	292	0		2	tors,uni	sr09,qty=1						useitem			100	res-all	100		30	30	red-dmg	100		7	7	hit-skill	100	605	30	25	nec	100		2	2	sacred	100		1	1																																																											0
-Sacred Orb of Bone - Crafted - mods	1			100	18	292	0		2	tors,crf	sr09,qty=1						useitem			100	res-all	100		30	30	red-dmg	100		7	7	hit-skill	100	605	30	25	nec	100		2	2	sacred	100		1	1																																																											0
+Sacred Orb of Bone - mods	1			100	18	292	0		2	tors,uni	sr09,qty=1						useitem			100	res-all	100		30	30	red-dmg	100		7	7	hit-skill	100	633	30	25	nec	100		2	2	sacred	100		1	1																																																											0
+Sacred Orb of Bone - Crafted - mods	1			100	18	292	0		2	tors,crf	sr09,qty=1						useitem			100	res-all	100		30	30	red-dmg	100		7	7	hit-skill	100	633	30	25	nec	100		2	2	sacred	100		1	1																																																											0
 Sacred Orb of Prudence - mods	1			100	18	292	0		2	tors,uni	sr10,qty=1						useitem			100	res-all	100		25	35	red-dmg	100		5	13	red-mag	100		6	10	cast2	100		40	40	sacred	100		1	1																																																											0
 Sacred Orb of Prudence - Crafted - mods	1			100	18	292	0		2	tors,crf	sr10,qty=1						useitem			100	res-all	100		25	35	red-dmg	100		5	13	red-mag	100		6	10	cast2	100		40	40	sacred	100		1	1																																																											0
 Sacred Orb of Rain - mods	1			100	18	292	0		2	tors,uni	sr11,qty=1						useitem			100	hit-skill	100	240	20	25	gethit-skill	100	235	8	15	red-mag	100		7	7	dru	100		2	2	sacred	100		1	1																																																											0
@@ -3282,8 +3282,8 @@ Sacred Orb of Honor - mods	1			100	18	292	0		2	tors,uni	sr16,qty=1						useitem	
 Sacred Orb of Honor - Crafted - mods	1			100	18	292	0		2	tors,crf	sr16,qty=1						useitem			100	res-all	100		50	60	regen	100		20	20	red-dmg%	100		5	5	allskills	100		2	2	sacred	100		1	1																																																											0
 Sacred Orb of Enigma - mods	1			100	18	292	0		2	tors,uni	sr17,qty=1						useitem			100	oskill	100	54	1	1	str/lvl	100		4	6	ac	100		500	775	allskills	100		2	2	sacred	100		1	1																																																											0
 Sacred Orb of Enigma - Crafted - mods	1			100	18	292	0		2	tors,crf	sr17,qty=1						useitem			100	oskill	100	54	1	1	str/lvl	100		4	6	ac	100		500	775	allskills	100		2	2	sacred	100		1	1																																																											0
-Sacred Orb of Innocence - mods	1			100	18	292	0		2	tors,uni	sr18,qty=1						useitem			100	equipped-skill	100	557	8	12	skill-aoe	100		15	20	res-pois-len	100		50	50	allskills	100		2	2	sacred	100		1	1																																																											0
-Sacred Orb of Innocence - Crafted - mods	1			100	18	292	0		2	tors,crf	sr18,qty=1						useitem			100	equipped-skill	100	557	8	12	skill-aoe	100		15	20	res-pois-len	100		50	50	allskills	100		2	2	sacred	100		1	1																																																											0
+Sacred Orb of Innocence - mods	1			100	18	292	0		2	tors,uni	sr18,qty=1						useitem			100	equipped-skill	100	557	10	15	skill-aoe	100		15	20	res-pois-len	100		50	50	allskills	100		2	2	sacred	100		1	1																																																											0
+Sacred Orb of Innocence - Crafted - mods	1			100	18	292	0		2	tors,crf	sr18,qty=1						useitem			100	equipped-skill	100	557	10	15	skill-aoe	100		15	20	res-pois-len	100		50	50	allskills	100		2	2	sacred	100		1	1																																																											0
 Sacred Orb of Treachery - mods	1			100	18	292	0		2	tors,uni	sr73,qty=1						useitem			100	hit-skill	100	278	25	15	balance3	100		20	20	swing2	100		45	45	ass	100		2	2	sacred	100		1	1																																																											0
 Sacred Orb of Treachery - Crafted - mods	1			100	18	292	0		2	tors,crf	sr73,qty=1						useitem			100	hit-skill	100	278	25	15	balance3	100		20	20	swing2	100		45	45	ass	100		2	2	sacred	100		1	1																																																											0
 Sacred Orb of Fortress - mods	1			100	18	292	0		2	tors,uni	sr84,qty=1						useitem			100	hp/lvl	100		6	10	red-dmg%	100		12	20	ac%	100		250	300	res-phys-max	100		2	2	sacred	100		1	1																																																											0
@@ -3488,20 +3488,20 @@ Sacred Orb of Kingslayer - mods	1			100	18	292	0		2	axe,uni	sr57,qty=1						usei
 Sacred Orb of Kingslayer - Crafted - mods	1			100	18	292	0		2	axe,crf	sr57,qty=1						useitem			100	dmg-cold	100	50	250	500	swing2	100		30	30	oskill	100	111	10	10	dmg%	100		50	90	sacred	100		1	1																																																											0
 Sacred Orb of White - mods	1			100	18	292	0		2	wand,uni	sr74,qty=1						useitem			100	red-mag	100		4	4	mana	100		13	13	skill	60	68	2	3	skilltab	100	7	2	2	sacred	100		1	1																																																											0
 Sacred Orb of White - Crafted - mods	1			100	18	292	0		2	wand,crf	sr74,qty=1						useitem			100	red-mag	100		4	4	mana	100		13	13	skill	60	68	2	3	skilltab	100	7	2	2	sacred	100		1	1																																																											0
-Sacred Orb of Desolation - mods	1			100	18	292	0		2	weap,uni	sr75,qty=1						useitem			100	pierce-phys	100		15	20	aura	100	632	10	14	dmg%	100		140	170	deadly	100		15	20	sacred	100		1	1																																																											0
-Sacred Orb of Desoltion - Crafted - mods	1			100	18	292	0		2	weap,crf	sr75,qty=1						useitem			100	pierce-phys	100		15	20	aura	100	632	10	14	dmg%	100		140	170	deadly	100		15	20	sacred	100		1	1																																																											0
-Sacred Orb of Bastion - mods	1			100	18	292	0		2	axe,uni	sr78,qty=1						useitem			100	hit-skill	100	606	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
-Sacred Orb of Bastion - Crafted - mods	1			100	18	292	0		2	axe,crf	sr78,qty=1						useitem			100	hit-skill	100	606	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
-Sacred Orb of Bastion - mods	1			100	18	292	0		2	mace,uni	sr78,qty=1						useitem			100	hit-skill	100	606	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
-Sacred Orb of Bastion - Crafted - mods	1			100	18	292	0		2	mace,crf	sr78,qty=1						useitem			100	hit-skill	100	606	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
-Sacred Orb of Bastion - mods	1			100	18	292	0		2	swor,uni	sr78,qty=1						useitem			100	hit-skill	100	606	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
-Sacred Orb of Bastion - Crafted - mods	1			100	18	292	0		2	swor,crf	sr78,qty=1						useitem			100	hit-skill	100	606	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
-Sacred Orb of Bastion - mods	1			100	18	292	0		2	2hsw,uni	sr78,qty=1						useitem			100	hit-skill	100	606	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
-Sacred Orb of Bastion - Crafted - mods	1			100	18	292	0		2	2hsw,crf	sr78,qty=1						useitem			100	hit-skill	100	606	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
-Sacred Orb of Bastion - mods	1			100	18	292	0		2	hamm,uni	sr78,qty=1						useitem			100	hit-skill	100	606	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
-Sacred Orb of Bastion - Crafted - mods	1			100	18	292	0		2	hamm,crf	sr78,qty=1						useitem			100	hit-skill	100	606	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
-Sacred Orb of Bastion - mods	1			100	18	292	0		2	pole,uni	sr78,qty=1						useitem			100	hit-skill	100	606	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
-Sacred Orb of Bastion - Crafted - mods	1			100	18	292	0		2	pole,crf	sr78,qty=1						useitem			100	hit-skill	100	606	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
+Sacred Orb of Desolation - mods	1			100	18	292	0		2	weap,uni	sr75,qty=1						useitem			100	pierce-phys	100		15	20	aura	100	632	12	16	dmg%	100		140	170	deadly	100		15	20	sacred	100		1	1																																																											0
+Sacred Orb of Desoltion - Crafted - mods	1			100	18	292	0		2	weap,crf	sr75,qty=1						useitem			100	pierce-phys	100		15	20	aura	100	632	12	16	dmg%	100		140	170	deadly	100		15	20	sacred	100		1	1																																																											0
+Sacred Orb of Bastion - mods	1			100	18	292	0		2	axe,uni	sr78,qty=1						useitem			100	hit-skill	100	636	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
+Sacred Orb of Bastion - Crafted - mods	1			100	18	292	0		2	axe,crf	sr78,qty=1						useitem			100	hit-skill	100	636	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
+Sacred Orb of Bastion - mods	1			100	18	292	0		2	mace,uni	sr78,qty=1						useitem			100	hit-skill	100	636	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
+Sacred Orb of Bastion - Crafted - mods	1			100	18	292	0		2	mace,crf	sr78,qty=1						useitem			100	hit-skill	100	636	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
+Sacred Orb of Bastion - mods	1			100	18	292	0		2	swor,uni	sr78,qty=1						useitem			100	hit-skill	100	636	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
+Sacred Orb of Bastion - Crafted - mods	1			100	18	292	0		2	swor,crf	sr78,qty=1						useitem			100	hit-skill	100	636	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
+Sacred Orb of Bastion - mods	1			100	18	292	0		2	2hsw,uni	sr78,qty=1						useitem			100	hit-skill	100	636	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
+Sacred Orb of Bastion - Crafted - mods	1			100	18	292	0		2	2hsw,crf	sr78,qty=1						useitem			100	hit-skill	100	636	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
+Sacred Orb of Bastion - mods	1			100	18	292	0		2	hamm,uni	sr78,qty=1						useitem			100	hit-skill	100	636	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
+Sacred Orb of Bastion - Crafted - mods	1			100	18	292	0		2	hamm,crf	sr78,qty=1						useitem			100	hit-skill	100	636	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
+Sacred Orb of Bastion - mods	1			100	18	292	0		2	pole,uni	sr78,qty=1						useitem			100	hit-skill	100	636	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
+Sacred Orb of Bastion - Crafted - mods	1			100	18	292	0		2	pole,crf	sr78,qty=1						useitem			100	hit-skill	100	636	25	20	dmg%	100		90	140	hp%	100		10	15	dmg-min	100		10	10	sacred	100		1	1																																																											0
 Sacred Orb of Rift - Unique polearm - mods	1			100	18	292	0		2	pole,uni	sr58,qty=1						useitem			100	dmg-to-mana	100		38	38	hit-skill	100	245	26	30	hit-skill	100	64	24	25	swing2	100		60	60	sacred	100		1	1																																																											0
 Sacred Orb of Rift - Crafted polearm - mods	1			100	18	292	0		2	pole,crf	sr58,qty=1						useitem			100	dmg-to-mana	100		38	38	hit-skill	100	245	26	30	hit-skill	100	64	24	25	swing2	100		60	60	sacred	100		1	1																																																											0
 Sacred Orb of Rift - Unique spear - mods	1			100	18	292	0		2	spea,uni	sr58,qty=1						useitem			100	dmg-to-mana	100		38	38	hit-skill	100	245	26	30	hit-skill	100	64	24	25	swing2	100		60	60	sacred	100		1	1																																																											0
@@ -3518,8 +3518,8 @@ Sacred Orb of Oath - Maces - mods	1			100	18	292	0		2	mace,uni	sr59,qty=1						u
 Sacred Orb of Oath - Maces - mods	1			100	18	292	0		2	mace,crf	sr59,qty=1						useitem			100	swing1	100		50	50	hit-skill	100	93	30	20	abs-mag	100		10	15	dmg%	100		30	70	sacred	100		1	1																																																											0
 Sacred Orb of Venom - mods	1			100	18	292	0		2	weap,uni	sr60,qty=1						useitem			100	oskill	100	73	6	6	hit-skill	100	92	20	28	pierce-pois	100		20	30	noheal	100		1	1	sacred	100		1	1																																																											0
 Sacred Orb of Venom - mods	1			100	18	292	0		2	weap,crf	sr60,qty=1						useitem			100	oskill	100	73	6	6	hit-skill	100	92	20	28	pierce-pois	100		20	30	noheal	100		1	1	sacred	100		1	1																																																											0
-Sacred Orb of Crescent Moon - mods	1			100	18	292	0		2	weap,uni	sr61,qty=1						useitem			100	pierce-ltng	100		10	15	hit-skill	100	49	10	27	hit-skill	100	42	24	13	dmg%	100		20	50	sacred	100		1	1																																																											0
-Sacred Orb of Crescent Moon - mods	1			100	18	292	0		2	weap,crf	sr61,qty=1						useitem			100	pierce-ltng	100		10	15	hit-skill	100	49	10	27	hit-skill	100	42	24	13	dmg%	100		20	50	sacred	100		1	1																																																											0
+Sacred Orb of Crescent Moon - mods	1			100	18	292	0		2	weap,uni	sr61,qty=1						useitem			100	pierce-ltng	100		10	15	hit-skill	100	53	10	27	hit-skill	100	42	24	13	dmg%	100		20	50	sacred	100		1	1																																																											0
+Sacred Orb of Crescent Moon - mods	1			100	18	292	0		2	weap,crf	sr61,qty=1						useitem			100	pierce-ltng	100		10	15	hit-skill	100	53	10	27	hit-skill	100	42	24	13	dmg%	100		20	50	sacred	100		1	1																																																											0
 Sacred Orb of Loyalty - mods	1			100	18	292	0		2	pole,uni	sr62,qty=1						useitem			100	mana-kill	100		4	4	skill	100	26	2	3	pierce	100		20	20	skilltab	100	1	2	2	sacred	100		1	1																																																											0
 Sacred Orb of Loyalty - mods	1			100	18	292	0		2	pole,crf	sr62,qty=1						useitem			100	mana-kill	100		4	4	skill	100	26	2	3	pierce	100		20	20	skilltab	100	1	2	2	sacred	100		1	1																																																											0
 Sacred Orb of Loyalty - mods	1			100	18	292	0		2	spea,uni	sr62,qty=1						useitem			100	mana-kill	100		4	4	skill	100	26	2	3	pierce	100		20	20	skilltab	100	1	2	2	sacred	100		1	1																																																											0
@@ -3647,6 +3647,9 @@ Puzzlebox normal boots	1			100					2	boot,bas	lbox,qty=1						useitem,uns			100	
 Puzzlebox exceptional boots	1			100					2	boot,exc	lbox,qty=1						useitem,uns			100	sock			1	2																																																																															0
 Puzzlebox elite boots	1			100					2	boot,eli	lbox,qty=1						useitem,uns			100	sock			1	3																																																																															0
 																																																																																																								0
+LARZUK'S MALLUS ADD SOCKET TO BOOTS																																																																																																								0
+Larzuk's Mallus all boots	1			100					2	boot	lmal						useitem,uns			100	sock			1	1																																																																															0
+																																																																																																								0
 CREATE ARMAGEDDON BLADE																																																																																																								0
 Create Armageddon Blade	1			100					3	7cr	dvo,qty=5	ncoi,qty=1					Arma Blade Replica	99																																																																																						0
 																																																																																																								0
@@ -3680,7 +3683,7 @@ ORNATE CHARM UNIQUE JEWEL RE-ROLL																																															
 Empowered Spirit Charm	0			100					2	Empowered Spirit Charm	imrn,qty=1						Empowered Spirit Charm			100																																																																																				0
 Tempered Flesh Charm	0			100					2	Tempered Flesh Charm	imrn,qty=1						Tempered Flesh Charm			100																																																																																				0
 One With Nothing Charm	0			100					2	One With Nothing Charm	imrn,qty=1						One With Nothing Charm			100																																																																																				0
-Melding of the flesh Charm	0			100					2	Melding of the flesh	imrn,qty=1						Melding of the flesh			100																																																																																				0
+Melding of the flesh Charm	1			100					2	Melding of the flesh	imrn,qty=1						Melding of the flesh			100																																																																																				0
 																																																																																																								0
 GLYPH OF NEMESES																																																																																																								0
 T1 rare	1	4		100	16	281	0		2	t1me,rar	scnm,qty=1						useitem			100	map-glob-monsterrarity	100		25	25	map-mon-hp%	100		5	5	scarabed	100		1	1																																																																					0
@@ -3936,7 +3939,8 @@ CINDERSOUL CLUSTER - OUTCOME																																																				
 15 Cindersouls	1			100	16	361	44		1	hfmx							hfcr,qty=15																																																																																							0
 25 Cindersouls	1			100	16	361	79		1	hfmx							hfcr,qty=25																																																																																							0
 50 Cindersouls	1			100	16	361	94		1	hfmx							hfcr,qty=50																																																																																							0
-125 Cindersouls	1			100	16	361	99		1	hfmx							hfcr,qty=125																																																																																							0
+125 Cindersouls	1			100	16	361	98		1	hfmx							hfcr,qty=125																																																																																							0
+250 Cindersouls	1			100	16	361	99		1	hfmx							hfcr,qty=250																																																																																							0
 																																																																																																								0
 PROFANE SIGIL FORM																																																																																																								0
 Lazarus access sigil	1			100					4	sfoa,qty=1	sfod,qty=1	sfob,qty=1	sfor,qty=1				lzps																																																																																							0
@@ -4039,151 +4043,6 @@ Sigil of Korlic -> Sigil of Madawc	1			100	16	361	39		3	hffd	ubac,qty=1	hfcr,qty
 Sigil of Korlic -> Sigil of Talic	1			100	16	361	89		3	hffd	ubac,qty=1	hfcr,qty=15					ubab,qty=1																													hffd																																																										0
 Sigil of Korlic -> No change	1			100	16	361	99		3	hffd	ubac,qty=1	hfcr,qty=15					ubac,qty=1																													hffd																																																										0
 																																																																																																								0
-UBER MATS CONVERSION - DIFFERENT UBER																																																																																																								0
-Uber mats Convert Black Soulstone	0			100	18	361	0		3	hffd	dcho,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	9																					dcho,qty=1																													hfcr,qty=31																													0
-Uber mats Convert Pure Demonic Essence	0			100	18	361	0		3	hffd	dcbl,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	9																					dcbl,qty=1																													hfcr,qty=31																													0
-Uber mats Convert Prime Evil Soul	0			100	18	361	0		3	hffd	dcso,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	9																					dcso,qty=1																													hfcr,qty=31																													0
-Uber mats Convert Demonic Insignia	0			100	18	361	0		3	hffd	lucb,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	9																					lucb,qty=1																													hfcr,qty=31																													0
-Uber mats Convert Talisman of Transgression	0			100	18	361	0		3	hffd	lucc,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	9																					lucc,qty=1																													hfcr,qty=31																													0
-Uber mats Convert Flesh of Malic	0			100	18	361	0		3	hffd	lucd,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	9																					lucd,qty=1																													hfcr,qty=31																													0
-Uber mats Convert Pandemonium Key 1	0			100	18	361	0		3	hffd	pk1,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	9																					pk1,qty=1																													hfcr,qty=31																													0
-Uber mats Convert Pandemonium Key 2	0			100	18	361	0		3	hffd	pk2,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	9																					pk2,qty=1																													hfcr,qty=31																													0
-Uber mats Convert Pandemonium Key 3	0			100	18	361	0		3	hffd	pk3,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	9																					pk3,qty=1																													hfcr,qty=31																													0
-Uber mats Convert Trang-oul Jawbone	0			100	18	361	0		3	hffd	rtmo,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	9																					rtmo,qty=1																													hfcr,qty=31																													0
-Uber mats Convert Splinter of the Void	0			100	18	361	0		3	hffd	rtmv,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	9																					rtmv,qty=1																													hfcr,qty=31																													0
-Uber mats Convert Hellfire Ashes	0			100	18	361	0		3	hffd	cm2f,qty=1	hfcr,qty=25					useitem				corruptnum	100		0	9																					cm2f,qty=1																													hfcr,qty=31																													0
-																																																																																																								0
-Black Soulstone -> Poof	0			100	16	361	0		3	hffd	dcho,qty=1	hfcr,qty=25					hffd																																																																																							0
-Black Soulstone -> Demonic Insignia	0			100	16	361	1		3	hffd	dcho,qty=1	hfcr,qty=25					lucb,qty=1																													hffd																																																										0
-Black Soulstone -> Talisman of Transgression	0			100	16	361	2		3	hffd	dcho,qty=1	hfcr,qty=25					lucc,qty=1																													hffd																																																										0
-Black Soulstone -> Flesh of Malic	0			100	16	361	3		3	hffd	dcho,qty=1	hfcr,qty=25					lucd,qty=1																													hffd																																																										0
-Black Soulstone -> Pandemonium Key 1	0			100	16	361	4		3	hffd	dcho,qty=1	hfcr,qty=25					pk1,qty=1																													hffd																																																										0
-Black Soulstone -> Pandemonium Key 2	0			100	16	361	5		3	hffd	dcho,qty=1	hfcr,qty=25					pk2,qty=1																													hffd																																																										0
-Black Soulstone -> Pandemonium Key 3	0			100	16	361	6		3	hffd	dcho,qty=1	hfcr,qty=25					pk3,qty=1																													hffd																																																										0
-Black Soulstone -> Trang-oul Jawbone	0			100	16	361	7		3	hffd	dcho,qty=1	hfcr,qty=25					rtmo,qty=1																													hffd																																																										0
-Black Soulstone -> Splinter of the Void	0			100	16	361	8		3	hffd	dcho,qty=1	hfcr,qty=25					rtmv,qty=1																													hffd																																																										0
-Black Soulstone -> Hellfire Ashes	0			100	16	361	9		3	hffd	dcho,qty=1	hfcr,qty=25					cm2f,qty=1																													hffd																																																										0
-																																																																																																								0
-Pure Demonic Essence -> Poof	0			100	16	361	0		3	hffd	dcbl,qty=1	hfcr,qty=25					hffd																																																																																							0
-Pure Demonic Essence -> Demonic Insignia	0			100	16	361	1		3	hffd	dcbl,qty=1	hfcr,qty=25					lucb,qty=1																													hffd																																																										0
-Pure Demonic Essence -> Talisman of Transgression	0			100	16	361	2		3	hffd	dcbl,qty=1	hfcr,qty=25					lucc,qty=1																													hffd																																																										0
-Pure Demonic Essence -> Flesh of Malic	0			100	16	361	3		3	hffd	dcbl,qty=1	hfcr,qty=25					lucd,qty=1																													hffd																																																										0
-Pure Demonic Essence -> Pandemonium Key 1	0			100	16	361	4		3	hffd	dcbl,qty=1	hfcr,qty=25					pk1,qty=1																													hffd																																																										0
-Pure Demonic Essence -> Pandemonium Key 2	0			100	16	361	5		3	hffd	dcbl,qty=1	hfcr,qty=25					pk2,qty=1																													hffd																																																										0
-Pure Demonic Essence -> Pandemonium Key 3	0			100	16	361	6		3	hffd	dcbl,qty=1	hfcr,qty=25					pk3,qty=1																													hffd																																																										0
-Pure Demonic Essence -> Trang-oul Jawbone	0			100	16	361	7		3	hffd	dcbl,qty=1	hfcr,qty=25					rtmo,qty=1																													hffd																																																										0
-Pure Demonic Essence -> Splinter of the Void	0			100	16	361	8		3	hffd	dcbl,qty=1	hfcr,qty=25					rtmv,qty=1																													hffd																																																										0
-Pure Demonic Essence -> Hellfire Ashes	0			100	16	361	9		3	hffd	dcbl,qty=1	hfcr,qty=25					cm2f,qty=1																													hffd																																																										0
-																																																																																																								0
-Prime Evil Soul -> Poof	0			100	16	361	0		3	hffd	dcso,qty=1	hfcr,qty=25					hffd																																																																																							0
-Prime Evil Soul -> Demonic Insignia	0			100	16	361	1		3	hffd	dcso,qty=1	hfcr,qty=25					lucb,qty=1																													hffd																																																										0
-Prime Evil Soul -> Talisman of Transgression	0			100	16	361	2		3	hffd	dcso,qty=1	hfcr,qty=25					lucc,qty=1																													hffd																																																										0
-Prime Evil Soul -> Flesh of Malic	0			100	16	361	3		3	hffd	dcso,qty=1	hfcr,qty=25					lucd,qty=1																													hffd																																																										0
-Prime Evil Soul -> Pandemonium Key 1	0			100	16	361	4		3	hffd	dcso,qty=1	hfcr,qty=25					pk1,qty=1																													hffd																																																										0
-Prime Evil Soul -> Pandemonium Key 2	0			100	16	361	5		3	hffd	dcso,qty=1	hfcr,qty=25					pk2,qty=1																													hffd																																																										0
-Prime Evil Soul -> Pandemonium Key 3	0			100	16	361	6		3	hffd	dcso,qty=1	hfcr,qty=25					pk3,qty=1																													hffd																																																										0
-Prime Evil Soul -> Trang-oul Jawbone	0			100	16	361	7		3	hffd	dcso,qty=1	hfcr,qty=25					rtmo,qty=1																													hffd																																																										0
-Prime Evil Soul -> Splinter of the Void	0			100	16	361	8		3	hffd	dcso,qty=1	hfcr,qty=25					rtmv,qty=1																													hffd																																																										0
-Prime Evil Soul -> Hellfire Ashes	0			100	16	361	9		3	hffd	dcso,qty=1	hfcr,qty=25					cm2f,qty=1																													hffd																																																										0
-																																																																																																								0
-Demonic Insignia -> Poof	0			100	16	361	0		3	hffd	lucb,qty=1	hfcr,qty=25					hffd																																																																																							0
-Demonic Insignia -> Black Soulstone	0			100	16	361	1		3	hffd	lucb,qty=1	hfcr,qty=25					dcho,qty=1																													hffd																																																										0
-Demonic Insignia -> Pure Demonic Essence	0			100	16	361	2		3	hffd	lucb,qty=1	hfcr,qty=25					dcbl,qty=1																													hffd																																																										0
-Demonic Insignia -> Prime Evil Soul	0			100	16	361	3		3	hffd	lucb,qty=1	hfcr,qty=25					dcso,qty=1																													hffd																																																										0
-Demonic Insignia -> Pandemonium Key 1	0			100	16	361	4		3	hffd	lucb,qty=1	hfcr,qty=25					pk1,qty=1																													hffd																																																										0
-Demonic Insignia -> Pandemonium Key 2	0			100	16	361	5		3	hffd	lucb,qty=1	hfcr,qty=25					pk2,qty=1																													hffd																																																										0
-Demonic Insignia -> Pandemonium Key 3	0			100	16	361	6		3	hffd	lucb,qty=1	hfcr,qty=25					pk3,qty=1																													hffd																																																										0
-Demonic Insignia -> Trang-oul Jawbone	0			100	16	361	7		3	hffd	lucb,qty=1	hfcr,qty=25					rtmo,qty=1																													hffd																																																										0
-Demonic Insignia -> Splinter of the Void	0			100	16	361	8		3	hffd	lucb,qty=1	hfcr,qty=25					rtmv,qty=1																													hffd																																																										0
-Demonic Insignia -> Hellfire Ashes	0			100	16	361	9		3	hffd	lucb,qty=1	hfcr,qty=25					cm2f,qty=1																													hffd																																																										0
-																																																																																																								0
-Talisman of Transgression -> Poof	0			100	16	361	0		3	hffd	lucc,qty=1	hfcr,qty=25					hffd																																																																																							0
-Talisman of Transgression -> Black Soulstone	0			100	16	361	1		3	hffd	lucc,qty=1	hfcr,qty=25					dcho,qty=1																													hffd																																																										0
-Talisman of Transgression -> Pure Demonic Essence	0			100	16	361	2		3	hffd	lucc,qty=1	hfcr,qty=25					dcbl,qty=1																													hffd																																																										0
-Talisman of Transgression -> Prime Evil Soul	0			100	16	361	3		3	hffd	lucc,qty=1	hfcr,qty=25					dcso,qty=1																													hffd																																																										0
-Talisman of Transgression -> Pandemonium Key 1	0			100	16	361	4		3	hffd	lucc,qty=1	hfcr,qty=25					pk1,qty=1																													hffd																																																										0
-Talisman of Transgression -> Pandemonium Key 2	0			100	16	361	5		3	hffd	lucc,qty=1	hfcr,qty=25					pk2,qty=1																													hffd																																																										0
-Talisman of Transgression -> Pandemonium Key 3	0			100	16	361	6		3	hffd	lucc,qty=1	hfcr,qty=25					pk3,qty=1																													hffd																																																										0
-Talisman of Transgression -> Trang-oul Jawbone	0			100	16	361	7		3	hffd	lucc,qty=1	hfcr,qty=25					rtmo,qty=1																													hffd																																																										0
-Talisman of Transgression -> Splinter of the Void	0			100	16	361	8		3	hffd	lucc,qty=1	hfcr,qty=25					rtmv,qty=1																													hffd																																																										0
-Talisman of Transgression -> Hellfire Ashes	0			100	16	361	9		3	hffd	lucc,qty=1	hfcr,qty=25					cm2f,qty=1																													hffd																																																										0
-																																																																																																								0
-Flesh of Malic -> Poof	0			100	16	361	0		3	hffd	lucd,qty=1	hfcr,qty=25					hffd																																																																																							0
-Flesh of Malic -> Black Soulstone	0			100	16	361	1		3	hffd	lucd,qty=1	hfcr,qty=25					dcho,qty=1																													hffd																																																										0
-Flesh of Malic -> Pure Demonic Essence	0			100	16	361	2		3	hffd	lucd,qty=1	hfcr,qty=25					dcbl,qty=1																													hffd																																																										0
-Flesh of Malic -> Prime Evil Soul	0			100	16	361	3		3	hffd	lucd,qty=1	hfcr,qty=25					dcso,qty=1																													hffd																																																										0
-Flesh of Malic -> Pandemonium Key 1	0			100	16	361	4		3	hffd	lucd,qty=1	hfcr,qty=25					pk1,qty=1																													hffd																																																										0
-Flesh of Malic -> Pandemonium Key 2	0			100	16	361	5		3	hffd	lucd,qty=1	hfcr,qty=25					pk2,qty=1																													hffd																																																										0
-Flesh of Malic -> Pandemonium Key 3	0			100	16	361	6		3	hffd	lucd,qty=1	hfcr,qty=25					pk3,qty=1																													hffd																																																										0
-Flesh of Malic -> Trang-oul Jawbone	0			100	16	361	7		3	hffd	lucd,qty=1	hfcr,qty=25					rtmo,qty=1																													hffd																																																										0
-Flesh of Malic -> Splinter of the Void	0			100	16	361	8		3	hffd	lucd,qty=1	hfcr,qty=25					rtmv,qty=1																													hffd																																																										0
-Flesh of Malic -> Hellfire Ashes	0			100	16	361	9		3	hffd	lucd,qty=1	hfcr,qty=25					cm2f,qty=1																													hffd																																																										0
-																																																																																																								0
-Pandemonium Key 1 -> Poof	0			100	16	361	0		3	hffd	pk1,qty=1	hfcr,qty=25					hffd																																																																																							0
-Pandemonium Key 1 -> Black Soulstone	0			100	16	361	1		3	hffd	pk1,qty=1	hfcr,qty=25					dcho,qty=1																													hffd																																																										0
-Pandemonium Key 1 -> Pure Demonic Essence	0			100	16	361	2		3	hffd	pk1,qty=1	hfcr,qty=25					dcbl,qty=1																													hffd																																																										0
-Pandemonium Key 1 -> Prime Evil Soul	0			100	16	361	3		3	hffd	pk1,qty=1	hfcr,qty=25					dcso,qty=1																													hffd																																																										0
-Pandemonium Key 1 -> Demonic Insignia	0			100	16	361	4		3	hffd	pk1,qty=1	hfcr,qty=25					lucb,qty=1																													hffd																																																										0
-Pandemonium Key 1 -> Talisman of Transgression	0			100	16	361	5		3	hffd	pk1,qty=1	hfcr,qty=25					lucc,qty=1																													hffd																																																										0
-Pandemonium Key 1 -> Flesh of Malic	0			100	16	361	6		3	hffd	pk1,qty=1	hfcr,qty=25					lucd,qty=1																													hffd																																																										0
-Pandemonium Key 1 -> Trang-oul Jawbone	0			100	16	361	7		3	hffd	pk1,qty=1	hfcr,qty=25					rtmo,qty=1																													hffd																																																										0
-Pandemonium Key 1 -> Splinter of the Void	0			100	16	361	8		3	hffd	pk1,qty=1	hfcr,qty=25					rtmv,qty=1																													hffd																																																										0
-Pandemonium Key 1 -> Hellfire Ashes	0			100	16	361	9		3	hffd	pk1,qty=1	hfcr,qty=25					cm2f,qty=1																													hffd																																																										0
-																																																																																																								0
-Pandemonium Key 2 -> Poof	0			100	16	361	0		3	hffd	pk2,qty=1	hfcr,qty=25					hffd																																																																																							0
-Pandemonium Key 2 -> Black Soulstone	0			100	16	361	1		3	hffd	pk2,qty=1	hfcr,qty=25					dcho,qty=1																													hffd																																																										0
-Pandemonium Key 2 -> Pure Demonic Essence	0			100	16	361	2		3	hffd	pk2,qty=1	hfcr,qty=25					dcbl,qty=1																													hffd																																																										0
-Pandemonium Key 2 -> Prime Evil Soul	0			100	16	361	3		3	hffd	pk2,qty=1	hfcr,qty=25					dcso,qty=1																													hffd																																																										0
-Pandemonium Key 2 -> Demonic Insignia	0			100	16	361	4		3	hffd	pk2,qty=1	hfcr,qty=25					lucb,qty=1																													hffd																																																										0
-Pandemonium Key 2 -> Talisman of Transgression	0			100	16	361	5		3	hffd	pk2,qty=1	hfcr,qty=25					lucc,qty=1																													hffd																																																										0
-Pandemonium Key 2 -> Flesh of Malic	0			100	16	361	6		3	hffd	pk2,qty=1	hfcr,qty=25					lucd,qty=1																													hffd																																																										0
-Pandemonium Key 2 -> Trang-oul Jawbone	0			100	16	361	7		3	hffd	pk2,qty=1	hfcr,qty=25					rtmo,qty=1																													hffd																																																										0
-Pandemonium Key 2 -> Splinter of the Void	0			100	16	361	8		3	hffd	pk2,qty=1	hfcr,qty=25					rtmv,qty=1																													hffd																																																										0
-Pandemonium Key 2 -> Hellfire Ashes	0			100	16	361	9		3	hffd	pk2,qty=1	hfcr,qty=25					cm2f,qty=1																													hffd																																																										0
-																																																																																																								0
-Pandemonium Key 3 -> Poof	0			100	16	361	0		3	hffd	pk3,qty=1	hfcr,qty=25					hffd																																																																																							0
-Pandemonium Key 3 -> Black Soulstone	0			100	16	361	1		3	hffd	pk3,qty=1	hfcr,qty=25					dcho,qty=1																													hffd																																																										0
-Pandemonium Key 3 -> Pure Demonic Essence	0			100	16	361	2		3	hffd	pk3,qty=1	hfcr,qty=25					dcbl,qty=1																													hffd																																																										0
-Pandemonium Key 3 -> Prime Evil Soul	0			100	16	361	3		3	hffd	pk3,qty=1	hfcr,qty=25					dcso,qty=1																													hffd																																																										0
-Pandemonium Key 3 -> Demonic Insignia	0			100	16	361	4		3	hffd	pk3,qty=1	hfcr,qty=25					lucb,qty=1																													hffd																																																										0
-Pandemonium Key 3 -> Talisman of Transgression	0			100	16	361	5		3	hffd	pk3,qty=1	hfcr,qty=25					lucc,qty=1																													hffd																																																										0
-Pandemonium Key 3 -> Flesh of Malic	0			100	16	361	6		3	hffd	pk3,qty=1	hfcr,qty=25					lucd,qty=1																													hffd																																																										0
-Pandemonium Key 3 -> Trang-oul Jawbone	0			100	16	361	7		3	hffd	pk3,qty=1	hfcr,qty=25					rtmo,qty=1																													hffd																																																										0
-Pandemonium Key 3 -> Splinter of the Void	0			100	16	361	8		3	hffd	pk3,qty=1	hfcr,qty=25					rtmv,qty=1																													hffd																																																										0
-Pandemonium Key 3 -> Hellfire Ashes	0			100	16	361	9		3	hffd	pk3,qty=1	hfcr,qty=25					cm2f,qty=1																													hffd																																																										0
-																																																																																																								0
-Trang-oul Jawbone -> Poof	0			100	16	361	0		3	hffd	rtmo,qty=1	hfcr,qty=25					hffd																																																																																							0
-Trang-oul Jawbone -> Black Soulstone	0			100	16	361	1		3	hffd	rtmo,qty=1	hfcr,qty=25					dcho,qty=1																													hffd																																																										0
-Trang-oul Jawbone -> Pure Demonic Essence	0			100	16	361	2		3	hffd	rtmo,qty=1	hfcr,qty=25					dcbl,qty=1																													hffd																																																										0
-Trang-oul Jawbone -> Prime Evil Soul	0			100	16	361	3		3	hffd	rtmo,qty=1	hfcr,qty=25					dcso,qty=1																													hffd																																																										0
-Trang-oul Jawbone -> Demonic Insignia	0			100	16	361	4		3	hffd	rtmo,qty=1	hfcr,qty=25					lucb,qty=1																													hffd																																																										0
-Trang-oul Jawbone -> Talisman of Transgression	0			100	16	361	5		3	hffd	rtmo,qty=1	hfcr,qty=25					lucc,qty=1																													hffd																																																										0
-Trang-oul Jawbone -> Flesh of Malic	0			100	16	361	6		3	hffd	rtmo,qty=1	hfcr,qty=25					lucd,qty=1																													hffd																																																										0
-Trang-oul Jawbone -> Pandemonium Key 1	0			100	16	361	7		3	hffd	rtmo,qty=1	hfcr,qty=25					pk1,qty=1																													hffd																																																										0
-Trang-oul Jawbone -> Pandemonium Key 2	0			100	16	361	8		3	hffd	rtmo,qty=1	hfcr,qty=25					pk2,qty=1																													hffd																																																										0
-Trang-oul Jawbone -> Pandemonium Key 3	0			100	16	361	9		3	hffd	rtmo,qty=1	hfcr,qty=25					pk3,qty=1																													hffd																																																										0
-																																																																																																								0
-Splinter of the Void -> Poof	0			100	16	361	0		3	hffd	rtmv,qty=1	hfcr,qty=25					hffd																																																																																							0
-Splinter of the Void -> Black Soulstone	0			100	16	361	1		3	hffd	rtmv,qty=1	hfcr,qty=25					dcho,qty=1																													hffd																																																										0
-Splinter of the Void -> Pure Demonic Essence	0			100	16	361	2		3	hffd	rtmv,qty=1	hfcr,qty=25					dcbl,qty=1																													hffd																																																										0
-Splinter of the Void -> Prime Evil Soul	0			100	16	361	3		3	hffd	rtmv,qty=1	hfcr,qty=25					dcso,qty=1																													hffd																																																										0
-Splinter of the Void -> Demonic Insignia	0			100	16	361	4		3	hffd	rtmv,qty=1	hfcr,qty=25					lucb,qty=1																													hffd																																																										0
-Splinter of the Void -> Talisman of Transgression	0			100	16	361	5		3	hffd	rtmv,qty=1	hfcr,qty=25					lucc,qty=1																													hffd																																																										0
-Splinter of the Void -> Flesh of Malic	0			100	16	361	6		3	hffd	rtmv,qty=1	hfcr,qty=25					lucd,qty=1																													hffd																																																										0
-Splinter of the Void -> Pandemonium Key 1	0			100	16	361	7		3	hffd	rtmv,qty=1	hfcr,qty=25					pk1,qty=1																													hffd																																																										0
-Splinter of the Void -> Pandemonium Key 2	0			100	16	361	8		3	hffd	rtmv,qty=1	hfcr,qty=25					pk2,qty=1																													hffd																																																										0
-Splinter of the Void -> Pandemonium Key 3	0			100	16	361	9		3	hffd	rtmv,qty=1	hfcr,qty=25					pk3,qty=1																													hffd																																																										0
-																																																																																																								0
-Hellfire Ashes -> Poof	0			100	16	361	0		3	hffd	cm2f,qty=1	hfcr,qty=25					hffd																																																																																							0
-Hellfire Ashes -> Black Soulstone	0			100	16	361	1		3	hffd	cm2f,qty=1	hfcr,qty=25					dcho,qty=1																													hffd																																																										0
-Hellfire Ashes -> Pure Demonic Essence	0			100	16	361	2		3	hffd	cm2f,qty=1	hfcr,qty=25					dcbl,qty=1																													hffd																																																										0
-Hellfire Ashes -> Prime Evil Soul	0			100	16	361	3		3	hffd	cm2f,qty=1	hfcr,qty=25					dcso,qty=1																													hffd																																																										0
-Hellfire Ashes -> Demonic Insignia	0			100	16	361	4		3	hffd	cm2f,qty=1	hfcr,qty=25					lucb,qty=1																													hffd																																																										0
-Hellfire Ashes -> Talisman of Transgression	0			100	16	361	5		3	hffd	cm2f,qty=1	hfcr,qty=25					lucc,qty=1																													hffd																																																										0
-Hellfire Ashes -> Flesh of Malic	0			100	16	361	6		3	hffd	cm2f,qty=1	hfcr,qty=25					lucd,qty=1																													hffd																																																										0
-Hellfire Ashes -> Pandemonium Key 1	0			100	16	361	7		3	hffd	cm2f,qty=1	hfcr,qty=25					pk1,qty=1																													hffd																																																										0
-Hellfire Ashes -> Pandemonium Key 2	0			100	16	361	8		3	hffd	cm2f,qty=1	hfcr,qty=25					pk2,qty=1																													hffd																																																										0
-Hellfire Ashes -> Pandemonium Key 3	0			100	16	361	9		3	hffd	cm2f,qty=1	hfcr,qty=25					pk3,qty=1																													hffd																																																										0
 																																																																																																								0
 																																																																																																								0
 OBTAIN RANDOM HELLFORGED UNIQUE																																																																																																								0
@@ -4206,20 +4065,22 @@ Hellforged Atma's Scarab	1			100	16	361	26713		3	hffd	mfo,qty=5	hfcr,qty=35					
 Hellforged Blackoak Shield	1			100	16	361	27433		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Blackoak Shield	99																												hffd																																																										0
 Hellforged Steel Carapace	1			100	16	361	28121		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Steel Carapace	99																												hffd																																																										0
 Hellforged Arachnid Mesh	1			100	16	361	28776		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Arachnid Mesh	99																												hffd																																																										0
-Hellforged Andariels Visage	1			100	16	361	29398		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Andariels Visage	99																												hffd																																																										0
-Hellforged Widespread Destruction	1			100	16	361	29987		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Widespread Destruction	99																												hffd																																																										0
-Hellforged Occultist	1			100	16	361	30544		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Occultist	99																												hffd																																																										0
-Hellforged Stone of Jordan	1			100	16	361	31068		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Stone of Jordan	99																												hffd																																																										0
-Hellforged Seraph's Hymn	1			100	16	361	31428		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Seraph's Hymn	99																												hffd																																																										0
-Hellforged Griffon's Eye	1			100	16	361	31722		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Griffon's Eye	99																												hffd																																																										0
-Hellforged Bul Kathos Band	1			100	16	361	31984		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Bul Kathos Band	99																												hffd																																																										0
-Hellforged Death's Web	1			100	16	361	32213		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Death's Web	99																												hffd																																																										0
-Hellforged Azurewrath	1			100	16	361	32409		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Azurewrath	99																												hffd																																																										0
-Hellforged The Rising Sun	1			100	16	361	32572		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged The Rising Sun	99																												hffd																																																										0
+Hellforged Andariels Visage	1			100	16	361	29333		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Andariels Visage	99																												hffd																																																										0
+Hellforged Widespread	1			100	16	361	29922		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Widespread	99																												hffd																																																										0
+Hellforged Occultist	1			100	16	361	30413		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Occultist	99																												hffd																																																										0
+Hellforged Stone of Jordan	1			100	16	361	30937		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Stone of Jordan	99																												hffd																																																										0
+Hellforged Seraph's Hymn	1			100	16	361	31297		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Seraph's Hymn	99																												hffd																																																										0
+Hellforged Griffon's Eye	1			100	16	361	31591		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Griffon's Eye	99																												hffd																																																										0
+Hellforged Bul Kathos Band	1			100	16	361	31853		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Bul Kathos Band	99																												hffd																																																										0
+Hellforged Death's Web	1			100	16	361	32082		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Death's Web	99																												hffd																																																										0
+Hellforged Azurewrath	1			100	16	361	32278		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Azurewrath	99																												hffd																																																										0
+Hellforged The Rising Sun	1			100	16	361	32441		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged The Rising Sun	99																												hffd																																																										0
+Hellforged Mara's	1			100	16	361	32572		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Mara's	99																												hffd																																																										0
 Hellforged Darkforce Spawn	1			100	16	361	32670		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Darkforce Spawn	99																												hffd																																																										0
 Hellforged Rathmas Hand	1			100	16	361	32735		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Rathmas Hand	99																												hffd																																																										0
 Hellforged Tyrael's Might	1			100	16	361	32757		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Tyrael's Might	99																												hffd																																																										0
 Hellforged Headhunter	1			100	16	361	32766		3	hffd	mfo,qty=5	hfcr,qty=35					Hellforged Headhunter	99																												hffd																																																										0
+																																																																																																								0
 																																																																																																								0
 OBTAIN TARGETED HELLFORGED UNIQUE																																																																																																								0
 																																																																																																								0
@@ -4240,7 +4101,7 @@ Hellforged Blackoak Shield	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Blackoak Shi
 Hellforged Steel Carapace	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Steel Carapice				Hellforged Steel Carapace	99																												hffd																																																										0
 Hellforged Arachnid Mesh	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Arachnid Mesh				Hellforged Arachnid Mesh	99																												hffd																																																										0
 Hellforged Andariels Visage	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Andariel's Visage				Hellforged Andariels Visage	99																												hffd																																																										0
-Hellforged Widespread Destruction	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Widespread Destruction				Hellforged Widespread Destruction	99																												hffd																																																										0
+Hellforged Widespread Destruction	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Widespread Destruction				Hellforged Widespread	99																												hffd																																																										0
 Hellforged Occultist	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Occultist				Hellforged Occultist	99																												hffd																																																										0
 Hellforged Stone of Jordan	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	The Stone of Jordan				Hellforged Stone of Jordan	99																												hffd																																																										0
 Hellforged Seraph's Hymn	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Seraph's Hymn				Hellforged Seraph's Hymn	99																												hffd																																																										0
@@ -4249,10 +4110,27 @@ Hellforged Bul Kathos Band	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Bul Katho's 
 Hellforged Death's Web	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Deaths's Web				Hellforged Death's Web	99																												hffd																																																										0
 Hellforged Azurewrath	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Azurewrath				Hellforged Azurewrath	99																												hffd																																																										0
 Hellforged The Rising Sun	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	The Rising Sun				Hellforged The Rising Sun	99																												hffd																																																										0
+Hellforged Mara's	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Mara's Kaleidoscope				Hellforged Mara's	99																												hffd																																																										0
 Hellforged Darkforce Spawn	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Darkforge Spawn				Hellforged Darkforce Spawn	99																												hffd																																																										0
 Hellforged Rathmas Hand	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Rathmas Hand				Hellforged Rathmas Hand	99																												hffd																																																										0
 Hellforged Tyrael's Might	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Tyrael's Might				Hellforged Tyrael's Might	99																												hffd																																																										0
 Hellforged Headhunter	1			100					4	hffd	dvo,qty=1	hfcr,qty=50	Headhunter				Hellforged Headhunter	99																												hffd																																																										0
+																																																																																																								0
+KILN CURRENCY PRINTER																																																																																																								0
+Roll the dice	1			100	18	361	0		2	hffd	hfcr,qty=25						useitem				corruptnum	100		0	32766																					hfcr,qty=25																																																										0
+																																																																																																								0
+OUTCOME																																																																																																								0
+Exalted Orb	1			100	16	361	4259		2	hffd	hfcr,qty=25						exo,qty=1																													hffd																																																										0
+Chisel of Avarice	1			100	16	361	8191		2	hffd	hfcr,qty=25						ccsa,qty=1																													hffd																																																										0
+Chisel of Procurement	1			100	16	361	11795		2	hffd	hfcr,qty=25						ccpr,qty=1																													hffd																																																										0
+Glyph of Adversaries	1			100	16	361	15399		2	hffd	hfcr,qty=25						scas,qty=1																													hffd																																																										0
+Glyph of Corruption	1			100	16	361	19003		2	hffd	hfcr,qty=25						sccn,qty=1																													hffd																																																										0
+Glyph of Nemeses	1			100	16	361	22279		2	hffd	hfcr,qty=25						scnm,qty=1																													hffd																																																										0
+Catalyst Shard	1			100	16	361	25228		2	hffd	hfcr,qty=25						iwss,qty=1																													hffd																																																										0
+Mythic Orb	1			100	16	361	27521		2	hffd	hfcr,qty=25						mfo,qty=1																													hffd																																																										0
+Demonic Cube	1			100	16	361	29814		2	hffd	hfcr,qty=25						imrn,qty=1																													hffd																																																										0
+Orb of Extraction	1			100	16	361	31780		2	hffd	hfcr,qty=25						ooe,qty=1																													hffd																																																										0
+Divine Orb	1			100	16	361	32766		2	hffd	hfcr,qty=25						dvo,qty=1																													hffd																																																										0
 																																																																																																								0
 BUGFIX - MALAH SCROLL																																																																																																								0
 Spawn Malah resistance scroll	1			100					2	key,qty=1	tsc,qty=1						useitem			100																										tr2																																																										0
