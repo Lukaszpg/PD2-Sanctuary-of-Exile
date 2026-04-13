@@ -2614,51 +2614,51 @@ CAIN'S WISDOM																																																																			
 Small Charm + TES + CEH + BET + FED = Cain's Wisdom	1			100					5	"tes,qty=1"	"ceh,qty=1"	"bet,qty=1"	"fed,qty=1"	cm1			Cains	99																																																																																						0
 																																																																																																								0
 RUNE DOWNGRADING - non-stacked																																																																																																								0
-r02 downgrade eld -> 3 el	1			100					2	"key,qty=1"	"r02,qty=1"						useitem																													"r01s,qty=3"																																																										0
-r03 downgrade tir -> 3 eld	1			100					2	"key,qty=1"	"r03,qty=1"						useitem																													"r02s,qty=3"																																																										0
-r04 downgrade nef -> 3 tir	1			100					2	"key,qty=1"	"r04,qty=1"						useitem																													"r03s,qty=3"																																																										0
-r05 downgrade eth -> 3 nef	1			100					2	"key,qty=1"	"r05,qty=1"						useitem																													"r04s,qty=3"																																																										0
-r06 downgrade ith ->3 eth	1			100					2	"key,qty=1"	"r06,qty=1"						useitem																													"r05s,qty=3"																																																										0
-r07 downgrade tal -> 3 ith	1			100					2	"key,qty=1"	"r07,qty=1"						useitem																													"r06s,qty=3"																																																										0
-r08 downgrade ral -> 3 tal	1			100					2	"key,qty=1"	"r08,qty=1"						useitem																													"r07s,qty=3"																																																										0
-r09 downgrade ort -> 3 ral	1			100					2	"key,qty=1"	"r09,qty=1"						useitem																													"r08s,qty=3"																																																										0
-r10 downgrade thul -> 3 ort	1			100					2	"key,qty=1"	"r10,qty=1"						useitem																													"r09s,qty=3"																																																										0
-r11 downgrade amn -> 3 thul	1			100					2	"key,qty=1"	"r11,qty=1"						useitem																													"r10s,qty=3"																																																										0
-r12 downgrade sol -> 3 amn	1			100					2	"key,qty=1"	"r12,qty=1"						useitem																													"r11s,qty=3"																																																										0
-r13 downgrade shael -> 3 sol	1			100					2	"key,qty=1"	"r13,qty=1"						useitem																													"r12s,qty=3"																																																										0
-r14 downgrade dol -> 3 shael	1			100					2	"key,qty=1"	"r14,qty=1"						useitem																													"r13s,qty=3"																																																										0
-r15 downgrade hel -> 3 dol	1			100					2	"key,qty=1"	"r15,qty=1"						useitem																													"r14s,qty=3"																																																										0
-r16 downgrade io -> 3 hel	1			100					2	"key,qty=1"	"r16,qty=1"						useitem																													"r15s,qty=3"																																																										0
-r17 downgrade lum -> 3 io	1			100					2	"key,qty=1"	"r17,qty=1"						useitem																													"r16s,qty=3"																																																										0
-r18 downgrade ko -> 3 lum	1			100					2	"key,qty=1"	"r18,qty=1"						useitem																													"r17s,qty=3"																																																										0
-r19 downgrade fal -> 3 ko	1			100					2	"key,qty=1"	"r19,qty=1"						useitem																													"r18s,qty=3"																																																										0
-r20 downgrade lem -> 3 fal	1			100					2	"key,qty=1"	"r20,qty=1"						useitem																													"r19s,qty=3"																																																										0
-r21 downgrade pul -> 3 lem	1			100					2	"key,qty=1"	"r21,qty=1"						useitem																													"r20s,qty=3"																																																										0
+r02 downgrade eld -> 3 el	1			100					2	"key,qty=1"	"r02,qty=1"						useitem																													"r01s,qty=1"																																																										0
+r03 downgrade tir -> 3 eld	1			100					2	"key,qty=1"	"r03,qty=1"						useitem																													"r02s,qty=1"																																																										0
+r04 downgrade nef -> 3 tir	1			100					2	"key,qty=1"	"r04,qty=1"						useitem																													"r03s,qty=1"																																																										0
+r05 downgrade eth -> 3 nef	1			100					2	"key,qty=1"	"r05,qty=1"						useitem																													"r04s,qty=1"																																																										0
+r06 downgrade ith ->3 eth	1			100					2	"key,qty=1"	"r06,qty=1"						useitem																													"r05s,qty=1"																																																										0
+r07 downgrade tal -> 3 ith	1			100					2	"key,qty=1"	"r07,qty=1"						useitem																													"r06s,qty=1"																																																										0
+r08 downgrade ral -> 3 tal	1			100					2	"key,qty=1"	"r08,qty=1"						useitem																													"r07s,qty=1"																																																										0
+r09 downgrade ort -> 3 ral	1			100					2	"key,qty=1"	"r09,qty=1"						useitem																													"r08s,qty=1"																																																										0
+r10 downgrade thul -> 3 ort	1			100					2	"key,qty=1"	"r10,qty=1"						useitem																													"r09s,qty=1"																																																										0
+r11 downgrade amn -> 3 thul	1			100					2	"key,qty=1"	"r11,qty=1"						useitem																													"r10s,qty=1"																																																										0
+r12 downgrade sol -> 3 amn	1			100					2	"key,qty=1"	"r12,qty=1"						useitem																													"r11s,qty=1"																																																										0
+r13 downgrade shael -> 3 sol	1			100					2	"key,qty=1"	"r13,qty=1"						useitem																													"r12s,qty=1"																																																										0
+r14 downgrade dol -> 3 shael	1			100					2	"key,qty=1"	"r14,qty=1"						useitem																													"r13s,qty=1"																																																										0
+r15 downgrade hel -> 3 dol	1			100					2	"key,qty=1"	"r15,qty=1"						useitem																													"r14s,qty=1"																																																										0
+r16 downgrade io -> 3 hel	1			100					2	"key,qty=1"	"r16,qty=1"						useitem																													"r15s,qty=1"																																																										0
+r17 downgrade lum -> 3 io	1			100					2	"key,qty=1"	"r17,qty=1"						useitem																													"r16s,qty=1"																																																										0
+r18 downgrade ko -> 3 lum	1			100					2	"key,qty=1"	"r18,qty=1"						useitem																													"r17s,qty=1"																																																										0
+r19 downgrade fal -> 3 ko	1			100					2	"key,qty=1"	"r19,qty=1"						useitem																													"r18s,qty=1"																																																										0
+r20 downgrade lem -> 3 fal	1			100					2	"key,qty=1"	"r20,qty=1"						useitem																													"r19s,qty=1"																																																										0
+r21 downgrade pul -> 3 lem	1			100					2	"key,qty=1"	"r21,qty=1"						useitem																													"r20s,qty=1"																																																										0
 r22 downgrade um -> 1 pul	1			100					2	"key,qty=1"	"r22,qty=1"						useitem																													r21																																																										0
 r23 downgrade mal -> 1 um	1			100					2	"key,qty=1"	"r23,qty=1"						useitem																													r22																																																										0
 r24 downgrade ist -> 1 mal	1			100					2	"key,qty=1"	"r24,qty=1"						useitem																													r23																																																										0
 																																																																																																								0
 RUNE DOWNGRADING - stacked																																																																																																								0
-r02 downgrade eld -> 3 el	1			100					2	"key,qty=1"	"r02s,qty=1"						useitem																													"r01s,qty=3"																																																										0
-r03 downgrade tir -> 3 eld	1			100					2	"key,qty=1"	"r03s,qty=1"						useitem																													"r02s,qty=3"																																																										0
-r04 downgrade nef -> 3 tir	1			100					2	"key,qty=1"	"r04s,qty=1"						useitem																													"r03s,qty=3"																																																										0
-r05 downgrade eth -> 3 nef	1			100					2	"key,qty=1"	"r05s,qty=1"						useitem																													"r04s,qty=3"																																																										0
-r06 downgrade ith ->3 eth	1			100					2	"key,qty=1"	"r06s,qty=1"						useitem																													"r05s,qty=3"																																																										0
-r07 downgrade tal -> 3 ith	1			100					2	"key,qty=1"	"r07s,qty=1"						useitem																													"r06s,qty=3"																																																										0
-r08 downgrade ral -> 3 tal	1			100					2	"key,qty=1"	"r08s,qty=1"						useitem																													"r07s,qty=3"																																																										0
-r09 downgrade ort -> 3 ral	1			100					2	"key,qty=1"	"r09s,qty=1"						useitem																													"r08s,qty=3"																																																										0
-r10 downgrade thul -> 3 ort	1			100					2	"key,qty=1"	"r10s,qty=1"						useitem																													"r09s,qty=3"																																																										0
-r11 downgrade amn -> 3 thul	1			100					2	"key,qty=1"	"r11s,qty=1"						useitem																													"r10s,qty=3"																																																										0
-r12 downgrade sol -> 3 amn	1			100					2	"key,qty=1"	"r12s,qty=1"						useitem																													"r11s,qty=3"																																																										0
-r13 downgrade shael -> 3 sol	1			100					2	"key,qty=1"	"r13s,qty=1"						useitem																													"r12s,qty=3"																																																										0
-r14 downgrade dol -> 3 shael	1			100					2	"key,qty=1"	"r14s,qty=1"						useitem																													"r13s,qty=3"																																																										0
-r15 downgrade hel -> 3 dol	1			100					2	"key,qty=1"	"r15s,qty=1"						useitem																													"r14s,qty=3"																																																										0
-r16 downgrade io -> 3 hel	1			100					2	"key,qty=1"	"r16s,qty=1"						useitem																													"r15s,qty=3"																																																										0
-r17 downgrade lum -> 3 io	1			100					2	"key,qty=1"	"r17s,qty=1"						useitem																													"r16s,qty=3"																																																										0
-r18 downgrade ko -> 3 lum	1			100					2	"key,qty=1"	"r18s,qty=1"						useitem																													"r17s,qty=3"																																																										0
-r19 downgrade fal -> 3 ko	1			100					2	"key,qty=1"	"r19s,qty=1"						useitem																													"r18s,qty=3"																																																										0
-r20 downgrade lem -> 3 fal	1			100					2	"key,qty=1"	"r20s,qty=1"						useitem																													"r19s,qty=3"																																																										0
-r21 downgrade pul -> 3 lem	1			100					2	"key,qty=1"	"r21s,qty=1"						useitem																													"r20s,qty=3"																																																										0
+r02 downgrade eld -> 3 el	1			100					2	"key,qty=1"	"r02s,qty=1"						useitem																													"r01s,qty=1"																																																										0
+r03 downgrade tir -> 3 eld	1			100					2	"key,qty=1"	"r03s,qty=1"						useitem																													"r02s,qty=1"																																																										0
+r04 downgrade nef -> 3 tir	1			100					2	"key,qty=1"	"r04s,qty=1"						useitem																													"r03s,qty=1"																																																										0
+r05 downgrade eth -> 3 nef	1			100					2	"key,qty=1"	"r05s,qty=1"						useitem																													"r04s,qty=1"																																																										0
+r06 downgrade ith ->3 eth	1			100					2	"key,qty=1"	"r06s,qty=1"						useitem																													"r05s,qty=1"																																																										0
+r07 downgrade tal -> 3 ith	1			100					2	"key,qty=1"	"r07s,qty=1"						useitem																													"r06s,qty=1"																																																										0
+r08 downgrade ral -> 3 tal	1			100					2	"key,qty=1"	"r08s,qty=1"						useitem																													"r07s,qty=1"																																																										0
+r09 downgrade ort -> 3 ral	1			100					2	"key,qty=1"	"r09s,qty=1"						useitem																													"r08s,qty=1"																																																										0
+r10 downgrade thul -> 3 ort	1			100					2	"key,qty=1"	"r10s,qty=1"						useitem																													"r09s,qty=1"																																																										0
+r11 downgrade amn -> 3 thul	1			100					2	"key,qty=1"	"r11s,qty=1"						useitem																													"r10s,qty=1"																																																										0
+r12 downgrade sol -> 3 amn	1			100					2	"key,qty=1"	"r12s,qty=1"						useitem																													"r11s,qty=1"																																																										0
+r13 downgrade shael -> 3 sol	1			100					2	"key,qty=1"	"r13s,qty=1"						useitem																													"r12s,qty=1"																																																										0
+r14 downgrade dol -> 3 shael	1			100					2	"key,qty=1"	"r14s,qty=1"						useitem																													"r13s,qty=1"																																																										0
+r15 downgrade hel -> 3 dol	1			100					2	"key,qty=1"	"r15s,qty=1"						useitem																													"r14s,qty=1"																																																										0
+r16 downgrade io -> 3 hel	1			100					2	"key,qty=1"	"r16s,qty=1"						useitem																													"r15s,qty=1"																																																										0
+r17 downgrade lum -> 3 io	1			100					2	"key,qty=1"	"r17s,qty=1"						useitem																													"r16s,qty=1"																																																										0
+r18 downgrade ko -> 3 lum	1			100					2	"key,qty=1"	"r18s,qty=1"						useitem																													"r17s,qty=1"																																																										0
+r19 downgrade fal -> 3 ko	1			100					2	"key,qty=1"	"r19s,qty=1"						useitem																													"r18s,qty=1"																																																										0
+r20 downgrade lem -> 3 fal	1			100					2	"key,qty=1"	"r20s,qty=1"						useitem																													"r19s,qty=1"																																																										0
+r21 downgrade pul -> 3 lem	1			100					2	"key,qty=1"	"r21s,qty=1"						useitem																													"r20s,qty=1"																																																										0
 r22 downgrade um -> 1 pul	1			100					2	"key,qty=1"	"r22s,qty=1"						useitem																													"r21s,qty=1"																																																										0
 r23 downgrade mal -> 1 um	1			100					2	"key,qty=1"	"r23s,qty=1"						useitem																													"r22s,qty=1"																																																										0
 r24 downgrade ist -> 1 mal	1			100					2	"key,qty=1"	"r24s,qty=1"						useitem																													"r23s,qty=1"																																																										0
@@ -2735,9 +2735,9 @@ Divine Orb + Coin = 2x Mythic Orb	0			100					2	divo,qty=1	ncoi,qty=1						mfo,q
 DEMONIC CUBE ADDITIONAL RECIPES																																																																																																								0
 Reroll type of set ring	0			100	18	361	0		3	ring,set	ncoi,qty=1	imrn,qty=1					usetype,set	99																																																																																						0
 Reroll type of set amulet	0			100	18	361	0		3	amul,set	ncoi,qty=1	imrn,qty=1					usetype,set	99																																																																																						0
-Reroll type of Regular Unique Jewel	1			100					3	jew,uni	ncoi,qty=1	imrn,qty=1					jew,uni			100																																																																																				0
-Reroll type of Mythic Unique Jewel	1			100					3	mjw,uni	ncoi,qty=1	imrn,qty=5					mjw,uni			100																																																																																				0
-Reroll type of Unique Ornate charm	1			100					3	cm4,uni	ncoi,qty=1	imrn,qty=5					cm4,uni			100																																																																																				0
+Reroll type of Regular Unique Jewel	0			100					3	jew,uni	ncoi,qty=1	imrn,qty=1					jew,uni			100																																																																																				0
+Reroll type of Mythic Unique Jewel	0			100					3	mjw,uni	ncoi,qty=1	imrn,qty=5					mjw,uni			100																																																																																				0
+Reroll type of Unique Ornate charm	0			100					3	cm4,uni	ncoi,qty=1	imrn,qty=5					cm4,uni			100																																																																																				0
 																																																																																																								0
 ETERNAL COIN RECIPES																																																																																																								0
 Double Rathma key	0			100					2	rtma	ncoi,qty=1						rtma																													rtma																																																										0
@@ -3223,6 +3223,7 @@ Sacred Orb of White	1			100					3	sror,qty=1	r14s,qty=1	r16s,qty=1					sr74					
 Sacred Orb of Desolation	1			100					3	sror,qty=1	r30s,qty=2	r26s,qty=1					sr75																																																																																							0
 Sacred Orb of Bastion	1			100					5	sror,qty=1	r27s,qty=1	r13s,qty=1	r04s,qty=1	r25s,qty=1			sr78																																																																																							0
 Sacred Orb of Lawbringer	1			100					4	sror,qty=1	r11s,qty=1	r20s,qty=1	r18s,qty=1				sr89																																																																																							0
+Sacred Orb of Memory	1			100					5	sror,qty=1	r17s,qty=1	r16s,qty=1	r12s,qty=1	r05s,qty=1			sr90																																																																																							0
 																																																																																																								0
 SACRED ORB - QUIVERS																																																																																																								0
 Sacred Orb of Scripture	1			100					3	sror,qty=1	r07s,qty=1	r09s,qty=1					sr80																																																																																							0
@@ -3584,6 +3585,8 @@ Sacred Orb of Lawbringer - mods	1			100	18	292	0		2	taxe,uni	sr89,qty=1						use
 Sacred Orb of Lawbringer - mods	1			100	18	292	0		2	taxe,crf	sr89,qty=1						useitem			100	dmg-cold	100		130	180	dmg-fire	100		150	210	hit-skill	100	446	20	15	rip	100		1	1	sacred	100		1	1																																																											0
 Sacred Orb of Lawbringer - mods	1			100	18	292	0		2	thro,uni	sr89,qty=1						useitem			100	dmg-cold	100		130	180	dmg-fire	100		150	210	hit-skill	100	446	20	15	rip	100		1	1	sacred	100		1	1																																																											0
 Sacred Orb of Lawbringer - mods	1			100	18	292	0		2	thro,crf	sr89,qty=1						useitem			100	dmg-cold	100		130	180	dmg-fire	100		150	210	hit-skill	100	446	20	15	rip	100		1	1	sacred	100		1	1																																																											0
+Sacred Orb of Memory - mods	1			100	18	292	0		2	staf,uni	sr90,qty=1						useitem			100	cooldown-reduction	100		5	10	mana%	100		25	40	vit	100		10	10	ac%	100		50	50	sacred	100		1	1																																																											0
+Sacred Orb of Memory - mods	1			100	18	292	0		2	staf,crf	sr90,qty=1						useitem			100	cooldown-reduction	100		5	10	mana%	100		25	40	vit	100		10	10	ac%	100		50	50	sacred	100		1	1																																																											0
 																																																																																																								0
 ### NOT IMPLEMENTED YET ###																																																																																																								0
 Sacred Orb of Zephyr																																																																																																								0
@@ -3650,7 +3653,7 @@ LARZUK'S MALLUS ADD SOCKET TO BOOTS																																													
 Larzuk's Mallus all boots	1			100					2	boot	lmal						useitem,uns			100	sock			1	1																																																																															0
 																																																																																																								0
 CREATE ARMAGEDDON BLADE																																																																																																								0
-Create Armageddon Blade	0			100					3	7cr	dvo,qty=5	ncoi,qty=1					Arma Blade Replica	99																																																																																						0
+Create Armageddon Blade	1			100					3	7cr	oroc,qty=5	ncoi,qty=1					Arma Blade Replica	99																																																																																						0
 																																																																																																								0
 ADDITIONAL MAP RECIPES																																																																																																								0
 Reroll Rare Dungeon	1	4		100	18	361	0		2	"t4me,rar"	"rrra,qty=1"						"usetype,rar"			100																																																																																				0
@@ -4082,63 +4085,71 @@ Hellforged Headhunter	1			100	16	361	32766		3	hffd	oroc,qty=1	hfcr,qty=35					He
 																																																																																																								0
 OBTAIN TARGETED HELLFORGED UNIQUE																																																																																																								0
 																																																																																																								0
-Hellforged Herald of Zakarum	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Herald of Zakarum				Hellforged Herald of Zakarum																													hffd																																																										0
-Hellforged Hellslayer	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Hellslayer				Hellforged Hellslayer																													hffd																																																										0
-Hellforged Crackleshot	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Crackleshot				Hellforged Crackleshot																													hffd																																																										0
-Hellforged Medusa's Gaze	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Medusa's Gaze				Hellforged Medusa's Gaze																													hffd																																																										0
-Hellforged Steelrend	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Steelrend				Hellforged Steelrend																													hffd																																																										0
-Hellforged Harlequin Crest	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Harlequin Crest				Hellforged Harlequin Crest																													hffd																																																										0
-Hellforged Spirit Ward	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Spirit Ward				Hellforged Spirit Ward																													hffd																																																										0
-Hellforged Bonehew	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Bonehew				Hellforged Bonehew																													hffd																																																										0
-Hellforged Metalgrid	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Metalgrid				Hellforged Metalgrid																													hffd																																																										0
-Hellforged Widowmaker	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Widowmaker				Hellforged Widowmaker																													hffd																																																										0
-Hellforged Jade Talon	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Jadetalon				Hellforged Jade Talon																													hffd																																																										0
-Hellforged Zeraes Resolve	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Zeraes Resolve				Hellforged Zeraes Resolve																													hffd																																																										0
-Hellforged Atma's Scarab	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Atma's Scarab				Hellforged Atma's Scarab																													hffd																																																										0
-Hellforged Blackoak Shield	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Blackoak Shield				Hellforged Blackoak Shield																													hffd																																																										0
-Hellforged Steel Carapace	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Steel Carapice				Hellforged Steel Carapace																													hffd																																																										0
-Hellforged Arachnid Mesh	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Arachnid Mesh				Hellforged Arachnid Mesh																													hffd																																																										0
-Hellforged Andariels Visage	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Andariel's Visage				Hellforged Andariels Visage																													hffd																																																										0
-Hellforged Widespread	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Widespread Destruction				Hellforged Widespread																													hffd																																																										0
-Hellforged Occultist	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Occultist				Hellforged Occultist																													hffd																																																										0
-Hellforged Stone of Jordan	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	The Stone of Jordan				Hellforged Stone of Jordan																													hffd																																																										0
-Hellforged Seraph's Hymn	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Seraph's Hymn				Hellforged Seraph's Hymn																													hffd																																																										0
-Hellforged Griffon's Eye	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Griffon's Eye				Hellforged Griffon's Eye																													hffd																																																										0
-Hellforged Bul Kathos Band	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Bul Katho's Wedding Band				Hellforged Bul Kathos Band																													hffd																																																										0
-Hellforged Death's Web	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Deaths's Web				Hellforged Death's Web																													hffd																																																										0
-Hellforged Azurewrath	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Azurewrath				Hellforged Azurewrath																													hffd																																																										0
-Hellforged The Rising Sun	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	The Rising Sun				Hellforged The Rising Sun																													hffd																																																										0
-Hellforged Darkforce Spawn	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Darkforge Spawn				Hellforged Darkforce Spawn																													hffd																																																										0
-Hellforged Rathmas Hand	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Rathmas Hand				Hellforged Rathmas Hand																													hffd																																																										0
-Hellforged Tyrael's Might	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Tyrael's Might				Hellforged Tyrael's Might																													hffd																																																										0
-Hellforged Headhunter	0			100					4	hffd	dvo,qty=1	hfcr,qty=50	Headhunter				Hellforged Headhunter																													hffd																																																										0
+Hellforged Herald of Zakarum	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Herald of Zakarum				Hellforged Herald of Zakarum	99																												hffd																																																										0
+Hellforged Hellslayer	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Hellslayer				Hellforged Hellslayer	99																												hffd																																																										0
+Hellforged Crackleshot	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Crackleshot				Hellforged Crackleshot	99																												hffd																																																										0
+Hellforged Medusa's Gaze	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Medusa's Gaze				Hellforged Medusa's Gaze	99																												hffd																																																										0
+Hellforged Steelrend	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Steelrend				Hellforged Steelrend	99																												hffd																																																										0
+Hellforged Harlequin Crest	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Harlequin Crest				Hellforged Harlequin Crest	99																												hffd																																																										0
+Hellforged Spirit Ward	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Spirit Ward				Hellforged Spirit Ward	99																												hffd																																																										0
+Hellforged Bonehew	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Bonehew				Hellforged Bonehew	99																												hffd																																																										0
+Hellforged Metalgrid	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Metalgrid				Hellforged Metalgrid	99																												hffd																																																										0
+Hellforged Widowmaker	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Widowmaker				Hellforged Widowmaker	99																												hffd																																																										0
+Hellforged Jade Talon	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Jadetalon				Hellforged Jade Talon	99																												hffd																																																										0
+Hellforged Zeraes Resolve	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Zeraes Resolve				Hellforged Zeraes Resolve	99																												hffd																																																										0
+Hellforged Atma's Scarab	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Atma's Scarab				Hellforged Atma's Scarab	99																												hffd																																																										0
+Hellforged Blackoak Shield	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Blackoak Shield				Hellforged Blackoak Shield	99																												hffd																																																										0
+Hellforged Steel Carapace	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Steel Carapice				Hellforged Steel Carapace	99																												hffd																																																										0
+Hellforged Arachnid Mesh	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Arachnid Mesh				Hellforged Arachnid Mesh	99																												hffd																																																										0
+Hellforged Andariels Visage	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Andariel's Visage				Hellforged Andariels Visage	99																												hffd																																																										0
+Hellforged Widespread	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Widespread Destruction				Hellforged Widespread	99																												hffd																																																										0
+Hellforged Occultist	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Occultist				Hellforged Occultist	99																												hffd																																																										0
+Hellforged Stone of Jordan	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	The Stone of Jordan				Hellforged Stone of Jordan	99																												hffd																																																										0
+Hellforged Seraph's Hymn	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Seraph's Hymn				Hellforged Seraph's Hymn	99																												hffd																																																										0
+Hellforged Griffon's Eye	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Griffon's Eye				Hellforged Griffon's Eye	99																												hffd																																																										0
+Hellforged Bul Kathos Band	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Bul Katho's Wedding Band				Hellforged Bul Kathos Band	99																												hffd																																																										0
+Hellforged Death's Web	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Deaths's Web				Hellforged Death's Web	99																												hffd																																																										0
+Hellforged Azurewrath	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Azurewrath				Hellforged Azurewrath	99																												hffd																																																										0
+Hellforged The Rising Sun	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	The Rising Sun				Hellforged The Rising Sun	99																												hffd																																																										0
+Hellforged Mara's	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Mara's Kaleidoscope				Hellforged Mara's	99																												hffd																																																										0
+Hellforged Darkforce Spawn	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Darkforge Spawn				Hellforged Darkforce Spawn	99																												hffd																																																										0
+Hellforged Rathmas Hand	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Rathmas Hand				Hellforged Rathmas Hand	99																												hffd																																																										0
+Hellforged Tyrael's Might	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Tyrael's Might				Hellforged Tyrael's Might	99																												hffd																																																										0
+Hellforged Headhunter	1			100					4	hffd	oroc,qty=1	hfcr,qty=50	Headhunter				Hellforged Headhunter	99																												hffd																																																										0
 																																																																																																								0
 KILN CURRENCY PRINTER																																																																																																								0
 Roll the dice	1			100	18	361	0		2	hffd	hfcr,qty=25						useitem				corruptnum	100		0	32766																					hfcr,qty=25																																																										0
 																																																																																																								0
 OUTCOME																																																																																																								0
-Chisel of Avarice	1			100	16	361	8191		2	hffd	hfcr,qty=25						ccsa,qty=1																													hffd																																																										0
-Chisel of Procurement	1			100	16	361	14744		2	hffd	hfcr,qty=25						ccpr,qty=1																													hffd																																																										0
-Glyph of Adversaries	1			100	16	361	19659		2	hffd	hfcr,qty=25						scas,qty=1																													hffd																																																										0
-Glyph of Corruption	1			100	16	361	24574		2	hffd	hfcr,qty=25						sccn,qty=1																													hffd																																																										0
-Glyph of Nemeses	1			100	16	361	28506		2	hffd	hfcr,qty=25						scnm,qty=1																													hffd																																																										0
-Catalyst Shard	1			100	16	361	30144		2	hffd	hfcr,qty=25						iwss,qty=1																													hffd																																																										0
-Demonic Cube	1			100	16	361	31454		2	hffd	hfcr,qty=25						imrn,qty=1																													hffd																																																										0
-Orb of Extraction	1			100	16	361	32437		2	hffd	hfcr,qty=25						ooe,qty=1																													hffd																																																										0
-Orb of Chance	1			100	16	361	32766		2	hffd	hfcr,qty=25						oroc,qty=1																													hffd																																																										0
+Chisel of Avarice (20% chance)	1			100	16	361	6553		2	hffd	hfcr,qty=25						ccsa,qty=1																													hffd																																																										0
+Chisel of Procurement (17% chance)	1			100	16	361	12123		2	hffd	hfcr,qty=25						ccpr,qty=1																													hffd																																																										0
+Glyph of Corruption (15% chance)	1			100	16	361	17038		2	hffd	hfcr,qty=25						sccn,qty=1																													hffd																																																										0
+Glyph of Adversaries (14% chance)	1			100	16	361	21625		2	hffd	hfcr,qty=25						scas,qty=1																													hffd																																																										0
+Glyph of Nemeses (12% chance)	1			100	16	361	25557		2	hffd	hfcr,qty=25						scnm,qty=1																													hffd																																																										0
+Catalyst Shard (8% chance)	1			100	16	361	28178		2	hffd	hfcr,qty=25						iwss,qty=1																													hffd																																																										0
+Demonic Cube (4% chance)	1			100	16	361	29488		2	hffd	hfcr,qty=25						imrn,qty=1																													hffd																																																										0
+Orb of Extraction (4% chance)	1			100	16	361	30798		2	hffd	hfcr,qty=25						ooe,qty=1																													hffd																																																										0
+Exalted Orb (3% chance)	1			100	16	361	31781		2	hffd	hfcr,qty=25						exo,qty=1																													hffd																																																										0
+Larzuk's Puzzlebox (2% chance)	1			100	16	361	32436		2	hffd	hfcr,qty=25						lbox,qty=1																													hffd																																																										0
+Orb of Chance (1% chance)	1			100	16	361	32766		2	hffd	hfcr,qty=25						oroc,qty=1																													hffd																																																										0
 																																																																																																								0
 DAMNATION MODE ONLY CHANGES																																																																																																								0
-Disenchant unique into shards	1			100					2	armo,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into shards	1			100					2	weap,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into shards	1			100					2	amu,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into shards	1			100					2	ring,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into shards	1			100					3	mjw,uni	key,qty=1	ncoi,qty=1					oros,qty=1																																																																																							0
-Disenchant unique into shards	1			100					3	jew,uni	key,qty=1	ncoi,qty=1					oros,qty=1																																																																																							0
-Disenchant unique into shards	1			100					2	misl,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into shards	1			100					2	cm4,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into shards	1			100					2	cm3,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into shards	1			100					2	cm2,uni	key,qty=1						oros,qty=1																																																																																							0
-Disenchant unique into shards	1			100					2	cm1,uni	key,qty=1						oros,qty=1																																																																																							0
+Disenchant unique into chance shards	1			100					2	key,qty=1	armo,uni						useitem																													oros,qty=1																																																										0
+Disenchant unique into chance shards	1			100					2	key,qty=1	weap,uni						useitem																													oros,qty=1																																																										0
+Disenchant unique into chance shards	1			100					2	key,qty=1	amu,uni						useitem																													oros,qty=1																																																										0
+Disenchant unique into chance shards	1			100					2	key,qty=1	ring,uni						useitem																													oros,qty=1																																																										0
+Disenchant unique into chance shards	1			100					3	key,qty=1	mjw,uni	ncoi,qty=1					useitem																													oros,qty=1																																																										0
+Disenchant unique into chance shards	1			100					3	key,qty=1	jew,uni	ncoi,qty=1					useitem																													oros,qty=1																																																										0
+Disenchant unique into chance shards	1			100					2	key,qty=1	misl,uni						useitem																													oros,qty=1																																																										0
+Disenchant unique into chance shards	1			100					2	key,qty=1	cm4,uni						useitem																													oros,qty=1																																																										0
+Disenchant unique into chance shards	1			100					2	key,qty=1	cm3,uni						useitem																													oros,qty=1																																																										0
+Disenchant unique into chance shards	1			100					2	key,qty=1	cm2,uni						useitem																													oros,qty=1																																																										0
+Disenchant unique into chance shards	1			100					2	key,qty=1	cm1,uni						useitem																													oros,qty=1																																																										0
+																																																																																																								0
+Disenchant set into exalted shards	1			100					2	key,qty=1	armo,set						useitem																													exos,qty=1																																																										0
+Disenchant set into exalted shards	1			100					2	key,qty=1	weap,set						useitem																													exos,qty=1																																																										0
+Disenchant set into exalted shards	1			100					2	key,qty=1	amu,set						useitem																													exos,qty=1																																																										0
+Disenchant set into exalted shards	1			100					2	key,qty=1	ring,set						useitem																													exos,qty=1																																																										0
 																																																																																																								0
 ORB OF CHANCE - ROLL																																																																																																								0
 Normal armor	1			100	18	361	0		2	armo,nor	oroc,qty=1						useitem	99			corruptnum	100		0	9																					oroc,qty=1																																																										0
@@ -4181,9 +4192,6 @@ Rare ring	1			100	18	361	0		2	ring,rar	oroc,qty=1						useitem	99			corruptnum	1
 Magic amulet	1			100	18	361	0		2	amu,mag	oroc,qty=1						useitem	99			corruptnum	100		0	9																					oroc,qty=1																																																										0
 Rare amulet	1			100	18	361	0		2	amu,rar	oroc,qty=1						useitem	99			corruptnum	100		0	9																					oroc,qty=1																																																										0
 																																																																																																								0
-Magic amulet	1			100	18	361	0		2	amu,mag	oroc,qty=1						useitem	99			corruptnum	100		0	9																					oroc,qty=1																																																										0
-Rare amulet	1			100	18	361	0		2	amu,rar	oroc,qty=1						useitem	99			corruptnum	100		0	9																					oroc,qty=1																																																										0
-																																																																																																								0
 Magic mythic jewel	1			100	18	361	0		2	mjw,mag	oroc,qty=1						useitem	99			corruptnum	100		0	9																					oroc,qty=1																																																										0
 Rare mythic jewel	1			100	18	361	0		2	mjw,rar	oroc,qty=1						useitem	99			corruptnum	100		0	9																					oroc,qty=1																																																										0
 																																																																																																								0
@@ -4192,6 +4200,12 @@ Rare jewel	1			100	18	361	0		2	jew,rar	oroc,qty=1						useitem	99			corruptnum	1
 																																																																																																								0
 Magic grand charm	1			100	18	361	0		2	cm3,mag	oroc,qty=1						useitem	99			corruptnum	100		0	9																					oroc,qty=1																																																										0
 Magic ornate charm	1			100	18	361	0		2	cm4,mag	oroc,qty=1						useitem	99			corruptnum	100		0	9																					oroc,qty=1																																																										0
+																																																																																																								0
+Regular Magic Jewel	1			100	18	361	0		2	jew,mag	oroc,qty=1						useitem	99			corruptnum	100		0	9																					oroc,qty=1																																																										0
+Regular Rare Jewel	1			100	18	361	0		2	jew,rar	oroc,qty=1						useitem	99			corruptnum	100		0	9																					oroc,qty=1																																																										0
+																																																																																																								0
+Magic Mythical Jewel	1			100	18	361	0		2	mjw,mag	oroc,qty=1						useitem	99			corruptnum	100		0	9																					oroc,qty=1																																																										0
+Rare Mythical Jewel	1			100	18	361	0		2	mjw,rar	oroc,qty=1						useitem	99			corruptnum	100		0	9																					oroc,qty=1																																																										0
 																																																																																																								0
 ORB OF CHANCE - OUTCOME - POOF																																																																																																								0
 Normal armor	1			100	16	361	4		2	armo,nor	oroc,qty=1						key,qty=1																																																																																							0
@@ -4234,9 +4248,6 @@ Rare ring	1			100	16	361	4		2	ring,rar	oroc,qty=1						key,qty=1																
 Magic amulet	1			100	16	361	4		2	amu,mag	oroc,qty=1						key,qty=1																																																																																							0
 Rare amulet	1			100	16	361	4		2	amu,rar	oroc,qty=1						key,qty=1																																																																																							0
 																																																																																																								0
-Magic amulet	1			100	16	361	4		2	amu,mag	oroc,qty=1						key,qty=1																																																																																							0
-Rare amulet	1			100	16	361	4		2	amu,rar	oroc,qty=1						key,qty=1																																																																																							0
-																																																																																																								0
 Magic mythic jewel	1			100	16	361	4		2	mjw,mag	oroc,qty=1						key,qty=1																																																																																							0
 Rare mythic jewel	1			100	16	361	4		2	mjw,rar	oroc,qty=1						key,qty=1																																																																																							0
 																																																																																																								0
@@ -4245,6 +4256,12 @@ Rare jewel	1			100	16	361	4		2	jew,rar	oroc,qty=1						key,qty=1																
 																																																																																																								0
 Magic grand charm	1			100	16	361	4		2	cm3,mag	oroc,qty=1						key,qty=1																																																																																							0
 Magic ornate charm	1			100	16	361	4		2	cm4,mag	oroc,qty=1						key,qty=1																																																																																							0
+																																																																																																								0
+Regular Magic Jewel	1			100	16	361	4		2	jew,mag	oroc,qty=1						key,qty=1																																																																																							0
+Regular Rare Jewel	1			100	16	361	4		2	jew,rar	oroc,qty=1						key,qty=1																																																																																							0
+																																																																																																								0
+Magic Mythical Jewel	1			100	16	361	4		2	mjw,mag	oroc,qty=1						key,qty=1																																																																																							0
+Rare Mythical Jewel	1			100	16	361	4		2	mjw,rar	oroc,qty=1						key,qty=1																																																																																							0
 																																																																																																								0
 ORB OF CHANCE - OUTCOME - SUCCESS																																																																																																								0
 Normal armor	1			100	16	361	9		2	armo,nor	oroc,qty=1						usetype,uni,noe	99																																																																																						0
@@ -4281,30 +4298,91 @@ Rare quiver	1			100	16	361	9		2	cqv1,rar	oroc,qty=1						usetype,uni,noe	99					
 Rare quiver	1			100	16	361	9		2	cqv2,rar	oroc,qty=1						usetype,uni,noe	99																																																																																						0
 Rare quiver	1			100	16	361	9		2	cqv3,rar	oroc,qty=1						usetype,uni,noe	99																																																																																						0
 																																																																																																								0
-Magic ring	1			100	16	361	9		2	ring,mag	oroc,qty=1						usetype,uni,noe	99																																																																																						0
-Rare ring	1			100	16	361	9		2	ring,rar	oroc,qty=1						usetype,uni,noe	99																																																																																						0
+Magic ring	1			100	16	361	9		2	ring,mag	oroc,qty=1						usetype,uni	99																																																																																						0
+Rare ring	1			100	16	361	9		2	ring,rar	oroc,qty=1						usetype,uni	99																																																																																						0
 																																																																																																								0
-Magic amulet	1			100	16	361	9		2	amu,mag	oroc,qty=1						usetype,uni,noe	99																																																																																						0
-Rare amulet	1			100	16	361	9		2	amu,rar	oroc,qty=1						usetype,uni,noe	99																																																																																						0
+Magic amulet	1			100	16	361	9		2	amu,mag	oroc,qty=1						usetype,uni	99																																																																																						0
+Rare amulet	1			100	16	361	9		2	amu,rar	oroc,qty=1						usetype,uni	99																																																																																						0
 																																																																																																								0
-Magic amulet	1			100	16	361	9		2	amu,mag	oroc,qty=1						usetype,uni,noe	99																																																																																						0
-Rare amulet	1			100	16	361	9		2	amu,rar	oroc,qty=1						usetype,uni,noe	99																																																																																						0
+Magic mythic jewel	1			100	16	361	9		2	mjw,mag	oroc,qty=1						usetype,uni	99																																																																																						0
+Rare mythic jewel	1			100	16	361	9		2	mjw,rar	oroc,qty=1						usetype,uni	99																																																																																						0
 																																																																																																								0
-Magic mythic jewel	1			100	16	361	9		2	mjw,mag	oroc,qty=1						usetype,uni,noe	99																																																																																						0
-Rare mythic jewel	1			100	16	361	9		2	mjw,rar	oroc,qty=1						usetype,uni,noe	99																																																																																						0
+Magic jewel	1			100	16	361	9		2	jew,mag	oroc,qty=1						usetype,uni	99																																																																																						0
+Rare jewel	1			100	16	361	9		2	jew,rar	oroc,qty=1						usetype,uni	99																																																																																						0
 																																																																																																								0
-Magic jewel	1			100	16	361	9		2	jew,mag	oroc,qty=1						usetype,uni,noe	99																																																																																						0
-Rare jewel	1			100	16	361	9		2	jew,rar	oroc,qty=1						usetype,uni,noe	99																																																																																						0
+Magic grand charm	1			100	16	361	9		2	cm3,mag	oroc,qty=1						usetype,uni	99																																																																																						0
+Magic ornate charm	1			100	16	361	9		2	cm4,mag	oroc,qty=1						usetype,uni	99																																																																																						0
 																																																																																																								0
-Magic grand charm	1			100	16	361	9		2	cm3,mag	oroc,qty=1						usetype,uni,noe	99																																																																																						0
-Magic ornate charm	1			100	16	361	9		2	cm4,mag	oroc,qty=1						usetype,uni,noe	99																																																																																						0
+Regular Magic Jewel	1			100	16	361	9		2	jew,mag	oroc,qty=1						usetype,uni	99																																																																																						0
+Regular Rare Jewel	1			100	16	361	9		2	jew,rar	oroc,qty=1						usetype,uni	99																																																																																						0
+																																																																																																								0
+Magic Mythical Jewel	1			100	16	361	9		2	mjw,mag	oroc,qty=1						usetype,uni	99																																																																																						0
+Rare Mythical Jewel	1			100	16	361	9		2	mjw,rar	oroc,qty=1						usetype,uni	99																																																																																						0
+																																																																																																								0
+EXALTED ORB - ROLL																																																																																																								0
+Normal armor	1			100	18	361	0		2	armo,nor	exo,qty=1						useitem	99			corruptnum	100		0	9																					exo,qty=1																																																										0
+Magic armor	1			100	18	361	0		2	armo,mag	exo,qty=1						useitem	99			corruptnum	100		0	9																					exo,qty=1																																																										0
+Rare armor	1			100	18	361	0		2	armo,rar	exo,qty=1						useitem	99			corruptnum	100		0	9																					exo,qty=1																																																										0
+Superior armor	1			100	18	361	0		2	armo,hiq	exo,qty=1						useitem	99			corruptnum	100		0	9																					exo,qty=1																																																										0
+																																																																																																								0
+Normal weapon	1			100	18	361	0		2	weap,nor	exo,qty=1						useitem	99			corruptnum	100		0	9																					exo,qty=1																																																										0
+Magic weapon	1			100	18	361	0		2	weap,mag	exo,qty=1						useitem	99			corruptnum	100		0	9																					exo,qty=1																																																										0
+Rare weapon	1			100	18	361	0		2	weap,rar	exo,qty=1						useitem	99			corruptnum	100		0	9																					exo,qty=1																																																										0
+Superior weapon	1			100	18	361	0		2	weap,hiq	exo,qty=1						useitem	99			corruptnum	100		0	9																					exo,qty=1																																																										0
+																																																																																																								0
+Magic ring	1			100	18	361	0		2	ring,mag	exo,qty=1						useitem	99			corruptnum	100		0	9																					exo,qty=1																																																										0
+Rare ring	1			100	18	361	0		2	ring,rar	exo,qty=1						useitem	99			corruptnum	100		0	9																					exo,qty=1																																																										0
+																																																																																																								0
+Magic amulet	1			100	18	361	0		2	amu,mag	exo,qty=1						useitem	99			corruptnum	100		0	9																					exo,qty=1																																																										0
+Rare amulet	1			100	18	361	0		2	amu,rar	exo,qty=1						useitem	99			corruptnum	100		0	9																					exo,qty=1																																																										0
+																																																																																																								0
+EXALTED ORB - OUTCOME - POOF																																																																																																								0
+Normal armor	1			100	16	361	4		2	armo,nor	exo,qty=1						key,qty=1																																																																																							0
+Magic armor	1			100	16	361	4		2	armo,mag	exo,qty=1						key,qty=1																																																																																							0
+Rare armor	1			100	16	361	4		2	armo,rar	exo,qty=1						key,qty=1																																																																																							0
+Superior armor	1			100	16	361	4		2	armo,hiq	exo,qty=1						key,qty=1																																																																																							0
+																																																																																																								0
+Normal weapon	1			100	16	361	4		2	weap,nor	exo,qty=1						key,qty=1																																																																																							0
+Magic weapon	1			100	16	361	4		2	weap,mag	exo,qty=1						key,qty=1																																																																																							0
+Rare weapon	1			100	16	361	4		2	weap,rar	exo,qty=1						key,qty=1																																																																																							0
+Superior weapon	1			100	16	361	4		2	weap,hiq	exo,qty=1						key,qty=1																																																																																							0
+																																																																																																								0
+Magic ring	1			100	16	361	4		2	ring,mag	exo,qty=1						key,qty=1																																																																																							0
+Rare ring	1			100	16	361	4		2	ring,rar	exo,qty=1						key,qty=1																																																																																							0
+																																																																																																								0
+Magic amulet	1			100	16	361	4		2	amu,mag	exo,qty=1						key,qty=1																																																																																							0
+Rare amulet	1			100	16	361	4		2	amu,rar	exo,qty=1						key,qty=1																																																																																							0
+																																																																																																								0
+EXALTED ORB - OUTCOME - SUCCESS																																																																																																								0
+Normal armor	1			100	16	361	9		2	armo,nor	exo,qty=1						usetype,set,noe	99																																																																																						0
+Magic armor	1			100	16	361	9		2	armo,mag	exo,qty=1						usetype,set,noe	99																																																																																						0
+Rare armor	1			100	16	361	9		2	armo,rar	exo,qty=1						usetype,set,noe	99																																																																																						0
+Superior armor	1			100	16	361	9		2	armo,hiq	exo,qty=1						usetype,set,noe	99																																																																																						0
+																																																																																																								0
+Normal weapon	1			100	16	361	9		2	weap,nor	exo,qty=1						usetype,set,noe	99																																																																																						0
+Magic weapon	1			100	16	361	9		2	weap,mag	exo,qty=1						usetype,set,noe	99																																																																																						0
+Rare weapon	1			100	16	361	9		2	weap,rar	exo,qty=1						usetype,set,noe	99																																																																																						0
+Superior weapon	1			100	16	361	9		2	weap,hiq	exo,qty=1						usetype,set,noe	99																																																																																						0
+																																																																																																								0
+Magic ring	1			100	16	361	9		2	ring,mag	exo,qty=1						usetype,set	99																																																																																						0
+Rare ring	1			100	16	361	9		2	ring,rar	exo,qty=1						usetype,set	99																																																																																						0
+																																																																																																								0
+Magic amulet	1			100	16	361	9		2	amu,mag	exo,qty=1						usetype,set	99																																																																																						0
+Rare amulet	1			100	16	361	9		2	amu,rar	exo,qty=1						usetype,set	99																																																																																						0
 																																																																																																								0
 SHARD TO ORB OF CHANCE																																																																																																								0
-10 shard = 1 orb	1			100					1	oros,qty=10							oroc,qty=1																																																																																							0
-20 shard = 2 orb	1			100					1	oros,qty=20							oroc,qty=2																																																																																							0
-30 shard = 3 orb	1			100					1	oros,qty=30							oroc,qty=3																																																																																							0
-40 shard = 4 orb	1			100					1	oros,qty=40							oroc,qty=4																																																																																							0
 50 shard = 5 orb	1			100					1	oros,qty=50							oroc,qty=5																																																																																							0
+40 shard = 4 orb	1			100					1	oros,qty=40							oroc,qty=4																																																																																							0
+30 shard = 3 orb	1			100					1	oros,qty=30							oroc,qty=3																																																																																							0
+20 shard = 2 orb	1			100					1	oros,qty=20							oroc,qty=2																																																																																							0
+10 shard = 1 orb	1			100					1	oros,qty=10							oroc,qty=1																																																																																							0
+																																																																																																								0
+SHARD TO EXALTED ORB																																																																																																								0
+50 shard = 5 orb	1			100					1	exos,qty=50							exo,qty=5																																																																																							0
+40 shard = 4 orb	1			100					1	exos,qty=40							exo,qty=4																																																																																							0
+30 shard = 3 orb	1			100					1	exos,qty=30							exo,qty=3																																																																																							0
+20 shard = 2 orb	1			100					1	exos,qty=20							exo,qty=2																																																																																							0
+10 shard = 1 orb	1			100					1	exos,qty=10							exo,qty=1																																																																																							0
 																																																																																																								0
 BUGFIX																																																																																																								0
 Spawn Malah resistance scroll	1			100					2	key,qty=1	tsc,qty=1						tr2																																																																																							0

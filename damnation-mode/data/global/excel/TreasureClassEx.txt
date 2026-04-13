@@ -762,35 +762,35 @@ Swarm 2 (H)	17	74	1					415	Potion 6	292	Misc 2	143	Act 3 (H) Good	23	Act 3 (H) 
 Map Swarm t1	28	74	1					415	Potion 6	292	Misc 2	143	Map Good t1	23	Act 3 (H) Magic A	143																0
 Map Swarm t2	28	74	1					415	Potion 6	292	Misc 2	143	Map Good t2	23	Act 3 (H) Magic A	143																0
 Map Swarm t3	28	74	1					415	Potion 6	292	Misc 2	143	Map Good t3	23	Act 3 (H) Magic A	143																0
-Andariel			7	983	983	983	1024	1	"gld,mul=1280"	228	Act 2 Equip A	395	Act 2 Junk	311	Act 2 Good	62	tes	50														0
-Andariel (N)			7	983	983	983	1024	1	"gld,mul=1536"	228	Act 2 (N) Equip A	395	Act 2 (N) Junk	311	Act 2 (N) Good	62	tes	50														0
-Andariel (H)			7	983	983	983	1024	1	"gld,mul=2048"	224	Act 4 (H) Equip A	387	Act 4 (H) Junk	305	Act 4 (H) Good	61	tes	50														0
-Andarielq			7	995	995	1024	1024	1	Act 2 Equip A	845	Act 2 Good	133	tes	65																		0
-Andarielq (N)			7	995	995	1024	1024	1	Act 2 (N) Equip A	845	Act 2 (N) Good	133	tes	65																		0
-Andarielq (H)			7	995	995	1024	1024	1	Act 4 (H) Equip A	810	Act 4 (H) Good	127	tes	65																		0
-Duriel - Base			7	983	983	983	1024	0	"gld,mul=1280"	228	Act 3 Equip A	395	Act 3 Junk	311	Act 3 Good	62	tes	50														0
-Duriel (N) - Base			7	983	983	983	1024	0	"gld,mul=1536"	228	Act 3 (N) Equip A	395	Act 3 (N) Junk	311	Act 3 (N) Good	62	tes	50														0
-Duriel (H) - Base			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	45	tes	50														0
-Durielq - Base			7	993	993	1024	1024	0	Act 3 Equip A	845	Act 3 Good	133	tes	65																		0
-Durielq (N) - Base			7	993	993	1024	1024	0	Act 3 (N) Equip A	845	Act 3 (N) Good	133	tes	65																		0
-Durielq (H) - Base			7	993	993	1024	1024	0	Act 5 (H) Equip B	928	Act 5 (H) Good	53	tes	65																		0
+Andariel			7	983	983	983	1024	1	"gld,mul=1280"	228	Act 2 Equip A	395	Act 2 Junk	311	Act 2 Good	62																0
+Andariel (N)			7	983	983	983	1024	1	"gld,mul=1536"	228	Act 2 (N) Equip A	395	Act 2 (N) Junk	311	Act 2 (N) Good	62																0
+Andariel (H)			7	983	983	983	1024	1	"gld,mul=2048"	224	Act 4 (H) Equip A	387	Act 4 (H) Junk	305	Act 4 (H) Good	41	tes	50														0
+Andarielq			7	995	995	1024	1024	1	Act 2 Equip A	845	Act 2 Good	133																				0
+Andarielq (N)			7	995	995	1024	1024	1	Act 2 (N) Equip A	845	Act 2 (N) Good	133																				0
+Andarielq (H)			7	995	995	1024	1024	1	Act 4 (H) Equip A	928	Act 4 (H) Good	50	tes	65																		0
+Duriel - Base			7	983	983	983	1024	0	"gld,mul=1280"	228	Act 3 Equip A	395	Act 3 Junk	311	Act 3 Good	62																0
+Duriel (N) - Base			7	983	983	983	1024	0	"gld,mul=1536"	228	Act 3 (N) Equip A	395	Act 3 (N) Junk	311	Act 3 (N) Good	62																0
+Duriel (H) - Base			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	42	tes	50														0
+Durielq - Base			7	993	993	1024	1024	0	Act 3 Equip A	845	Act 3 Good	133																				0
+Durielq (N) - Base			7	993	993	1024	1024	0	Act 3 (N) Equip A	845	Act 3 (N) Good	133																				0
+Durielq (H) - Base			7	993	993	1024	1024	0	Act 5 (H) Equip B	928	Act 5 (H) Good	51	tes	65																		0
 Radament			5	900	900	900	1024	1	"gld,mul=1280"	228	Act 3 Equip B	395	Act 3 Junk	311	Act 3 Good	62																0
 Radament (N)			5	900	900	900	1024	1	"gld,mul=1536"	228	Act 3 (N) Equip B	395	Act 3 (N) Junk	311	Act 3 (N) Good	62																0
 Radament (H)			5	900	900	900	1024	1	"gld,mul=2048"	228	Act 3 (H) Equip C	395	Act 3 (H) Junk	311	Act 3 (H) Good	62																0
 Flying Scimitar			1					95	Act 2 Good	45	scm	859																				0
 Flying Scimitar (N)			1					95	Act 2 (N) Good	45	scm	376	9sm	482																		0
 Flying Scimitar (H)			1					95	Act 2 (H) Good	45	scm	105	9sm	271	7sm	482																0
-Mephisto			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 4 Equip A	799	Act 4 Junk	76	Act 4 Good	46	ceh	51														0
-Mephisto (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 4 (N) Equip A	799	Act 4 (N) Junk	76	Act 4 (N) Good	46	ceh	51														0
+Mephisto			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 4 Equip A	799	Act 4 Junk	76	Act 4 Good	46																0
+Mephisto (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 4 (N) Equip A	799	Act 4 (N) Junk	76	Act 4 (N) Good	46																0
 Mephisto (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 4 (H) Equip A	787	Act 4 (H) Junk	75	Act 4 (H) Good	45	ceh	51	dcso	55												0
-Mephistoq			7	993	993	1024	1024	0	Act 4 Equip A	945	Act 4 Good	54	ceh	56																		0
-Mephistoq (N)			7	993	993	1024	1024	0	Act 4 (N) Equip A	945	Act 4 (N) Good	54	ceh	56																		0
-Mephistoq (H)			7	993	993	1024	1024	0	Act 4 (H) Equip A	928	Act 4 (H) Good	53	ceh	56																		0
-Diablo			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 5 Equip A	799	Act 5 Junk	76	Act 5 Good	46	bet	51														0
-Diablo (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 5 (N) Equip A	799	Act 5 (N) Junk	76	Act 5 (N) Good	46	bet	51														0
-Diablo (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip A	787	Act 5 (H) Junk	75	Act 5 (H) Good	45	bet	51	dcso	60												0
-Diabloq			7	993	993	1024	1024	0	Act 5 Equip A	945	Act 5 Good	54	bet	56																		0
-Diabloq (N)			7	993	993	1024	1024	0	Act 5 (N) Equip A	945	Act 5 (N) Good	54	bet	56																		0
+Mephistoq			7	993	993	1024	1024	0	Act 4 Equip A	945	Act 4 Good	54																				0
+Mephistoq (N)			7	993	993	1024	1024	0	Act 4 (N) Equip A	945	Act 4 (N) Good	54																				0
+Mephistoq (H)			7	993	993	1024	1024	0	Act 4 (H) Equip A	928	Act 4 (H) Good	52	ceh	56																		0
+Diablo			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 5 Equip A	799	Act 5 Junk	76	Act 5 Good	46																0
+Diablo (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 5 (N) Equip A	799	Act 5 (N) Junk	76	Act 5 (N) Good	46																0
+Diablo (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip A	787	Act 5 (H) Junk	75	Act 5 (H) Good	46	bet	51	dcso	60												0
+Diabloq			7	993	993	1024	1024	0	Act 5 Equip A	945	Act 5 Good	54																				0
+Diabloq (N)			7	993	993	1024	1024	0	Act 5 (N) Equip A	945	Act 5 (N) Good	54																				0
 Diabloq (H)			7	993	993	1024	1024	0	Act 5 (H) Equip A	928	Act 5 (H) Good	53	bet	56																		0
 Summoner			5	900	900	972	1024	4	"gld,mul=1280"	248	Act 2 Equip C	414	Act 3 Junk	138	Act 2 Good	82	Act 3 Magic A	110														0
 Summoner (N)			5	900	900	972	1024	4	"gld,mul=1536"	248	Act 2 (N) Equip C	414	Act 3 (N) Junk	138	Act 2 (N) Good	82	Act 3 (N) Magic A	110														0
@@ -816,15 +816,15 @@ Trapped Soul (N)			1					95	gld	286	Act 4 (N) Equip A	120	Act 4 (N) Junk	497				
 Trapped Soul (H)			1					95	gld	286	Act 4 (H) Equip A	120	Act 4 (H) Junk	497																		0
 Haphesto			5	800	800	900	1024	3	"gld,mul=1280"	340	Act 5 Equip A	461	Act 5 Junk	121	Act 5 Good	72																0
 Haphesto (N)			5	800	800	900	1024	3	"gld,mul=1536"	340	Act 5 (N) Equip A	461	Act 5 (N) Junk	121	Act 5 (N) Good	72																0
-Haphesto (H)			5	800	800	900	1024	3	"gld,mul=2048"	340	Act 5 (H) Equip A	461	Act 5 (H) Junk	121	Act 5 (H) Good	72																0
+Haphesto (H)			5	800	800	900	1024	3	"gld,mul=2048"	340	Act 5 (H) Equip A	461	Act 5 (H) Junk	121	Act 5 (H) Good	57																0
 Nihlathak			5	900	900	900	1024	3	"gld,mul=1280"	340	Act 5 Equip B	461	Act 5 Junk	121	Act 5 Good	72																0
 Nihlathak (N)			5	900	900	900	1024	3	"gld,mul=1536"	340	Act 5 (N) Equip B	461	Act 5 (N) Junk	121	Act 5 (N) Good	72																0
 Nihlathak (H)			5	900	900	900	1024	2	"gld,mul=2048"	332	Act 5 (H) Equip B	451	Act 5 (H) Junk	71	Act 5 (H) Good	71	pk3	71														0
-Baal			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 1 (N) Equip A	799	Act 1 (N) Junk	76	Act 1 (N) Good	46	fed	56														0
-Baal (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 1 (H) Equip A	799	Act 1 (H) Junk	76	Act 1 (H) Good	46	fed	56														0
-Baal (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	45	fed	56	dcso	65												0
-Baalq			7	993	993	1024	1024	0	Act 1 (N) Equip A	945	Act 1 (N) Good	54	fed	51																		0
-Baalq (N)			7	993	993	1024	1024	0	Act 1 (H) Equip A	945	Act 1 (H) Good	54	fed	51																		0
+Baal			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 1 (N) Equip A	799	Act 1 (N) Junk	76	Act 1 (N) Good	46																0
+Baal (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 1 (H) Equip A	799	Act 1 (H) Junk	76	Act 1 (H) Good	46																0
+Baal (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	48	fed	56	dcso	65												0
+Baalq			7	993	993	1024	1024	0	Act 1 (N) Equip A	945	Act 1 (N) Good	54																				0
+Baalq (N)			7	993	993	1024	1024	0	Act 1 (H) Equip A	945	Act 1 (H) Good	54																				0
 Baalq (H)			7	993	993	1024	1024	0	Act 5 (H) Equip B	928	Act 5 (H) Good	53	fed	51																		0
 Blood Raven			5	800	800	972	1024	3	"gld,mul=1280"	340	Act 1 Equip B	461	Act 1 Junk	121	Act 1 Good	121																0
 Blood Raven (N)			5	800	800	972	1024	3	"gld,mul=1536"	340	Act 1 (N) Equip B	461	Act 1 (N) Junk	121	Act 1 (N) Good	121																0
@@ -834,7 +834,7 @@ Smith (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				
 Smith (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
 Izual			5	800	800	972	1024	3	"gld,mul=1280"	340	Act 4 Equip B	461	Act 4 Junk	121	Act 4 Good	121																0
 Izual (N)			5	800	800	972	1024	3	"gld,mul=1536"	340	Act 4 (N) Equip B	461	Act 4 (N) Junk	121	Act 4 (N) Good	121																0
-Izual (H)			5	800	800	972	1024	3	"gld,mul=2048"	340	Act 4 (H) Equip B	461	Act 4 (H) Junk	121	Act 4 (H) Good	121	pk3	121														0
+Izual (H)			5	800	800	972	1024	3	"gld,mul=2048"	340	Act 4 (H) Equip B	461	Act 4 (H) Junk	121	Act 4 (H) Good	55	pk3	121														0
 Act 1 Super A	18	0	-4	800	800	972	1024	0	Act 1 Uitem A	2	Act 1 Cpot A	2																				0
 Act 1 Super B	18	5	-4	800	800	972	1024	0	Act 1 Uitem B	2	Act 1 Cpot B	2																				0
 Act 1 Super C	18	9	-4	800	800	972	1024	0	Act 1 Uitem C	2	Act 1 Cpot C	2																				0
@@ -1129,7 +1129,7 @@ Zhar Terrors			1					0	troe	1	tror	1	troa	1																		0
 Zhar (H)		85	-2					0	Zhar Terrors	1	Map Boss T3	1																				0
 Ureh Boss		85	-2					0	Map Boss T3	1																						0
 UberLazarus		85	1					0	Temporalis	4	Indigon	6	Tides	8	Sanctuarys Demise	16	Lachdanans Sacrifice	20	Amalgamation	46												0
-Haphesto Quest Items (H)			5	800	800	900	1024	3	"gld,mul=2048"	340	Act 5 (H) Equip A	461	Act 5 (H) Junk	121	Act 5 (H) Good	72																0
+Haphesto Quest Items (H)			5	800	800	900	1024	3	"gld,mul=2048"	340	Act 5 (H) Equip A	461	Act 5 (H) Junk	121	Act 5 (H) Good	70																0
 Haphesto Quest (H)			-2						hffd	1	Haphesto Quest Items (H)	1																				0
 BELOW ADD OR REMOVE ROW																																
 Larzuk Puzzlebox N HAS TO BE ON																																
@@ -1151,9 +1151,9 @@ LS Horde Uitem t3		89	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Map Good t3	4	Ci
 LS Horde Citem t1		87	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t1	4	Cinder or Cluster Champion	3																0
 LS Horde Citem t2		88	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t2	4	Cinder or Cluster Champion	3																0
 LS Horde Citem t3		89	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Map Good t3	4	Cinder or Cluster Champion	3																0
-LS Horde T1 H2H	35	87	1					94	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t1	31	Cinder or Cluster H2H	15														0
-LS Horde T2 H2H	36	88	1					94	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t2	31	Cinder or Cluster H2H	16														0
-LS Horde T3 H2H	37	89	1					94	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t3	31	Cinder or Cluster H2H	17														0
+LS Horde T1 H2H	35	87	1					94	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t1	31	Cinder or Cluster H2H	20														0
+LS Horde T2 H2H	36	88	1					94	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t2	31	Cinder or Cluster H2H	21														0
+LS Horde T3 H2H	37	89	1					94	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t3	31	Cinder or Cluster H2H	22														0
 LS Horde Champ T1	38	87	-2					0	LS Horde Citem t1	1	Act 5 (H) Cpot C	3																				0
 LS Horde Champ T2	39	88	-2					0	LS Horde Citem t2	1	Act 5 (H) Cpot C	3																				0
 LS Horde Champ T3	40	89	-2					0	LS Horde Citem t3	1	Act 5 (H) Cpot C	3																				0
@@ -1759,11 +1759,11 @@ REMOVE IF YOU ADD ROW ABOVE
 REMOVE IF YOU ADD ROW ABOVE																																
 REMOVE IF YOU ADD ROW ABOVE																																
 REMOVE IF YOU ADD ROW ABOVE																																
-Larzuk Puzzlebox N				3000	10																											0
-Larzuk Puzzlebox NM				2000	10																											0
-Larzuk Puzzlebox H				1000	10																											0
-Orb of Extraction N				3000	10																											0
-Orb of Extraction NM				2000	10																											0
+Larzuk Puzzlebox N				0																												0
+Larzuk Puzzlebox NM				4000	10																											0
+Larzuk Puzzlebox H				2000	10																											0
+Orb of Extraction N				0																												0
+Orb of Extraction NM				3000	10																											0
 Orb of Extraction H				1000	10																											0
 SkeletonKey N				15000	100																											0
 SkeletonKey NM				7500	100																											0
@@ -1809,7 +1809,7 @@ ShadowOfMendeln		90	6	970	980	990	1024	0	Act 5 (H) Equip C	787	Act 5 (H) Good	45
 MapStat DropJewelry			1						rin	2	amu	2	jew	4	cm3	1	cm2	1	cm1	1												0
 MapStat DropWeapons			1						Act 5 (H) Weap C	1																						0
 MapStat DropArmor			1						Act 5 (H) Armo C	1																						0
-MapStat drop currency			1						"gld,mul=2048"	86	Chisels	4	Scarabs	4																		0
-MapStat DropCharms			1						cm3	1	cm2	1	cm1	1																		0
+MapStat drop currency			1						"gld,mul=2048"	82	Chisels	7	Scarabs	9	oroc	2																0
+MapStat DropCharms			1						cm4	1	cm3	2	cm2	2	cm1	2																0
 MapStat DropWss			1						wss	1																						0
-MapStat DropJewels			1						jew	1																						0
+MapStat DropJewels			1						mjw	1	jew	3																				0

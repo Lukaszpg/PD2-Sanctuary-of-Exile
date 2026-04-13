@@ -10,7 +10,7 @@ Runeword74	Lionheart	1		tors									HelLumFal	r15	r17	r19				str		0	15	vit		10	
 Runeword75	Lore	1		helm									OrtSol	r09	r12					enr		5	10	allskills		1	1	light		2	2	mana-kill		1	2													0
 Runeword81	Malice	1		mele	jave	taxe	thro						IthElEth	r06	r01	r05				openwounds		100	100	dmg-ac		-100	-100	noheal		1	1	dmg%		33	33	light		-1	-1	regen		-5	-5	deep-wounds		6	6	0
 Runeword82	Melody	1		miss										r13	r18	r04				dmg%		100	150	skilltab	0	3	3	skill	9	3	3	skill	13	3	3	skill	17	3	3	dmg-undead		300	300					0
-Runeword83	Memory	1		staf										r17	r16	r12	r05			mana%		25	40	red-mag		7	7	ac%		50	50	cast2		33	33	allskills		4	4	skill	58	2	2	skill	42	2	2	0
+Runeword83	Memory	1		staf										r17	r16	r12	r05			mana%		25	40	red-mag		7	7	ac%		50	50	cast2		33	33	allskills		4	4	skill	58	2	2	cooldown-reduction		5	10	0
 Runeword88	Nadir	1		helm									NefTir	r04	r03					ac%		50	50	ac		10	10	light		-3	-3	charged	264	9	13	gold%		-33	-33	str		5	5	mana-kill		2	4	0
 Runeword116	Radiance	1		helm									NefSolIth	r04	r12	r06				light		5	5	enr		10	10	vit		10	10	dmg%		20	40	mana		33	33	ac%		75	75					0
 Runeword120	Rhyme	1		shld									ShaelEth	r13	r05					block2		20	20	block		20	20	res-all		25	25	nofreeze		1	1	gold%		50	50	mag%		25	25					0
