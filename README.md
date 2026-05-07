@@ -128,4 +128,13 @@ I would like to migrate from version 12.0.6b to 12.1.0. I am looking for the row
 | 12.0.6b 	| ❌      	| ❌      	| ❌      	| ❌     	| ❌     	| ❌     	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️       	| ❌      	|
 | 12.1.0  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| 〰️      	|
 
+## Contents of this GitHub repository
+
+Folder description: 
+
+- Assets - contains ONLY assets that were added or modified in Sanctuary of Exile. To properly build asset MPQ archive, merge these files with vanilla PD2 assets - overwrite if necessary
+- Maps - contains ONLY maps that were added or modified in Sanctuary of Exile. To properly build maps MPQ archive, merge these files with vanilla PD2 assets - overwrite if necessary
+- Standard-mode/data - contains all .txt files for modified and non-modified data files for Standard Mode
+- Damnation-mode/data - contains all .txt files for modified and non-modified data files for Damnation Mode
+
 
