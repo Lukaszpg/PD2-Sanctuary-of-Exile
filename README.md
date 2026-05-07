@@ -3,7 +3,9 @@
 
 Discord: https://discord.gg/CwN2s6AHSZ
 
-Wiki: http://wiki.sanctuaryofexile.com
+## Wiki
+
+Wiki is available on: http://wiki.sanctuaryofexile.com
 
 ## Credits
 
