@@ -176,7 +176,7 @@ corpseexp	173																														1	1	1		1								1									18		corpsee
 whirlwind	174																																											whirlwind																											0
 fullsetgeneric	175																																											aura_fanatic																											0
 monsterset	176	3			1							1																																					fire_cast_2																1	135					0
-delerium	177	3			1						1	1																																					teleport	teleport															1	212					0
+endurance_charge_state	177					1																																						bloodlust_state	bloodlust_state																										0
 antidote	178																				1																																																		0
 thawing	179																		1																																																				0
 staminapot	180																			1																																																			0
@@ -210,28 +210,28 @@ merc_passive_mastery	207																																																								
 player_stun	208																						1																					stun							velocitypercent																				0
 hh_dmg	209																																											berserkfront																			barbarian_shout_1								0
 hh_speed	210																																											doubledamage3																			assassin_fade								0
-devaura	211																																											dev_aura	dev_glow_aura																										0
-regenbymaxhp	212																																																																						0
+ascendancy_tier3	211					1																																																																	0
+belt_slot_state	212																																																																						0
 mapevent	213																																																																						0
 disable_tele	214																																											disable_tele																											0
 dopplezonnew	215																														1	1			1														dopllezon_appear																						0
 blinddimvision	216						1																																					cursedimvision					curse_hit														necromancer_dimvision								0
 butchermap	217					1																																						aura_magicgoldfind																			paladin_aura_purification								0
-rathmaset	218																																											rathma_aura																											0
+ascendancy_tier4	218					1																																																																	0
 vengeance	219																																																vengeance_hit														paladin_sacrifice								0
-black	220																														1	1			1																							101	115												0
+prophet_wine3	220	21																																										mephisto																											0
 inferno_debuff	221																								1																			inferno_debuff																											0
 arcticblast_debuff	222																										1																	arcticblast_debuff																											0
 sacrifice_explosion	223																																																cast_undead																						0
 temp_splash	224																																																																						0
 deepwounds	225																																																		deep_wounds																				0
 timedilation	226					1				1																																																													0
-spartans	227					1																																																																	0
+prophet_wine2	227	21																																										mephisto																											0
 passive_blessedaim	228																																																																						0
-tpotfire_debuff	229																								1																			tpotfire_debuff																											0
-tpotgas_debuff	230																											1																tpotgas_debuff																											0
-tpotcold_debuff	231																										1																	tpotcold_debuff																											0
-tpotlight_debuff	232																									1																		tpotltng_debuff																											0
+crush_to_deadly	229					1				1																																																													0
+divinejudgement	230															1																																			hpregen																				0
+ascendancy_aura	231					1																																						lucion_t8_aura																											0
+prophet_wine	232	21																																										mephisto																											0
 holysword	233	4																																																					Holy Sword	2hsw	bwht														0
 indigon	234					1																																																																	0
 rakanoth_steal	235																																					1										rakanoth_steal_1			progressive_steal	1	1																		0
@@ -240,17 +240,16 @@ onslaughtstate	237																																											shrine_stamina	shri
 progressive_mindblast	238																																					1													progressive_mindblast	1	1																		0
 hellforged_metalgrid	239					1				1																																																													0
 callofthebrotherhood	240					1				1																																																													0
-convertmasterymagaura	241					1				1																																																													0
-originalsinaura	242					1				1																																																													0
-galeforce	243					1																																																																	0
-empowered_spirit	244					1				1																																																													0
-tempered_flesh	245					1				1																																																													0
-one_with_nothing	246					1				1																																																													0
-increase_attr_state	247									1																																																													0
-physperstraura	248									1																																																													0
-manastorm_passive	249					1				1																																																													0
-frailty	250					1				1																																		desolation_front	desolation_back																		paladin_aura_purification								0
-mjolneraura	251					1				1																																																													0
-reinforce	252																																											shrine_armor	shrine_shimmer01																										0
-crush_to_deadly	253					1				1																																																													0
-divinejudgement	254															1																																			hpregen																				0
+uberscaling	241																																																																						0
+convertmasterymagaura	242					1				1																																																													0
+originalsinaura	243					1				1																																																													0
+galeforce	244					1																																																																	0
+empowered_spirit	245					1				1																																																													0
+tempered_flesh	246					1				1																																																													0
+one_with_nothing	247					1				1																																																													0
+prophet_wine4	248	21																																										mephisto																											0
+shield_slot_aura	249									1																																																													0
+manastorm_passive	250					1				1																																																													0
+frailty	251					1				1																																		desolation_front	desolation_back																		paladin_aura_purification								0
+mjolneraura	252					1				1																																																													0
+reinforce	253																																											shrine_armor	shrine_shimmer01																										0

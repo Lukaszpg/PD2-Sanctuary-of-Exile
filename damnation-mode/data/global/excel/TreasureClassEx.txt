@@ -36,37 +36,57 @@ Treasure Fallen Craft NM			2					16	crfb	1	crfc	1	crfs	1	crfh	1	crfv	1	crfu	1			
 Treasure Fallen Gem H			2					10	Perfect Gem	4	Flawless Gem	1																				0
 Treasure Fallen Rune H			2					12	Runes 17	7																						0
 Treasure Fallen Craft H			1					12	crfb	1	crfc	1	crfs	1	crfh	1	crfv	1	crfu	1	crfp	1										0
+Fate Card Tier 0			1					0	fa01	1	fa03	2	fa04	1	fa06	2	fa07	1	fa08	1	fa09	2	fa10	1	fa12	3						0
+Fate Card Tier 1			1					0	fa13	1	fa14	1	fa15	1	fa16	1	fa17	1	fa18	1	fa19	1	fa20	1	fa21	1						0
+Fate Card Tier 2			1					0	fa22	1	fa23	1	fa24	1	fa25	1	fa26	1	fa27	1	fa28	1	fa29	1	fa30	1	fa31	1				0
+Fate Card Tier 3a			1					0	fa32	1	fa33	1	fa34	1	fa35	1	fa36	1	fa37	1	fa38	1	fa39	1	fa40	1	fa41	1				0
+Fate Card Tier 3b			1					0	fa42	1	fa43	1	fa44	1	fa45	1	fa46	1	fa47	1	fa48	1	fa49	1	fa50	1	fa51	1				0
+Fate Card Tier 3c			1					7	fa52	1	fa53	1	fa54	1																		0
+Fate Card Tier 3			1					0	Fate Card Tier 3a	1	Fate Card Tier 3b	1	Fate Card Tier 3c	1																		0
+Fate Card Tier 4			1					0	fa55	1	fa56	1	fa57	1	fa58	1																0
+Fate Card Tier 5			1					0	fa59	1	fa60	1	fa61	1	fa62	1	fa63	1														0
+Fate Card Tier 2 T1T2			1					0	fa29	1	fa30	1	fa31	1																		0
+Base Essences A			1					0	es01	1	es04	1	es07	1	es10	1	es13	1	es16	1	es19	1	es22	1	es25	1	es28	1				0
+Base Essences B			1					0	es32	1	es35	1	es38	1	es41	1	es44	1	es47	1	es50	1	es53	1	es56	1	es59	1				0
+Greater Essences A			1					0	es02	1	es05	1	es08	1	es11	1	es14	1	es17	1	es20	1	es23	1	es26	1	es29	1				0
+Greater Essences B			1					0	es33	1	es36	1	es39	1	es42	1	es45	1	es48	1	es51	1	es54	1	es57	1	es60	1				0
+Perfect Essences A			1					0	es03	1	es06	1	es09	1	es12	1	es15	1	es18	1	es21	1	es24	1	es27	1	es30	1				0
+Perfect Essences B			1					0	es34	1	es37	1	es40	1	es43	1	es46	1	es49	1	es52	1	es55	1	es58	1	es61	1				0
+Base Tier Essences			1					0	Base Essences A	1	Base Essences B	1																				0
+Greater Tier Essences			1					0	Greater Essences A	1	Greater Essences B	1																				0
+Perfect Tier Essences			1					0	Perfect Essences A	1	Perfect Essences B	1																				0
+Essences T1 Map			1					0	Perfect Tier Essences	15	Greater Tier Essences	35	Base Tier Essences	50																		0
+Essences T2 Map			1					0	Perfect Tier Essences	17	Greater Tier Essences	33	Base Tier Essences	50																		0
+Essences T3 Map			1					0	Perfect Tier Essences	19	Greater Tier Essences	31	Base Tier Essences	50																		0
+Hatred Orbs T1 Map			1					0	hor6	8	hor5	12	hor4	16	hor3	19	hor2	21	hor1	24												0
+Hatred Orbs T2 Map			1					0	hor6	10	hor5	12	hor4	16	hor3	19	hor2	20	hor1	23												0
+Hatred Orbs T3 Map			1					0	hor6	12	hor5	14	hor4	16	hor3	18	hor2	19	hor1	21												0
+Hatred Orbs T4 Map			1					0	hor6	14	hor5	16	hor4	18	hor3	20	hor2	17	hor1	15												0
 Dummy																																0
 Dummy																																0
 Dummy																																0
 Dummy																																0
 Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Dummy																																0
-Terrors T3			1					5	troe	1	tror	1	troa	1																		0
-Chisels			1					0	ccsa	3	ccpr	2																				0
+Fate Card fallen			1					0	Fate Card Tier 1	2	Fate Card Tier 2 T1T2	12	Fate Card Tier 3	18	Fate Card Tier 4	30	Fate Card Tier 5	38														0
+Fate Card Normal			1					0	Fate Card Tier 5	1																						0
+Fate Card Nightmare			1					0	Fate Card Tier 4	40	Fate Card Tier 5	60																				0
+Fate Card A45 Hell			1					0	Fate Card Tier 3	27	Fate Card Tier 4	35	Fate Card Tier 5	38																		0
+Fate Card World Drop Hell			1					0	Fate Card Tier 4	40	Fate Card Tier 5	60																				0
+Fate Card T1 Map			1					0	Fate Card Tier 2 T1T2	10	Fate Card Tier 3	20	Fate Card Tier 4	30	Fate Card Tier 5	40																0
+Fate Card T2 Map			1					0	Fate Card Tier 2 T1T2	10	Fate Card Tier 3	20	Fate Card Tier 4	30	Fate Card Tier 5	40																0
+Fate Card T3 Map			1					0	Fate Card Tier 0	3	Fate Card Tier 1	10	Fate Card Tier 2	16	Fate Card Tier 3	20	Fate Card Tier 4	24	Fate Card Tier 5	27												0
+Fate Card T4 Map			1					0	Fate Card Tier 0	3	Fate Card Tier 1	10	Fate Card Tier 2	16	Fate Card Tier 3	20	Fate Card Tier 4	24	Fate Card Tier 5	27												0
+Terrors T3			1					5	tror	1	troa	1	troe	1																		0
+Chisels			1					0	ccsa	1	ccpr	1																				0
 Scarabs			1					0	scnm	1	scas	2	sccn	2																		0
-Map currency T1			2					0	Scarabs	35	Chisels	35	wss	30																		0
-Map currency T2			2					0	Scarabs	35	Chisels	35	wss	30																		0
-Map currency T3			2					0	Scarabs	33	Chisels	33	wss	31	Terrors T3	3																0
+Map currency T1			1					0	Scarabs	35	Chisels	35	wss	30																		0
+Map currency T2			1					0	Scarabs	35	Chisels	35	wss	30																		0
+Map currency T3			1					0	Scarabs	33	Chisels	33	wss	31	Terrors T3	3																0
+New orbs			1					0	csor	2	ooal	3																				0
+New orbs T1			1					0	etor	1	csor	39	ooal	60																		0
+New orbs T2			1					0	etor	1	csor	43	ooal	50																		0
+New orbs T3			1					0	etor	1	csor	47	ooal	52																		0
+New orbs fallen			1					0	etor	1	csor	39	ooal	60																		0
 Mythic or Charms			1					0	mjw	1	cm4	1																				0
 Runes 1			1						r01s	3	r02s	2																				0
 Runes 2			1						r03s	3	r04s	2	Runes 1	2																		0
@@ -269,24 +289,24 @@ Act 4 (H) Magic B	4	80	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic A	4	82	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic B	4	83	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic C	4	85	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 1 Good	5	0	1						Jewelry A	60	Chipped Gem	48	wss	4																		0
-Act 2 Good	5	12	1						Jewelry B	80	Chipped Gem	44	Flawed Gem	16	wss	4																0
-Act 3 Good	5	18	1						Jewelry C	80	Chipped Gem	28	Flawed Gem	32	wss	4	Runes 3	12	Runes 4	12												0
-Act 4 Good	5	26	1						Jewelry C	100	Flawed Gem	20	Normal Gem	22	Flawless Gem	56	Runes 5	28	Runes 6	14	wss	8										0
-Act 5 Good	5	32	1						Jewelry C	100	Flawed Gem	20	Normal Gem	22	Flawless Gem	56	Runes 7	28	wss	8												0
-Act 1 (N) Good	5	38	1						Jewelry C	60	Flawed Gem	10	Normal Gem	10	Flawless Gem	28	Runes 8	14	wss	8												0
-Act 2 (N) Good	5	42	1						Jewelry C	60	Flawed Gem	10	Normal Gem	10	Flawless Gem	28	Runes 9	14	wss	8												0
-Act 3 (N) Good	5	46	1						Jewelry C	60	Flawed Gem	10	Normal Gem	10	Flawless Gem	28	Runes 10	14	wss	8												0
-Act 4 (N) Good	5	51	1						Jewelry C	60	Flawed Gem	10	Normal Gem	10	Flawless Gem	28	Runes 11	14	wss	8												0
-Act 5 (N) Good	5	57	1						Jewelry C	60	Flawed Gem	10	Normal Gem	10	Flawless Gem	28	Runes 12 equiv	14	wss	8												0
-Act 1 (H) Good	29	66	1						Jewelry C	120	Flawed Gem	20	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 13 equiv	28	Map Tier 1	4	wss	8								0
-Act 2 (H) Good	29	72	1						Jewelry C	120	Flawed Gem	20	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 14 equiv	28	Map Tier 1	4	wss	8								0
-Act 3 (H) Good	29	78	1						Jewelry C	120	Flawed Gem	20	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	Map Tier 1	4	wss	8								0
-Act 4 (H) Good	29	82	1						Jewelry C	120	Flawed Gem	20	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	Map Tier 1	4	wss	8								0
-Act 5 (H) Good	29	85	1						Jewelry C	120	Flawed Gem	20	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	Map Tier 1	4	wss	8								0
-Map Good t1	30	87	1						Jewelry C	120	Flawed Gem	20	Normal Gem	26	Flawless Gem	44	Runes 17 equiv	28	T1 Map Drop	16	Map currency T1	10	Mythic or Charms	5								0
-Map Good t2	31	88	1						Jewelry C	120	Flawed Gem	20	Normal Gem	26	Flawless Gem	41	Runes 17 equiv	28	T2 Map Drop	18	Map currency T2	11	Mythic or Charms	8								0
-Map Good t3	32	89	1						Jewelry C	120	Flawed Gem	20	Normal Gem	25	Flawless Gem	39	Runes 17 equiv	28	T3 Map Drop	20	Map currency T3	12	Mythic or Charms	9								0
+Act 1 Good	5	0	1						Jewelry A	60	Chipped Gem	48	wss	4	New orbs	2	Base Tier Essences	4														0
+Act 2 Good	5	12	1						Jewelry B	80	Chipped Gem	44	Flawed Gem	16	wss	4	New orbs	3	Base Tier Essences	5												0
+Act 3 Good	5	18	1						Jewelry C	80	Chipped Gem	28	Flawed Gem	32	wss	4	Runes 3	12	Runes 4	12	Fate Card Normal	16	New orbs	4	Base Tier Essences	14						0
+Act 4 Good	5	26	1						Jewelry C	120	Normal Gem	22	Flawless Gem	56	Runes 5	28	Runes 6	14	wss	8	Fate Card Normal	20	New orbs	4	Base Tier Essences	28						0
+Act 5 Good	5	32	1						Jewelry C	120	Normal Gem	22	Flawless Gem	56	Runes 7	28	New orbs	5	wss	8	Fate Card Normal	20	Base Tier Essences	30								0
+Act 1 (N) Good	5	38	1						Jewelry C	70	Normal Gem	10	Flawless Gem	28	Runes 8	14	New orbs	6	wss	8	Fate Card Nightmare	10	Base Tier Essences	16								0
+Act 2 (N) Good	5	42	1						Jewelry C	70	Normal Gem	10	Flawless Gem	28	Runes 9	14	New orbs	6	wss	8	Fate Card Nightmare	10	Base Tier Essences	16								0
+Act 3 (N) Good	5	46	1						Jewelry C	70	Normal Gem	10	Flawless Gem	28	Runes 10	14	New orbs	6	wss	8	Fate Card Nightmare	10	Base Tier Essences	16								0
+Act 4 (N) Good	5	51	1						Jewelry C	70	Normal Gem	10	Flawless Gem	28	Runes 11	14	New orbs	6	wss	8	Fate Card Nightmare	10	Base Tier Essences	16								0
+Act 5 (N) Good	5	57	1						Jewelry C	70	Normal Gem	10	Flawless Gem	28	Runes 12 equiv	14	New orbs	6	wss	8	Fate Card Nightmare	10	Base Tier Essences	16								0
+Act 1 (H) Good	29	66	1						Jewelry C	140	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 13 equiv	28	Map Tier 1	4	New orbs	6	wss	8	Fate Card World Drop Hell	24	Base Tier Essences	26				0
+Act 2 (H) Good	29	72	1						Jewelry C	140	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 14 equiv	28	Map Tier 1	4	New orbs	6	wss	8	Fate Card World Drop Hell	24	Base Tier Essences	26				0
+Act 3 (H) Good	29	78	1						Jewelry C	140	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	Map Tier 1	4	New orbs	6	wss	8	Fate Card World Drop Hell	24	Base Tier Essences	26				0
+Act 4 (H) Good	29	82	1						Jewelry C	140	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	Map Tier 1	4	New orbs	6	wss	8	Fate Card A45 Hell	26	Base Tier Essences	28				0
+Act 5 (H) Good	29	85	1						Jewelry C	140	Normal Gem	24	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	Map Tier 1	4	New orbs	6	wss	8	Fate Card A45 Hell	26	Base Tier Essences	28				0
+Map Good t1	30	87	1						Jewelry C	140	Flawless Gem	44	Runes 17 equiv	28	T1 Map Drop	16	New orbs T1	6	Map currency T1	24	Mythic or Charms	5	Fate Card T1 Map	24	Essences T1 Map	28	Hatred Orbs T1 Map	12				0
+Map Good t2	31	88	1						Jewelry C	140	Flawless Gem	41	Runes 17 equiv	28	T2 Map Drop	18	New orbs T2	6	Map currency T2	25	Mythic or Charms	8	Fate Card T2 Map	26	Essences T2 Map	30	Hatred Orbs T2 Map	13				0
+Map Good t3	32	89	1						Jewelry C	140	Flawless Gem	39	Runes 17 equiv	28	T3 Map Drop	20	New orbs T3	7	Map currency T3	28	Mythic or Charms	9	Fate Card T3 Map	28	Essences T3 Map	32	Hatred Orbs T3 Map	14				0
 Act 1 Chest A	6	0	4					173	gld	295	Act 1 Junk	295	Act 1 Equip A	196	Act 1 Good	39																0
 Act 1 Chest B	6	5	4					173	gld	295	Act 1 Junk	295	Act 1 Equip B	196	Act 1 Good	39																0
 Act 1 Chest C	6	9	4					145	gld	272	Act 1 Junk	218	Act 2 Junk	54	Act 1 Equip C	272	Act 1 Good	36														0
@@ -823,9 +843,15 @@ Nihlathak (H)			5	900	900	900	1024	2	"gld,mul=2048"	332	Act 5 (H) Equip B	451	Ac
 Baal			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 1 (N) Equip A	799	Act 1 (N) Junk	76	Act 1 (N) Good	46																0
 Baal (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 1 (H) Equip A	799	Act 1 (H) Junk	76	Act 1 (H) Good	46																0
 Baal (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	48	fed	56	dcso	65												0
-Baalq			7	993	993	1024	1024	0	Act 1 (N) Equip A	945	Act 1 (N) Good	54																				0
-Baalq (N)			7	993	993	1024	1024	0	Act 1 (H) Equip A	945	Act 1 (H) Good	54																				0
-Baalq (H)			7	993	993	1024	1024	0	Act 5 (H) Equip B	928	Act 5 (H) Good	53	fed	51																		0
+Baal Soulstone			-2					0	Ascend to Bloodmage	1	Ascendancy Cairn	1																				
+Baal Soulstone (N)			1					0	Ascendancy Tier 2	1																						
+Baal Soulstone (H)			1					0	Ascendancy Tier 3	1																						
+Baalq Items			7	993	993	1024	1024	0	Act 1 (N) Equip A	945	Act 1 (N) Good	54																				
+Baalq Items (N)			7	993	993	1024	1024	0	Act 1 (H) Equip A	945	Act 1 (H) Good	54																				
+Baalq Items (H)			7	993	993	1024	1024	0	Act 5 (H) Equip B	928	Act 5 (H) Good	53	fed	51																		
+Baalq			-2					0	Baal Soulstone	1	Baalq Items	1																				0
+Baalq (N)			-2					0	Baal Soulstone (N)	1	Baalq Items (N)	1																				0
+Baalq (H)			-2					0	Baal Soulstone (H)	1	Baalq Items (H)	1																				0
 Blood Raven			5	800	800	972	1024	3	"gld,mul=1280"	340	Act 1 Equip B	461	Act 1 Junk	121	Act 1 Good	121																0
 Blood Raven (N)			5	800	800	972	1024	3	"gld,mul=1536"	340	Act 1 (N) Equip B	461	Act 1 (N) Junk	121	Act 1 (N) Good	121																0
 Blood Raven (H)			5	800	800	972	1024	3	"gld,mul=2048"	340	Act 1 (H) Equip B	461	Act 1 (H) Junk	121	Act 1 (H) Good	121	pk1	121														0
@@ -953,37 +979,6 @@ Bloodwitch (H)			5	800	800	972	1024	3	"gld,mul=2048"	340	Act 2 (H) Equip B	461	A
 Map Void			1					400	mp5	5	yps	10	rvl	40																		0
 Map Void2			2					100	mp5	10	rvl	70																				0
 Map Void3			2					25	mp5	10	yps	10	rvl	50																		0
-BR Arena Runes 1			1						r01	3	r02	2																				0
-BR Arena Runes 2			1						r03	3	r04	2	BR Arena Runes 1	2																		0
-BR Arena Runes 3			1						r05	3	r06	2	BR Arena Runes 2	5																		0
-BR Arena Runes 4			1						r07	3	r08	2	BR Arena Runes 3	7																		0
-BR Arena Runes 5			1						r09	3	r10	2	BR Arena Runes 4	12																		0
-BR Arena Runes 6			1						r11	3	r12	2	BR Arena Runes 5	18																		0
-BR Arena Runes 7			1						r13	3	r14	2	BR Arena Runes 6	22																		0
-BR Arena Runes 8			1						r15	3	r16	2	BR Arena Runes 7	30																		0
-BR Arena Runes 9			1						r17	3	r18	2	BR Arena Runes 8	39																		0
-BR Arena Runes 10			1						r19	3	r20	2	BR Arena Runes 9	49																		0
-BR Arena Runes 11			1						r21	3	r22	2	BR Arena Runes 10	60																		0
-BR Arena Runes 12			1						r23	3	r24	2	BR Arena Runes 11	71																		0
-BR Arena Runes 13			1						r25	3	r26	2	BR Arena Runes 12	82																		0
-BR Arena Runes 14			1						r27	3	r28	2	BR Arena Runes 13	94																		0
-BR Arena Runes 15			1						r29	3	r30	2	BR Arena Runes 14	107																		0
-BR Arena Runes 16			1						r31	3	r32	2	BR Arena Runes 15	122																		0
-BR Arena Runes 17			1						r33	3	BR Arena Runes 16	138																				0
-BR Arena Perfect Gem			1						gpv	3	gpy	3	gpb	3	gpg	3	gpr	3	gpw	3	skz	2										0
-BR Arena Flawless Gem			1						gzv	3	gly	3	glb	3	glg	3	glr	3	glw	3	skl	2										0
-BR Arena misc			1						wss	20	lbox	8	toa	1																		0
-BR Arena jewerly			1						rin	2	amu	2	jew	4	cm3	1	cm2	1	cm1	1												0
-BR Arena Potions			1						hp4	1	hp5	1	mp4	1	mp5	1																0
-BR Arena Chests N		30	1	1600	1000	1400	500	10	Act 5 Uitem C	48	BR Arena misc	13	BR Arena Flawless Gem	2	BR Arena Perfect Gem	1	BR Arena Runes 6	4	BR Arena jewerly	8												0
-BR Arena Chests NM		60	1	1600	1000	1400	500	10	Act 5 (N) Uitem C	48	BR Arena misc	13	BR Arena Flawless Gem	2	BR Arena Perfect Gem	1	BR Arena Runes 14	4	BR Arena jewerly	8												0
-BR Arena Chests H		90	1	1600	1000	1400	500	10	Act 5 (H) Uitem C	48	BR Arena misc	13	BR Arena Flawless Gem	2	BR Arena Perfect Gem	1	BR Arena Runes 17	4	BR Arena jewerly	8												0
-BR Arena Bodies N		30	1	1000	850	1400	800	0	Act 5 Equip C	48	BR Arena misc	5	BR Arena Flawless Gem	4	Ammo	2	BR Arena Perfect Gem	2	BR Arena Runes 6	4	BR Arena jewerly	2										0
-BR Arena Bodies NM		60	1	1000	850	1400	800	0	Act 5 (N) Equip C	48	BR Arena misc	5	BR Arena Flawless Gem	4	Ammo	2	BR Arena Perfect Gem	2	BR Arena Runes 14	4	BR Arena jewerly	2										0
-BR Arena Bodies H		90	1	1000	850	1400	800	0	Act 5 (H) Equip C	48	BR Arena misc	5	BR Arena Flawless Gem	4	Ammo	2	BR Arena Perfect Gem	2	BR Arena Runes 17	4	BR Arena jewerly	2										0
-BR Arena Zomb N		30	3	9000	9000	1	1	0	Act 5 Uitem C	30	BR Arena jewerly	8																				0
-BR Arena Zomb NM		60	3	9000	9000	1	1	0	Act 5 (N) Uitem C	30	BR Arena jewerly	8																				0
-BR Arena Zomb H		90	3	9000	9000	1	1	0	Act 5 (H) Uitem C	30	BR Arena jewerly	8																				0
 Act 1 (H) Weap A	1	68	1						weap54	2	armo54	0	weap57	6	armo57	0	weap60	14	armo60	0	weap63	6	armo63	3	Act 5 (N) Weap C	1785			28	1813	0.977	0
 Act 1 (H) Weap B	1	70	1						weap57	2	armo57	0	weap60	6	armo60	0	weap63	14	armo63	0	weap66	2	armo66	1	Act 1 (H) Weap A	1530			24	1554	0.977	0
 Act 1 (H) Weap C	1	71	1						weap57	2	armo57	0	weap60	6	armo60	0	weap63	14	armo63	0	weap66	6	armo66	3	Act 1 (H) Weap A	1785			28	1813	0.977	0
@@ -996,7 +991,7 @@ Act 3 (H) Weap C	1	79	1						weap66	2	armo66	0	weap69	6	armo69	0	weap72	14	armo7
 Act 4 (H) Weap A	1	80	1						weap69	2	armo69	0	weap72	6	armo72	0	weap75	14	armo75	0	weap78	2	armo78	1	Act 3 (H) Weap B	1530			24	1554	0.977	0
 Treasure Fallen N			3					12	Treasure Fallen Gem N	1	Treasure Fallen Rune N	1	Treasure Fallen Craft N	1	"gld,mul=2048"	2																0
 Treasure Fallen NM			3					11	Treasure Fallen Gem NM	1	Treasure Fallen Rune NM	1	Treasure Fallen Craft NM	1	"gld,mul=3072"	2																0
-Treasure Fallen H			3					0	Treasure Fallen Gem H	1	Treasure Fallen Rune H	1	Treasure Fallen Craft H	1	Treasure Fallen Map	1	"gld,mul=4096"	1														0
+Treasure Fallen H			3					0	Treasure Fallen Gem H	3	Treasure Fallen Rune H	1	"gld,mul=4096"	4	New orbs fallen	1	Fate Card fallen	2	Hatred Orbs T1 Map	2												0
 Act 4 (H) Weap B	1	81	1						weap69	2	armo69	0	weap72	6	armo72	0	weap75	14	armo75	0	weap78	6	armo78	0	Act 4 (H) Weap A	1785			28	1813	0.977	0
 Act 4 (H) Weap C	1	82	1						weap72	2	armo72	0	weap75	6	armo75	0	weap78	14	armo78	0	weap81	2	armo81	0	Act 4 (H) Weap A	1530			24	1554	0.977	0
 Act 5 (H) Weap A	1	83	1						weap75	2	armo75	0	weap78	6	armo78	0	weap81	14	armo81	0	weap84	2	armo84	0	Act 4 (H) Weap B	1530			24	1554	0.977	0
@@ -1017,12 +1012,80 @@ Act 4 (H) Armo C	1	82	1						weap72	0	armo72	1	weap75	0	armo75	3	weap78	0	armo78
 Act 5 (H) Armo A	1	83	1						weap75	0	armo75	1	weap78	0	armo78	3	weap81	0	armo81	7	weap84	0	armo84	1	Act 4 (H) Armo B	1530			12	1542	0.977	0
 Act 5 (H) Armo B	1	84	1						weap78	0	armo78	1	weap81	0	armo81	3	weap84	0	armo84	7	weap87	0	armo87	1	Act 5 (H) Armo A	1530			12	1542	0.977	0
 Act 5 (H) Armo C	1	85	1						weap81	0	armo81	1	weap84	0	armo84	3	weap87	0	armo87	7	weap87	0	armo87	1	Act 5 (H) Armo B	1530			12	1542	0.9776	0
-UberDiablo			1					11	Overlords Helm	1	Dark Abyss	1	Aidans Scar	1	Itheraels Path	1	Hadriels Hand	1														0
-RathmaNew			1					9	The Third Eye	1	Band of Skulls	1	Cage of the Unsullied	1	Rathmas Hand	2																0
+Uber Baal			1					0	Ascendancy Tier 4	1																						
+UberDiablo Card			1					99	fa02	1																						
+UberDiablo Uniques			1					15	Overlords Helm	1	Dark Abyss	1	Aidans Scar	1	Itheraels Path	1	Hadriels Hand	1														
+UberDiablo			-3					0	UberDiablo Uniques	1	UberDiablo Card	1	Ascendancy Tier 4	1																		0
+Rathma Items			1					11	The Third Eye	1	Band of Skulls	1	Cage of the Unsullied	1	Rathmas Hand	1																
+RathmaNew			-2					0	Rathma Items	1	Ascendancy Tier 4	1																				0
 MendelnNew			1					92	Melding of the flesh	5	Gaze of the Abyss	3																				0
+UberLucion Card			1					99	fa05	1																						
 UberLucion Orb			1					75	dsno	25																						0
 UberLucion Uniques			1					90	Original Sin	3	Voices	5	Progenesis	2																		0
-UberLucion			-2					0	UberLucion Uniques	1	UberLucion Orb	1																				0
+UberLucion			-4					0	UberLucion Uniques	1	UberLucion Orb	1	UberLucion Card	1	Ascendancy Tier 4	1																0
+Terror currency		87	1					0	csor	22	ooal	33	etor	1																		0
+Terror scarab		87	1					0	scnm	2	scas	2	sccn	1																		0
+Terror chisel		87	1					0	ccsa	2	ccpr	2																				0
+Opulence Terror T1		87	1					0	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
+Opulence Terror T2		88	2					1	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
+Opulence Terror T3		89	3					1	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
+Opulence Terror T4		90	4					1	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
+Ethereal Terror T1		87	1					0	Runes 17 terror	1																						0
+Ethereal Terror T2		88	2					1	Runes 17 terror	1																						0
+Ethereal Terror T3		89	3					1	Runes 17 terror	1																						0
+Ethereal Terror T4		90	4					1	Runes 17 terror	1																						0
+Terror Jewelry		87	1					0	rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2	cm4	1	mjw	1								0
+Resplendence Terror T1		87	2	1200	0	0	0	0	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
+Resplendence Terror T2		88	3	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
+Resplendence Terror T3		89	4	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
+Resplendence Terror T4		90	5	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
+Zhar Terrors			1					0	troe	1	tror	1	troa	1																		0
+Zhar (H)		85	-2					0	Zhar Terrors	1	Map Boss T3	1																				0
+Ureh Boss		85	-2					0	Map Boss T3	1																						0
+InvaderLightArmor			1	850	850	1307	200		uul	1	uea	1	ula	1	utu	1	urs	1	utp	1												0
+InvaderMediumArmor			1	850	850	1307	200		ung	1	ucl	1	uhn	1	upl	1																0
+InvaderHeavyArmor			1	850	850	1307	200		ult	2	uul	2	uar	1	uth	2	uld	2														0
+InvaderBodyAll			1	850	850	1307	200		InvaderLightArmor	1	InvaderMediumArmor	1	InvaderHeavyArmor	1																		0
+InvaderBodyLightMed			1	850	850	1307	200		InvaderLightArmor	1	InvaderMediumArmor	1																				0
+InvaderBodyMedHeavy			1	850	850	1307	200		InvaderMediumArmor	1	InvaderHeavyArmor	1																				0
+InvaderGloves			1	850	850	1307	200		ulg	1	uvg	1	umg	1	utg	1	uhg	1														0
+InvaderBoots			1	850	850	1307	200		ulb	1	uvb	1	umb	1	utb	1	uhb	1														0
+InvaderBelt			1	850	850	1307	200		ulc	1	uvc	1	umc	1	utc	1	uhc	1														0
+InvaderRing			1	850	850	1307	200		rin	1																						0
+InvaderAmulet			1	850	850	1307	200		amu	1																						0
+InvaderGenericHelm			1	850	850	1307	200		uap	1	ukp	1	ulm	1	uhl	1	usk	1	uh9	1	uhm	1	urn	1	ci3	1						0
+InvaderGenericShield			1	850	850	1307	200		uuc	1	uml	1	urg	1	upk	1	uit	1	ush	1	uow	1	uts	1								0
+InvaderAmazonBow			1	850	850	1307	200		6sb	1	6hb	1	6lb	1	6cb	1	6s7	1	6l7	1	6sw	1	6lw	1	amb	1	amc	1				0
+InvaderAmazonQuiver			1	850	850	1307	200		aqv	1	aqv2	2	aqv3	4																		0
+InvaderAmazonCrossbow			1	850	850	1307	200		6lx	1	6mx	1	6hx	1	6rx	1																0
+InvaderAmazonBolt			1	850	850	1307	200		cqv	1	cqv	2	cqv3	4																		0
+InvaderAmazon2hSpear			1	850	850	1307	200		7sr	1	7tr	1	7br	1	7st	1	7p7	1	amd	1	ame	1										0
+InvaderAmazon1hJavelin			1	850	850	1307	200		ama	1	amf	3																				0
+InvaderCirclets			1	850	850	1307	200		ci1	1	ci2	1	ci3	1																		0
+InvaderAssassinClaw			1	850	850	1307	200		7ar	1	7wb	1	7xf	1	7cs	1	7lw	1	7tw	1	7qr	1										0
+InvaderAssassinDagger			1	850	850	1307	200		7dg	1	7di	1	7kr	1	7bl	1																0
+InvaderAssassinWeapon			1	850	850	1307	200		InvaderAssassinClaw	2	InvaderAssassinDagger	1																				0
+InvaderBarbarianHelm			1	850	850	1307	200		bab	1	bac	1	bad	1	bae	1	baf	1														0
+InvaderBarbarianThrow			1	850	850	1307	200		7tk	1	7ta	1	7bk	1	7b8	1	7ja	1	7pi	1	7s7	1	7gl	1	7ts	1						0
+Invader1hAxe			1	850	850	1307	200		7ha	1	7ax	1	72a	1	7mp	1	7wa	1														0
+Invader1hMace			1	850	850	1307	200		7ma	1	7mt	1	7fl	1	7wh	1																0
+Invader1hSword			1	850	850	1307	200		7ss	1	7sm	1	7sb	1	7fc	1	7cr	1	7bs	1	7ls	1	7wd	1								0
+InvaderBarbarian1h			1	850	850	1307	200		Invader1hAxe	1	Invader1hMace	1	Invader1hSword	1	Invader2hSword	1																0
+Invader2hAxe			1	850	850	1307	200		7la	1	7ba	1	7bt	1	7ga	1	7gi	1														0
+Invader2hMace			1	850	850	1307	200		7m7	1	7gm	1																				0
+Invader2hSword			1	850	850	1307	200		7cm	1	7gs	1	7b7	1	7fb	1	7gd	1														0
+Invader2hSpear			1	850	850	1307	200		7sr	1	7tr	1	7br	1	7st	1	7p7	1														0
+Invader2hPolearm			1	850	850	1307	200		7o7	1	7vo	1	7s8	1	7pa	1	7h7	1	7wc	1												0
+InvaderBarbarian2h			1	850	850	1307	200		Invader2hAxe	1	Invader2hMace	1	Invader2hSword	1	Invader2hSpear	1	Invader2hPolearm	1														0
+InvaderDruidHelm			1	850	850	1307	200		drb	1	drc	1	drd	1	dre	1	drf	1														0
+InvaderDruidWeapon			1	850	850	1307	200		7cl	1	7sp	1																				0
+InvaderNecroWeapon			1	850	850	1307	200		7wn	1	7yw	1	7bw	1	7gw	1																0
+InvaderNecroShield			1	850	850	1307	200		neb	1	neg	1	ned	1	nee	1	nef	1														0
+InvaderSorc2hWeapon			1	850	850	1307	200		6ss	1	6ls	1	6cs	1	6bs	1	6ws	1														0
+InvaderSorc1hWeapon			1	850	850	1307	200		obb	1	obc	1	obd	1	obe	1	obf	1														0
+Invader1hScepter			1	850	850	1307	200		7sc	1	7qs	1	7ws	1																		0
+InvaderPaladinWeapon			1	850	850	1307	200		Invader1hSword	2	Invader1hMace	2	Invader1hAxe	1	Invader1hScepter	4																0
+InvaderPaladinShield			1	850	850	1307	200		pab	1	pac	1	pad	1	pae	1	paf	1														0
 Dungeon 1 (N) Bow A	33	92	1						bow12	1	bow15	2	bow18	5	bow21	7	bow24	8	bow27	7	bow30	4	bow33	2	Act 1 (H) Junk	630						0
 Dungeon 1 (N) Bow B	33	92	1						bow15	1	bow18	2	bow21	5	bow24	7	bow27	8	bow30	7	bow33	4	bow36	2	Dungeon 1 (N) Bow A	770						0
 Dungeon 2 (N) Bow A	33	92	1						bow18	1	bow21	2	bow24	5	bow27	7	bow30	8	bow33	7	bow36	4	bow39	2	Dungeon 1 (N) Bow B	920						0
@@ -1079,9 +1142,10 @@ Dungeon Mythic or Charms		92	1					0	mjw	1	cm4	1																				0
 Dungeon Terrors		92	1					6	troe	1	tror	1	troa	1																		0
 Dungeon Scarabs		92	1					0	scnm	2	scas	2	sccn	1																		0
 Dungeon Chisels		92	1					0	ccsa	3	ccpr	2																				0
-Dungeon Map Currency		92	2					0	Dungeon Chisels	2	Dungeon Scarabs	1																				0
+Dungeon Map Currency		92	1					0	Dungeon Chisels	2	Dungeon Scarabs	1																				0
 Dungeon Sacred Orb		92	1					2	sror	1																						0
-Dungeon Good		92	1					0	Jewelry C	121	Runes 17 equiv	28	T3 Map Drop No Infernal No T4	9	Dungeon Map Currency	6	Dungeon Mythic or Charms	5	Dungeon Sacred Orb	4	Dungeon Terrors	1										0
+Dungeon Orbs		92	1					0	etor	1	csor	47	ooal	52																		0
+Dungeon Good		92	1					0	Jewelry C	120	Runes 17 equiv	28	T3 Map Drop No Infernal No T4	8	Dungeon Orbs	3	Dungeon Map Currency	5	Dungeon Mythic or Charms	5	Dungeon Sacred Orb	4	Dungeon Terrors	1	Fate Card T4 Map	26	Hatred Orbs T4 Map	5				0
 Dungeon Citem		92	1	900	830	850	1024	0	"gld,mul=1280"	60	Dungeon 5 (H) Equip C	37	Dungeon Good	4																		0
 Dungeon Uitem		92	1	970	830	850	1024	0	Dungeon 5 (H) Equip C	58	Dungeon Good	4																				0
 Dungeon Champ		92	-2					0	Dungeon Citem	1	Dungeon Cpot	3																				0
@@ -1090,10 +1154,10 @@ Dungeon Norm		92	1					95	gld	316	Dungeon 5 (H) Equip C	241	Act 1 (H) Junk	316	D
 Dungeon Miss		92	1					95	gld	271	Dungeon 5 (H) Equip C	196	Act 1 (H) Junk	271	Dungeon Good	30	Dungeon 5 (H) Bow B	90	Ammo	45												0
 Dungeon Cast		92	1					95	gld	271	Dungeon 5 (H) Equip C	226	Act 1 (H) Junk	271	Dungeon Good	30	Act 5 (H) Magic B	105														0
 Dungeon Wraith		92	1					195	Dungeon Good	41	Act 5 (H) Magic C	693	Act 1 (H) Junk	271																		0
-Map Boss T1		87	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T1 Map Drop	3	dcbl	8																0
-Map Boss T2		88	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T2 Map Drop	3	dcbl	8																0
+Map Boss T1		87	5	983	983	983	1024	0	Act 5 (H) Equip C	55	Map Good t1	3	T1 Map Drop	3	dcbl	8																0
+Map Boss T2		88	5	983	983	983	1024	0	Act 5 (H) Equip C	55	Map Good t2	3	T2 Map Drop	3	dcbl	8																0
 Map Boss T3 Key		89						1	sfoa	1	sfod	1	sfob	1	sfor	1																0
-Map Boss T3 Items		89	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T3 Map Drop	3	dcbl	8																0
+Map Boss T3 Items		89	5	983	983	983	1024	0	Act 5 (H) Equip C	55	Map Good t3	3	T3 Map Drop	3	dcbl	8																0
 Map Boss T3			-2						Map Boss T3 Items	1	Map Boss T3 Key	1																				0
 Runes 3 terror			1						r05s	3	r06s	2																				0
 Runes 4 terror			1						r07s	3	r08s	2	Runes 3 terror	1																		0
@@ -1110,38 +1174,22 @@ Runes 14 terror			1						r27s	3	r28s	2	Runes 13 terror	434																		0
 Runes 15 terror			1						r29s	3	r30s	2	Runes 14 terror	588																		0
 Runes 16 terror			1						r31s	3	r32s	2	Runes 15 terror	790																		0
 Runes 17 terror			1						r33s	1	Runes 16 terror	1034																				0
-Terror scarab		87	1					0	scnm	2	scas	2	sccn	1																		0
-Terror chisel		87	1					0	ccsa	2	ccpr	2																				0
-Opulence Terror T1		87	1					0	Terror currency	1	Terror chisel	1	Terror scarab	1																		0
-Opulence Terror T2		88	2					1	Terror currency	2	Terror chisel	2	Terror scarab	2																		0
-Opulence Terror T3		89	3					1	Terror currency	2	Terror chisel	2	Terror scarab	2																		0
-Opulence Terror T4		90	4					1	Terror currency	2	Terror chisel	2	Terror scarab	2																		0
-Ethereal Terror T1		87	1					0	Runes 17 terror	1																						0
-Ethereal Terror T2		88	2					1	Runes 17 terror	1																						0
-Ethereal Terror T3		89	3					1	Runes 17 terror	1																						0
-Ethereal Terror T4		90	4					1	Runes 17 terror	1																						0
-Terror Jewelry		87	1					0	rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2	cm4	1	mjw	1								0
-Resplendence Terror T1		87	2	1200	0	0	0	0	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
-Resplendence Terror T2		88	3	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
-Resplendence Terror T3		89	4	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
-Resplendence Terror T4		90	5	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
-Zhar Terrors			1					0	troe	1	tror	1	troa	1																		0
-Zhar (H)		85	-2					0	Zhar Terrors	1	Map Boss T3	1																				0
-Ureh Boss		85	-2					0	Map Boss T3	1																						0
-UberLazarus		85	1					0	Temporalis	4	Indigon	6	Tides	8	Sanctuarys Demise	16	Lachdanans Sacrifice	20	Amalgamation	46												0
+Lazarus Card			1					39	fa11	1																						
+Lazarus Uniq			1					0	Temporalis	4	Indigon	6	Tides	8	Sanctuarys Demise	16	Lachdanans Sacrifice	20	Amalgamation	46												
+UberLazarus			-3					0	Lazarus Uniq	1	Lazarus Card	1	Ascendancy Tier 4	1																		0
 Haphesto Quest Items (H)			5	800	800	900	1024	3	"gld,mul=2048"	340	Act 5 (H) Equip A	461	Act 5 (H) Junk	121	Act 5 (H) Good	70																0
 Haphesto Quest (H)			-2						hffd	1	Haphesto Quest Items (H)	1																				0
-BELOW ADD OR REMOVE ROW																																
-Larzuk Puzzlebox N HAS TO BE ON																																
-ROW NUMBER 1762 OR EVERYTHING																																
+BELOW ADD OR REMOVE ROW																																0
+Larzuk Puzzlebox N HAS TO BE ON																																0
+ROW NUMBER 1762 OR EVERYTHING																																0
 WILL GO TO SHIT																																0
-Cinder or Cluster Unique		87	1					0	hfmx	1	hfcr	4																				
-Cinder or Cluster Champion		87	1					0	hfmx	1	hfcr	7																				
+Cinder or Cluster Unique		87	1					0	hfmx	1	hfcr	4																				0
+Cinder or Cluster Champion		87	1					0	hfmx	1	hfcr	7																				0
 Cinder or Cluster H2H		87	1					0	hfmx	1	hfcr	10																				0
 Superior Abyss Cpot		87	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8																0
 Superior Abyss Citem		87	1	900	830	850	1024	0	gld	55	Act 5 (H) Equip C	36	Map Good t3	4	Cinder or Cluster Champion	8																0
 Superior Abyss Uitem		87	1	960	830	850	1024	0	Act 5 (H) Equip C	50	Map Good t3	4	Cinder or Cluster Unique	8																		0
-Superior Abyss Sacred		87	1					5	sror	1																						0
+Superior Abyss Sacred		87	1					3	sror	1																						0
 Superior Horde H2H		87	1					70	gld	297	Act 5 (H) Equip C	226	Act 1 (H) Junk	275	Map Good t3	50	Cinder or Cluster H2H	25	Superior Abyss Sacred	1												0
 Superior Horde Champ		87	-2					0	Superior Abyss Citem	1	Superior Abyss Cpot	3																				0
 Superior Horde Unique		87	-3					0	Superior Abyss Uitem	1	Superior Abyss Cpot	2																				0
@@ -1711,54 +1759,6 @@ REMOVE IF YOU ADD ROW ABOVE																																0
 REMOVE IF YOU ADD ROW ABOVE																																0
 REMOVE IF YOU ADD ROW ABOVE																																0
 REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																0
-REMOVE IF YOU ADD ROW ABOVE																																
-REMOVE IF YOU ADD ROW ABOVE																																
-REMOVE IF YOU ADD ROW ABOVE																																
-REMOVE IF YOU ADD ROW ABOVE																																
-REMOVE IF YOU ADD ROW ABOVE																																
-REMOVE IF YOU ADD ROW ABOVE																																
-REMOVE IF YOU ADD ROW ABOVE																																
-REMOVE IF YOU ADD ROW ABOVE																																
-REMOVE IF YOU ADD ROW ABOVE																																
-REMOVE IF YOU ADD ROW ABOVE																																
 Larzuk Puzzlebox N				0																												0
 Larzuk Puzzlebox NM				4000	10																											0
 Larzuk Puzzlebox H				2000	10																											0
@@ -1796,20 +1796,20 @@ lucc				600																												0
 lucdN				0	150																											0
 lucdNM				0	10																											0
 lucdH				4000	1																											0
-T4MidMapBoss		90	6	970	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop No Infernal No T4	10	T2 Map Drop	10												0
-T4FinalMapBoss		90	6	980	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop No Infernal No T4	10	T2 Map Drop	10												0
-LucionChestLow		90	6	800	900	990	1024	0	Act 5 (H) Equip C	200	Act 5 (H) Good	100	Runes 15 equiv	30	wss	25																0
-LucionChestHigh		90	6	960	970	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	102	Runes 17 equiv	32	Mythic or Charms	14																0
+T4MidMapBoss		90	6	970	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop No Infernal No T4	10	T2 Map Drop	10	Fate Card T4 Map	20										0
+T4FinalMapBoss		90	6	980	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop No Infernal No T4	10	T2 Map Drop	10	Fate Card T4 Map	26										0
+LucionChestLow		90	6	800	900	990	1024	0	Act 5 (H) Equip C	200	Act 5 (H) Good	100	Runes 15 equiv	30	wss	25	Fate Card T2 Map	15	Hatred Orbs T2 Map	15												0
+LucionChestHigh		90	6	960	970	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	New orbs T3	8	Mythic or Charms	12	Fate Card T3 Map	20	Hatred Orbs T3 Map	20										0
 Demonic Cube N				3000	10																											0
 Demonic Cube NM				2000	10																											0
 Demonic Cube H				1000	10																											0
 Corrupted Zone T1 Maps				150	1																											0
-UberAncients		90	6	980	985	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	T3 Map Drop	12	T2 Map Drop	11	Mythic or Charms	9												0
-ShadowOfMendeln		90	6	970	980	990	1024	0	Act 5 (H) Equip C	787	Act 5 (H) Good	45	Act 5 (H) Junk	75	Runes 17 equiv	10	wss	15	Jewelry C	30	rtmv	30										0
-MapStat DropJewelry			1						rin	2	amu	2	jew	4	cm3	1	cm2	1	cm1	1												0
-MapStat DropWeapons			1						Act 5 (H) Weap C	1																						0
-MapStat DropArmor			1						Act 5 (H) Armo C	1																						0
-MapStat drop currency			1						"gld,mul=2048"	82	Chisels	7	Scarabs	9	oroc	2																0
-MapStat DropCharms			1						cm4	1	cm3	2	cm2	2	cm1	2																0
-MapStat DropWss			1						wss	1																						0
-MapStat DropJewels			1						mjw	1	jew	3																				0
+UberAncients		90	6	980	985	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	T3 Map Drop	10	T2 Map Drop	10	New orbs T3	5	Mythic or Charms	8	Fate Card T3 Map	20	Hatred Orbs T3 Map	20						0
+ShadowOfMendeln		90	6	970	980	990	1024	0	Act 5 (H) Equip C	787	Act 5 (H) Good	45	Act 5 (H) Junk	75	Runes 17 equiv	10	wss	15	Jewelry C	30	rtmv	30	Fate Card T3 Map	8								0
+Hatred Orb Accessories			1						rin	2	amu	2	jew	3	cm4	1	cm3	2	cm2	2	cm1	2	mjw	1								0
+Hatred Orb Equipment			1						Act 5 (H) Weap C	1	Act 5 (H) Armo C	1																				0
+Hatred Orb Essences			1						Perfect Tier Essences	15	Greater Tier Essences	35	Base Tier Essences	50																		0
+Hatred Orb Currency			1						etor	1	csor	200	ooal	259	Chisels	270	Scarabs	270														0
+Hatred Orb Runes			1						Runes 17 equiv	1																						0
+Unused Mapstat			1						wss	1																						0
+Hatred Orb Fate Cards			1						Fate Card Tier 0	1	Fate Card Tier 1	6	Fate Card Tier 2	14	Fate Card Tier 3	22	Fate Card Tier 4	26	Fate Card Tier 5	31												0

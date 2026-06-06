@@ -118,7 +118,7 @@ of Health	115	1	1	1	7	47	5				4	1	red-dmg		1	1											tors	shld	ring	amul	cir
 of Protection	116	1	1	1	18	48	13				4	1	red-dmg		2	2											ring	amul	circ	misl											0
 of Absorption	117	1	1	1	26	66	19				4	1	red-dmg		3	3											amul	circ	misl												0
 of Life	118	1	1	1	35		26				4	1	red-dmg		4	4									1	dblu	amul	circ	misl												0
-of Life Everlasting	119	100	1		45		37				4	1	red-dmg		10	25											amul	circ													0
+of Life Everlasting	119	100	1	1	45		37				4	1	red-dmg		10	25											amul	circ													0
 of Protection	120	1	1	1	24	64	18				4	1	red-dmg		2	2											tors	shld	circ												0
 of Absorption	121	1	1	1	32	72	24				4	1	red-dmg		3	3											tors	shld	circ	ring											0
 of Life	122	1	1	1	41		33				4	1	red-dmg		4	7											tors	shld	circ	ring											0
@@ -129,7 +129,7 @@ of Guarding	126	1	1	1	26		19				4	2	red-mag		3	6											amul	orb	circ	misl			
 of Negation	127	100	1	1	42		35				4	2	red-mag		8	12											amul	orb	circ	misl											0
 of the Sentinel	128	1	1	1	24	64	18				4	2	red-mag		2	4											tors	shld	circ												0
 of Guarding	129	1	1	1	32		24				4	2	red-mag		3	6											tors	shld	circ	ring											0
-of Negation	130	100	1		41		33				4	2	red-mag		8	12											tors	shld	circ												0
+of Negation	130	100	1	1	41		33				4	2	red-mag		8	12											tors	shld	circ												0
 of Coolness	131	100		1	11		8				1	3	abs-fire		2	2											tors	shld	boot	circ											0
 of Incombustibility	132	100		1	19		14				1	3	abs-fire		3	3											tors	shld	boot	circ											0
 of Amianthus	133	100		1	28		21				1	3	abs-fire		4	5											tors	shld	boot	circ											0
@@ -167,7 +167,7 @@ of Swords	164	100	1	1	47		39				4	6	thorns		80	160									1	oran	tors	shld	circ
 of Malice	165	100	1	1	37	90	29				4	6	thorns		30	40											jewl														0
 of Readiness	166	1	1	1	5		3				6	7	swing1		10	10											weap	misl						wand	orb	staf					0
 of Alacrity	167	1	1	1	25		17				6	7	swing2		20	20											weap	misl						wand	orb	staf					0
-of Swiftness	168	1	1	1	34		26				6	7	swing2		30	30											mele	miss						wand	staf	orb					0
+of Swiftness	168	1	1	1	34		26				6	7	swing2		30	30											mele	miss	misl					wand	staf	orb					0
 of Quickness	169	1	1	1	46		38				5	7	swing3		40	40									1	dyel	mele	miss						wand	staf	orb					0
 of Alacrity	170	100	1	1	43		35				4	9	swing2		20	20									1	dyel	glov														0
 of Fervor	171	100	1		39		31				4	7	swing1		15	15											jewl														0
@@ -186,7 +186,7 @@ of Flame	183	1	1	1	4	44	3				5	12	fire-min		1	1	fire-max		2	5							weap	misl			
 of Fire	184	1	1	1	15	55	11				4	12	fire-min		2	8	fire-max		12	22							weap	misl						wand	orb	staf					0
 of Burning	185	1	1	1	25	65	18				3	12	fire-min		20	30	fire-max		37	72					1	dred	weap	misl						wand	orb	staf					0
 of Incineration	186	100	1	1	43		35				2	12	fire-min		57	90	fire-max		102	146					1	dred	mele	misl						wand	orb	staf					0
-of Flame	187	100	1	1	40	80	30				2	12	fire-min		1	1	fire-max		2	6							glov	ring	amul												0
+of Flame	187	100		1	40	80	30				2	12	fire-min		1	1	fire-max		2	6							glov	ring	amul												0
 of Passion	188	100	1	1	15	35	11				2	12	fire-min		1	3	fire-max		6	10					1	dred	jewl														0
 of Shock	189	1	1	1	4	44	3				5	13	ltng-min		1	1	ltng-max		3	8							weap	misl						wand	orb	staf					0
 of Lightning	190	1	1	1	15	55	11				4	13	ltng-min		1	1	ltng-max		14	24							weap	misl						wand	orb	staf					0
@@ -202,7 +202,7 @@ of Gore	199	1	1	1	14		10				6	14	dmg-max		8	10											weap							wand	staf	or
 of Carnage	200	1	1	1	19		14				6	14	dmg-max		11	14									1	blac	weap							wand	staf	orb					0
 of Slaughter	201	1	1	1	25		18				5	14	dmg-max		15	20									1	blac	weap							wand	staf	orb					0
 of Butchery	202	100	1	1	35		27				5	14	dmg-max		21	40									1	blac	weap							wand	staf	orb					0
-of Evisceration	203	100	1		45		37				4	14	dmg-max		41	63									1	blac	weap							wand	staf	orb					0
+of Evisceration	203	100	1	1	45		37				4	14	dmg-max		41	63									1	blac	weap							wand	staf	orb					0
 of Maiming	204	1	1	1	42		34				4	14	dmg-max		3	4											shld	ring	amul												0
 of Craftsmanship	205	100	1	1	1	7	1				4	14	dmg-max		1	2											circ	helm													0
 of Craftsmanship	206	100	1	1	8	14	6				4	14	dmg-max		2	3											circ	helm													0
@@ -213,7 +213,7 @@ of Maiming	210	100	1		37	44	29				4	14	dmg-max		9	10											circ	helm								
 of Maiming	211	100	1		45		37				4	14	dmg-max		11	12											circ	helm													0
 of Craftsmanship	212	100	0	1	8	17	6				4	14	dmg-max		1	1											mcha														0
 of Craftsmanship	213	100	0	1	18	27	13				4	14	dmg-max		2	2											mcha														0
-of Quality	214	100	0	1	28	90	21				4	14	dmg-max		3	4											mcha														0
+of Quality	214	100	0	1	28	37	21				4	14	dmg-max		3	4											mcha														0
 of Quality	215	100	0	1	38		30				4	14	dmg-max		5	6											mcha														0
 of Maiming	216	100	0		48		40				4	14	dmg-max		7	8											mcha														0
 of Craftsmanship	217	100	0	1	21	90	15				4	14	dmg-max		1	1											scha														0
@@ -240,16 +240,16 @@ of Anthrax	237	100	1	1	33		25				2	16	dmg-pois	150	171	171									1	dgrn	weap	m
 of Blight	238	100	1	1	45	85	33				2	16	dmg-pois	75	171	171											ring	amul													0
 of Envy	239	100	1	1	1	90	1				2	16	dmg-pois	50	103	103									1	dgrn	jewl														0
 of Dexterity	240	1	1	1	1	41	1				4	17	dex		1	2											amul	miss	circ	helm											0
-of Skill	241	1	1	1	11	51	8				3	17	dex		3	5											amul	miss	circ	misl	helm										0
-of Accuracy	242	1	1	1	27		20				3	17	dex		6	9											amul	miss	circ	misl	helm										0
-of Precision	243	1	1	1	43		35				3	17	dex		10	15											amul	miss	circ	misl	helm										0
+of Skill	241	1	1	1	11	51	8				3	17	dex		3	5											amul	miss	circ	misl	helm	orb	wand								0
+of Accuracy	242	1	1	1	27		20				3	17	dex		6	9											amul	miss	circ	misl	helm	orb	wand								0
+of Precision	243	1	1	1	43		35				3	17	dex		10	15											amul	miss	circ	misl	helm	orb	wand								0
 of Perfection	244	1	1	1	59		51				3	17	dex		16	20									1	dgld	amul	miss	circ	tors	shld	helm									0
 of Nirvana	245	100	1	1	72		64				3	17	dex		21	30									1	dgld	amul	miss	circ	helm	shld	tors									0
 of Dexterity	246	1	1	1	6	46	4				4	17	dex		1	2											ring	glov													0
 of Skill	247	1	1	1	22		16				3	17	dex		3	5											ring	glov	boot												0
 of Accuracy	248	1	1	1	39		31				3	17	dex		6	9											ring	glov													0
 of Precision	249	1	1	1	56		48				3	17	dex		10	15											ring	glov													0
-of Perfection	250	100	1		75		67				3	17	dex		16	20									1	dgld	ring	glov													0
+of Perfection	250	100	1	1	75		67				3	17	dex		16	20									1	dgld	ring	glov													0
 of Dexterity	251	1	1	1	13	53	9				3	17	dex		2	3											tors	boot						glov							0
 of Skill	252	1	1	1	34	74	26				3	17	dex		4	5											tors							glov							0
 of Accuracy	253	1	1	1	46		38				3	17	dex		6	9											tors	boot						glov							0
@@ -302,7 +302,7 @@ of Energy	299	1	1	1	7	47	5				4	23	enr		1	3											ring														0
 of the Mind	300	1	1	1	13		9				3	23	enr		4	6											ring	amul													0
 of Brilliance	301	1	1	1	21		16				3	23	enr		7	10											ring														0
 of Sorcery	302	1	1	1	31		23				3	23	enr		11	15											ring														0
-of Wizardry	303	100	1		41		33				3	23	enr		16	20									1	dgld	ring														0
+of Wizardry	303	100	1	1	41		33				3	23	enr		16	20									1	dgld	ring														0
 of Energy	304	1	1	1	4	44	3				3	23	enr		1	3											helm	scep													0
 of the Mind	305	1	1	1	10	50	7				3	23	enr		4	6											helm	scep													0
 of Brilliance	306	1	1	1	16		12				3	23	enr		7	10											helm	scep													0
@@ -318,13 +318,13 @@ of the Wolf	315	1	1	1	15	55	11				3	26	hp		11	20											tors	misl	phlm	circ		
 of the Tiger	316	1	1	1	20		15				3	26	hp		21	30											tors	belt	amul	phlm	circ	misl									0
 of the Mammoth	317	1	1	1	25		18				3	26	hp		31	40									1	cred	tors	belt	amul	phlm	circ	misl									0
 of the Colosuss	318	1	1	1	30		22				3	26	hp		41	60									1	cred	tors	belt	amul	phlm	circ										0
-of the Squid	319	100	1		40		30				3	26	hp		61	80									1	cred	amul														0
-of the Whale	320	100	1		50		37				3	26	hp		81	100									1	cred	amul														0
-of the Jackal	321	100	1	1	4	44	3				3	26	hp		1	5											shld	pelt													0
-of the Fox	322	100	1	1	11	51	8				3	26	hp		6	10											shld	pelt													0
-of the Wolf	323	100	1	1	27	67	20				3	26	hp		11	20											shld	pelt													0
-of the Tiger	324	100	1	1	43		35				3	26	hp		21	30											shld	pelt													0
-of the Mammoth	325	100	1	1	59		51				3	26	hp		31	40									1	cred	shld	pelt													0
+of the Squid	319	100	1	1	40		30				3	26	hp		61	80									1	cred	amul														0
+of the Whale	320	100	1	1	50		37				3	26	hp		81	100									1	cred	amul														0
+of the Jackal	321	100	1	1	4	44	3				3	26	hp		1	5											shld	pelt	boot												0
+of the Fox	322	100	1	1	11	51	8				3	26	hp		6	10											shld	pelt	boot												0
+of the Wolf	323	100	1	1	27	67	20				3	26	hp		11	20											shld	pelt	boot												0
+of the Tiger	324	100	1	1	43		35				3	26	hp		21	30											shld	pelt	boot												0
+of the Mammoth	325	100	1	1	59		51				3	26	hp		31	40									1	cred	shld	pelt	boot												0
 of the Colosuss	326	100	1	1	75		67				3	26	hp		41	60									1	cred	shld	pelt													0
 of the Jackal	327	1	1	1	8	48	6				3	26	hp		1	5											club	hamm	mace	ring	helm										0
 of the Fox	328	1	1	1	17	57	13				3	26	hp		6	10											club	hamm	mace	helm											0
@@ -377,9 +377,9 @@ of the Ox	374	1	1	1	26		19				3	31	str		6	9											amul	belt	club	hamm	circ	m
 of the Giant	375	1	1	1	42		34				3	31	str		10	15											amul	belt	club	hamm	circ	misl	helm								0
 of the Titan	376	1	1	1	58		50				3	31	str		16	20									1	dgld	amul	belt	club	hamm	circ	helm									0
 of Atlus	377	100	1	1	71		63				3	31	str		21	30									1	dgld	amul	belt	club	hamm	circ	helm	shld								0
-of Strength	378	1	1	1	5	45	3				4	31	str		1	2											ring	scep	mace												0
-of Might	379	1	1	1	21	61	15				3	31	str		3	5											tors	scep	mace												0
-of the Ox	380	1	1	1	38		30				3	31	str		6	9											ring	scep	mace	tors											0
+of Strength	378	1	1	1	5	45	3				4	31	str		1	2											ring	scep	mace	staf	wand	orb									0
+of Might	379	1	1	1	21	61	15				3	31	str		3	5											tors	scep	mace	staf	wand	orb									0
+of the Ox	380	1	1	1	38		30				3	31	str		6	9											ring	scep	mace	tors	staf	wand	orb								0
 of the Giant	381	1	1	1	55		47				3	31	str		10	15											ring	scep	mace	tors	shld										0
 of the Titan	382	100	1	1	74		66				3	31	str		16	20									1	dgld	ring	scep	mace	tors	shld										0
 of Strength	383	1	1	1	12	52	8				3	31	str		1	2											mele	glov	shld	tors				blun							0
@@ -397,7 +397,7 @@ of Pacing	394	1	1	1	12		8				5	35	move1		10	10											boot														0
 of Haste	395	1	1	1	22		16				6	35	move2		20	20											boot														0
 of Speed	396	1	1	1	37		29				4	35	move3		30	30											boot														0
 of Traveling	397	100	1	1	65		57				4	35	move3		30	30	stamdrain		80	90							boot														0
-of Acceleration	398	100	1		51		43				4	35	move3		40	40											boot														0
+of Acceleration	398	100	1	1	51		43				4	35	move3		40	40											boot														0
 of Inertia	399	100	1	1	19		14				4	35	move3		7	7											lcha														0
 of Inertia	400	100	1	1	24		18				4	35	move2		5	5											mcha														0
 of Inertia	401	100	1		35		27				4	35	move1		3	3											scha														0
@@ -796,10 +796,10 @@ of Disintegration	793	1	1	1	1		1				4	165	map-play-ac%		-50	-40	map-glob-density
 of Fumbling	794	1	1	1	1		1				4	314	map-play-block		-20	-10	map-glob-density		13	18	map-play-mag-gold%		15	20			t1m	t2m													0
 of Bumbling	795	1	1	1	1		1				4	314	map-play-block		-30	-20	map-glob-density		18	23	map-play-mag-gold%		30	35			t2m	t3m													0
 of Blundering	796	1	1	1	1		1				4	314	map-play-block		-40	-30	map-glob-density		23	25	map-play-mag-gold%		40	50			t3m	t4m	t5m												0
-of Defending	797	100	1	1	45		20				3	251	red-dmg%		5	10											tors	shld													5000
-of Defending	798	100	1	1	65		40				2	251	red-dmg%		5	10											belt														10000
-of Protecting	799	100	1	1	65		40				2	251	red-dmg%		10	15											tors	shld													15000
-of Guardianship	800	100	1	1	85		60				1	251	red-dmg%		15	20											tors	shld													20000
+of Defending	797	100	1	1	45		20				3	251	red-dmg%		8	14											tors	shld													5000
+of Defending	798	100	1	1	65		40				2	251	red-dmg%		5	10											belt	helm													10000
+of Protecting	799	100	1	1	65		40				2	251	red-dmg%		14	20											tors	shld													15000
+of Guardianship	800	100	1	1	85		60				2	251	red-dmg%		20	25											tors	shld													20000
 of Savagery	801	100	1	1	18	58	15				2	252	deadly		5	10											weap	misl						staf	wand	orb					0
 of Devastation	802	100	1	1	28	68	25				2	252	deadly		10	15											weap	misl						staf	wand	orb					0
 of Havoc	803	100	1	1	38		35				2	252	deadly		15	20											weap	misl						staf	wand	orb					0
@@ -815,9 +815,9 @@ of Crumbling	812	100	1	1	28	68	25				2	252	crush		10	15											weap	misl					
 of Breaking	813	100	1	1	38		35				2	252	crush		15	20											weap	misl						staf	wand	orb					0
 of Crushing	814	100	1	1	48		45				2	252	crush		20	25											weap	misl						staf	wand	orb					0
 of Pulverizing	815	100	1	1	58		55				2	252	crush		25	30											weap	misl						staf	wand	orb					0
-of the Apprentice	816	1	1	1	17		20				4	9	cast1		10	10											tors	shld	ashd												10000
-of the Apprentice	817	1	1	1	25		29				4	9	cast1		10	10											glov	belt													35000
-of the Magus	818	1	1	1	25		29				2	9	cast3		20	20											tors	shld	ashd												65000
+of the Apprentice	816	1	1	1	17		20				4	9	cast1		10	10											tors	shld	ashd	circ											5000
+of the Apprentice	817	1	1	1	25		29				4	9	cast1		10	10											glov	belt													10000
+of the Magus	818	1	1	1	25		29				2	9	cast3		20	20											tors	shld	ashd	glov	belt	staf									20000
 of the Squid	819	100	1	1	40		30				3	26	hp		61	80									1	cred	tors	belt	phlm	circ	shld										0
 of the Whale	820	100	1	1	50		37				3	26	hp		81	100									1	cred	tors	belt	phlm	circ	shld										0
 of the Kraken	821	100	1	1	20		1				1	41	hp/lvl	6											1	cred	tors	pelt	phlm	shld											0
@@ -834,9 +834,9 @@ of Darkness	831	1			1		1					317	map-play-lightradius		-180	-140	map-glob-densit
 Dclone Clout	832	100	0																						1	dred															0
 Maxlevel Clout	833	100	0																						1	dgrn															0
 of the Bear	834	1	1	1	30		24				2	24	knock		1	1											misl														0
-of the Lamprey	835	100	1		55		43				7	27	lifesteal		6	9									1	cred	misl							orb							0
-of the Vampire	836	100	1		56		48				7	28	manasteal		6	9									1	cred	misl														0
-of the Jeweler	837				1		1				5	318	map-mon-dropjewelry		1	2											t1m	t2m													0
+of the Lamprey	835	100	1	1	55		43				7	27	lifesteal		6	9									1	cred	misl							orb							0
+of the Vampire	836	100	1	1	56		48				7	28	manasteal		6	9									1	cred	misl														0
+Dummy	837				1		1				5	318	map-mon-dropjewelry		1	2											t1m	t2m													0
 of the Jeweler	838				1		1				5	318	map-mon-dropjewelry		2	3											t2m	t3m													0
 of the Jeweler	839				1		1				5	318	map-mon-dropjewelry		3	4											t3m	t5m													0
 of the Smith	840	1	1	1	1		1				9	318	map-mon-dropweapons		3	4											t1m	t2m													0
@@ -971,10 +971,10 @@ of the Smith	971	1	1		1		1				18	318	map-mon-dropweapons		8	10											t3m	t5m
 of the Armorer	972	1	1		1		1				18	318	map-mon-droparmor		4	5											t1m	t2m													0
 of the Armorer	973	1	1		1		1				18	318	map-mon-droparmor		6	7											t2m	t3m													0
 of the Armorer	974	1	1		1		1				18	318	map-mon-droparmor		8	10											t3m	t5m													0
-of the Archmage	978	1	1	1	49		41				2	9	cast3		30	30											rod	orb	club					staf							0
+of the Archmage	978	1	1	1	49		41				2	9	cast3		30	30											rod	orb	club	staf											0
 of Life Everlasting	979	100	1	1	45		37				4	1	red-dmg		10	25											shld	tors													0
-of Fortification	980	100	1		61		53				3	2	red-mag		12	16											tors	shld													0
-of the Archmage	981	1	1	1	49		41				3	9	cast3		40	40											staf														0
+of Fortification	980	100	1	1	61		53				3	2	red-mag		12	16											tors	shld													0
+of the Archmage	981	1	1	1	49		41				2	9	cast3		40	40											staf														0
 of Atlus	982	100	1	1	71		63				3	31	str		21	30									1	dgld	tors														0
 of Energy	983	1	1	1	1	41	1				4	23	enr		1	3											shld														0
 of the Mind	984	1	1	1	7	47	3				4	23	enr		4	6											shld														0
@@ -982,7 +982,7 @@ of Brilliance	985	1	1	1	13		9				3	23	enr		7	10											tors	shld													
 of Sorcery	986	1	1	1	21		16				3	23	enr		11	15											tors	shld													0
 of Wizardry	987	1	1	1	31		23				3	23	enr		16	20									1	dgld	shld														0
 of Enlightenment	988	100	1	1	41		33				3	23	enr		21	30									1	dgld	shld														0
-of Balance	989	1	1	1	5		3				4	18	balance1		10	10											boot														0
+of Balance	989	1	1	1	5		3				4	18	balance1		10	10											boot	tors													0
 of Overcharge	990	100	1	1	14		14				6	319	extra-ltng		2	6											orb														0
 of Conductivity	991	100	1	1	30		28				6	319	extra-ltng		6	12											orb														0
 of the Maelstrom	992	100	1	1	52		47				6	319	extra-ltng		12	20											orb														0
@@ -1007,7 +1007,7 @@ of Pox	1010	100	1	1	52		47				6	319	extra-pois		12	20											wand												
 of the Oracle	1011	100	1	1	14		14				6	319	extra-magi		2	6											wand														0
 of the Warlock	1012	100	1	1	30		28				6	319	extra-magi		6	12											wand														0
 of the Eldritch	1013	100	1	1	52		47				6	319	extra-magi		12	20											wand														0
-of the Apprentice	1014	1	1	1	5	36	3				6	9	cast1		10	10											rod	orb	circ	club											0
+of the Apprentice	1014	1	1	1	5	36	3				6	9	cast1		10	10											rod	orb	club												0
 of Pacing	1015	1	1	1	12		8				3	35	move1		10	10											circ														0
 of Haste	1016	1	1	1	22		16				4	35	move2		20	20											circ														0
 of Speed	1017	1	1	1	37		29				4	35	move3		30	30											circ														0
@@ -1026,8 +1026,11 @@ of Regeneration	1023	100	1	1	52		47				2	320	regen		20	30											orb	wand				
 of Regeneration	1024	100	1	1	14		14				4	320	regen		10	20											staf														0
 of Regeneration	1025	100	1	1	30		28				4	320	regen		20	30											staf														0
 of Regeneration	1026	100	1	1	52		47				2	320	regen		30	40											staf														0
-																																									
-																																									
+of Control	1027	1	1	1	21		19				2	321	block		6	12											glov														0
+of Discipline	1028	1	1	1	41		37				2	321	block		12	16											glov														0
+of Momentum	1027	1	1	1	21		19				2	321	block2		10	10											glov														0
+of Evasion	1028	1	1	1	41		37				2	321	block2		20	20											glov														0
+of Protecting	1029	100	1	1	65		40				2	251	red-dmg%		10	15											helm														15000
 of Infamy		100	1	1	89		85				1	7	swing1		20	20											mjwg														0
 of Temper		100	1	1	89		85				1	14	dmg-max		16	20									1	blac	mjwg														0
 of Razor-sharpness		100	1	1	89		85				1	15	dmg-min		11	16									1	whit	mjwg														0
@@ -1054,13 +1057,12 @@ of Temper		100	1	1	89		85				3	14	dmg-max		4	5											ocha														0
 of Crystalising		100	1	1	89		85				1	10	cold-min		20	24	cold-max		36	44	cold-len		25	25	1	dblu	ocha														0
 of Carbonising		100	1	1	89		85				1	12	fire-min		23	29	fire-max		42	56					1	dred	ocha														0
 of Electrocuting		100	1	1	89		85				1	13	ltng-min		1	1	ltng-max		69	91					1	dyel	ocha														0
-of the Genius		100	1	1	87		85				2	31	enr		7	10											ocha														
-																																									
-of Incidence		100	1	1	30	89	28				2	404	skill-frequency		5	10											belt														
-of Occurence		100	1	1	70		65				1	404	skill-frequency		11	20											belt														
-of Prevalence		100	1	1	89		85				1	404	skill-frequency		21	30											belt														
-																																									
-of Occultism		100	1	1	89		85				1	405	curse-effect		3	5											ring														
-of Influence		100	1	1	89		85				1	406	aura-effect		5	7											amul														
-																																									
-																																									
+of the Genius		100	1	1	87		85				2	31	enr		7	10											ocha														0
+																																									0
+of Incidence		100	1	1	30	89	28				3	404	skill-frequency		1	5											belt														0
+of Occurrence		100	1	1	70		65				2	404	skill-frequency		6	10											belt														0
+of Prevalence		100	1	1	89		85				1	404	skill-frequency		11	20											belt														0
+																																									0
+of Occultism		100	1	1	89		85				1	405	curse-effect		3	5											ring														0
+of Influence		100	1	1	89		85				1	406	aura-effect		5	7											amul														0
+of the Nimbleness	1066	1	1	1	17		20				4	9	cast1		5	5											tors	shld	ashd	belt	glov										5000

@@ -273,7 +273,7 @@ splash	1			11	item_splashonhit																									splash	358	100	1	269	0
 corrupt	1			1	corrupted																													270	0
 corruptnum	1			1	corruptor																													271	0
 heroed	1			1	heroic																													272	0
-randclassskill1	1		1	36	item_addclassskills																													273	0
+randclassskill2	1		2	36	item_addclassskills																													273	0
 coldskill	1		4	21	item_elemskill			3	item_elemskill_cold																					cold skills				274	0
 ltngskill	1		2	21	item_elemskill			3	item_elemskill_lightning																					lightning skills				275	0
 poisskill	1		5	21	item_elemskill			3	item_elemskill_poison																					poison skills				276	0
@@ -333,7 +333,7 @@ maxcurse	1			1	max_curses																									+ to max curses				329	0
 randelemskill	1		1	36	item_elemskill																													330	0
 curse-res	1			1	curse_resistance																													331	0
 heal-hit	1			1	item_healafterhit																									life gained after each hit				332	0
-randclassskill2	1		2	36	item_addclassskills																													333	0
+randclassskill1	1		2	36	item_addclassskills																													333	0
 map-mon-phys-as-extra-ltng	1			1	map_mon_phys_as_extra_ltng																													334	0
 map-mon-phys-as-extra-cold	1			1	map_mon_phys_as_extra_cold																													335	0
 map-mon-phys-as-extra-fire	1			1	map_mon_phys_as_extra_fire																													336	0
@@ -398,16 +398,16 @@ lifesteal-cap	1			1	lifedrain_percentcap																													396	0
 splash%/missinghp%	1			17	inc_splash_radius_permissinghp																													397	0
 eaglehorn-raven	1			1	eaglehorn_raven																													398	0
 map-glob-skirmish-mode	1			1	map_glob_skirmish_mode																													399	0
-map-mon-dropjewelry	1			8	map_mon_dropjewelry																													400	0
-map-mon-dropweapons	1			8	map_mon_dropweapons																													401	0
-map-mon-droparmor	1			8	map_mon_droparmor																													402	0
-map-mon-drop-currency	1			8	map_mon_drop_currency																													403	0
+hatred-orb-accessories	1			8	hatred_orb_accessories																													400	0
+hatred-orb-equipment	1			8	hatred_orb_equipment																													401	0
+hatred-orb-essences	1			8	hatred_orb_essences																													402	0
+hatred-orb-currency	1			8	hatred_orb_currency																													403	0
 map-glob-extra-boss	1			1	map_glob_extra_boss																													404	0
 map-glob-add-mon-shriek	1			1	map_glob_add_mon_shriek																													405	0
 map-force-event	1			1	map_force_event																													406	0
 uber-difficulty	1			1	uber_difficulty																													407	0
 deep-wounds	1			1	deep_wounds																													408	0
-map-mon-dropcharms	1			8	map_mon_dropcharms																													409	0
+hatred-orb-runes	1			8	hatred_orb_runes																													409	0
 map-glob-dropcorrupted	1			8	map_glob_dropcorrupted																													410	0
 curse-effectiveness	1			1	curse_effectiveness																													411	0
 map-glob-boss-dropskillers	1			1	map_glob_boss_dropskillers																													412	0
@@ -415,7 +415,7 @@ map-glob-boss-dropcorruptedunique	1			1	map_glob_boss_dropcorruptedunique							
 equipped-skill	1			22	item_skillonequip			24	item_skillonequip_display																									414	0
 mindmg/energy	1			17	item_mindamage_energy																									Min Damage per energy	(8ths)			415	0
 map-glob-boss-dropfacet	1			1	map_glob_boss_dropfacet																													416	0
-map-mon-dropjewels	1			8	map_mon_dropjewels																													417	0
+hatred-orb-fate-cards	1			8	hatred_orb_fate_cards																													417	0
 es-efficiency	1			1	es_efficiency																									Extra efficiency as base points to ES	(16ths)			418	0
 sorc-skill-rand-ctc	1			25																										Bonus to random skill + CTC on cast skill	Skill Bonus	CTC Chance	CTC Level	419	0
 str-and-vit	1			1	strength			1	vitality																									420	0
@@ -423,6 +423,8 @@ block-skill	1			11	item_skillonblock																									Proc Skill on Block
 map-glob-sundermonsters	1			1	map_glob_sundermonsters																													422	0
 crit-skill	1			11	item_skilloncrit																									Proc Skill on Crit	Skill #	% Chance	Level	423	0
 pierce-skill	1			11	item_skillonpierce																									Proc Skill on Pierce	Skill #	% Chance	Level	424	0
+dummydesecraterownum1	1																																	999	0
+dummydesecraterownum2	1																																	1090	0
 desecrate	1			1	desecrated																													425	0
 desecratenum	1			1	desecrator																													426	0
 extra-grizzly	1			1	extra_grizzly																													427	0
@@ -437,6 +439,14 @@ extra-cold-arrows	1			1	extra_cold_arrows																													436	0
 shiny-appearance	1			1	item_shiny_appearance																													437	0
 es-efficiency-and-es-when-equip	1			1	es_efficiency			22	item_skillonequip																					Extra efficiency as base points to ES	(16ths)			438	0
 map-glob-dropsocketed	1			8	map_glob_dropsocketed																													440	0
+crit-strike-multiplier	1			1	item_crit_multiplier																													441	0
+deadly-strike-multiplier	1			1	item_ds_multiplier																													442	0
+crit-strike-chance	1			1	item_crit_chance																													443	0
+map-glob-dropbonus	1			8	map_glob_dropbonus																													444	0
+map-glob-dropethereal	1			8	map_glob_dropethereal																													445	0
+treacherous	1			1	treacherous																													272	0
+map-mon-att	1			1	map_mon_att																													300	0
+map-glob-bossdropstreasure	1			8	map_glob_bossdropstreasure																													444	0
 pierce-mag	1			1	passive_mag_pierce																									Negates % of Enemy Magic Resistance		min	max	360	0
 all-ele-pierce	1			1	passive_fire_pierce			1	passive_cold_pierce			1	passive_ltng_pierce			1	passive_pois_pierce																		0
 all-ele-mastery	1			1	passive_fire_mastery			3	passive_cold_mastery			3	passive_ltng_mastery			3	passive_pois_mastery																		0
@@ -473,8 +483,19 @@ action-speed	1			1	action_speed																														0
 cast-skill-hidden	1			11	item_skilloncast																									Proc Skill on Cast	Skill #	% Chance	Level	390	0
 map-glob-add-monsters	1			1	map_glob_add_monsters			24	static_modifier_display_map																									379	0
 map-glob-add-monsters-hidden	1			1	map_glob_add_monsters																														0
-static-modifier-display-lore	1			24	static_modifier_display_lore																														0
+static-modifier-display-top	1			24	static_modifier_display_top																														0
 map-glob-add-terror	1			1	map_glob_add_terror			24	static_modifier_display_map																									379	0
 map-glob-boss-dropubermats	1			1	map_glob_boss_dropubermats																													433	0
 hit-skill-hidden	1			11	item_skillonhit																									Proc Skill on Hit	Skill #	% Chance	Level	127	0
 skill-aoe-flat	1			1	item_skill_aoe_flat																														0
+ascendancy-tier-display	1			1	ascendancy_tier			24	static_modifier_display_top																										0
+ascendancy-tier	1			1	ascendancy_tier																														0
+max-endurance-charge	1			1	max_endurance_charge																														0
+skill-duration	1			1	skill_duration																														0
+abs-fire-cold-ltng-%	1			1	item_absorbfire_percent			1	item_absorblight_percent			1	item_absorbcold_percent																						0
+summon-max-hp	1			1	summon_max_hp																														0
+cast-hit-skill	1			11	item_skilloncast			11	item_skilloncast_display			11	item_skillonhit			11	item_skillonhit_display																		0
+cast-hit-skill-hidden	1			11	item_skilloncast			11	item_skillonhit																										0
+buff-effect	1			1	buff_effect																														0
+summon-pdr-percent	1			1	summon_pdr_percent																														0
+map-hatred	1			1	map_hatred_level																														0
