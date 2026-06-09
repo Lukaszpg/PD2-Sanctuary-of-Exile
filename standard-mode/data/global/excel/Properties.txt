@@ -125,7 +125,7 @@ dru	1		5	21	item_addclassskills																									All Druid Skills				121	
 ass	1		6	21	item_addclassskills																									All Assassin Skills				122	0
 skill	1			22	item_singleskill																													123	0
 skilltab	1			10	item_addskill_tab																													124	0
-aura	1			22	item_aura																													125	0
+aura	1			22	item_aura			22	item_aura_display																									125	0
 att-skill	1			11	item_skillonattack																									Proc Skill on Swing	Skill #	% Chance	Level	126	0
 hit-skill	1			11	item_skillonhit			11	item_skillonhit_display																					Proc Skill on Hit	Skill #	% Chance	Level	127	0
 gethit-skill	1			11	item_skillongethit																									Proc Skill on Get Hit	Skill #	% Chance	Level	128	0
@@ -499,3 +499,6 @@ cast-hit-skill-hidden	1			11	item_skilloncast			11	item_skillonhit														
 buff-effect	1			1	buff_effect																														0
 summon-pdr-percent	1			1	summon_pdr_percent																														0
 map-hatred	1			1	map_hatred_level																														0
+aura-hidden	1			22	item_aura																													125	0
+ascendancy-scaling	1			1	ascendancy_scaling																														0
+max-traps	1			1	max_traps																														0

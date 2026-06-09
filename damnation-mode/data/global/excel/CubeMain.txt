@@ -2568,7 +2568,7 @@ Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,eli	"dvo,qty=
 Divine Orb + 5 jewel fragments = random unique regular jewel	1			100					2	"dvo,qty=1"	"jewf,qty=5"						jew,uni	99																																																																																						0
 Divine Orb + magic mythical jewel = random unique mythical jewel	1			100					2	"dvo,qty=1"	mjw,mag						mjw,uni	99																																																																																						0
 Divine Orb + rare mythical jewel = random unique mythical jewel	1			100					2	"dvo,qty=1"	mjw,rar						mjw,uni	99																																																																																						0
-3x Divine Orb + magic ornate charm = random unique ornate charm	1			100					2	"dvo,qty=3"	cm4,mag						cm4,uni	99																																																																																						0
+Divine Orb + magic ornate charm = random unique ornate charm	1			100					2	"dvo,qty=1"	cm4,mag						cm4,uni	99																																																																																						0
 																																																																																																								0
 DIVINE ORB - QUIVERS																																																																																																								0
 White Elite Arrows	1			100					2	aqv3,nor	"dvo,qty=1"						usetype,uni	99			dye	100		3	3																																																																															0
@@ -4086,7 +4086,7 @@ FATE CARD GAMBA - ROLL																																																										
 The Apothecary Card	1			100	18	361	0		3	hffd	fa01,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa01,qty=1																													hfcr,qty=51																													0
 The Eye of Terror Card	1			100	18	361	0		3	hffd	fa02,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa02,qty=1																													hfcr,qty=51																													0
 The Doctor Card	1			100	18	361	0		3	hffd	fa03,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa03,qty=1																													hfcr,qty=51																													0
-The Sephiroth Card	1			100	18	361	0		3	hffd	fa04,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa04,qty=1																													hfcr,qty=51																													0
+The Sephiroth Card	0			100	18	361	0		3	hffd	fa04,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa04,qty=1																													hfcr,qty=51																													0
 The Immortal Card	1			100	18	361	0		3	hffd	fa05,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa05,qty=1																													hfcr,qty=51																													0
 Wealth and Power Card	1			100	18	361	0		3	hffd	fa06,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa06,qty=1																													hfcr,qty=51																													0
 House of Mirrors Card	1			100	18	361	0		3	hffd	fa07,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa07,qty=1																													hfcr,qty=51																													0
@@ -4139,12 +4139,12 @@ The Undaunted Card	1			100	18	361	0		3	hffd	fa53,qty=1	hfcr,qty=50					useitem		
 Gemcutters Gift Card	1			100	18	361	0		3	hffd	fa54,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa54,qty=1																													hfcr,qty=51																													0
 The Archmages Right Hand Card	1			100	18	361	0		3	hffd	fa55,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa55,qty=1																													hfcr,qty=51																													0
 The Survivalist Card	1			100	18	361	0		3	hffd	fa56,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa56,qty=1																													hfcr,qty=51																													0
-Abandoned Wealth Card	1			100	18	361	0		3	hffd	fa57,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa57,qty=1																													hfcr,qty=51																													0
+Abandoned Wealth Card	0			100	18	361	0		3	hffd	fa57,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa57,qty=1																													hfcr,qty=51																													0
 The Scout Card	1			100	18	361	0		3	hffd	fa58,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa58,qty=1																													hfcr,qty=51																													0
 Glimmer of Hope Card	1			100	18	361	0		3	hffd	fa59,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa59,qty=1																													hfcr,qty=51																													0
 The Escape Card	1			100	18	361	0		3	hffd	fa60,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa60,qty=1																													hfcr,qty=51																													0
 Humility Card	1			100	18	361	0		3	hffd	fa61,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa61,qty=1																													hfcr,qty=51																													0
-The Saints Treasure Card	1			100	18	361	0		3	hffd	fa62,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa62,qty=1																													hfcr,qty=51																													0
+The Saints Treasure Card	0			100	18	361	0		3	hffd	fa62,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa62,qty=1																													hfcr,qty=51																													0
 The Inventor Card	1			100	18	361	0		3	hffd	fa63,qty=1	hfcr,qty=50					useitem			100	corruptnum	100		1	3																					fa63,qty=1																													hfcr,qty=51																													0
 																																																																																																								0
 FATE CARD GAMBA - OUTCOME																																																																																																								0
@@ -4157,9 +4157,9 @@ The Eye of Terror Card - Double	1			100	18	361	3		3	hffd	fa02,qty=1	hfcr,qty=50	
 The Doctor Card - No change	1			100	18	361	1		3	hffd	fa03,qty=1	hfcr,qty=50					hffd	99																												fa03																																																										0
 The Doctor Card - Poof	1			100	18	361	2		3	hffd	fa03,qty=1	hfcr,qty=50					hffd	99																																																																																						0
 The Doctor Card - Double	1			100	18	361	3		3	hffd	fa03,qty=1	hfcr,qty=50					hffd	99																												fa03																													fa03																													0
-The Sephiroth Card - No change	1			100	18	361	1		3	hffd	fa04,qty=1	hfcr,qty=50					hffd	99																												fa04																																																										0
-The Sephiroth Card - Poof	1			100	18	361	2		3	hffd	fa04,qty=1	hfcr,qty=50					hffd	99																																																																																						0
-The Sephiroth Card - Double	1			100	18	361	3		3	hffd	fa04,qty=1	hfcr,qty=50					hffd	99																												fa04																													fa04																													0
+The Sephiroth Card - No change	0			100	18	361	1		3	hffd	fa04,qty=1	hfcr,qty=50					hffd	99																												fa04																																																										0
+The Sephiroth Card - Poof	0			100	18	361	2		3	hffd	fa04,qty=1	hfcr,qty=50					hffd	99																																																																																						0
+The Sephiroth Card - Double	0			100	18	361	3		3	hffd	fa04,qty=1	hfcr,qty=50					hffd	99																												fa04																													fa04																													0
 The Immortal Card - No change	1			100	18	361	1		3	hffd	fa05,qty=1	hfcr,qty=50					hffd	99																												fa05																																																										0
 The Immortal Card - Poof	1			100	18	361	2		3	hffd	fa05,qty=1	hfcr,qty=50					hffd	99																																																																																						0
 The Immortal Card - Double	1			100	18	361	3		3	hffd	fa05,qty=1	hfcr,qty=50					hffd	99																												fa05																													fa05																													0
@@ -4316,9 +4316,9 @@ The Archmages Right Hand Card - Double	1			100	18	361	3		3	hffd	fa55,qty=1	hfcr,
 The Survivalist Card - No change	1			100	18	361	1		3	hffd	fa56,qty=1	hfcr,qty=50					hffd	99																												fa56																																																										0
 The Survivalist Card - Poof	1			100	18	361	2		3	hffd	fa56,qty=1	hfcr,qty=50					hffd	99																																																																																						0
 The Survivalist Card - Double	1			100	18	361	3		3	hffd	fa56,qty=1	hfcr,qty=50					hffd	99																												fa56																													fa56																													0
-Abandoned Wealth Card - No change	1			100	18	361	1		3	hffd	fa57,qty=1	hfcr,qty=50					hffd	99																												fa57																																																										0
-Abandoned Wealth Card - Poof	1			100	18	361	2		3	hffd	fa57,qty=1	hfcr,qty=50					hffd	99																																																																																						0
-Abandoned Wealth Card - Double	1			100	18	361	3		3	hffd	fa57,qty=1	hfcr,qty=50					hffd	99																												fa57																													fa57																													0
+Abandoned Wealth Card - No change	0			100	18	361	1		3	hffd	fa57,qty=1	hfcr,qty=50					hffd	99																												fa57																																																										0
+Abandoned Wealth Card - Poof	0			100	18	361	2		3	hffd	fa57,qty=1	hfcr,qty=50					hffd	99																																																																																						0
+Abandoned Wealth Card - Double	0			100	18	361	3		3	hffd	fa57,qty=1	hfcr,qty=50					hffd	99																												fa57																													fa57																													0
 The Scout Card - No change	1			100	18	361	1		3	hffd	fa58,qty=1	hfcr,qty=50					hffd	99																												fa58																																																										0
 The Scout Card - Poof	1			100	18	361	2		3	hffd	fa58,qty=1	hfcr,qty=50					hffd	99																																																																																						0
 The Scout Card - Double	1			100	18	361	3		3	hffd	fa58,qty=1	hfcr,qty=50					hffd	99																												fa58																													fa58																													0
@@ -4331,9 +4331,9 @@ The Escape Card - Double	1			100	18	361	3		3	hffd	fa60,qty=1	hfcr,qty=50					hff
 Humility Card - No change	1			100	18	361	1		3	hffd	fa61,qty=1	hfcr,qty=50					hffd	99																												fa61																																																										0
 Humility Card - Poof	1			100	18	361	2		3	hffd	fa61,qty=1	hfcr,qty=50					hffd	99																																																																																						0
 Humility Card - Double	1			100	18	361	3		3	hffd	fa61,qty=1	hfcr,qty=50					hffd	99																												fa61																													fa61																													0
-The Saints Treasure Card - No change	1			100	18	361	1		3	hffd	fa62,qty=1	hfcr,qty=50					hffd	99																												fa62																																																										0
-The Saints Treasure Card - Poof	1			100	18	361	2		3	hffd	fa62,qty=1	hfcr,qty=50					hffd	99																																																																																						0
-The Saints Treasure Card - Double	1			100	18	361	3		3	hffd	fa62,qty=1	hfcr,qty=50					hffd	99																												fa62																													fa62																													0
+The Saints Treasure Card - No change	0			100	18	361	1		3	hffd	fa62,qty=1	hfcr,qty=50					hffd	99																												fa62																																																										0
+The Saints Treasure Card - Poof	0			100	18	361	2		3	hffd	fa62,qty=1	hfcr,qty=50					hffd	99																																																																																						0
+The Saints Treasure Card - Double	0			100	18	361	3		3	hffd	fa62,qty=1	hfcr,qty=50					hffd	99																												fa62																													fa62																													0
 The Inventor Card - No change	1			100	18	361	1		3	hffd	fa63,qty=1	hfcr,qty=50					hffd	99																												fa63																																																										0
 The Inventor Card - Poof	1			100	18	361	2		3	hffd	fa63,qty=1	hfcr,qty=50					hffd	99																																																																																						0
 The Inventor Card - Double	1			100	18	361	3		3	hffd	fa63,qty=1	hfcr,qty=50					hffd	99																												fa63																													fa63																													0
@@ -4565,7 +4565,8 @@ Ascend to Lich	1			100					1	Ascend to Lich							Ascend to Pathfinder			100				
 Ascend to Pathfinder	1			100					1	Ascend to Pathfinder							Ascend to Spirit Walker			100																																																																																				0
 Ascend to Spirit Walker	1			100					1	Ascend to Spirit Walker							Ascend to Deadeye			100																																																																																				0
 Ascend to Deadeye	1			100					1	Ascend to Deadeye							Ascend to Chieftain			100																																																																																				0
-Ascend to Chieftain	1			100					1	Ascend to Chieftain							Ascend to Bloodmage			100																																																																																				0
+Ascend to Chieftain	1			100					1	Ascend to Chieftain							Ascend to Saboteur			100																																																																																				0
+Ascend to Saboteur	1			100					1	Ascend to Saboteur							Ascend to Bloodmage			100																																																																																				0
 																																																																																																								0
 ASCEND TO TIER 1 - Amazon																																																																																																								0
 Ascend to Bloodmage	1			100	18	296	0	ama	2	Ascendancy Cairn	Ascend to Bloodmage						useitem			100	ama	100		2	2	vit	100		30	30	enr	100		30	30	ascendancy-tier-display	100	1438	1	1	levelreq	100		19	19																																																											0
@@ -4581,6 +4582,7 @@ Ascend to Pathfinder	1			100	18	296	0	ama	2	Ascendancy Cairn	Ascend to Pathfinde
 Ascend to Spirit Walker	1			100	18	296	0	ama	2	Ascendancy Cairn	Ascend to Spirit Walker						useitem			100	ama	100		2	2	red-dmg%	100		10	10	vit	100		30	30	ascendancy-tier-display	100	1448	41	41	levelreq	100		19	19																																																											0
 Ascend to Deadeye	1			100	18	296	0	ama	2	Ascendancy Cairn	Ascend to Deadeye						useitem			100	ama	100		2	2	att	100		250	250	dex	100		30	30	ascendancy-tier-display	100	1449	45	45	levelreq	100		19	19																																																											0
 Ascend to Chieftain	1			100	18	296	0	ama	2	Ascendancy Cairn	Ascend to Chieftain						useitem			100	ama	100		2	2	vit	100		50	50						ascendancy-tier-display	100	1461	49	49	levelreq	100		19	19																																																											0
+Ascend to Saboteur	1			100	18	296	0	ama	2	Ascendancy Cairn	Ascend to Saboteur						useitem			100	ama	100		2	2	vit	100		30	30	regen-mana	100		100	100	ascendancy-tier-display	100	1990	53	53	levelreq	100		19	19																																																											0
 																																																																																																								0
 ASCEND TO TIER 1 - Barbarian																																																																																																								0
 Ascend to Bloodmage	1			100	18	296	0	bar	2	Ascendancy Cairn	Ascend to Bloodmage						useitem			100	bar	100		2	2	vit	100		30	30	enr	100		30	30	ascendancy-tier-display	100	1438	1	1	levelreq	100		19	19																																																											0
@@ -4596,6 +4598,7 @@ Ascend to Pathfinder	1			100	18	296	0	bar	2	Ascendancy Cairn	Ascend to Pathfinde
 Ascend to Spirit Walker	1			100	18	296	0	bar	2	Ascendancy Cairn	Ascend to Spirit Walker						useitem			100	bar	100		2	2	red-dmg%	100		10	10	vit	100		30	30	ascendancy-tier-display	100	1448	41	41	levelreq	100		19	19																																																											0
 Ascend to Deadeye	1			100	18	296	0	bar	2	Ascendancy Cairn	Ascend to Deadeye						useitem			100	bar	100		2	2	att	100		250	250	dex	100		30	30	ascendancy-tier-display	100	1449	45	45	levelreq	100		19	19																																																											0
 Ascend to Chieftain	1			100	18	296	0	bar	2	Ascendancy Cairn	Ascend to Chieftain						useitem			100	bar	100		2	2	vit	100		50	50						ascendancy-tier-display	100	1461	49	49	levelreq	100		19	19																																																											0
+Ascend to Saboteur	1			100	18	296	0	bar	2	Ascendancy Cairn	Ascend to Saboteur						useitem			100	bar	100		2	2	vit	100		30	30	regen-mana	100		100	100	ascendancy-tier-display	100	1990	53	53	levelreq	100		19	19																																																											0
 																																																																																																								0
 ASCEND TO TIER 1 - Paladin																																																																																																								0
 Ascend to Bloodmage	1			100	18	296	0	pal	2	Ascendancy Cairn	Ascend to Bloodmage						useitem			100	pal	100		2	2	vit	100		30	30	enr	100		30	30	ascendancy-tier-display	100	1438	1	1	levelreq	100		19	19																																																											0
@@ -4611,6 +4614,7 @@ Ascend to Pathfinder	1			100	18	296	0	pal	2	Ascendancy Cairn	Ascend to Pathfinde
 Ascend to Spirit Walker	1			100	18	296	0	pal	2	Ascendancy Cairn	Ascend to Spirit Walker						useitem			100	pal	100		2	2	red-dmg%	100		10	10	vit	100		30	30	ascendancy-tier-display	100	1448	41	41	levelreq	100		19	19																																																											0
 Ascend to Deadeye	1			100	18	296	0	pal	2	Ascendancy Cairn	Ascend to Deadeye						useitem			100	pal	100		2	2	att	100		250	250	dex	100		30	30	ascendancy-tier-display	100	1449	45	45	levelreq	100		19	19																																																											0
 Ascend to Chieftain	1			100	18	296	0	pal	2	Ascendancy Cairn	Ascend to Chieftain						useitem			100	pal	100		2	2	vit	100		50	50						ascendancy-tier-display	100	1461	49	49	levelreq	100		19	19																																																											0
+Ascend to Saboteur	1			100	18	296	0	pal	2	Ascendancy Cairn	Ascend to Saboteur						useitem			100	pal	100		2	2	vit	100		30	30	regen-mana	100		100	100	ascendancy-tier-display	100	1990	53	53	levelreq	100		19	19																																																											0
 																																																																																																								0
 ASCEND TO TIER 1 - Necromancer																																																																																																								0
 Ascend to Bloodmage	1			100	18	296	0	nec	2	Ascendancy Cairn	Ascend to Bloodmage						useitem			100	nec	100		2	2	vit	100		30	30	enr	100		30	30	ascendancy-tier-display	100	1438	1	1	levelreq	100		19	19																																																											0
@@ -4626,6 +4630,7 @@ Ascend to Pathfinder	1			100	18	296	0	nec	2	Ascendancy Cairn	Ascend to Pathfinde
 Ascend to Spirit Walker	1			100	18	296	0	nec	2	Ascendancy Cairn	Ascend to Spirit Walker						useitem			100	nec	100		2	2	red-dmg%	100		10	10	vit	100		30	30	ascendancy-tier-display	100	1448	41	41	levelreq	100		19	19																																																											0
 Ascend to Deadeye	1			100	18	296	0	nec	2	Ascendancy Cairn	Ascend to Deadeye						useitem			100	nec	100		2	2	att	100		250	250	dex	100		30	30	ascendancy-tier-display	100	1449	45	45	levelreq	100		19	19																																																											0
 Ascend to Chieftain	1			100	18	296	0	nec	2	Ascendancy Cairn	Ascend to Chieftain						useitem			100	nec	100		2	2	vit	100		50	50						ascendancy-tier-display	100	1461	49	49	levelreq	100		19	19																																																											0
+Ascend to Saboteur	1			100	18	296	0	nec	2	Ascendancy Cairn	Ascend to Saboteur						useitem			100	nec	100		2	2	vit	100		30	30	regen-mana	100		100	100	ascendancy-tier-display	100	1990	53	53	levelreq	100		19	19																																																											0
 																																																																																																								0
 ASCEND TO TIER 1 - Sorceress																																																																																																								0
 Ascend to Bloodmage	1			100	18	296	0	sor	2	Ascendancy Cairn	Ascend to Bloodmage						useitem			100	sor	100		2	2	vit	100		30	30	enr	100		30	30	ascendancy-tier-display	100	1438	1	1	levelreq	100		19	19																																																											0
@@ -4641,6 +4646,7 @@ Ascend to Pathfinder	1			100	18	296	0	sor	2	Ascendancy Cairn	Ascend to Pathfinde
 Ascend to Spirit Walker	1			100	18	296	0	sor	2	Ascendancy Cairn	Ascend to Spirit Walker						useitem			100	sor	100		2	2	red-dmg%	100		10	10	vit	100		30	30	ascendancy-tier-display	100	1448	41	41	levelreq	100		19	19																																																											0
 Ascend to Deadeye	1			100	18	296	0	sor	2	Ascendancy Cairn	Ascend to Deadeye						useitem			100	sor	100		2	2	att	100		250	250	dex	100		30	30	ascendancy-tier-display	100	1449	45	45	levelreq	100		19	19																																																											0
 Ascend to Chieftain	1			100	18	296	0	sor	2	Ascendancy Cairn	Ascend to Chieftain						useitem			100	sor	100		2	2	vit	100		50	50						ascendancy-tier-display	100	1461	49	49	levelreq	100		19	19																																																											0
+Ascend to Saboteur	1			100	18	296	0	sor	2	Ascendancy Cairn	Ascend to Saboteur						useitem			100	sor	100		2	2	vit	100		30	30	regen-mana	100		100	100	ascendancy-tier-display	100	1990	53	53	levelreq	100		19	19																																																											0
 																																																																																																								0
 ASCEND TO TIER 1 - Druid																																																																																																								0
 Ascend to Bloodmage	1			100	18	296	0	dru	2	Ascendancy Cairn	Ascend to Bloodmage						useitem			100	dru	100		2	2	vit	100		30	30	enr	100		30	30	ascendancy-tier-display	100	1438	1	1	levelreq	100		19	19																																																											0
@@ -4656,6 +4662,7 @@ Ascend to Pathfinder	1			100	18	296	0	dru	2	Ascendancy Cairn	Ascend to Pathfinde
 Ascend to Spirit Walker	1			100	18	296	0	dru	2	Ascendancy Cairn	Ascend to Spirit Walker						useitem			100	dru	100		2	2	red-dmg%	100		10	10	vit	100		30	30	ascendancy-tier-display	100	1448	41	41	levelreq	100		19	19																																																											0
 Ascend to Deadeye	1			100	18	296	0	dru	2	Ascendancy Cairn	Ascend to Deadeye						useitem			100	dru	100		2	2	att	100		250	250	dex	100		30	30	ascendancy-tier-display	100	1449	45	45	levelreq	100		19	19																																																											0
 Ascend to Chieftain	1			100	18	296	0	dru	2	Ascendancy Cairn	Ascend to Chieftain						useitem			100	dru	100		2	2	vit	100		50	50						ascendancy-tier-display	100	1461	49	49	levelreq	100		19	19																																																											0
+Ascend to Saboteur	1			100	18	296	0	dru	2	Ascendancy Cairn	Ascend to Saboteur						useitem			100	dru	100		2	2	vit	100		30	30	regen-mana	100		100	100	ascendancy-tier-display	100	1990	53	53	levelreq	100		19	19																																																											0
 																																																																																																								0
 ASCEND TO TIER 1 - Assassin																																																																																																								0
 Ascend to Bloodmage	1			100	18	296	0	ass	2	Ascendancy Cairn	Ascend to Bloodmage						useitem			100	ass	100		2	2	vit	100		30	30	enr	100		30	30	ascendancy-tier-display	100	1438	1	1	levelreq	100		19	19																																																											0
@@ -4671,6 +4678,7 @@ Ascend to Pathfinder	1			100	18	296	0	ass	2	Ascendancy Cairn	Ascend to Pathfinde
 Ascend to Spirit Walker	1			100	18	296	0	ass	2	Ascendancy Cairn	Ascend to Spirit Walker						useitem			100	ass	100		2	2	red-dmg%	100		10	10	vit	100		30	30	ascendancy-tier-display	100	1448	41	41	levelreq	100		19	19																																																											0
 Ascend to Deadeye	1			100	18	296	0	ass	2	Ascendancy Cairn	Ascend to Deadeye						useitem			100	ass	100		2	2	att	100		250	250	dex	100		30	30	ascendancy-tier-display	100	1449	45	45	levelreq	100		19	19																																																											0
 Ascend to Chieftain	1			100	18	296	0	ass	2	Ascendancy Cairn	Ascend to Chieftain						useitem			100	ass	100		2	2	vit	100		50	50						ascendancy-tier-display	100	1461	49	49	levelreq	100		19	19																																																											0
+Ascend to Saboteur	1			100	18	296	0	ass	2	Ascendancy Cairn	Ascend to Saboteur						useitem			100	ass	100		2	2	vit	100		30	30	regen-mana	100		100	100	ascendancy-tier-display	100	1990	53	53	levelreq	100		19	19																																																											0
 																																																																																																								0
 ASCEND TO TIER 2																																																																																																								0
 Ascend to Bloodmage - Tier 2	1			100	18	296	1		2	Ascendancy Cairn	Ascendancy Tier 2						useitem			100	cast3	100		25	25	hp	100		100	100						ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
@@ -4686,21 +4694,23 @@ Ascend to Pathfinder - Tier 2	1			100	18	296	37		2	Ascendancy Cairn	Ascendancy T
 Ascend to Spirit Walker - Tier 2	1			100	18	296	41		2	Ascendancy Cairn	Ascendancy Tier 2						useitem			100	extra-spiritwolf	100		3	3	extra-spirits	100		1	1						ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
 Ascend to Deadeye - Tier 2	1			100	18	296	45		2	Ascendancy Cairn	Ascendancy Tier 2						useitem			100	attack-projectiles	100		1	1	oskill	100	666	1	1						ascendancy-tier	100		1	1	levelreq	100		-3	-3																																																											0
 Ascend to Chieftain - Tier 2	1			100	18	296	49		2	Ascendancy Cairn	Ascendancy Tier 2						useitem			100	hp%	100		15	15	buff-effect	100		30	30						ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
+Ascend to Saboteur - Tier 2	1			100	18	296	53		2	Ascendancy Cairn	Ascendancy Tier 2						useitem			100	max-traps	100		1	1	swing1	100		25	25						ascendancy-tier	100		1	1	levelreq	100		19	19																																																											0
 																																																																																																								0
 ASCEND TO TIER 3																																																																																																								0
 Ascend to Bloodmage - Tier 3	1			100	18	296	2		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	hp%	100		25	25											ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
 Ascend to Chronomancer - Tier 3	1			100	18	296	6		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	oskill	100	668	1	1	oskill	100	669	1	1						ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
 Ascend to Juggernaut - Tier 3	1			100	18	296	10		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	res-phys-max	100		3	3	phys-absorb-%	100		3	3	att	100		400	400	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
 Ascend to Hierophant - Tier 3	1			100	18	296	14		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	cast-skill	100	671	25	1	mana-kill	100		5	5						ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
-Ascend to Berserker - Tier 3	1			100	18	296	18		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	equipped-skill-hidden	100	673	1	1	static-modifier-display	100	1451	1	1	lifesteal	100		10	10	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
+Ascend to Berserker - Tier 3	1			100	18	296	18		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	aura-hidden	100	673	1	1	static-modifier-display	100	1451	1	1	lifesteal	100		10	10	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
 Ascend to Elementalist - Tier 3	1			100	18	296	22		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	cast-skill	100	674	25	1											ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
-Ascend to Occultist - Tier 3	1			100	18	296	26		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	kill-skill	100	687	15	1	static-modifier-display		1464	1	1	maxcurse	100		1	1	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
+Ascend to Occultist - Tier 3	1			100	18	296	26		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	kill-skill	100	687	15	1	static-modifier-display	100	1464	1	1	maxcurse	100		1	1	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
 Ascend to Guardian - Tier 3	1			100	18	296	30		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	res-all-max	100		5	5	item-increaseattr	100		20	20						ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
 Ascend to Lich - Tier 3	1			100	18	296	34		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	extra-revives	100		4	4	summon-max-hp	100		30	30	extra-golem	100		1	1	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
-Ascend to Pathfinder - Tier 3	1			100	18	296	38		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	cast-hit-skill-hidden	100	679	100	1	static-modifier-display		1456	1	1						ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
+Ascend to Pathfinder - Tier 3	1			100	18	296	38		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	cast-hit-skill-hidden	100	679	100	1	static-modifier-display	100	1456	1	1						ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
 Ascend to Spirit Walker - Tier 3	1			100	18	296	42		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	extra-grizzly	100		2	2	equipped-skill-hidden	100	682	1	1	static-modifier-display	100	1458	1	1	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
-Ascend to Deadeye - Tier 3	1			100	18	296	46		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	hit-skill-hidden	100	683	50	1	static-modifier-display		1459	1	1						ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
+Ascend to Deadeye - Tier 3	1			100	18	296	46		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	hit-skill-hidden	100	683	50	1	static-modifier-display	100	1459	1	1						ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
 Ascend to Chieftain - Tier 3	1			100	18	296	50		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	equipped-skill-hidden	100	686	1	1	static-modifier-display	100	1463	1	1						ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
+Ascend to Saboteur - Tier 3	1			100	18	296	54		2	Ascendancy Cairn	Ascendancy Tier 3						useitem			100	aura-hidden	100	692	1	1	static-modifier-display	100	1991	1	1	skill-buff-duration	100		20	20	ascendancy-tier	100		1	1	levelreq	100		19	19																																																											0
 																																																																																																								0
 ASCEND TO TIER 4																																																																																																								0
 Ascend to Bloodmage - Tier 4	1			100	18	296	3		2	Ascendancy Cairn	Ascendancy Tier 4						useitem			100	equipped-skill-hidden	100	667	1	1	static-modifier-display	100	1424	1	1						ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
@@ -4715,7 +4725,8 @@ Ascend to Lich - Tier 4	1			100	18	296	35		2	Ascendancy Cairn	Ascendancy Tier 4	
 Ascend to Pathfinder - Tier 4	1			100	18	296	39		2	Ascendancy Cairn	Ascendancy Tier 4						useitem			100	cast-skill	100	680	35	1	hit-skill	100	680	20	1	static-modifier-display	100	1457	1	1	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
 Ascend to Spirit Walker - Tier 4	1			100	18	296	43		2	Ascendancy Cairn	Ascendancy Tier 4						useitem			100	oskill	100	681	1	1											ascendancy-tier	100		1	1	levelreq	100		14	14																																																											0
 Ascend to Deadeye - Tier 4	1			100	18	296	47		2	Ascendancy Cairn	Ascendancy Tier 4						useitem			100	max-attack-projectiles	100		1	1	equipped-skill-hidden	100	684	1	1	static-modifier-display	100	1460	1	1	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
-Ascend to Chieftain - Tier 4	1			100	18	296	51		2	Ascendancy Cairn	Ascendancy Tier 4						useitem			100	kill-skill	100	685	15	1	pierce-fire	100		20	20	static-modifier-display		1462	1	1	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
+Ascend to Chieftain - Tier 4	1			100	18	296	51		2	Ascendancy Cairn	Ascendancy Tier 4						useitem			100	kill-skill	100	685	15	1	pierce-fire	100		20	20	static-modifier-display	100	1462	1	1	ascendancy-tier	100		1	1	levelreq	100		20	20																																																											0
+Ascend to Saboteur - Tier 4	1			100	18	296	55		2	Ascendancy Cairn	Ascendancy Tier 4						useitem			100	ascendancy-scaling	100		2	2	static-modifier-display	100	1992	1	1	max-traps	100		1	1	ascendancy-tier	100		1	1	levelreq	100		19	19																																																											0
 																																																																																																								0
 ASCENDANCY RESET																																																																																																								0
 Reset Bloodmage - Tier 1	1			100	18	296	1		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												Ascend to Bloodmage																																																										0
@@ -4731,6 +4742,7 @@ Reset Pathfinder - Tier 1	1			100	18	296	37		2	Ascendancy Cairn	toa						Ascenda
 Reset Spirit Walker - Tier 1	1			100	18	296	41		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												Ascend to Spirit Walker																																																										0
 Reset Deadeye - Tier 1	1			100	18	296	45		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												Ascend to Deadeye																																																										0
 Reset Chieftain - Tier 1	1			100	18	296	49		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												Ascend to Chieftain																																																										0
+Reset Saboteur - Tier 1	1			100	18	296	53		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												Ascend to Saboteur																																																										0
 																																																																																																								0
 Reset Bloodmage - Tier 2	1			100	18	296	2		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												Ascend to Bloodmage																													Ascendancy Tier 2																													0
 Reset Chronomancer - Tier 2	1			100	18	296	6		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												Ascend to Chronomancer																													Ascendancy Tier 2																													0
@@ -4745,6 +4757,7 @@ Reset Pathfinder - Tier 2	1			100	18	296	38		2	Ascendancy Cairn	toa						Ascenda
 Reset Spirit Walker - Tier 2	1			100	18	296	42		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												Ascend to Spirit Walker																													Ascendancy Tier 2																													0
 Reset Deadeye - Tier 2	1			100	18	296	46		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												Ascend to Deadeye																													Ascendancy Tier 2																													0
 Reset Chieftain - Tier 2	1			100	18	296	50		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												Ascend to Chieftain																													Ascendancy Tier 2																													0
+Reset Saboteur - Tier 2	1			100	18	296	54		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												Ascend to Saboteur																													Ascendancy Tier 2																													0
 																																																																																																								0
 Reset Bloodmage - Tier 3	1			100	18	296	3		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												asb1																																																										0
 Reset Chronomancer - Tier 3	1			100	18	296	7		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												asb1																																																										0
@@ -4759,6 +4772,7 @@ Reset Pathfinder - Tier 3	1			100	18	296	39		2	Ascendancy Cairn	toa						Ascenda
 Reset Spirit Walker - Tier 3	1			100	18	296	43		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												asb1																																																										0
 Reset Deadeye - Tier 3	1			100	18	296	47		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												asb1																																																										0
 Reset Chieftain - Tier 3	1			100	18	296	51		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												asb1																																																										0
+Reset Saboteur - Tier 3	1			100	18	296	55		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												asb1																																																										0
 																																																																																																								0
 Reset Bloodmage - Tier 4	1			100	18	296	4		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												asb1																													Ascendancy Tier 4																													0
 Reset Chronomancer - Tier 4	1			100	18	296	8		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												asb1																													Ascendancy Tier 4																													0
@@ -4773,6 +4787,7 @@ Reset Pathfinder - Tier 4	1			100	18	296	40		2	Ascendancy Cairn	toa						Ascenda
 Reset Spirit Walker - Tier 4	1			100	18	296	44		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												asb1																													Ascendancy Tier 4																													0
 Reset Deadeye - Tier 4	1			100	18	296	48		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												asb1																													Ascendancy Tier 4																													0
 Reset Chieftain - Tier 4	1			100	18	296	52		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												asb1																													Ascendancy Tier 4																													0
+Reset Saboteur - Tier 4	1			100	18	296	56		2	Ascendancy Cairn	toa						Ascendancy Cairn	99																												asb1																													Ascendancy Tier 4																													0
 																																																																																																								0
 Get T1, T2 and T3 from box after respec	1			100					1	asb1							Ascend to Bloodmage																													Ascendancy Tier 2																													Ascendancy Tier 3																													0
 																																																																																																								0
@@ -4784,7 +4799,7 @@ TIER 0																																																																										
 The Apothecary	1			100					1	fa01,qty=5							Mageblood 4	99																																																																																						0
 The Eye of Terror	1			100					1	fa02,qty=8							Mageblood 3	99																																																																																						0
 The Doctor	1			100					1	fa03,qty=6							Headhunter	99																																																																																						0
-The Sephiroth	1			100					1	fa04,qty=8							dvo,qty=10																																																																																							0
+The Sephiroth	0			100					1	fa04,qty=8							dvo,qty=10																																																																																							0
 The Immortal	1			100					1	fa05,qty=2							r33s,qty=1																																																																																							0
 Wealth and Power	1			100					1	fa06,qty=4							lsvl																																																																																							0
 House of Mirrors	1			100					1	fa07,qty=6							llmr																																																																																							0
@@ -4797,7 +4812,7 @@ A Stone Perfected	1			100					1	fa12,qty=5							The Stone of Jordan	99			allski
 TIER 1																																																																																																								0
 Lonely Warrior	1			100					1	fa13,qty=5							Defiance of Destiny	99																																																																																						0
 The Polymath	1			100					1	fa14,qty=5							Astramentis	99																																																																																						0
-Iridescent Dream	1			100					1	fa15,qty=3							jew,uni	99																																																																																						0
+Iridescent Dream	1			100					1	fa15,qty=3							unpj,qty=1																																																																																							0
 The Web	1			100					1	fa16,qty=5							Arachnid Mesh	99																																																																																						0
 I see Brothers	1			100					1	fa17,qty=4							Call of the Brotherhood	99																																																																																						0
 The Reaper	1			100					1	fa18,qty=4							Deaths Poise	99																																																																																						0
@@ -4845,14 +4860,14 @@ Gemcutters Gift	1			100					1	fa54,qty=4							jew,rar	88																							
 TIER 4																																																																																																								0
 The Archmage's Right Hand	1			100					1	fa55,qty=6							Manastorm	99																																																																																						0
 The Survivalist	1			100					1	fa56,qty=2							ooal,qty=3																																																																																							0
-Abandoned Welth	1			100					1	fa57,qty=2							mfo,qty=3																																																																																							0
+Abandoned Welth	0			100					1	fa57,qty=2							mfo,qty=3																																																																																							0
 The Scout	1			100					1	fa58,qty=4							oroh,qty=3																																																																																							0
 																																																																																																								0
 TIER 5																																																																																																								0
 Glimmer of Hope	1			100					1	fa59,qty=5							Goldrim	99																																																																																						0
 The Escape	1			100					1	fa60,qty=5							Seven-League Step	99																																																																																						0
 Humility	1			100					1	fa61,qty=8							Tabula Rasa	99																																																																																						0
-The Saint's Treasure	1			100					1	fa62,qty=2							exo,qty=3																																																																																							0
+The Saint's Treasure	0			100					1	fa62,qty=2							exo,qty=3																																																																																							0
 The Inventor	1			100					1	fa63,qty=8							wss,qty=10																																																																																							0
 																																																																																																								0
 CHAOS ORB																																																																																																								0
@@ -4864,6 +4879,7 @@ Reroll rare ring	1			100	18	361	0		2	rin,rar	csor,qty=1						usetype,rar			100		
 Reroll rare amulet	1			100	18	361	0		2	amu,rar	csor,qty=1						usetype,rar			100																																																																																				0
 Reroll rare jewel	1			100					2	jew,rar	csor,qty=1						usetype,rar			100																																																																																				0
 Reroll rare mythical jewel	1			100					2	mjw,rar	csor,qty=1						usetype,rar			100																																																																																				0
+Reroll rare quiver	1			100	18	361	0		2	misl,rar	csor,qty=1						usetype,rar			100																																																																																				0
 																																																																																																								0
 ORB OF ALCHEMY																																																																																																								0
 Upgrade normal weapon	1			100	18	361	0		2	weap,nor,noe	ooal,qty=1						usetype,rar			100																																																																																				0
@@ -4876,6 +4892,8 @@ Upgrade ethereal normal armor	1			100	18	361	0		2	armo,nor,eth	ooal,qty=1						u
 Upgrade ethereal magic armor	1			100	18	361	0		2	armo,mag,eth	ooal,qty=1						usetype,eth,rar			100																																																																																				0
 Upgrade magic ring	1			100	18	361	0		2	rin,mag	ooal,qty=1						usetype,rar			100																																																																																				0
 Upgrade magic amulet	1			100	18	361	0		2	amu,mag	ooal,qty=1						usetype,rar			100																																																																																				0
+Upgrade normal quiver	1			100	18	361	0		2	misl,nor	ooal,qty=1						usetype,rar			100																																																																																				0
+Upgrade magic quiver	1			100	18	361	0		2	misl,mag	ooal,qty=1						usetype,rar			100																																																																																				0
 																																																																																																								0
 ETERNAL ORB - TRAP																																																																																																								0
 Eternal Orb Sacred Trap	1			100	15	299	1		2	any	etor,qty=1						useitem			100																										etor,qty=1																																																										0
@@ -7457,44 +7475,51 @@ Greater Essence of the Mind -> Perfect Essence of the Mind	1			100					1	"es60,q
 																																																																																																								0
 HATRED ORBS																																																																																																								0
 T1 MAPS																																																																																																								0
-Hatred Orb of Accessories	1	4		100	16	481	4		2	t1me,rar	hor1,qty=1						useitem			100	hatred-orb-accessories	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
-Hatred Orb of Equipment	1	4		100	16	481	4		2	t1me,rar	hor2,qty=1						useitem			100	hatred-orb-equipment	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
+Hatred Orb of Equipment	1	4		100	16	481	4		2	t1me,rar	hor1,qty=1						useitem			100	hatred-orb-equipment	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
+Hatred Orb of Accessories	1	4		100	16	481	4		2	t1me,rar	hor2,qty=1						useitem			100	hatred-orb-accessories	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Essences	1	4		100	16	481	4		2	t1me,rar	hor3,qty=1						useitem			100	hatred-orb-essences	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Fate Cards	1	4		100	16	481	4		2	t1me,rar	hor4,qty=1						useitem			100	hatred-orb-fate-cards	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Runes	1	4		100	16	481	4		2	t1me,rar	hor5,qty=1						useitem			100	hatred-orb-runes	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Currency	1	4		100	16	481	4		2	t1me,rar	hor6,qty=1						useitem			100	hatred-orb-currency	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 																																																																																																								0
 T2 MAPS																																																																																																								0
-Hatred Orb of Accessories	1	4		100	16	481	4		2	t2me,rar	hor1,qty=1						useitem			100	hatred-orb-accessories	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
-Hatred Orb of Equipment	1	4		100	16	481	4		2	t2me,rar	hor2,qty=1						useitem			100	hatred-orb-equipment	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
+Hatred Orb of Equipment	1	4		100	16	481	4		2	t2me,rar	hor1,qty=1						useitem			100	hatred-orb-equipment	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
+Hatred Orb of Accessories	1	4		100	16	481	4		2	t2me,rar	hor2,qty=1						useitem			100	hatred-orb-accessories	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Essences	1	4		100	16	481	4		2	t2me,rar	hor3,qty=1						useitem			100	hatred-orb-essences	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Fate Cards	1	4		100	16	481	4		2	t2me,rar	hor4,qty=1						useitem			100	hatred-orb-fate-cards	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Runes	1	4		100	16	481	4		2	t2me,rar	hor5,qty=1						useitem			100	hatred-orb-runes	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Currency	1	4		100	16	481	4		2	t2me,rar	hor6,qty=1						useitem			100	hatred-orb-currency	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 																																																																																																								0
 T3 MAPS																																																																																																								0
-Hatred Orb of Accessories	1	4		100	16	481	4		2	t3me,rar	hor1,qty=1						useitem			100	hatred-orb-accessories	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
-Hatred Orb of Equipment	1	4		100	16	481	4		2	t3me,rar	hor2,qty=1						useitem			100	hatred-orb-equipment	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
+Hatred Orb of Equipment	1	4		100	16	481	4		2	t3me,rar	hor1,qty=1						useitem			100	hatred-orb-equipment	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
+Hatred Orb of Accessories	1	4		100	16	481	4		2	t3me,rar	hor2,qty=1						useitem			100	hatred-orb-accessories	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Essences	1	4		100	16	481	4		2	t3me,rar	hor3,qty=1						useitem			100	hatred-orb-essences	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Fate Cards	1	4		100	16	481	4		2	t3me,rar	hor4,qty=1						useitem			100	hatred-orb-fate-cards	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Runes	1	4		100	16	481	4		2	t3me,rar	hor5,qty=1						useitem			100	hatred-orb-runes	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Currency	1	4		100	16	481	4		2	t3me,rar	hor6,qty=1						useitem			100	hatred-orb-currency	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 																																																																																																								0
 T4 MAPS																																																																																																								0
-Hatred Orb of Accessories	1	4		100	16	481	4		2	t4m,rar	hor1,qty=1						useitem			100	hatred-orb-accessories	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
-Hatred Orb of Equipment	1	4		100	16	481	4		2	t4m,rar	hor2,qty=1						useitem			100	hatred-orb-equipment	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
+Hatred Orb of Equipment	1	4		100	16	481	4		2	t4m,rar	hor1,qty=1						useitem			100	hatred-orb-equipment	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
+Hatred Orb of Accessories	1	4		100	16	481	4		2	t4m,rar	hor2,qty=1						useitem			100	hatred-orb-accessories	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Essences	1	4		100	16	481	4		2	t4m,rar	hor3,qty=1						useitem			100	hatred-orb-essences	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Fate Cards	1	4		100	16	481	4		2	t4m,rar	hor4,qty=1						useitem			100	hatred-orb-fate-cards	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Runes	1	4		100	16	481	4		2	t4m,rar	hor5,qty=1						useitem			100	hatred-orb-runes	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Currency	1	4		100	16	481	4		2	t4m,rar	hor6,qty=1						useitem			100	hatred-orb-currency	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 																																																																																																								0
 T3 INFERNAL																																																																																																								0
-Hatred Orb of Accessories	1	4		100	16	481	4		2	t5m,rar	hor1,qty=1						useitem			100	hatred-orb-accessories	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
-Hatred Orb of Equipment	1	4		100	16	481	4		2	t5m,rar	hor2,qty=1						useitem			100	hatred-orb-equipment	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
+Hatred Orb of Equipment	1	4		100	16	481	4		2	t5m,rar	hor1,qty=1						useitem			100	hatred-orb-equipment	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
+Hatred Orb of Accessories	1	4		100	16	481	4		2	t5m,rar	hor2,qty=1						useitem			100	hatred-orb-accessories	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Essences	1	4		100	16	481	4		2	t5m,rar	hor3,qty=1						useitem			100	hatred-orb-essences	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Fate Cards	1	4		100	16	481	4		2	t5m,rar	hor4,qty=1						useitem			100	hatred-orb-fate-cards	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Runes	1	4		100	16	481	4		2	t5m,rar	hor5,qty=1						useitem			100	hatred-orb-runes	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
 Hatred Orb of Currency	1	4		100	16	481	4		2	t5m,rar	hor6,qty=1						useitem			100	hatred-orb-currency	100		1	1	map-mon-hp%	100		100	100	map-mon-ed%	100		10	10						map-hatred	100		1	1																																																											0
+																																																																																																								0
+UNCUT PRISTINE JEWEL																																																																																																								0
+Fire	1			100					2	unpj,qty=1	gprs,qty=50						Rainbow Facet Fire	99																																																																																						0
+Cold	1			100					2	unpj,qty=1	gpbs,qty=50						Rainbow Facet Cold	99																																																																																						0
+Lightning	1			100					2	unpj,qty=1	gpys,qty=50						Rainbow Facet Ltng	99																																																																																						0
+Poison	1			100					2	unpj,qty=1	gpgs,qty=50						Rainbow Facet Pois	99																																																																																						0
+Magic	1			100					2	unpj,qty=1	gpws,qty=50						Rainbow Facet Mag	99																																																																																						0
 																																																																																																								0
 DAMNATION MODE ONLY CHANGES																																																																																																								0
 Disenchant unique into chance shards	1			100					2	key,qty=1	armo,uni						useitem																													oros,qty=1																																																										0

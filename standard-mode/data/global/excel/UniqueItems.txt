@@ -392,10 +392,10 @@ Ondal's Wisdom	100	1		1	1	74	66	6cs	elder staff			3	5000				invcstu				cast2		10
 The Reedeemer	100	1		1	1	80	72	7sc	mighty scepter			3	5000								dmg%		250	300	dmg-demon		200	250	pal		2	2	ease		-60	-60	skill	Redemption	2	4	skill	Holy Bolt	2	4	light		3	3	reduce-ac		33	33	dmg		60	120	skill	119	2	4					splash	358	100	1	0
 Headhunter's Glory	100	1		1	1	83	75	ush	troll nest			3	5000				invbshu				ac		320	420	ac-miss		300	350	res-pois		30	40	sock		1	3	res-fire		20	30	heal-kill		5	7	hit-skill	AmpDmg Proc	12	31	curse-effectiveness		20	30																	0
 Steelrend	100	1		1	1	78	70	uhg	ogre gauntlets			3	5000								ac		170	210	str		15	20	dmg%		60	80	crush		10	20	crush-efficiency		10	20																									splash	358	100	1	0
-Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-ltng		1	74	pierce-ltng		3	5	extra-ltng		3	5	death-skill	Chain Lightning	100	47																																	0
-Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-cold	3	24	38	pierce-cold		3	5	extra-cold		3	5	death-skill	Blizzard	100	37																																	0
-Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-fire		17	45	pierce-fire		3	5	extra-fire		3	5	death-skill	Meteor	100	31																																	0
-Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-pois	50	187	187	pierce-pois		3	5	extra-pois		3	5	death-skill	Poison Nova	100	51																																	0
+Rainbow Facet Ltng	100	1		1	1	85	49	jew	jewel			3	5000								dmg-ltng		1	74	pierce-ltng		3	5	extra-ltng		3	5	death-skill	Chain Lightning	100	47																																	0
+Rainbow Facet Cold	100	1		1	1	85	49	jew	jewel			3	5000								dmg-cold	3	24	38	pierce-cold		3	5	extra-cold		3	5	death-skill	Blizzard	100	37																																	0
+Rainbow Facet Fire	100	1		1	1	85	49	jew	jewel			3	5000								dmg-fire		17	45	pierce-fire		3	5	extra-fire		3	5	death-skill	Meteor	100	31																																	0
+Rainbow Facet Pois	100	1		1	1	85	49	jew	jewel			3	5000								dmg-pois	50	187	187	pierce-pois		3	5	extra-pois		3	5	death-skill	Poison Nova	100	51																																	0
 Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-ltng		1	74	pierce-ltng		3	5	extra-ltng		3	5	levelup-skill	Nova	100	41																																	0
 Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-cold	3	24	38	pierce-cold		3	5	extra-cold		3	5	levelup-skill	Frost Nova	100	43																																	0
 Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-fire		17	45	pierce-fire		3	5	extra-fire		3	5	levelup-skill	Blaze	100	29																																	0
@@ -532,14 +532,14 @@ The Oppressor	100	1		4	1	82	70	ers	elegant round shield	1		5	5000				invoppr				
 Rathmas Hand	100	1		0	1	131	80	7gw	Unearthed Wand	1		3	5000	dgry			invrthn				allskills		2	2	cast2		25	25	skill	Shattered Marrow	3	4	spell-projectiles		1	1	pierce-mag		10	20																													0
 Fluid Motion	100	1		1	1	87	1	mjw	mythic jewel	1		3	5000				invflmn				aura	115	6	6																																													0
 Hailstorm	100	1		1	1	87	80	6lw	Hydra Bow			5	5000	lblu	lblu		invhlst				oskill	638	35	40	extra-cold		25	30	dmg/lvl	12			dmg%		300	350	swing2		40	40	freeze		3	3	dmg-cold	250	250	500	pierce-cold		15	20																	0
-Mjolner	100	1		1	1	85	87	7gm	Thunder Maul			5	5000	dblu			invmjln				swing2		20	30	hit-skill	53	50	40	equipped-skill-hidden	634	1	1	dmg%		250	300	str		150	200	static-modifier-display	1381	1	1																					splash	358	100	1	0
+Mjolner	100	1		1	1	85	87	7gm	Thunder Maul			5	5000	dblu			invmjln				swing2		20	30	hit-skill	53	50	40	aura-hidden	634	1	1	dmg%		250	300	str		150	200	static-modifier-display	1381	1	1																					splash	358	100	1	0
 Voices	100	1		0	1	131	90	cm1	charm	1		3	5000				invvcs				allskills		1	4	corrupt		1	1																																									0
 Arma Blade Replica	100	1		0	1	99	54	7cr2	Two Hand Phase Blade			5	5000	oran			invarmageddonblade				hit-skill	225	75	50	equipped-skill	249	30	30	pal		2	2	block		20	30	dmg%		280	320	pierce-fire		20	30	res-fire-max		5	10	all-stats		6	6																	0
 Widespread Destruction	100	1		1	1	87	1	mjw	mythic jewel	1		5	5000				invwsds				inc-splash-radius		10	12																																													0
 Whispering Skull	100	1		1	1	87	80	nef	bloodlord skull	1		5	5000	dgry			invwhsk				nec		2	3	noheal		1	1	pierce		20	25	extra-magi		20	25	ac%		140	190	slow		25	25	skill-aoe		10	15																					0
 Deaths Poise	100	1		1	1	87	75	rin	Ring	1		5	5000				invdhpo				equipped-skill-hidden	637	1	1	crush		10	20	dmg%		25	30	static-modifier-display	1382	1	1																																	0
 The Veinpiercer	100	1		1	1	87	80	baf	Guardian Crown			5	5000	dred			invthvp				bar		1	2	ac%		160	180	dmg%		50	60	attack-strikes		1	1	att/lvl	12			skill	139	2	3																									0
-Rainbow Facet	100	1		1	1	85	49	jew	jewel			3	5000								dmg-mag		20	50	pierce-mag		3	5	extra-magi		3	5																																					0
+Rainbow Facet Mag	100	1		1	1	85	49	jew	jewel			3	5000								dmg-mag		20	50	pierce-mag		3	5	extra-magi		3	5																																					0
 Magefist	100	1		1	1	31	23	tgl	Light Gauntlets			5	5000	lgry	lgry						cast3		20	20	regen-mana		10	25	magskill		1	1	dmg-pois	75	204	204	ac		10	10	ac%		20	30																									0
 Tempered Flesh Charm	100	1		1	1	87	90	cm4	ornate charm	1		3	5000				invocha				equipped-skill-hidden	629	1	1	static-modifier-display	1383	1	1																																									0
 One With Nothing Charm	100	1		1	1	87	90	cm4	ornate charm	1		3	5000				invocha				equipped-skill-hidden	630	1	1	static-modifier-display	1384	1	1																																									0
@@ -622,40 +622,46 @@ Ascendancy Tier 2	100	1		1	1	100	1	assc	ascendancy soulstone			3	5000	lgld			inv
 Ascendancy Tier 3	100	1		1	1	100	1	assc	ascendancy soulstone			3	5000	lgld			invassc3				static-modifier-display	1422	1	1																																													0
 Ascendancy Tier 4	100	1		1	1	100	1	assc	ascendancy soulstone			3	5000	lgld			invassc4				static-modifier-display	1423	1	1																																													0
 Tabula Rasa	100	1		1	1	45	1	smer	Simple Robe			5	5000	whit			invtabula				sock		6	6	static-modifier-display	1466	1	1																																									0
-Screams of the Desiccated	100	1		20	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1																																									0
+Screams of the Desiccated	100	1		22	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1																																									0
 Screams of the Desiccated	100	1		5	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				res-all		50	50	res-all-max		10	10																																									0
 Screams of the Desiccated	100	1		10	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				hp%		50	50	skill-aoe		50	50																																									0
-Screams of the Desiccated	100	1		20	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400																																					0
-Screams of the Desiccated	100	1		7	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40																																	0
+Screams of the Desiccated	100	1		22	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400																																					0
+Screams of the Desiccated	100	1		6	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40																																	0
 Screams of the Desiccated	100	1		15	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200																																									0
-Screams of the Desiccated	100	1		8	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10																																					0
-Screams of the Desiccated	100	1		22	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2																																													0
+Screams of the Desiccated	100	1		5	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10																																					0
+Screams of the Desiccated	100	1		23	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2																																													0
 Screams of the Desiccated	100	1		6	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75																																													0
 Screams of the Desiccated	100	1		6	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75																																													0
-Screams of the Desiccated	100	1		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																													0
+Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																													0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	res-all		50	50	res-all-max		10	10	buff-effect		20	20																													0
-Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																													0
+Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																													0
 Screams of the Desiccated	100	1		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																									0
-Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	skill-frequency		20	20	action-speed		10	10	move3		75	75	buff-effect		20	20	cast3		40	40																					0
-Screams of the Desiccated	100	1		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																																	0
+Screams of the Desiccated	100	1		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	allskills		2	2																																					0
+Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																																	0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	res-all		50	50	res-all-max		10	10	buff-effect		20	20																																	0
-Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																																	0
-Screams of the Desiccated	100	1		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																													0
-Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	skill-frequency		20	20	action-speed		10	10	move3		75	75	buff-effect		20	20	cast3		40	40																									0
-Screams of the Desiccated	100	1		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																																	0
+Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																																	0
+Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																													0
+Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	allskills		2	2																																									0
+Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																																	0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	res-all		50	50	res-all-max		10	10	buff-effect		20	20																																	0
-Screams of the Desiccated	100	1		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																																	0
+Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																																	0
 Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																													0
-Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	skill-frequency		20	20	action-speed		10	10	move3		75	75	buff-effect		20	20	cast3		40	40																									0
-Screams of the Desiccated	100	1		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																																	0
-Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	res-all		50	50	res-all-max		10	10	buff-effect		20	20																																	0
-Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																																	0
-Screams of the Desiccated	100	1		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																													0
-Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	skill-frequency		20	20	action-speed		10	10	move3		75	75	buff-effect		20	20	cast3		40	40																									0
+Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	allskills		2	2																																									0
+Screams of the Desiccated	100	0		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																																	0
+Screams of the Desiccated	100	0		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	res-all		50	50	res-all-max		10	10	buff-effect		20	20																																	0
+Screams of the Desiccated	100	0		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																																	0
+Screams of the Desiccated	100	0		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																													0
+Screams of the Desiccated	100	0		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	skill-frequency		20	20	action-speed		10	10	move3		75	75	buff-effect		20	20	cast3		40	40																									0
 Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																									0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	res-all		50	50	res-all-max		10	10	buff-effect		20	20																									0
-Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																									0
-Screams of the Desiccated	100	1		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																					0
-Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	skill-frequency		20	20	action-speed		10	10	move3		75	75	buff-effect		20	20	cast3		40	40																	0
+Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																									0
+Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																					0
+Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	allskills		2	2																																	0
 Rathpith Globe	100	1		1	1	87	70	uuc	Heater			3	5000	dred			invrath				equipped-skill-hidden	690	1	1	static-modifier-display	1987	1	1	block		25	30	allskills		1	1	cast3		15	20	ac%		150	200																									0
 Svalinn	100	1		1	1	87	80	uts	Ward	1		3	5000	dblu			invsva				ac%		180	220	block		10	20	ease		0	15	equipped-skill-hidden	691	1	1	static-modifier-display	1988	1	1																													0
+Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																					0
+Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40	res-all		50	50	res-all-max		10	10	buff-effect		20	20																					0
+Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																					0
+Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																	0
+Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40	allskills		2	2	buff-effect		20	20																									0
+Ascend to Saboteur	100	1		1	1	100	1	assc	ascendancy soulstone			3	5000	lgld			invassc1				ascendancy-tier-display	1989	53	53																																													0
