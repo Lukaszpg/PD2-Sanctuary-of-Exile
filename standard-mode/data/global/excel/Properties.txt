@@ -502,3 +502,4 @@ map-hatred	1			1	map_hatred_level																														0
 aura-hidden	1			22	item_aura																													125	0
 ascendancy-scaling	1			1	ascendancy_scaling																														0
 max-traps	1			1	max_traps																														0
+map-mon-hatred-mods	1			1	map_mon_fasterattackrate			3	map_mon_fastercastrate			3	map_mon_ed%			3	map_mon_fastergethitrate																	307	0

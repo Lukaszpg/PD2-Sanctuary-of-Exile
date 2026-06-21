@@ -258,7 +258,7 @@ Hellslayer	100	1		1	1	71	66	7bt	Decapitator			5	5000	dred	dred		invbtxu				str/l
 Messerschmidt's Reaver	100	1		1	1	75	70	7ga	Champion Axe			5	5000	blac	blac		invgaxu				dmg%/lvl	20			dmg%		200	250	str		20	20	dex		20	20	vit		20	20	enr		20	20	att%		100	100	swing2		20	20	openwounds		35	35	deep-wounds		1050	1250					splash	358	100	1	0
 Baranar's Star	100	1		1	1	70	65	7mt	Devil Star			5	5000	lred	lred		invmstu				att%		200	200	dmg%		200	250	dex		15	15	str		15	15	swing2		50	50	dur		100	100	dmg-ltng		50	300	dmg-fire		50	300	dmg-cold		50	300									splash	358	100	1	0
 Schaefer's Hammer	100	1		1	1	83	79	7wh	Legendary Mallet			5	5000	lblu	lblu						hit-skill	42	20	25	hp		50	50	att/lvl	16			res-ltng		50	75	swing2		40	40	dmg/lvl	16			rep-dur	10			dmg%		200	260	light		4	8	dmg-ltng		75	585					splash	358	100	1	0
-The Cranium Basher	100	1		4	1	85	87	7gm	Thunder Maul			5	5000	blac	blac						swing2		30	30	hit-skill	442	8	33	str		25	25	res-all		25	25	crush		75	75	dmg-norm		20	25	dmg%		220	260	attack-strikes		1	1													splash	358	100	1	0
+The Cranium Basher	100	1		2	1	85	87	7gm	Thunder Maul			5	5000	blac	blac						swing2		30	30	hit-skill	442	8	33	str		25	25	res-all		25	25	crush		75	75	dmg-norm		20	25	dmg%		220	260	attack-strikes		1	1													splash	358	100	1	0
 Lightsabre	100	1		5	1	66	58	7cr	Phase Blade			5	5000	lblu			invcrsu				light		7	7	att-skill	53	18	35	ignore-ac	1	1	1	abs-ltng%		5	10	swing2		20	20	dmg-mag		60	120	dmg-ltng		1	700	manasteal		5	7	dmg%		150	250	dmg-norm		10	30	aura	resist lightning	6	6	splash	358	100	1	0
 Doombringer	100	1		1	1	75	69	7b7	Champion Sword			5	5000	dred	dred		invbswu				hp%		10	15	dmg%		240	280	att%		40	40	rep-dur	25			dmg-norm		120	150	hit-skill	443	14	21	lifesteal		8	10																	splash	358	100	1	0
 The Grandfather	100	1		1	1	85	81	7gd	Colossus Blade			5	5000	lyel	lyel		invgsdu				str		20	20	dex		20	20	vit		20	20	enr		20	20	att%		50	50	hp		80	80	dmg/lvl	20			allskills		2	2	dmg%		200	275	skill	154	2	3	rep-dur	25			splash	358	100	1	0
@@ -330,7 +330,7 @@ The Reaper's Toll	100	1		1	1	83	75	7s8	thresher			5	5000				invscy				dmg%		190	
 Spiritkeeper	100	1		1	1	75	67	drd	earth spirit			5	5000								ac%		170	190	balance2		20	20	abs-ltng		4	6	res-fire		20	30	abs-cold%		4	5	res-pois-max		5	8	dru		2	2	skill-rand	2	221	250	extra-spirits		1	1	cooldown-reduction		5	10									0
 Hellrack	100	1		1	1	84	76	6hx	colossus crossbow			5	5000	cred			invhxbu				dmg%		180	230	dmg-elem	33	63	324	swing2		60	60	att%		100	150	sock		3	5	fireskill		4	5	pierce-fire		20	20																					0
 Alma Negra	100	1		1	1	85	77	pac	sacred rondache			5	5000	blac	blac						ac%		180	210	block2		30	30	allskills		2	2	block		20	20	red-mag		10	18	att%		100	150	dmg%		160	200	cooldown-reduction		10	15																	0
-Darkforge Spawn	100	1		3	1	72	64	nef	bloodlord skull			5	5000	cred	cred						ac%		140	180	cast2		30	30	mana%		40	50	res-fire		50	50	reanimate	312	5	5	maxcurse		1	1	skilltab	8	2	3	skilltab	6	2	3	skilltab	7	2	3													0
+Darkforge Spawn	100	1		2	1	72	64	nef	bloodlord skull			5	5000	cred	cred						ac%		140	180	cast2		30	30	mana%		40	50	res-fire		50	50	reanimate	312	5	5	maxcurse		1	1	skilltab	8	2	3	skilltab	6	2	3	skilltab	7	2	3													0
 Widowmaker	100	1		1	1	73	65	6sw	ward bow			5	5000	dred	dred		invswbu				dmg%		275	350	deadly		33	33	ignore-ac		1	1	magicarrow		11	11	oskill	22	3	5	oskill	12	3	5	ama		2	2																					0
 Bloodraven's Charge	100	1		1	1	79	71	amb	matriarchal bow			5	5000	dgld			bravenbow				dmg%		230	330	att%		200	300	explosivearrow		13	13	allskills		2	3	charged	Revive	15	15	skill	7	2	3	extra-revives		4	4	rep-charge	12																			0
 Ghostflame	100	1		1	1	70	62	7bl	legend spike			5	5000	cblu	cblu						dmg%		280	340	ignore-ac		1	1	dmg-fire		208	316	manasteal		10	15	ethereal		1	1	indestruct		1	1	swing2		50	50	extra-fire		15	25									deadly		20	20	splash	358	100	1	0
@@ -342,7 +342,7 @@ Thunderstroke	100	1		1	1	77	69	amf	matriarchal javelin			5	5000	dblu	dblu						d
 Armageddon Blade	100			1								5	5000	oran			invarmageddonblade																																																				0
 Demon's Arch	100	1		1	1	76	68	7s7	balrog spear			5	5000	cred	cred						dmg%		210	310	dmg-fire		232	323	lifesteal		6	12	pierce-fire		10	20	swing2		30	30	dmg-ltng		1	666	pierce-ltng		10	20																	splash	358	100	1	0
 Boneflame	100	1		1	1	80	72	nee	succubae skull			3	5000	dred	dred						ac%		120	150	move2		30	30	gethit-skill	Terror	5	3	nec		3	3	res-all		20	30	heal-kill		4	8	red-dmg%		10	20																					0
-Steelpillar	100	1		3	1	77	69	7p7	war pike			3	5000								dmg%		210	260	swing2		25	25	reduce-ac		20	20	ac%		100	150	crush		40	40	pierce-phys		5	10																					splash	358	100	1	0
+Steelpillar	100	1		2	1	77	69	7p7	war pike			3	5000								dmg%		210	260	swing2		25	25	reduce-ac		20	20	ac%		100	150	crush		40	40	pierce-phys		5	10																					splash	358	100	1	0
 Nightwing's Veil	100	1		1	1	75	67	uhm	spired helm			3	5000	cblu	cblu						ac%		90	120	allskills		2	2	dex		10	20	abs-cold		5	9	half-freeze		1	1	extra-cold		5	10	ease		-50	-50	pierce-cold		5	10																	0
 Crown of Ages	100	1		1	1	86	82	urn	corona	1		3	5000	dgld	dgld						balance2		30	30	res-all		20	30	curse-res		50	50	ac		100	150	indestruct		1	1	red-dmg%		10	15	ac%		50	50	sock		2	3	res-phys-max		1	1													0
 Andariel's Visage	100	1		1	1	85	83	usk	demonhead	1		3	5000	dred	dred						ac%		100	150	res-pois		50	50	allskills		2	2	res-pois-max		5	5	swing2		20	20	str		20	30	gethit-skill	92	15	36	pierce-pois		6	10	lifesteal		8	10	res-fire		-20	-20									0
@@ -356,7 +356,7 @@ Nethercrow	100			1							 	3	5000	cblu	cblu																																					
 Flamebellow	100	1		1	1	79	71	7gs	balrog blade			3	5000	cred	cred		invgisu				dmg%		170	240	dmg-fire		233	482	fireskill		3	3	swing2		40	40	hit-skill	Firestorm	16	22	str		10	20	vit		5	10	aura	102	24	28													splash	358	100	1	0
 Fathom	100	1		1	1	87	73	obf	dimensional shard			3	5000	lblu							allskills		3	3	all-ele-mastery		20	30	cast2		20	20	res-fire		25	40	res-ltng		25	40	heal-kill		2	5	spell-projectiles		1	1																					0
 Wolfhowl	100	1		1	1	85	79	bac	fury visor			3	5000	cred	cred						ac%		120	150	skilltab	14	2	3	str		10	15	dex		10	15	oskill	223	4	6	oskill	237	12	15	oskill	232	4	6																					0
-Spirit Ward	100	1		9	1	85	68	uts	ward			3	5000	dblu	dblu		invgtsu				ac%		130	180	abs-cold		6	11	res-all		20	30	block		20	30	block2		25	25	gethit-skill	Lesser Fade	35	10	randclassskill2		0	6	aura-effect		6	8																	0
+Spirit Ward	100	1		4	1	85	68	uts	ward			3	5000	dblu	dblu		invgtsu				ac%		130	180	abs-cold		6	11	res-all		20	30	block		20	30	block2		25	25	gethit-skill	Lesser Fade	35	10	randclassskill2		0	6	aura-effect		6	8																	0
 Kira's Guardian	100	1		1	1	85	77	ci2	tiara			3	5000	blac	blac						ac		50	120	res-all		25	40	nofreeze		1	1	balance2		20	20	pierce-ltng		10	15	pierce-cold		10	15	pierce-fire		10	15																					0
 Ormus' Robes	100	1		1	1	83	75	uui	dusk shroud			3	5000	blac	blac						ac		100	200	cast2		30	30	extra-fire		10	15	extra-cold		10	15	extra-ltng		10	15	regen-mana		20	30	sorc-skill-rand-ctc	3	12	26	skill-aoe		8	10																	0
 Gheed's Fortune	100	1		1	1	70	62	cm3	charm			3	5000	lgld							mag%		20	40	gold%		80	160	cheap		10	15																																					0
@@ -377,15 +377,15 @@ Arachnid Mesh	100	1		1	1	87	80	ulc	spiderweb sash			5	5000	blac	blac						ac%		9
 Nosferatu's Coil	100	1		1	1	68	51	uvc	vampirefang belt			5	5000								str		10	15	mana-kill		2	2	slow		10	10	lifesteal		3	6	swing2		20	20	deadly		10	10																									0
 Metalgrid	100	1		2	1	85	81	amu	amulet			5	5000								thorns		750	1000	res-all		25	35	att		400	450	oskill	IronGolem	25	25	charged	Iron Maiden Proc	20	12	ac		300	350	oskill	golem mastery	20	20																					0
 Verdugo's Hearty Cord	100	1		1	1	71	63	umc	mithril coil			5	5000	blac	blac						ac%		90	140	vit		30	40	stam		100	120	balance2		10	10	red-dmg%		10	15	regen		10	13	res-phys-max		1	1																					0
-Sigurd's Staunch	100	1		19	1	80	72	uhc	Colossus Girdle			5	5000				invcolossus				ac%		300	400	oskill	iron skin	4	6	crush		20	20	rep-dur	25			stamdrain		50	50	hp%		10	15																									0
+Sigurd's Staunch	100	1		9	1	80	72	uhc	Colossus Girdle			5	5000				invcolossus				ac%		300	400	oskill	iron skin	4	6	crush		20	20	rep-dur	25			stamdrain		50	50	hp%		10	15																									0
 Carrion Wind	100	1		3	1	68	60	rin	ring			3	5000								ac-miss		100	160	lifesteal		6	9	res-pois		40	55	thorns		180	300	charged	Plague Poppy	35	11	hit-skill	Twister	8	30	move2		20	20	skill-frequency		5	7																	0
 Giantskull	100	1		1	1	73	65	uh9	bone visage			3	5000	lgry	lgry		invbhm				ac		250	320	str		25	35	crush		25	25	pierce		25	35	knock		1	1	dmg%		60	80																									0
-Ironward	100	1		3	1	68	60	7ws	caduceus			3	5000	blac	blac						dmg%		240	290	slow		15	15	att%		150	200	swing2		40	40	dmg-mag		160	480	red-dmg		4	7	dmg		100	125	skilltab	9	3	4	crush		33	33									splash	358	100	1	0
+Ironward	100	1		2	1	68	60	7ws	caduceus			3	5000	blac	blac						dmg%		240	290	slow		15	15	att%		150	200	swing2		40	40	dmg-mag		160	480	red-dmg		4	7	dmg		100	125	skilltab	9	3	4	crush		33	33									splash	358	100	1	0
 Annihilus	100	1		255		130	70	cm1	charm			3	5000			flpmss	invmss	item_gem	12	item_gem	allskills		1	1	vit		30	60	enr		10	20	res-all		10	20	addxp		5	10																													0
 Arioc's Needle	100	1		1	1	85	81	7sr	hyperion spear			3	5000								dmg%		240	290	Deep-Wounds		750	750	deadly		50	50	ignore-ac		1	1	allskills		4	5	swing2		30	30	openwounds		20	20																	splash	358	100	1	0
 Cranebeak	100	1		1	1	71	63	7mp	war spike			3	5000	dgry			invmpiu				dmg%		240	300	dmg-ltng		1	305	swing2		40	40	reduce-ac		25	25	mag%		30	60	skill	221	4	6																					splash	358	100	1	0
 Nord's Tenderizer	100	1		1	1	76	68	7cl	truncheon			3	5000				invclbu				dmg%		270	330	freeze		2	4	swing2		25	25	hit-skill	Blizzard	18	32	att%		150	180	abs-cold%		5	15	dmg-cold	125	205	455																	splash	358	100	1	0
-Earthshifter	100	1		4	1	77	69	7gm	thunder maul			3	5000								dmg%		250	300	hit-skill	Eruption	25	28	crush		33	33	swing2		40	40	kill-skill	Volcano	10	28	fireskill		3	4	cast2		60	60	ease		-25	-25													splash	358	100	1	0
+Earthshifter	100	1		3	1	77	69	7gm	thunder maul			3	5000								dmg%		250	300	hit-skill	Eruption	25	28	crush		33	33	swing2		40	40	kill-skill	Volcano	10	28	fireskill		3	4	cast2		60	60	ease		-25	-25													splash	358	100	1	0
 Wraithflight	100	1		1	1	84	76	7gl	ghost glaive			3	5000	dblu	dblu						dmg%		190	240	pierce		30	30	lifesteal		6	12	mana-kill		5	15	dmg-mag		200	300	curse-effectiveness		20	20	ethereal		1	1																	splash	358	100	1	0
 Bonehew	100	1		1	1	72	64	7o7	ogre axe			3	5000	bwht	bwht						dmg%		270	320	swing2		30	30	charged	Corpse Explosion	30	14	hit-skill	Bone Spear	50	22	noheal		1	1	sock		2	4	curse-effectiveness		30	40																	splash	358	100	1	0
 Ondal's Wisdom	100	1		1	1	74	66	6cs	elder staff			3	5000				invcstu				cast2		105	105	enr		40	50	allskills		4	5	ac		750	950	red-mag		10	16	cast-skill	8	20	20																					splash	358	100	1	0
@@ -430,7 +430,7 @@ Akarats Devotion	100	1		1	1	87	74	7qs	Seraph Rod			5	5000	whit			akaratdevotion	
 Martyr	100	1		1	1	87	68	ned	Overseer Skull			5	5000	lgld			martyrdom				nec		2	3	ac%		160	200	balance2		35	35	curse-effectiveness		20	30	skill	73	2	2	dmg-pois	50	1538	1793	red-mag		18	24	hit-skill	68	15	35	block		35	35													0
 Stalkers Cull	100	1		1	1	87	65	7tw	Runic Talons			5	5000	dgry			stalkerscull				dmg%		230	280	skilltab	19	3	4	kick		30	40	deadly		20	30	skill	275	2	2	skill	254	4	4	max-deadly		10	10	attack-strikes		1	1													splash	358	100	1	0
 Purgatory	100	1		1	1	87	75	utp	Archon Plate			3	5000	cred			purgatory				block		20	20	block2		20	20	red-mag		16	24	dmg%/eth		60	60	mag%		40	65	rep-dur	25			ac%		220	260																					0
-Raekors Virtue	100	1		3	1	87	78	baf	Guardian Crown			5	5000	lgld			raekorsvirtue				bar		2	2	skill	Double Throw	2	3	ac%		140	180	skill	133	2	3	manasteal		5	8	dex		20	30	maxcurse		1	1	curse-effectiveness		25	25	dmg%		40	60													0
+Raekors Virtue	100	1		2	1	87	78	baf	Guardian Crown			5	5000	lgld			raekorsvirtue				bar		2	2	skill	Double Throw	2	3	ac%		140	180	skill	133	2	3	manasteal		5	8	dex		20	30	maxcurse		1	1	curse-effectiveness		25	25	dmg%		40	60													0
 Nightmares Feast	100	1		1	1	50	42	drf	Dream Spirit			5	5000	cred			nightmarefeast				noheal		1	1	skilltab	16	2	4	ac%		130	160	balance2		40	40	hp%		30	35	regen		-30	-30	splash%/missinghp%		2	2	lifesteal-cap		25	25	attack-strikes		1	1													0
 Zhar the Mad Map	100	1		0	1	80	80	t51	t51			5	5000				invmapzhar				map-glob-density		100	120	map-play-addxp		10	20	map-play-mag-gold%		50	100	map-mon-dropcharms		4	6	map-mon-hp%		40	50	map-mon-phys-as-extra-pois	125	50	100	map-play-res-all		-10	-10	map-play-regen		-100	-50	map-play-balance1		-30	-20	static-modifier-display	1304	1	1	map-mon-ed%		20	20					0
 Warlord of Blood Map	100	1		0	1	80	80	t52	t52			5	5000				invmaphellcaves				map-glob-density		100	120	map-play-addxp		20	30	map-play-mag-gold%		25	50	map-mon-hp%		20	30	map-mon-phys-as-extra-fire		50	100	map-mon-velocity%		20	30	map-mon-crush		5	10	map-play-block		-10	-5	map-glob-add-monsters	1297	1242	1242													0
@@ -457,14 +457,14 @@ Outer Void Map	100	1		0	1	80	80	t55	t55			5	5000				invmap_outervoid				map-glob
 Balefire	100	1		1	1	14	14	aqv	Arrows			3	5000		dred						pierce-fire		5	8	lifesteal		2	3	mag%		18	32	ac-miss		20	45	fire-min		6	6	fire-max		10	10																					dmg-max		2	2	0
 Swiftwind Needle	100	1		4	1	32	32	aqv2	Arrows			3	5000								move2		20	30	dmg-ac		-20	-30	dex		15	35	res-cold		50	50	res-ltng		-25	-25	dmg-min		12	12																					dmg-max		14	14	0
 Tombsong	100	1		3	1	36	36	aqv2	Arrows			3	5000		blac						pierce		20	40	dmg-undead		50	100	att-undead		125	175	oskill	Raise Skeleton Archer	12	12	curse-effectiveness		20	20	extra-skele-archer		4	4																					dmg-max		10	10	0
-Aetherwing	100	1		4	1	55	55	aqv3	Arrows			3	5000				invqvr_lightning				swing2		40	40	dmg-ltng		1	775	pierce-ltng		15	25	gethit-skill	Static Field	35	40	att/lvl		4	8	res-ltng		20	35	res-ltng-max		4	6																	dmg-max		18	18	0
-Basilisk's Quill	100	1		4	1	62	62	aqv3	Arrows			3	5000				invqvr_poison				ama		2	2	res-pois		45	45	res-pois-max		5	5	pierce-pois		20	30	gold%		75	125	heal-kill		5	8	pois-min		2767	2767	pois-max		3275	3275	pois-len		50	50	dmg-min		30	40									0
+Aetherwing	100	1		3	1	55	55	aqv3	Arrows			3	5000				invqvr_lightning				swing2		40	40	dmg-ltng		1	775	pierce-ltng		15	25	gethit-skill	Static Field	35	40	att/lvl		4	8	res-ltng		20	35	res-ltng-max		4	6																	dmg-max		18	18	0
+Basilisk's Quill	100	1		3	1	62	62	aqv3	Arrows			3	5000				invqvr_poison				ama		2	2	res-pois		45	45	res-pois-max		5	5	pierce-pois		20	30	gold%		75	125	heal-kill		5	8	pois-min		2767	2767	pois-max		3275	3275	pois-len		50	50	dmg-min		30	40									0
 Doom's Finger	100	1		1	1	87	68	aqv3	Arrows			3	5000				invqvr_deadly				deadly		20	30	max-deadly		10	10	dmg-max		60	80	half-freeze		1	1	red-mag		12	12	skilltab	1	2	2	dmg-demon		60	80																					0
 Ramfodder	100	1		1	1	8	8	cqv	Bolts			3	5000		oran						knock		1	1	balance2		20	20	swing2		10	10	hp		10	25	regen-stam		20	20																									pierce-phys		2	2	0
 Anvilguard Strap	100	1		3	1	34	34	cqv2	Bolts			3	5000		dgld						red-dmg%		10	18	gethit-skill	AmpDmg Proc	10	31	noheal		1	1	pierce		20	20	thorns		400	500	light		2	4																					pierce-phys		4	4	0
 Shatterhead	100	1		1	1	47	47	cqv2	Bolts			3	5000		dgry						crush		20	30	dmg%		30	40	skilltab	0	2	2	str		10	20	crush-efficiency		15	25	ac		145	145																					pierce-phys		4	4	0
-Abyssal Ward	100	1		3	1	60	60	cqv3	Bolts			3	5000				invcqv_ward				pierce-phys		10	14	swing2		-20	-20	howl		8	8	res-all		15	25	res-fire-max		4	5	res-cold-max		4	5	res-ltng-max		4	5	res-pois-max		4	5																	0
-Bannerlord's Call	100	1		3	1	60	65	cqv3	Bolts			3	5000				invcqv_banner				cast2		20	20	allskills		2	2	oskill	slow movement	2	3	all-stats		8	14	curse-res		20	30	oskill	inner sight	2	3	dmg-to-mana		18	18																	pierce-phys		6	6	0
+Abyssal Ward	100	1		2	1	60	60	cqv3	Bolts			3	5000				invcqv_ward				pierce-phys		10	14	swing2		-20	-20	howl		8	8	res-all		15	25	res-fire-max		4	5	res-cold-max		4	5	res-ltng-max		4	5	res-pois-max		4	5																	0
+Bannerlord's Call	100	1		2	1	60	65	cqv3	Bolts			3	5000				invcqv_banner				cast2		20	20	allskills		2	2	oskill	slow movement	2	3	all-stats		8	14	curse-res		20	30	oskill	inner sight	2	3	dmg-to-mana		18	18																	pierce-phys		6	6	0
 Frozen Sorrow	100	1		1	1	87	72	cqv3	Bolts			3	5000				invcqv_cold				deadly		15	25	coldskill		3	3	manasteal		4	5	res-fire		40	50	enr		28	28	slow		25	25																					pierce-cold		6	6	0
 unused	100	0		0								3	5000																																																								0
 unused	100	0		0								3	5000																																																								0
@@ -518,17 +518,17 @@ Reserved for vanilla PD2																																																								
 Reserved for vanilla PD2																																																																					0
 Reserved for vanilla PD2																																																																					0
 Cains	100	1		0	1	99	1	cm1	charm			3	5000			flpmss	invcnws	item_gem	12	item_gem	addxp		25	40	mag%/lvl	4																																											0
-Original Sin	100	1		0	1	131	90	rin	Ring	1		5	5000				invsin				equipped-skill-hidden	626	1	1	static-modifier-display	1378	1	1																																									0
-Kratos Fury	100	1		34	1	87	75	mgb	Mythic Belt	1		5	5000				invlrzg				ac%		100	120	hit-skill	659	20	1	static-modifier-display	1396	1	1																																					0
+Original Sin	100	1		0	1	131	90	rin	Ring	1		5	5000				invsin				aura-hidden	626	1	1	static-modifier-display	1378	1	1																																									0
+Kratos Fury	100	1		10	1	87	75	mgb	Mythic Belt	1		5	5000				invlrzg				ac%		100	120	hit-skill	659	20	1	static-modifier-display	1396	1	1																																					0
 Mageblood Base	100	1		3	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				ac%		150	200	res-all-max		3	3	res-all		25	25	red-dmg		15	15	red-dmg%		15	15	res-phys-max		3	3																									0
 Mageblood 3	100	1		2	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				ac%		150	200	res-all-max		3	3	res-all		25	25	red-dmg		15	15	red-dmg%		15	15	res-phys-max		3	3	curse-effectiveness		25	25	curse-res		25	25																	0
-Mageblood 4	100	1		1	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				ac%		150	200	res-all-max		3	3	res-all		25	25	red-dmg		15	15	red-dmg%		15	15	res-phys-max		3	3	curse-effectiveness		25	25	curse-res		25	25	res-pois-len		100	100	nofreeze		1	1	equipped-skill-hidden	642	1	1	static-modifier-display	1379	1	1	0
+Mageblood 4	100	1		1	1	87	90	mgb	Mythic Belt	1		5	5000				invmgb				ac%		150	200	res-all-max		3	3	res-all		25	25	red-dmg		15	15	red-dmg%		15	15	res-phys-max		3	3	curse-effectiveness		25	25	curse-res		25	25	res-pois-len		100	100	nofreeze		1	1	aura-hidden	642	1	1	static-modifier-display	1379	1	1	0
 Defiance of Destiny	100	1		1	1	87	90	amu	amulet	1		3	5000				invdefd				abs-fire%		5	10	abs-ltng%		5	10	abs-cold%		5	10	abs-mag%		5	10	hp		70	80	res-all		10	15	gethit-skill	Bone Armor	7	25																					0
 Nihlathaks Malice	100	1		1	1	87	80	7wd	mythical sword	1		5	5000	dpur			invnhml				dmg%		280	320	dmg-cold	250	250	500	swing2		30	30	allskills		2	2	hit-skill	Frost Nova	50	50	pierce-cold		10	15	extra-cold		15	15																	splash	358	100	1	0
 Astramentis	100	1		1	1	87	80	amu	amulet			3	5000				invastr				str		50	75	dex		50	75	enr		50	75	vit		50	75																																	0
 Akarats Rage	100	1		1	1	85	80	mjw	mythic jewel			3	5000				invakrg				dmg%		40	40	swing3		15	15	deadly		3	5																																					0
-The Squire	100	1		1	1	87	85	ers	elegant round shield	1		5	5000				invsqre				ac%		100	150	block2		25	25	allskills		2	2	block		25	25	dmg%		180	200	sock		4	4	equipped-skill-hidden	635	1	1	static-modifier-display	1380	1	1																	0
-The Oppressor	100	1		4	1	82	70	ers	elegant round shield	1		5	5000				invoppr				ac%		200	250	block2		40	40	block		40	40	block-skill	Weaken	40	15	slow		25	25	res-all		20	25	block-skill	Reinforce	40	15																					0
+The Squire	100	1		1	1	87	85	ers	elegant round shield	1		5	5000				invsqre				ac%		100	150	block2		25	25	allskills		2	2	block		25	25	dmg%		180	200	sock		4	4	aura-hidden	635	1	1	static-modifier-display	1380	1	1																	0
+The Oppressor	100	1		3	1	82	70	ers	elegant round shield	1		5	5000				invoppr				ac%		200	250	block2		40	40	block		40	40	block-skill	Weaken	40	15	slow		25	25	res-all		20	25	block-skill	Reinforce	40	15																					0
 Rathmas Hand	100	1		0	1	131	80	7gw	Unearthed Wand	1		3	5000	dgry			invrthn				allskills		2	2	cast2		25	25	skill	Shattered Marrow	3	4	spell-projectiles		1	1	pierce-mag		10	20																													0
 Fluid Motion	100	1		1	1	87	1	mjw	mythic jewel	1		3	5000				invflmn				aura	115	6	6																																													0
 Hailstorm	100	1		1	1	87	80	6lw	Hydra Bow			5	5000	lblu	lblu		invhlst				oskill	638	35	40	extra-cold		25	30	dmg/lvl	12			dmg%		300	350	swing2		40	40	freeze		3	3	dmg-cold	250	250	500	pierce-cold		15	20																	0
@@ -537,13 +537,13 @@ Voices	100	1		0	1	131	90	cm1	charm	1		3	5000				invvcs				allskills		1	4	corrupt
 Arma Blade Replica	100	1		0	1	99	54	7cr2	Two Hand Phase Blade			5	5000	oran			invarmageddonblade				hit-skill	225	75	50	equipped-skill	249	30	30	pal		2	2	block		20	30	dmg%		280	320	pierce-fire		20	30	res-fire-max		5	10	all-stats		6	6																	0
 Widespread Destruction	100	1		1	1	87	1	mjw	mythic jewel	1		5	5000				invwsds				inc-splash-radius		10	12																																													0
 Whispering Skull	100	1		1	1	87	80	nef	bloodlord skull	1		5	5000	dgry			invwhsk				nec		2	3	noheal		1	1	pierce		20	25	extra-magi		20	25	ac%		140	190	slow		25	25	skill-aoe		10	15																					0
-Deaths Poise	100	1		1	1	87	75	rin	Ring	1		5	5000				invdhpo				equipped-skill-hidden	637	1	1	crush		10	20	dmg%		25	30	static-modifier-display	1382	1	1																																	0
+Deaths Poise	100	1		1	1	87	75	rin	Ring	1		5	5000				invdhpo				aura-hidden	637	1	1	crush		10	20	dmg%		25	30	static-modifier-display	1382	1	1																																	0
 The Veinpiercer	100	1		1	1	87	80	baf	Guardian Crown			5	5000	dred			invthvp				bar		1	2	ac%		160	180	dmg%		50	60	attack-strikes		1	1	att/lvl	12			skill	139	2	3																									0
 Rainbow Facet Mag	100	1		1	1	85	49	jew	jewel			3	5000								dmg-mag		20	50	pierce-mag		3	5	extra-magi		3	5																																					0
 Magefist	100	1		1	1	31	23	tgl	Light Gauntlets			5	5000	lgry	lgry						cast3		20	20	regen-mana		10	25	magskill		1	1	dmg-pois	75	204	204	ac		10	10	ac%		20	30																									0
-Tempered Flesh Charm	100	1		1	1	87	90	cm4	ornate charm	1		3	5000				invocha				equipped-skill-hidden	629	1	1	static-modifier-display	1383	1	1																																									0
-One With Nothing Charm	100	1		1	1	87	90	cm4	ornate charm	1		3	5000				invocha				equipped-skill-hidden	630	1	1	static-modifier-display	1384	1	1																																									0
-Empowered Spirit Charm	100	1		1	1	87	90	cm4	ornate charm	1		3	5000				invocha				equipped-skill-hidden	631	1	1	static-modifier-display	1385	1	1																																									0
+Tempered Flesh Charm	100	1		1	1	87	90	cm4	ornate charm	1		3	5000				invocha				aura-hidden	629	1	1	static-modifier-display	1383	1	1																																									0
+One With Nothing Charm	100	1		1	1	87	90	cm4	ornate charm	1		3	5000				invocha				aura-hidden	630	1	1	static-modifier-display	1384	1	1																																									0
+Empowered Spirit Charm	100	1		1	1	87	90	cm4	ornate charm	1		3	5000				invocha				aura-hidden	631	1	1	static-modifier-display	1385	1	1																																									0
 Headhunter	100	1		1	1	87	90	uhc	Colossus Girdle	1		5	5000				invheha				kill-skill	639	3	1	kill-skill	640	3	1	hp%		10	15	str		40	55	dex		40	55																													0
 Halo of the Justicar	100	1		1	1	87	85	ph3	Pious Helmet	1		5	5000				invhotj				attack-strikes		1	1	extra-magi		10	15	ac		350	450	pal		2	3	indestruct		1	1	magskill		1	2																									0
 Halo of the Justicar	100	1		1	1	87	85	ph3	Pious Helmet	1		5	5000				invhotj				cooldown-reduction		15	20	dmg%		60	80	ac		350	450	pal		2	3	indestruct		1	1	inc-splash-radius		20	25																									0
@@ -558,10 +558,10 @@ DevCharm	100	0		0	1	131	90	cm1	charm	1		3	5000				devcharm				swing3		300	300	hp
 Seven-League Step	100	1		1	1	12	1	lbt	Leather Boots			5	5000				invsvls				move2		80	100	aura	115	1	1																																									0
 Goldrim	100	1		1	1	26	1	sh1	shabby hood			3	5000				invgldm				allskills		1	1	res-all		40	50	mag%		45	50	sock		2	2																																	0
 Manastorm	100	1		1	1	55	50	bqs	baroque round shield			5	5000				invmnst				mana-kill		1	6	regen-mana		1	40	mana%		1	45	mana		1	100	ac%		100	150																													0
-Transcendent Mind Charm	100	1		1	1	87	65	cm4	ornate charm	1		3	5000				invocha				equipped-skill-hidden	627	1	1	static-modifier-display	1386	1	1																																									0
+Transcendent Mind Charm	100	1		1	1	87	65	cm4	ornate charm	1		3	5000				invocha				aura-hidden	627	1	1	static-modifier-display	1386	1	1																																									0
 Temporalis	100	1		1	1	131	85	tro3	enlightened robe	1		5	5000	dgld			invtemp				ac%		80	100	res-all		15	20	mana		100	120	mana%		15	20	cooldown-reduction-fixed		1	2																													0
 Amalgamation	100	1		1	1	131	75	amu	amulet	1		3	5000				invamal				static-modifier-display	1377	1	1																																													0
-Hellforged Metalgrid	100	1		1	1	131	81	amu	amulet			5	5000	dred	dred						thorns		750	1000	res-all		25	35	oskill	IronGolem	25	25	charged	Iron Maiden Proc	20	12	ac		300	350	oskill	golem mastery	20	20	static-modifier-display	1389	1	1	equipped-skill-hidden	651	1	1																	0
+Hellforged Metalgrid	100	1		1	1	131	81	amu	amulet			5	5000	dred	dred						thorns		750	1000	res-all		25	35	oskill	IronGolem	25	25	charged	Iron Maiden Proc	20	12	ac		300	350	oskill	golem mastery	20	20	static-modifier-display	1389	1	1	aura-hidden	651	1	1																	0
 Hellforged Widespread	100	1		1	1	131	1	mjw	mythic jewel	1		5	5000	dred	dred		invwsds				skill-aoe		2	3																																													0
 Hellforged Stone of Jordan	100	1		1	1	131	29	rin	Ring			5	5000	dred	dred						hp%		5	7	dmg-ltng		1	120	allskills		1	1	curse-effect		3	5																																	0
 Hellforged Arachnid Mesh	100	1		1	1	131	80	ulc	spiderweb sash			5	5000	dred	dred						allskills		2	2	slow		20	20	res-pois-max		10	15																																					0
@@ -571,13 +571,13 @@ Hellforged Medusa's Gaze	100	1		1	1	131	76	uow	aegis			3	5000	dred	dred		invtowu
 Hellforged Hellslayer	100	1		1	1	131	66	7bt	Decapitator			5	5000	dred	dred		invbtxu				vit/lvl	4			dmg%/lvl	24			fire-min		400	400	fire-max		600	600	dmg%		140	200	hit-skill	Combustion	20	30	swing2		40	40	extra-fire		15	20													splash	358	100	1	0
 Hellforged Atma's Scarab	100	1		5	1	131	60	amu	Amulet			5	5000	dred	dred						res-pois		30	60	light		3	3	thorns		300	450	hit-skill	447	8	15	att%		40	60	dmg-pois	50	2000	2000																									0
 Hellforged Steelrend	100	1		1	1	131	70	uhg	ogre gauntlets			3	5000	dred	dred						ac		170	210	swing3		15	20	deadly		5	10	str		15	20	crush		10	20																									splash	358	100	1	0
-Call of the Brotherhood	100	1		1	1	87	75	rin	Ring			5	5000	whit			invmaof				equipped-skill-hidden	652	1	1	static-modifier-display	1390	1	1	regen-mana		25	30	red-mag		8	12																																	0
+Call of the Brotherhood	100	1		1	1	87	75	rin	Ring			5	5000	whit			invcotb				aura-hidden	652	1	1	static-modifier-display	1390	1	1	regen-mana		25	30	red-mag		8	12																																	0
 Sanctuarys Demise	100	1		1	1	131	85	6ws	archon staff			5	5000	dred	dred		invlast				oskill	653	25	35	pierce-mag		10	20	cast2		70	70	allskills		6	6																													splash	358	100	1	0
 Time Dilation Charm	100	1		1	1	87	70	cm4	ornate charm	1		3	5000				invocha				equipped-skill-hidden	654	1	1	static-modifier-display	1392	1	1																																									0
 Hellforged Seraph's Hymn	100	1		3	1	131	65	amu	amulet			5	5000	dred	dred		invamu2				allskills		2	2	skilltab	9	1	2	dmg-demon		50	80	dmg-undead		50	80	att-demon		150	250	att-undead		150	250	light		2	2	skill-frequency		5	5																	0
 Wake of Destruction	100	1		1	1	87	85	utb	mirrored boots			5	5000				invwaod				ac%		80	100	skill-frequency		5	10	move2		30	35	pierce-fire		5	10	extra-fire		5	10																													0
 Indigon	100	1		1	1	131	85	ci3	diadem			5	5000				invindi				cast-skill-hidden	657	100	1	cast-skill-hidden	658	100	1	static-modifier-display	1395	1	1	mana%		15	20																																	0
-Transcendent Mind Mag Charm	100	1		1	1	87	65	cm4	ornate charm	1		3	5000				invocha				equipped-skill-hidden	628	1	1	static-modifier-display	1387	1	1																																									0
+Transcendent Mind Mag Charm	100	1		1	1	87	65	cm4	ornate charm	1		3	5000				invocha				aura-hidden	628	1	1	static-modifier-display	1387	1	1																																									0
 Palm Fire	100	1		1	1	87	80	7ws	caduceus			3	5000	dred			invfafi				dmg%		200	250	aura-effect		5	5	extra-fire		10	15	pierce-fire		5	10	dmg-fire		300	350	skilltab	10	3	4	abs-fire%		3	5																	splash	358	100	1	0
 Palm Cold	100	1		1	1	87	80	7ws	caduceus			3	5000	dblu			invfaco				dmg%		200	250	aura-effect		5	5	extra-cold		10	15	pierce-cold		5	10	dmg-cold		300	350	skilltab	10	3	4	abs-cold%		3	5																	splash	358	100	1	0
 Palm Ltng	100	1		1	1	87	80	7ws	caduceus			3	5000	dgld			invfalt				dmg%		200	250	aura-effect		5	5	extra-ltng		10	15	pierce-ltng		5	10	dmg-ltng		1	500	skilltab	10	3	4	abs-ltng%		3	5																	splash	358	100	1	0
@@ -585,7 +585,7 @@ Hellforged Harlequin Crest	100	1		1	1	131	62	uap	Shako			3	5000	dred	dred						h
 Hellforged Crackleshot	100	1		1	1	131	72	6hb	Blade Bow			5	5000	dred	dred		invlightningbow				hit-skill	Teeth	25	25	hit-skill	Shattered Marrow	10	28	dmg-mag		100	450	mana-kill		5	5	swing2		20	20	skill	valkyrie	2	3	skill	critical strike	2	3																					0
 Hellforged Widowmaker	100	1		1	1	131	65	6sw	ward bow			5	5000	dred	dred		invswbu				dmg%		275	350	deadly		33	33	ignore-ac		1	1	magicarrow		11	11	oskill	660	6	10	ama		2	2																									0
 Hellforged Zeraes Resolve	100	1		1	1	131	76	ame	Matriarchal Pike			5	5000	dred	dred		zeraeresolve				ama		3	4	attack-projectiles		1	1	dmg%		270	315	swing2		20	20	oskill	joust	10	12	hit-skill	Lightning Fury	13	25																					splash	358	100	1	0
-Hellforged The Rising Sun	100	1		5	1	131	65	amu	Amulet			5	5000	dred	dred						light		4	4	cast-skill	661	6	35	extra-fire		5	10	fireskill		1	2	regen		10	10	pierce-fire		4	8																									0
+Hellforged The Rising Sun	100	1		5	1	131	65	amu	Amulet			5	5000	dred	dred						light		4	4	cast-skill	661	8	35	extra-fire		5	10	fireskill		1	2	regen		10	10	pierce-fire		4	8																									0
 DevCharm Caster	100	0		0	1	131	90	cm1	charm	1		3	5000				devcharm				swing3		300	300	hp%		2000	2000	res-all		200	200	cast3		200	200	red-dmg%		99	99	res-phys-max		50	50	res-all-max		25	25	mana		2000	2000	dmg%		1000	1000	pierce		100	100	mana%		666	666	allskills		40	40	0
 Hellforged Herald of Zakarum	100	1		1	1	131	42	pa9	Aerin Shield			5	5000	dred	dred						skilltab	9	1	2	dmg%		80	100	block2		30	30	block		30	30	str		15	25	vit		15	25	att		350	400	res-all		40	40																	0
 Hellforged Azurewrath	100	1		1	1	131	85	7cr	phase blade	1		5	5000	dred	dred		invcrs				dmg-mag		750	900	dmg%		280	320	aura	Sanctuary	10	12	swing2		30	30	all-stats		5	10	light		3	3	allskills		2	2	hit-skill	381	15	60													splash	358	100	1	0
@@ -622,46 +622,51 @@ Ascendancy Tier 2	100	1		1	1	100	1	assc	ascendancy soulstone			3	5000	lgld			inv
 Ascendancy Tier 3	100	1		1	1	100	1	assc	ascendancy soulstone			3	5000	lgld			invassc3				static-modifier-display	1422	1	1																																													0
 Ascendancy Tier 4	100	1		1	1	100	1	assc	ascendancy soulstone			3	5000	lgld			invassc4				static-modifier-display	1423	1	1																																													0
 Tabula Rasa	100	1		1	1	45	1	smer	Simple Robe			5	5000	whit			invtabula				sock		6	6	static-modifier-display	1466	1	1																																									0
-Screams of the Desiccated	100	1		22	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1																																									0
-Screams of the Desiccated	100	1		5	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				res-all		50	50	res-all-max		10	10																																									0
-Screams of the Desiccated	100	1		10	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				hp%		50	50	skill-aoe		50	50																																									0
-Screams of the Desiccated	100	1		22	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400																																					0
-Screams of the Desiccated	100	1		6	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40																																	0
-Screams of the Desiccated	100	1		15	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200																																									0
-Screams of the Desiccated	100	1		5	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10																																					0
-Screams of the Desiccated	100	1		23	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2																																													0
-Screams of the Desiccated	100	1		6	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75																																													0
-Screams of the Desiccated	100	1		6	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75																																													0
-Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																													0
+Screams of the Desiccated	100	1		10	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				aura-hidden	688	1	1	static-modifier-display	1985	1	1																																									0
+Screams of the Desiccated	100	1		4	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				res-all		50	50	res-all-max		10	10																																									0
+Screams of the Desiccated	100	1		8	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				hp%		50	50	skill-aoe		50	50																																									0
+Screams of the Desiccated	100	1		10	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				aura-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400																																					0
+Screams of the Desiccated	100	1		5	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40																																	0
+Screams of the Desiccated	100	1		7	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200																																									0
+Screams of the Desiccated	100	1		4	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10																																					0
+Screams of the Desiccated	100	1		11	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2																																													0
+Screams of the Desiccated	100	1		5	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75																																													0
+Screams of the Desiccated	100	1		5	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75																																													0
+Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	aura-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																													0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	res-all		50	50	res-all-max		10	10	buff-effect		20	20																													0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																													0
-Screams of the Desiccated	100	1		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																									0
+Screams of the Desiccated	100	1		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	aura-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																									0
 Screams of the Desiccated	100	1		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				dmg%		200	200	att%		200	200	allskills		2	2																																					0
-Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																																	0
+Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	aura-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																																	0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	res-all		50	50	res-all-max		10	10	buff-effect		20	20																																	0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																																	0
-Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																													0
+Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	aura-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																													0
 Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				all-ele-mastery		75	75	allskills		2	2																																									0
-Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																																	0
+Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	aura-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																																	0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	res-all		50	50	res-all-max		10	10	buff-effect		20	20																																	0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																																	0
-Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																													0
+Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	aura-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																													0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				extra-magi		75	75	allskills		2	2																																									0
-Screams of the Desiccated	100	0		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																																	0
+Screams of the Desiccated	100	0		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	aura-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																																	0
 Screams of the Desiccated	100	0		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	res-all		50	50	res-all-max		10	10	buff-effect		20	20																																	0
 Screams of the Desiccated	100	0		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																																	0
-Screams of the Desiccated	100	0		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																													0
+Screams of the Desiccated	100	0		3	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	aura-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																													0
 Screams of the Desiccated	100	0		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				allskills		2	2	skill-frequency		20	20	action-speed		10	10	move3		75	75	buff-effect		20	20	cast3		40	40																									0
-Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																									0
+Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	aura-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																									0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	res-all		50	50	res-all-max		10	10	buff-effect		20	20																									0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																									0
-Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																					0
+Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	aura-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																					0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				deadly		50	50	deadly-strike-multiplier		50	50	max-deadly		10	10	allskills		2	2																																	0
-Rathpith Globe	100	1		1	1	87	70	uuc	Heater			3	5000	dred			invrath				equipped-skill-hidden	690	1	1	static-modifier-display	1987	1	1	block		25	30	allskills		1	1	cast3		15	20	ac%		150	200																									0
-Svalinn	100	1		1	1	87	80	uts	Ward	1		3	5000	dblu			invsva				ac%		180	220	block		10	20	ease		0	15	equipped-skill-hidden	691	1	1	static-modifier-display	1988	1	1																													0
-Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40	equipped-skill-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																					0
+Rathpith Globe	100	1		1	1	87	70	uuc	Heater			3	5000	dred			invrath				aura-hidden	690	1	1	static-modifier-display	1987	1	1	block		25	30	allskills		1	1	cast3		15	20	ac%		150	200																									0
+Svalinn	100	1		1	1	87	80	uts	Ward	1		3	5000	dblu			invsva				ac%		180	220	block		10	20	ease		0	15	aura-hidden	691	1	1	static-modifier-display	1988	1	1																													0
+Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40	aura-hidden	688	1	1	static-modifier-display	1985	1	1	buff-effect		20	20																					0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40	res-all		50	50	res-all-max		10	10	buff-effect		20	20																					0
 Screams of the Desiccated	100	1		1	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40	hp%		50	50	skill-aoe		50	50	buff-effect		20	20																					0
-Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40	equipped-skill-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																	0
+Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40	aura-hidden	689	1	1	static-modifier-display	1986	1	1	regen-mana		400	400	buff-effect		20	20																	0
 Screams of the Desiccated	100	1		2	1	87	80	utbe	Utility Belt	1		5	5000				invsotd				skill-frequency		20	20	action-speed		10	10	move3		50	50	cast3		40	40	allskills		2	2	buff-effect		20	20																									0
 Ascend to Saboteur	100	1		1	1	100	1	assc	ascendancy soulstone			3	5000	lgld			invassc1				ascendancy-tier-display	1989	53	53																																													0
+Mark of Fate	100	1		0	1	131	90	rin	Ring	1		5	5000				invmaof				aura-hidden	693	1	1	static-modifier-display	1993	1	1																																									0
+Baals Pass	100	1		1	1	87	65	rin	Ring	1		5	5000				invpass				res-fire		10	15	res-cold		10	15	fireskill		1	1	extra-fire		5	10																																	0
+Baals Respite	100	1		1	1	87	65	rin	Ring	1		5	5000				invrespite				res-ltng		10	15	res-fire		10	15	ltngskill		1	1	extra-ltng		5	10																																	0
+Baals Grip	100	1		1	1	87	65	rin	Ring	1		5	5000				invgrip				res-cold		10	15	res-ltng		10	15	coldskill		1	1	extra-cold		5	10																																	0
+The Taming	100	1		0	1	131	85	rin	Ring	1		5	5000				invttam				aura-hidden	694	1	1	static-modifier-display	1994	1	1	res-all		10	15	allskills		1	1																																	0

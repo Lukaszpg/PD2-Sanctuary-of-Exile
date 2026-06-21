@@ -1023,25 +1023,6 @@ UberLucion Card			1					99	fa05	1
 UberLucion Orb			1					75	dsno	25																						0
 UberLucion Uniques			1					90	Original Sin	3	Voices	5	Progenesis	2																		0
 UberLucion			-4					0	UberLucion Uniques	1	UberLucion Orb	1	UberLucion Card	1	Ascendancy Tier 4	1																0
-Terror currency		87	1					0	csor	22	ooal	33	etor	1																		0
-Terror scarab		87	1					0	scnm	2	scas	2	sccn	1																		0
-Terror chisel		87	1					0	ccsa	2	ccpr	2																				0
-Opulence Terror T1		87	1					0	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
-Opulence Terror T2		88	2					1	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
-Opulence Terror T3		89	3					1	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
-Opulence Terror T4		90	4					1	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
-Ethereal Terror T1		87	1					0	Runes 17 terror	1																						0
-Ethereal Terror T2		88	2					1	Runes 17 terror	1																						0
-Ethereal Terror T3		89	3					1	Runes 17 terror	1																						0
-Ethereal Terror T4		90	4					1	Runes 17 terror	1																						0
-Terror Jewelry		87	1					0	rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2	cm4	1	mjw	1								0
-Resplendence Terror T1		87	2	1200	0	0	0	0	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
-Resplendence Terror T2		88	3	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
-Resplendence Terror T3		89	4	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
-Resplendence Terror T4		90	5	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
-Zhar Terrors			1					0	troe	1	tror	1	troa	1																		0
-Zhar (H)		85	-2					0	Zhar Terrors	1	Map Boss T3	1																				0
-Ureh Boss		85	-2					0	Map Boss T3	1																						0
 InvaderLightArmor			1	850	850	1307	200		uul	1	uea	1	ula	1	utu	1	urs	1	utp	1												0
 InvaderMediumArmor			1	850	850	1307	200		ung	1	ucl	1	uhn	1	upl	1																0
 InvaderHeavyArmor			1	850	850	1307	200		ult	2	uul	2	uar	1	uth	2	uld	2														0
@@ -1177,8 +1158,27 @@ Runes 14 terror			1						r27s	3	r28s	2	Runes 13 terror	434																		0
 Runes 15 terror			1						r29s	3	r30s	2	Runes 14 terror	588																		0
 Runes 16 terror			1						r31s	3	r32s	2	Runes 15 terror	790																		0
 Runes 17 terror			1						r33s	1	Runes 16 terror	1034																				0
+Terror currency		87	1					0	csor	22	ooal	33	etor	1																		0
+Terror scarab		87	1					0	scnm	2	scas	2	sccn	1																		0
+Terror chisel		87	1					0	ccsa	2	ccpr	2																				0
+Opulence Terror T1		87	1					0	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
+Opulence Terror T2		88	2					1	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
+Opulence Terror T3		89	3					1	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
+Opulence Terror T4		90	4					1	Terror currency	1	Terror chisel	2	Terror scarab	2																		0
+Ethereal Terror T1		87	1					0	Runes 17 terror	1																						0
+Ethereal Terror T2		88	2					1	Runes 17 terror	1																						0
+Ethereal Terror T3		89	3					1	Runes 17 terror	1																						0
+Ethereal Terror T4		90	4					1	Runes 17 terror	1																						0
+Terror Jewelry		87	1					0	rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2	cm4	1	mjw	1								0
+Resplendence Terror T1		87	2	1200	0	0	0	0	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
+Resplendence Terror T2		88	3	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
+Resplendence Terror T3		89	4	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
+Resplendence Terror T4		90	5	1200	0	0	0	1	Act 5 (H) Equip C	5	Act 5 (H) Bow B	5	Terror Jewelry	1																		0
+Zhar Terrors			1					0	troe	1	tror	1	troa	1																		0
+Zhar (H)		85	-2					0	Zhar Terrors	1	Map Boss T3	1																				0
+Ureh Boss		85	-2					0	Map Boss T3	1																						0
 Lazarus Card			1					39	fa11	1																						
-Lazarus Uniq			1					0	Temporalis	4	Indigon	6	Tides	8	Sanctuarys Demise	16	Lachdanans Sacrifice	20	Amalgamation	46												
+Lazarus Uniq			1					0	Mark of Fate	3	Temporalis	4	Indigon	6	Tides	8	Sanctuarys Demise	16	Lachdanans Sacrifice	20	Amalgamation	46										
 UberLazarus			-3					0	Lazarus Uniq	1	Lazarus Card	1	Ascendancy Tier 4	1																		0
 Haphesto Quest Items (H)			5	800	800	900	1024	3	"gld,mul=2048"	340	Act 5 (H) Equip A	461	Act 5 (H) Junk	121	Act 5 (H) Good	70																0
 Haphesto Quest (H)			-2						hffd	1	Haphesto Quest Items (H)	1																				0
