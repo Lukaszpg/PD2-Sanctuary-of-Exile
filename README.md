@@ -41,48 +41,62 @@ Rule of thumb: just make sure that before starting to play Sanctuary of Exile yo
 
 ## How to install
 
-Head to [launcher repository](https://github.com/Lukaszpg/pd2-sanctuary-of-exile-launcher) and follow the instructions. This works right now only on Windows OS. If you have other operating system, please follow manual installation istructions below: 
+There are two ways to install this mod - manual or by using dedicated launched (HIGHLY recommended).
+If you would like to use the launcher, head to [launcher repository](https://github.com/Lukaszpg/pd2-sanctuary-of-exile-launcher) and follow the instructions.
+Launcher currently is supported only on Windows OS. If you have any other operating system, please follow manual installation istructions below: 
 
-a) With PlugY:
+1. Head to [official PD2 site](https://www.projectdiablo2.com/download) and follow instructions (point 6 on that site can be disregarded).
+2. Head to "Releases" and download most recent version of this mod. There are modes - Standard and Damnation - differences are described on the [Wiki](https://lukaszpg.github.io/TheArchivistSoE/).
+   
+   a.  Files you have to download for Standard mode:
+   
+       - BH.DLL
+   
+       - ProjectDiablo.DLL
+   
+       - pd2assets.mpq
+   
+       - pd2maps.mpq
+   
+       - pd2data.mpq
+   
+   b. Files you have to download for Damnation mode:
+   
+       - BH.DLL
+   
+       - ProjectDiablo-Damnation.DLL
+   
+       - pd2assets.mpq
+   
+       - pd2maps.mpq
+   
+       - pd2data-Damnation.mpq
+   
+3. Paste the downloaded files to ProjectD2 folder at your client directory, that you've installed at step 1. If you downloaded the Damnation Mode files, remove the -Damnation from name of `ProjectDiablo-Damnation.DLL` and `pd2data-Damnation.mpq`.
+4. **IMPORTANT!** Launch PD2 Launcher through the shortcut created in step 2, head to options and click "Disable Updates". Close options. Click Play.
+5. Use the recommended [loot filter by HiimMark](https://github.com/Maaaaaarrk/HiimFilter-PD2-Filter/tree/main/filtergroups/sancofexile) or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required):
+6. 
+    a. Download the filter you would like to use from the link above (Sancofexile.filter is recommended).
+   
+    b. Paste it into `<installation_directory\ProjectD2\filters\local`.
 
-1. Copy your Diablo 2 game with Project Diablo 2 mod installed to a new directory.
-2. Install PD2 Plugy for SP by BetweenWalls: https://github.com/BetweenWalls/PD2-PlugY#pd2-plugy. WARNING - The materials tab introduced in S11 tab will not work with Plugy! 2a. If you already have Plugy installed and played previous versions of this mod, please remove the contents of shared stash and create a new character.
-3. Head to "Releases" and download most recent version of this mod.
-4. Paste the downloaded "pd2data.mpq" file to ProjectD2 folder at your client directory, that you've created at step one.
-5. Create a shortcut to "Plugy.exe" from your ProjectD2 folder. Add "-3dfx -plugy" run parameter to your Plugy.exe shortcut.
-6. Use the recommended loot filter from "Releases" (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder) or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required).
-7. Launch the game through the PlugY shortcut created in step 6.
-8. Head to Akara and look for an item with Alkor's quest potion graphics. If it's there, mod was installed successfully. GLHF!
-
-b) Without PlugY:
-
-1. Copy your Diablo 2 game with Project Diablo 2 mod installed to a new directory.
-2. Create shortcut for PD2 Launcher from the new directory.
-3. Head to "Releases" and download most recent version of this mod.
-4. Paste the downloaded "pd2data.mpq" file to ProjectD2 folder at your client directory, that you've created at step 1.
-5. Use the recommended loot filter from "Releases" (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder) or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required).
-6. IMPORTANT Launch PD2 Launcher through the shortcut created in step 2, head to options and click "Disable Updates". Close options. Click Play.
-7. Head to Akara and look for an item with Alkor's quest potion graphics. If it's there, mod was installed successfully. GLHF!
+    c. Launch official PD2 launcher, go to `Item Filter Profiles -> Select Local Filter -> Select the file you have pasted in subpoint b.`
+   
+7. Head to Akara and look for a green potion that has "Sanctuary of Exile" in the description. If it's there, mod was installed successfully. In the main menu, the bottom left corner should have information about game version, either `SoE XX.X.Y` for Standard mode and `SoE XX.X.YD` for damnation mode. GLHF!
 
 ## Troubleshooting
 
-1. I have launched the mod through PlugY exe, but it's not working with an error pictured below.
-
-![image](https://github.com/user-attachments/assets/5147e3cc-6e4b-49cd-9a65-bee7476d7dfb)
-
-**Solution:** Open PlugY.ini file in your ProjectD2 directory, look for `ActiveShiftClickLimit=1` and change it to `ActiveShiftClickLimit=0`. 
-
-2. I have launched the mod, but I am getting "Bad Inventory Data" error.
+1. I have launched the mod, but I am getting "Bad Inventory Data" error.
 
 **Solution:** Make sure that you don't have incompatible items in your stash and characters in your save folder. Whenever there is save-breaking change, it WILL be announced long before the patch is released. See: [Compatibility Disclaimer](https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/?tab=readme-ov-file#compatibility-disclaimer)
 
-3. I have launched the mod, but the game is crashing to desktop with **Diablo II unhandled exception : access_violation (c0000005)**
+2. I have launched the mod, but the game is crashing to desktop with **Diablo II unhandled exception : access_violation (c0000005)**
 
-**Solution:** See point 2. If the character loads but at random you are getting these errors, please make a ticket on Discord: https://discord.com/channels/1378780110274035962/1459215364385673377.
+**Solution:** See point 2. If the character loads but at random you are getting these errors, please make a ticket on Discord.
 
-4. I still have problems with the PlugY. 
+3. My game crashes whenever I hoover over an item:
 
-**Solution:** Download newer PlugY version - [PD2-PlugY](https://github.com/xkanzeon/PD2-PlugY?tab=readme-ov-file.)
+**Solution:** Use the recommended loot filter described in installation instructions points 5 & 6. If this does not fix the issue, please make a ticket on Discord.
 
 ## Saves compatibility table
 
@@ -108,28 +122,30 @@ Example 2:
 
 I would like to migrate from version 12.0.6b to 12.1.0. I am looking for the row which says "12.0.6b" on the left. Now I am looking at the column header which says "12.1.0". I am checking the intersection table cell between the two. It's ❌, so my save will NOT work.
 
-| Version 	| 11.0.0 	| 11.0.1 	| 11.0.2 	| 11.0.3 	| 11.1.0 	| 11.2.0 	| 11.2.1 	| 11.2.1a 	| 11.2.1b 	| 11.2.1c 	| 12.0.0 	| 12.0.1 	| 12.0.2 	| 12.0.3 	| 12.0.4 	| 12.0.5 	| 12.0.6 	| 12.0.6b 	| 12.1.0 	| 13.0.0 	|
-|---------	|--------	|--------	|--------	|--------	|--------	|--------	|--------	|---------	|---------	|---------	|--------	|--------	|--------	|--------	|--------	|--------	|--------	|---------	|--------	|--------	|
-| 11.0.0  	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	|
-| 11.0.1  	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	|
-| 11.0.2  	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	|
-| 11.0.3  	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	|
-| 11.1.0  	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	|
-| 11.2.0  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅       	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	|
-| 11.2.1  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅       	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	|
-| 11.2.1a 	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️      	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	|
-| 11.2.1b 	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| 〰️      	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	|
-| 11.2.1c 	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| 〰️      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	|
-| 12.0.0  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	| ❌      	|
-| 12.0.1  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	| ❌      	|
-| 12.0.2  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	| ❌      	|
-| 12.0.3  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	| ❌      	|
-| 12.0.4  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅       	| ❌      	| ❌      	|
-| 12.0.5  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅       	| ❌      	| ❌      	|
-| 12.0.6  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅       	| ❌      	| ❌      	|
-| 12.0.6b 	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️      	| ❌      	| ❌      	|
-| 12.1.0  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| 〰️     	| ❌      	|
-| 13.0.0  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| 〰️     	|
+| Version 	| 11.0.0 	| 11.0.1 	| 11.0.2 	| 11.0.3 	| 11.1.0 	| 11.2.0 	| 11.2.1 	| 11.2.1a 	| 11.2.1b 	| 11.2.1c 	| 12.0.0 	| 12.0.1 	| 12.0.2 	| 12.0.3 	| 12.0.4 	| 12.0.5 	| 12.0.6 	| 12.0.6b 	| 12.1.0 	| 13.0.0 	| 13.0.1 	| 13.0.2 	|
+|---------	|--------	|--------	|--------	|--------	|--------	|--------	|--------	|---------	|---------	|---------	|--------	|--------	|--------	|--------	|--------	|--------	|--------	|---------	|--------	|--------	|--------	|--------	|
+| 11.0.0  	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 11.0.1  	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 11.0.2  	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 11.0.3  	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 11.1.0  	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅       	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 11.2.0  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅       	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 11.2.1  	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅       	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 11.2.1a 	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️      	| ✅       	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 11.2.1b 	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| 〰️      	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 11.2.1c 	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ✅       	| 〰️      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 12.0.0  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 12.0.1  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 12.0.2  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 12.0.3  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅      	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 12.0.4  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅      	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 12.0.5  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅      	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 12.0.6  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️     	| ✅       	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 12.0.6b 	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| ✅      	| 〰️      	| ❌      	| ❌      	| ❌      	| ❌      	|
+| 12.1.0  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| 〰️     	| ❌      	| ❌      	| ❌      	|
+| 13.0.0  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| 〰️     	| ✅      	| ✅      	|
+| 13.0.1  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ✅      	| 〰️     	| ✅      	|
+| 13.0.2  	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌       	| ❌       	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌      	| ❌       	| ❌      	| ✅      	| ✅      	| 〰️     	|
 
 ## Contents of this GitHub repository
 
