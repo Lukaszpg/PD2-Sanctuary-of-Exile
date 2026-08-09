@@ -15,8 +15,6 @@ I would also like to thank Derek for his truly awesome models and spells - pleas
 
 ## Known bugs
 
-- Eternal Coin does not have a name in the inventory
-    - No known solution for now
 - Making corrupted items sacred can sometimes crash the game
     - No know solution for now. Make item's sacred before corrupting
 - Using catalyst shard on a map before chiseling it will make map unable to be chiseled
