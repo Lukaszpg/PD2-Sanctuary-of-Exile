@@ -41,6 +41,8 @@ Rule of thumb: just make sure that before starting to play Sanctuary of Exile yo
 
 ## How to install
 
+**IMPORTANT!** Using PlugY is **NOT RECOMMENDED** as it is out dated and breaks many features of the mod.
+
 There are two ways to install this mod - manual or by using dedicated launched (HIGHLY recommended).
 If you would like to use the launcher, head to [launcher repository](https://github.com/Lukaszpg/pd2-sanctuary-of-exile-launcher) and follow the instructions.
 Launcher currently is supported only on Windows OS. If you have any other operating system, please follow manual installation istructions below: 
@@ -75,7 +77,7 @@ Launcher currently is supported only on Windows OS. If you have any other operat
 3. Paste the downloaded files to ProjectD2 folder at your client directory, that you've installed at step 1. If you downloaded the Damnation Mode files, remove the -Damnation from name of `ProjectDiablo-Damnation.DLL` and `pd2data-Damnation.mpq`.
 4. **IMPORTANT!** Launch PD2 Launcher through the shortcut created in step 2, head to options and click "Disable Updates". Close options. Click Play.
 5. Use the recommended [loot filter by HiimMark](https://github.com/Maaaaaarrk/HiimFilter-PD2-Filter/tree/main/filtergroups/sancofexile) or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required):
-6. 
+   
     a. Download the filter you would like to use from the link above (Sancofexile.filter is recommended).
    
     b. Paste it into `<installation_directory\ProjectD2\filters\local`.
