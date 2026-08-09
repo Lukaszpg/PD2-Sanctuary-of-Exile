@@ -42,8 +42,10 @@ Rule of thumb: just make sure that before starting to play Sanctuary of Exile yo
 **IMPORTANT!** Using PlugY is **NOT RECOMMENDED** as it is out dated and breaks many features of the mod.
 
 There are two ways to install this mod - manual or by using dedicated launched (HIGHLY recommended).
-If you would like to use the launcher, head to [launcher repository](https://github.com/Lukaszpg/pd2-sanctuary-of-exile-launcher) and follow the instructions.
-Launcher currently is supported only on Windows OS. If you have any other operating system, please follow manual installation istructions below: 
+
+a. If you would like to use the launcher, head to [launcher repository](https://github.com/Lukaszpg/pd2-sanctuary-of-exile-launcher) and follow the instructions.
+
+b. Launcher currently is supported only on Windows OS. If you have any other operating system, please follow manual installation istructions below: 
 
 1. Head to [official PD2 site](https://www.projectdiablo2.com/download) and follow instructions (point 6 on that site can be disregarded).
 2. Head to "Releases" and download most recent version of this mod. There are modes - Standard and Damnation - differences are described on the [Wiki](https://lukaszpg.github.io/TheArchivistSoE/).
