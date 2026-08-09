@@ -98,6 +98,10 @@ Launcher currently is supported only on Windows OS. If you have any other operat
 
 **Solution:** Use the recommended loot filter described in installation instructions points 5 & 6. If this does not fix the issue, please make a ticket on Discord.
 
+4. My game displays an error that "Unable to Enter Game. A hardcore character cannot join a game created by a normal character."
+
+**Solution:** Remove your entire `Save` folder and try again.
+
 ## Saves compatibility table
 
 In the table below you can check saves from which mod versions are going to work.
